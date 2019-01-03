@@ -1,0 +1,5 @@
+﻿<div class="px-4" id="pageContent"><p>◄ <a href="http://www.degruyter.com/page/706">Back to overview on Open Access Authors</a> </p>
+<p>Most open access on degruyter.com is published under a <em>Creative Commons Attribution-Non-Commercial-NoDeriv</em>s license, which means authors retain the copyright to their work.</p>
+<p>Users can read, copy and distribute the work in any medium or format for non-commercial purposes, provided the authors and the journal/book are appropriately credited.</p>
+<p>Under this license, users are not allowed to remix, transform or build upon the published material.</p>
+<p>De Gruyter is fully compliant with the Wellcome Trust, Research Councils UK and other funders’ mandates and will provide authors with a Creative Commons Attribution (CC BY) license when requested.</p></div></div></div>

@@ -1,0 +1,710 @@
+﻿<div class="col-12 pillar__pillarheader"><h3>About this topic</h3>Find out why you should consider publishing your journal articles open access (OA). We look at the range of OA opportunities available to help you maximize the reach and impact of your research. This page also includes all the details you need to publish open access with Taylor & Francis and meet any requirements of your research funder.</div>					</div>
+				</div>
+			</div>
+			<div class="pillar__repeater--sectionnavigation">
+				<div class="container">
+					<div class="row">
+						<div class="col-12 col-lg-2 pillar__repeater--title">
+							Chapters
+						</div>
+						<div class="col-12 col-lg-10 pillar__repeater--sectionnavigation-links">
+							<div class="pillar__repeater--sectionnavigation-condensed ">
+								<a href="#" data-row="row_1" class="pillar__repeater--sectionnavigation-link">What is open access?</a><a href="#" data-row="row_2" class="pillar__repeater--sectionnavigation-link">What are the benefits of open access publishing?</a><a href="#" data-row="row_3" class="pillar__repeater--sectionnavigation-link">Why publish your research open access with Taylor & Francis?</a><a href="#" data-row="row_4" class="pillar__repeater--sectionnavigation-link">Open access publishing options</a><a href="#" data-row="row_5" class="pillar__repeater--sectionnavigation-link">Sharing your open access research</a><a href="#" data-row="row_6" class="pillar__repeater--sectionnavigation-link">Open access and quality</a><a href="#" data-row="row_7" class="pillar__repeater--sectionnavigation-link">Open access fees and funding</a><a href="#" data-row="row_8" class="pillar__repeater--sectionnavigation-link">How do I comply with funder open access policies?</a><a href="#" data-row="row_9" class="pillar__repeater--sectionnavigation-link">Helping you achieve your open research aims</a>							</div>
+							<div class="pillar__repeater--sectionnavigation-trigger">
+								<a href="#" class=""><i class="fa fa-bars" aria-hidden="true"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+								<div class="pillar__repeater--sectiontitle" data-location="row_1" style="background-image:url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/galaxy_header.jpg);">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									What is open access?								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container pillar__repeater">
+						<div class="row justify-content-sm-center">
+							<div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-leadingletter"><p>Open access makes published academic research freely and permanently available online. Anyone, anywhere can read and build upon this research.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard"><p>In 2002, the <a href="http://www.budapestopenaccessinitiative.org"><strong>Budapest Open Access Initiative</strong></a> set out the potential benefits of unrestricted access to scholarly content:</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-quote"><blockquote>“accelerate research, enrich education, share the learning of the rich with the poor and the poor with the rich, make this literature as useful as it can be, and lay the foundation for uniting humanity in a common intellectual conversation and quest for knowledge.”</blockquote></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p>The number of authors choosing to publish open access has surged in recent years, seeing it as an opportunity to broaden the impact of their work. <strong><a href="#Funder Mandates">Many funders and institutions now also require open access publication of research</a></strong>. However, there is still much variation in the uptake of open access between geographical regions and areas of academic study.</p>
+<p>Taylor &amp; Francis is one of the world’s largest publishers of open access research. If you choose to publish with us, <strong><a href="#whypublish">there is a wide range of open access options available to you</a></strong>. This means you can comply with any funder requirements and ensure your research makes a difference.</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fal fa-chart-line"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Open access and reuse rights</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><a href="#creativecommons"><img class="size-full wp-image-9465 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Logo-CC.png" alt="" width="266" height="208" /></a></p>
+<p>Open access isn’t just about others being able to read your research without barriers. OA also gives researchers greater opportunity to build upon the work of others. Most OA articles have a Creative Commons license which explains how others can use them. In some cases, it may give complete freedom to reuse and repurpose the published work. Regardless, it’s always necessary to acknowledge the original author.</p>
+<p>At Taylor &amp; Francis, we offer a range of Creative Commons licensing options, so you can find the right fit for your research. <strong><a href="#creativecommons">See our guide to copyright licenses for more information</a></strong>.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>What is open research?</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p>You may also have heard the term ‘open research’. Open access is one part of this larger drive for more openness in scholarly communication. Open research, also called <strong>‘open science’</strong> or <strong>‘open scholarship’</strong>, looks beyond the peer-reviewed journal article or book. There are many other outputs of the research cycle that are useful for fellow academics who want to understand and build upon your work. This can include research data, code, and lab notes. <strong><a href="#openresearch">Find out how Taylor &amp; Francis can help you achieve your open research aims</a></strong>.</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="far fa-book-open"></i></div></div></div>						</div>
+					</div>
+										<div class="pillar__repeater--sectiontitle" data-location="row_2" style="background-image:url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/oa_bg_2.jpg);">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									What are the benefits of open access publishing?								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container pillar__repeater">
+						<div class="row justify-content-sm-center">
+							<div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-leadingletter"><p>OA is great for readers because it gives them immediate access to the latest research. But what are the advantages of publishing open access to you, the author?</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Increase the visibility and readership of your research</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><img class="size-full wp-image-9470 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Icon-View.png" alt="" width="66" height="43" />Research published open access is available to anyone across the globe, at any time. Greater visibility can result in increased readership and citations of your research. Both can help your career and funding prospects.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Make an impact beyond the academy</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><img class="size-full wp-image-9469 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/planet.png" alt="" width="62" height="62" />There’s increasing pressure on researchers to show the societal impact of their research. Open access can help your work reach new readers, beyond those with easy access to a research library. Publishing OA can help policymakers, non-government agencies, the media, educators, and practitioners put your research into action.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Freely share your work</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><img class="size-full wp-image-9468 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/padlock.png" alt="" width="54" height="74" /></p>
+<p>With OA, you’re free to share your research around the world with no restrictions or paywall.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Comply with funder mandates</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><img class="size-full wp-image-9467 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/check.png" alt="" width="64" height="62" /></p>
+<p>An increasing number of authors are required to publish OA by their funder, institution, or employer. <strong><a href="#Funder Mandates">Find out about major funder mandates and policies around open access</a></strong>.</p>
+</div></div>						</div>
+					</div>
+										<div class="pillar__repeater--sectiontitle" data-location="row_3" style="background-image:url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Open-access-header.png);">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									Why publish your research open access with Taylor & Francis?								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container pillar__repeater">
+						<div class="row justify-content-sm-center">
+							<div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-leadingletter"><p>In 2003, Taylor &amp; Francis first issued guidance to authors about sharing their work via what has become known as <strong><a href="#Green OA">“green open access” or “author self-archiving”</a></strong>. Today, we publish <strong><a href="#Full OA">over 250 full open access journals</a></strong>. We also publish over 2,300 subscription journals with an open access option, also known as <strong><a href="#Hybrid OA">hybrid journals</a></strong>. Researchers can publish open access with Taylor &amp; Francis across multiple imprints and in a wide variety of subject areas, from archaeology to zoology.<a name="whypublish"></a></p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p>We also offer an OA publishing option for book authors. There are currently over <strong><a href="https://www.routledge.com/info/open_access">300 book titles freely available online</a></strong>.</p>
+<p>Taylor &amp; Francis Group is leading the way in open access. We are partnering with academic institutions and consortia around the world to <strong><a href="#APC funding">make funding available for researchers to publish OA</a></strong>.</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="far fa-laptop"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Some of the benefits of publishing open access with us include:</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><ul>
+<li>A wide choice of high-quality journals, ranging across disciplines and subject areas.</li>
+<li>Input from, and dialog with, expert editors and editorial boards.</li>
+<li><a href="#OA quality"><strong>Rigorous peer review for every open-access article</strong></a>.</li>
+<li>Rapid online publication.</li>
+<li>Immediate access to your article on publication, accessible by anyone, anywhere.</li>
+<li>High visibility and discoverability via <strong><a href="http://www.tandfonline.com">Taylor &amp; Francis Online</a></strong>.</li>
+<li>Global marketing and publicity, ensuring your article reaches the people you want it to.</li>
+<li>Metrics (downloads, citations, and Altmetric data) for your article, so you can measure its impact.</li>
+<li>Retention of full copyright of your article through <strong><a href="#creativecommons">unrestrictive publishing agreements</a></strong>.</li>
+<li>Guaranteed legacy preservation of your article.</li>
+<li><a href="#Discounts"><strong>Discounts and waivers for authors in developing regions</strong></a>.</li>
+</ul>
+<div class="pillar__icon pillar__icon--right" data-iconweight="" style="font-weight: 100;"><i class="far fa-books"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Researcher open access stories</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p>Find out how publishing open access with Taylor &amp; Francis has supported research impact for these authors:</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="far fa-glasses-alt"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="row pillar__repeater--blogposts"><div class="col-12 col-lg-4"><a href="https://authorservices.taylorandfrancis.com/research-that-makes-an-impact/"><div class="pillar__blogposts--image" style="background-image: url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/12/Kristen-Knutson-and-Malcolm-von-Schantz.jpg);"></div><div class="pillar__blogposts--title">Research that makes an impact</div><div class="pillar__blogposts--content">In our latest Twitter chat we talked to Kristen Knutson and Malcolm von Schantz, authors of a paper which has received a very impressive level of attention this year.
+
+Their article, published in ...</div></a></div><div class="col-12 col-lg-4"><a href="https://authorservices.taylorandfrancis.com/making-papers-accessible-to-a-general-audience/"><div class="pillar__blogposts--image" style="background-image: url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2017/02/sixteen.png);"></div><div class="pillar__blogposts--title">Making papers accessible to a general audience</div><div class="pillar__blogposts--content">To find out how open access research can help reach a wide readership, we spoke to Cicely Marston, co-author of ‘Oral Sex, Young People, and Gendered Narratives of Reciprocity’ in The Journal of S...</div></a></div><div class="col-12 col-lg-4"><a href="https://authorservices.taylorandfrancis.com/research-that-gives-a-voice-to-practitioners-and-activists/"><div class="pillar__blogposts--image" style="background-image: url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/04/Marco-te-Brömmelstroet.jpg);"></div><div class="pillar__blogposts--title">Research that gives a voice to practitioners and activists</div><div class="pillar__blogposts--content">In January we revealed the top 10 Taylor &amp; Francis open access articles published in 2017; those which had received the highest number of downloads during the year. Among the top 10 is ‘Travelli...</div></a></div><div class="col-12 pillar__blogposts--footer">Discover more great stories from the <a href="/category/insights/">blog</a></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Timeline: open access at Taylor & Francis Group</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-timeline/"><img class="size-full wp-image-9544 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Timeline.png" alt="Open access timeline" width="266" height="166" /></a>Explore an <strong><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-timeline/">interactive timeline</a></strong> which charts some of the milestones in the developing open access program at Taylor &amp; Francis. From our first guidance to authors about <strong><a href="#Green OA">self-archiving</a></strong> in 2003, through the launch of <strong><a href="#Cogent">Cogent OA</a></strong> in 2013, to a new set of <strong><a href="#Data sharing">data sharing policies</a></strong> in 2018.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div></div>						</div>
+					</div>
+										<div class="pillar__repeater--sectiontitle" data-location="row_4" style="background-image:url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/oa_pub_options.jpg);">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									Open access publishing options								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container pillar__repeater">
+						<div class="row justify-content-sm-center">
+							<div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-leadingletter"><p>At Taylor &amp; Francis we offer choice in the route to publishing open access. You can either choose to publish “gold” OA or make your article available via “green” OA options.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Gold open access</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><img class="size-full wp-image-9480 alignright" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/keyboard_padlock.png" alt="" width="264" height="149" /></p>
+<p><a name="Gold OA"></a>Gold OA means that the final published version of your article (or <strong><a href="#Article versions">Version of Record</a></strong>) is permanently and freely available online for anyone, anywhere to read. An <strong><a href="#APC funding">article publishing charge (APC)</a></strong> is usually applicable if you publish gold OA.</p>
+<p>With gold open access you can:</p>
+<ul>
+<li><a href="#Sharing"><strong>Share your research</strong></a> anywhere you choose as soon as it’s published.</li>
+<li>Comply with any <strong><a href="#Funder Mandates">funder mandates</a></strong> to publish OA.</li>
+<li>Keep copyright of your work post-publication.</li>
+<li>Publish under <strong><a href="#creativecommons">a license with few or no restrictions</a></strong> on how people can reuse your work. Of course, they must still credit you if they do so.</li>
+</ul>
+<p>There are many different options for publishing gold OA with Taylor &amp; Francis:</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Publish in full open access journals</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><a name="Full OA"></a></p>
+<h3><img class="size-full wp-image-9509 alignright" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/TF-Open-logo.jpg" alt="Taylor &amp; Francis Open logo" width="266" height="135" /><strong>Taylor &amp; Francis Open and Routledge Open </strong></h3>
+<p>Every new article in our Open journals is published gold OA. Some of these journals have always published exclusively open access articles, while others are part of our ongoing program of converting subscription journals to full OA. The majority of these journals use <strong><a href="#creativecommons">Creative Commons licenses</a></strong>. Browse our growing <strong><a href="https://www.tandfonline.com/openaccess/openjournals">list of Open journals</a></strong>.</p>
+<p>&nbsp;</p>
+<p><img class="size-full wp-image-9482 alignright" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/cogent_logo.png" alt="" width="266" height="136" /></p>
+<h3><strong>Cogent OA</strong></h3>
+<p><a name="Cogent"></a>Cogent is an open-access publisher of scholarly research, committed to offering a truly author-centered service. Our aim is to help researchers share their ideas and discoveries as widely and effectively as possible. Our program includes the Cogent Series of broad-scope, interconnected journals. These focus on the key disciplines in science, social science, and the arts. Find out more on the <strong><a href="http://www.cogentoa.com/">Cogent OA website</a></strong>.</p>
+<p>&nbsp;</p>
+<p><img class="size-full wp-image-9481 alignright" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/dovepress_logo.png" alt="" width="266" height="136" /></p>
+<h3><strong>Dove Medical Press</strong></h3>
+<p>Dove Press publishes primarily in the Health Sciences, with some content in Science and Technology. Since its foundation in 2003, Dove has built up a strong portfolio of high-quality, peer-reviewed open access journals. Over 80 of the titles are indexed in Clarivate’s Web of Science and more than 60 in PubMed. Find out more on the <strong><a href="https://www.dovepress.com/">Dove Press website</a></strong>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Taylor & Francis Open Select and Routledge Open Select</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><a name="Hybrid OA"></a>Open Select gives you the option to make an article gold OA in one of our 2,300 subscription-based journals. This option is also known as “<strong>hybrid open access</strong>”.<img class="size-full wp-image-9512 alignright" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Routledge-Open-Select-logo.jpg" alt="Routledge Open Select logo" width="266" height="136" /></p>
+<p>This initiative currently covers most titles under the Routledge and Taylor &amp; Francis imprints. It offers you a huge choice of subjects and disciplines, ranging across the sciences, social sciences, medicine, technology, engineering, humanities, and arts.</p>
+<h5><strong>How do I know if a journal is Open Select?</strong></h5>
+<p>Look out for this indicator at the top of the journal home page on Taylor &amp; Francis Online. Or, use our <strong><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/oa-options-finder">open access options finder</a></strong>.</p>
+<p><img class="alignnone size-full wp-image-9517" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Publish-open-access-in-this-journal.png" alt="Publish open access in this journal" width="263" height="45" /></p>
+<h5><strong>What do I need to do to publish my article OA in an Open Select journal?</strong></h5>
+<p>Once you have submitted your paper it will go through rigorous peer review as normal. If the journal accepts it, you’ll receive an email inviting you to select a publishing license. This will include the option to make your article gold open access. It usually requires the payment of an APC.</p>
+<h5><strong>Do I have to pay an APC to publish in an Open Select journal?</strong></h5>
+<p>No. If you don’t pay the APC, your work will be published as a standard article, available to journal subscribers. In that case, you can still <strong><a href="#Green OA">make your work open access using the green OA route</a></strong>.</p>
+<h5><strong>Can I make my article gold OA if it has already been published in a subscription journal?</strong></h5>
+<p>Yes, if your work has been published as a standard article in an Open Select (hybrid) journal, you can choose to make it gold open access later:</p>
+<ol>
+<li>Email our OA Support Team at apc@tandf.co.uk explaining that you wish to make your article open access. Please include the title and Digital Object Identifier (DOI) of your article.</li>
+<li>You will receive an invoice for the APC to make your article open access, along with a new author publishing agreement to sign.</li>
+<li>Your article will then be made OA so that it’s permanently available for anyone to read, anywhere.</li>
+</ol>
+<p>Standard APCs apply if you are making your article OA retrospectively. Discounts may be available if your institution has an <strong><a href="https://www.tandfonline.com/openaccess/members">OA membership</a></strong> or is part of an <strong><a href="https://authorservices.taylorandfrancis.com/oa-agreements/">OA agreement</a></strong>.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Creative Commons Licenses</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><a name="creativecommons"></a>When you publish gold open access with Taylor &amp; Francis we ask you to sign a publishing agreement. This gives us the non-exclusive right to publish the <strong><a href="#Article versions">Version of Record</a></strong> of your article. You, the author, retain copyright. The agreement includes the Creative Commons license of your choice. This dictates what others can do with your article once it’s published.</p>
+<p><strong>Attribution (CC BY)</strong></p>
+<p><img class="size-full wp-image-9487 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/cc_1.png" alt="" width="168" height="59" />Others can distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. We offer this license on our full Open and our hybrid Open Select journals (when publishing on a gold OA basis). All <strong><a href="https://www.cogentoa.com/">Cogent OA</a></strong> articles are published CC BY and Dove Medical Press offers the CC BY license to authors whose articles are funded by the organizations listed on the <strong><a href="https://www.dovepress.com/author_guidelines.php?content_id=3330">Dove website</a></strong>.</p>
+<p><strong>Attribution-NonCommercial (CC BY-NC)</strong></p>
+<p><img class="size-full wp-image-9486 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/cc_2.png" alt="" width="168" height="59" />Others can remix, tweak, and build upon your work non-commercially. Although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms. We offer this license on our full Open journals.</p>
+<p><strong>Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND)</strong></p>
+<p><img class="size-full wp-image-9485 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/cc_3.png" alt="" width="168" height="59" />Others can download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially. We offer this license on our hybrid Open Select journals (when publishing on a gold OA basis) and on Dove Medical Press journals.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Green Open Access</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><a name="GreenOA"></a><a name="Green OA"></a>Green OA, also known as self-archiving, is when you post an earlier version of your manuscript in <strong><a href="#Repositories">repositories</a></strong> and online. This enables you to share your article and comply with most funder mandates, without having to pay an APC.</p>
+<h5><strong>How does green open access work?</strong></h5>
+<p><img class="size-full wp-image-9488 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/padlock_2.png" alt="" width="264" height="149" />Authors publishing in any Taylor &amp; Francis Group journal can take advantage of the green open access route. This includes depositing a version of your article in an institutional or subject repository, as well as posting it on your blog or social media profile. Please note that <strong><a href="#Repositories">an embargo period usually applies</a></strong>. The <strong><a href="#Sharing">Sharing your open access research</a></strong> section below outlines the different versions of your article and how you can share them.</p>
+<p>&nbsp;</p>
+<h5><strong>Zero-embargo green open access for Archives and Library &amp; Information Science (LIS) journals </strong></h5>
+<p>Researchers publishing in an LIS or Archives journal can take advantage of the green open access route immediately upon publication, without needing to observe an embargo period. This means authors can post a version of their article to any subject or institutional repository straight away. <strong><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/zero-embargo-green-open-access">Find out more</a></strong>.</p>
+<p><strong>For details about green OA embargo periods and license options for all Taylor &amp; Francis and Routledge journals, visit the <a href="https://authorservices.taylorandfrancis.com/publishing-open-access/oa-options-finder">open access options finder</a>.</strong></p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Open access options finder</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p>All the information on OA publishing options for each Taylor &amp; Francis, Routledge, and Cogent journal is available in our <strong><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/oa-options-finder">OA options finder</a></strong>. You can use this page to check:</p>
+<ul>
+<li>Which of our journals offer gold open access.</li>
+<li>What the current article publishing charge (APC) is on specific journals.</li>
+<li>What the green OA embargo periods are on our journals.</li>
+<li>Which licenses you can publish under.</li>
+</ul>
+<p><a name="Sharing"></a></p>
+</div></div>						</div>
+					</div>
+										<div class="pillar__repeater--sectiontitle" data-location="row_5" style="background-image:url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/sharing_header.jpg);">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									Sharing your open access research								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container pillar__repeater">
+						<div class="row justify-content-sm-center">
+							<div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-leadingletter"><p>By the time your article is published in a Taylor &amp; Francis journal, several versions of your work will exist, from the different stages of the writing and publishing process. Before sharing your article, it is important to understand the options available for these different versions.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p><a name="Article versions"></a></p>
+<h3>A guide to sharing different versions of your article</h3>
+<p>The <strong><a href="https://groups.niso.org/publications/rp/RP-8-2008.pdf">National Information Standards Organization</a></strong>, in partnership with the Association of Learned and Professional Society Publishers, has defined the following versions:</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fal fa-file-alt"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Version of Record (VoR)</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><blockquote><p>“A fixed version of a journal article that has been made available by … a publisher by formally and exclusively declaring the article ‘published’.”</p></blockquote>
+<p><strong>What is it?</strong></p>
+<p>This is the final, definitive, citable version of your paper. It has been copy-edited, typeset, had metadata applied, and has been allocated a DOI. This is the version published on Taylor &amp; Francis Online.</p>
+<p>The VoR includes any “early release” article that is formally identified as being published even before the compilation of a volume issue and assignment of associated metadata, as long as it is citable via some permanent identifier(s).</p>
+<p><strong>How can I share it?</strong></p>
+<p>If you have chosen to publish your article gold open access, you can share this final version however you wish. This includes depositing it in repositories and sharing it online.</p>
+<p>Please do not share a PDF of the VoR if you have not published your article gold open access. Instead, you will need to use either your Author’s Original Manuscript (AOM) or Accepted Manuscript (AM). We recommend that you include a link to the VoR from anywhere you post an earlier version of your article.</p>
+<div class="pillar__icon pillar__icon--right" data-iconweight="" style="font-weight: 100;"><i class="fal fa-file-pdf"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Accepted Manuscript (AM)</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><blockquote><p>“The version of a journal article that has been accepted for publication in a journal.”</p></blockquote>
+<p><strong>What is it? </strong></p>
+<p>This version is your paper after peer review, when it has been revised and accepted for publication by the journal editor. When you receive the acceptance email from the Editorial Office, keep a copy of your AM for any future posting.</p>
+<p><strong>How can I share it?</strong></p>
+<p>As a Taylor &amp; Francis author, you can post your AM on your personal website any time after publication. This includes posting to Facebook, Google groups, and LinkedIn, plus linking from Twitter.</p>
+<p>Embargoes apply if you are posting the AM to an institutional or subject repository, or to a scholarly collaboration network such as ResearchGate, Mendeley, or Academia.edu. The <strong><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/oa-options-finder">open access options finder</a></strong> lists the embargo periods for all Taylor &amp; Francis and Routledge journals.</p>
+<p>To encourage citation of your work (and to be able to monitor and understand who is reading it using article metrics), we recommend that you insert a link from your posted AM to the published article on Taylor &amp; Francis Online with the following text:</p>
+<p><em>“This is an Accepted Manuscript of an article published by Taylor &amp; Francis in [Journal Title] on [Date of Publication], available online: http://www.tandfonline.com/[Article DOI].”</em></p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fab fa-facebook-square"></i><i class="fab fa-linkedin"></i><i class="fab fa-twitter-square"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Author’s Original Manuscript (AOM)</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><blockquote><p>“Any version of a journal article that is considered by the author to be of sufficient quality to be submitted for formal peer review.”</p></blockquote>
+<p><strong>What is it? </strong></p>
+<p>The AOM is your original manuscript (sometimes called a “preprint”) before you submitted it to a journal for peer review.</p>
+<p><strong>How can I share it?</strong></p>
+<p>You can share this as much as you like. If you post it anywhere, including on a scholarly collaboration network, we recommend you use an amended version of the wording below. This will encourage usage and citation of your final, published article (the VoR):</p>
+<p><em>“This is the Author’s Original Manuscript of an article published by Taylor &amp; Francis in [Journal Title] on [Date of Publication], available online: http://www.tandfonline.com/[Article DOI].”</em></p>
+<div class="pillar__icon pillar__icon--right" data-iconweight="" style="font-weight: 100;"></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Institutional repositories</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p><img class="size-full wp-image-9490 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/circuitboard.png" alt="" width="264" height="151" /><a name="Repositories"></a>A repository is a digital platform used to host and preserve scholarly outputs. If you’re based at a research institution, you’re probably required to place a version of your article in their repository. If your article has been published gold open access in a Taylor &amp; Francis journal you can deposit a PDF of the VoR in the repository as soon as it’s published.</p>
+<p>However, if you choose not to publish gold open access then you’ll need to archive a copy of the AOM or the AM. For most Taylor &amp; Francis journals there is an <strong><a href="https://authorservices.taylorandfrancis.com/journal-list/">embargo period</a></strong> during which the AM should be a closed deposit.</p>
+<p><strong>What’s a “closed deposit”?</strong></p>
+<p>This is when you post your AM to your institutional repository so that it’s available for those within your institutional network to access. You (or repository staff) can make this an open deposit after the relevant embargo period has passed. AMs can be posted at any point to repositories as closed deposits.</p>
+<p><strong>What’s an “open deposit”?</strong></p>
+<p>This is when you post your AM to your institutional repository so it’s freely available for anyone to access. All authors should respect embargo periods before making AMs available as an open deposit. You can check the embargo period on all journals in the <strong><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/oa-options-finder">open access options finder</a></strong>.</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fal fa-door-open"></i></div></div></div>						</div>
+					</div>
+										<div class="pillar__repeater--sectiontitle" data-location="row_6" style="background-image:url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/fact_background.jpg);">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									Open access and quality								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container pillar__repeater">
+						<div class="row justify-content-sm-center">
+							<div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-leadingletter"><p>One of the concerns sometimes raised about OA is that journals might be unreliable. There is a fear that peer review, the process which underpins research integrity, might be missing from open access publishing. While you should be aware there are some open access journals which do not follow the highest standards, most OA titles provide a trustworthy service for authors and readers.<a name="OA quality"></a></p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>The Taylor & Francis commitment to peer review quality</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p>Taylor &amp; Francis Group journals provide researchers with rigorous, constructive, and timely peer review for all manuscripts. This is regardless of whether they intend to publish open access. Anyone reading or publishing open access with Taylor &amp; Francis can be reassured that the same high standards apply as in traditional publishing models.</p>
+<p>Taylor &amp; Francis is a member of the <strong><a href="https://oaspa.org/membership/members/">Open Access Scholarly Publishers Association</a></strong> (OASPA) and a publisher member of the <strong><a href="https://doaj.org/">Directory of Open Access Journals</a></strong> (DOAJ). Both organizations uphold the highest standards of open access publishing.</p>
+<div style="text-align: center;">
+<p><img class="alignnone wp-image-9495 size-medium" style="vertical-align: top;" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/oaspa-300x153.jpg" alt="" width="300" height="153" srcset="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/oaspa-300x153.jpg 300w, https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/oaspa.jpg 360w" sizes="(max-width: 300px) 100vw, 300px" />      <img class="alignnone size-medium wp-image-9494" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/doaj-300x153.jpg" alt="" width="300" height="153" srcset="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/doaj-300x153.jpg 300w, https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/doaj.jpg 360w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+</div>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Think. Check. Submit.</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><img class="size-medium wp-image-9496 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/thinkchecksubmit-300x153.jpg" alt="" width="300" height="153" srcset="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/thinkchecksubmit-300x153.jpg 300w, https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/thinkchecksubmit.jpg 360w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>We support <strong><a href="https://authorservices.taylorandfrancis.com/think-check-submit/">Think. Check. Submit.</a></strong>, an initiative launched by a coalition of publishers and industry organizations. It provides the tools to help you choose the right journal for your work.</p>
+<p>There are some open access journals which do not provide the quality assurance and services that would be delivered by a reputable journal. For example, they may not ensure thorough peer review and editor feedback or carry out ethics and integrity checks. There are also some fraudulent journals which trade off existing society or journal names. This means that authors may discover too late that their research hasn’t appeared in the title they were expecting.</p>
+<p>You should therefore make sure that you submit your work to a journal you can trust.</p>
+<p>By using the checklist provided on the <strong><a href="https://authorservices.taylorandfrancis.com/think-check-submit/">Think. Check. Submit. website</a></strong>, you can make an informed choice before sending your articles for review.</p>
+<p>The Think. Check. Submit. checklist includes ways to check the credentials of any title and the society or publisher behind it. It isn’t a definitive list of “approved” titles, but it will help make sure your research has maximum impact.<a name="APC funding"></a><a name="funding"></a></p>
+</div></div>						</div>
+					</div>
+										<div class="pillar__repeater--sectiontitle" data-location="row_7" style="background-image:url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/pig.jpg);">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									Open access fees and funding								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container pillar__repeater">
+						<div class="row justify-content-sm-center">
+							<div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-leadingletter"><p>When publishing <strong><a href="#Gold OA">gold OA</a></strong>, researchers or their institutions or funders often need to pay an article publishing charge (APC). However, there are many funding options available to help authors cover these charges.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard"><p>APCs vary by journal and are subject to occasional special offers. Please check the instructions for authors on the journal’s web page to confirm the current APC. You can also find the standard APC for any Taylor &amp; Francis journal by visiting our <strong><a href="https://www.taylorfrancis.com/authorcharges/">Article Publishing Charge Finder</a></strong>. Please note that these charges are exclusive of tax.</p>
+<p>Some common sources of funding for open access publishing include:</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Your national or international funding body</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p>Many funders will allow you to use research grants to pay open access APCs for books and journals. See the <strong><a href="#Funder Mandates">funder OA policies section</a></strong> below to see whether your funder covers charges associated with publishing open access.</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fas fa-flag"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Open access publishing agreements</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p>We’re partnering with groups of institutions around the world to help researchers publish gold OA in their chosen journals. These consortia agreements can mean that authors benefit from reduced APCs, or that they are able to publish OA at no cost to themselves. <strong><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/oa-agreements">Find out if you’re eligible for this open access support</a></strong>.</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fas fa-handshake"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Institutional funds and open access memberships</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p>If your institution isn’t included in one of our OA agreements, it may have a central fund to support researchers who want to publish open access. Many institutions also hold an open access membership with Taylor &amp; Francis Group. Researchers based at these institutions may be eligible to publish gold open access in Taylor &amp; Francis Group journals at no cost to themselves. <strong><a href="https://www.tandfonline.com/openaccess/members">View a list of current members</a></strong>.<a name="Discounts"></a></p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fas fa-university"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Discounts and waivers for researchers in developing countries</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p>Taylor &amp; Francis is committed to bringing research by scholars in emerging nations to the attention of the global academic community. We also want to make the option to publish open access available to as many researchers as possible.</p>
+<p>To help achieve this, we offer waivers and discounts on the APCs required to publish in many full open access journals (Taylor &amp; Francis Open or Routledge Open):</p>
+<ul>
+<li>Corresponding authors with primary affiliations based in countries defined by the World Bank as <strong>‘<a href="https://www.tandf.co.uk//journals/pdf/World-Bank-Low-Income-Economies.pdf">Low-Income Economies</a>’</strong> can apply for a 100% APC waiver, when they publish in a full open access journal.</li>
+<li>Corresponding authors with primary affiliations based in countries defined by the World Bank as <strong>‘<a href="https://www.tandf.co.uk//journals/pdf/World-Bank-Lower-Middle-Income-Economies.pdf">Lower-Middle-Income Economies</a>’</strong> can apply for a 50% discount on the normal APC, when they publish in a full open access journal.</li>
+<li>Corresponding authors with primary affiliations based in one of the <a href="https://authorservices.taylorandfrancis.com/publishing-open-access/oa-agreements/eifl-agreement"><strong>EIFL (Electronic Information for Libraries) network countries</strong></a> may be eligible for a 100% or 50% discount on the normal APC. For more information, including the list of countries and participating journals, please visit our <strong><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/oa-agreements/eifl-agreement">EIFL page</a></strong>.</li>
+</ul>
+<h3>How do I request a World Bank APC discount or waiver?</h3>
+<ol>
+<li>Check that your country is one of those defined by the World Bank as being <strong><a href="https://www.tandf.co.uk//journals/pdf/World-Bank-Low-Income-Economies.pdf">low-income</a></strong> or <strong><a href="https://www.tandf.co.uk//journals/pdf/World-Bank-Lower-Middle-Income-Economies.pdf">lower-middle-income</a></strong>. Also check that the journal you’re submitting to is one of the <strong><a href="https://www.tandf.co.uk//journals/pdf/APC-discounts-waivers-journals.pdf">full open access journals included in this scheme</a></strong>.</li>
+<li>Submit through the journal’s online submission system in the usual way. You should follow the Instructions for Authors found on Taylor &amp; Francis Online.</li>
+<li>During the submission process you will be asked whether you wish to request a discount or waiver. Please select the appropriate option at this stage. Our open access team will then ensure the appropriate discount or waiver is applied.</li>
+<li>Your paper will go through peer review as normal. Journal editors or reviewers won’t see requests for a discount or waiver and it won’t influence the outcome of your submission.</li>
+<li>If accepted, your article will be published open access, meaning anyone, anywhere can read your research.</li>
+</ol>
+<p>Please note that you must make waiver requests when you first submit your manuscript. It will not be possible to process requests made on any subsequent revisions. If you have any questions, please contact us: <strong>apc@tandf.co.uk</strong></p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fas fa-globe-africa"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Discretionary waivers</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p>We will consider all requests for discretionary APC waivers by researchers who aren’t eligible for the policies above. Please state your request for a discretionary waiver when you submit your manuscript. The online submission system will prompt you to do so.</p>
+<p>Select “I have another waiver to request or a discount code” and include supporting evidence for why a waiver would be necessary in your circumstances in the space provided. Your request should include details of:</p>
+<ul>
+<li>The affiliation and country of residence of all authors.</li>
+<li>Details of where the research was conducted.</li>
+<li>Confirmation of all research grant funding received.</li>
+</ul>
+<p>To guarantee peer-review integrity, the waiver process is not managed by journal academic editors.</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fal fa-badge-percent"></i></div></div></div>						</div>
+					</div>
+										<div class="pillar__repeater--sectiontitle" data-location="row_8" style="background-image:url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/sparks_background.jpg);">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									How do I comply with funder open access policies?								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container pillar__repeater">
+						<div class="row justify-content-sm-center">
+							<div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-leadingletter"><p>Most research funders have a policy requiring you to make your research available through an open access route.<a name="Funder Mandates"></a></p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard"><p>Below you can find a list of major funder policies around open access, with a summary of key points for each one. We do our best to keep this information up to date, but we recommend you double-check on your funder’s website. You can do this by following the links in each section.</p>
+<p>You can also visit <strong><a href="http://roarmap.eprints.org/">RoarMap</a></strong> for further information, or to check the summaries given here.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Regional open access funder policies and mandates</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-tabtable pillar__repeater--tabtable-blue"><div class="pillar__tabtable--title"><span>European Research Council (ERC)</span></div><ul class="nav nav-pills mb-3 pills-tab" id="" role="tablist">												<li class="nav-item">
+													<a class="nav-link active show" id="tabtable-europeanresearchcouncilerc-tab" data-toggle="pill" href="#tabtable-europeanresearchcouncilerc" role="tab" aria-controls="tabtable-europeanresearchcouncilerc>" aria-selected="true">
+														European Research Council (ERC)													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-horizon2020-tab" data-toggle="pill" href="#tabtable-horizon2020" role="tab" aria-controls="tabtable-horizon2020>" aria-selected="true">
+														Horizon2020													</a>
+												</li>
+												</ul><div class="pillar__tabtable--copy tab-content" id="pills-tabContent">												<div class="tab-pane fade active show" id="tabtable-europeanresearchcouncilerc" role="tabpanel" aria-labelledby="pills-europeanresearchcouncilerc-tab">
+													<p><strong>Policy:</strong> Requests green OA, encourages gold. It recommends that researchers be prepared to share data with other researchers.</p>
+<p><strong>Key information for funded researchers</strong><br />
+The ERC requests that an electronic copy of any research article, monograph, or other research publication that is funded by the ERC is deposited in a suitable repository on publication. Open access should be provided as soon as possible and (no later than six months after the official publication date for science, technology and medicine publications and twelve months for the social sciences, arts and humanities).</p>
+<p>Open access fees incurred during the project can be charged against ERC grants.</p>
+<p><a href="http://erc.europa.eu/sites/default/files/document/file/ERC_Open_Access_Guidelines-revised_2013.pdf"><strong>European Research Council website</strong></a></p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-horizon2020" role="tabpanel" aria-labelledby="pills-horizon2020-tab">
+													<p><strong>Policy:</strong> Gold and green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Article publishing charges are eligible for reimbursement during the project (see the <strong><a href="http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/amga/h2020-amga_en.pdf">Model Grant Agreement</a></strong>). The final published article (<strong><a href="#Article versions">the Version of Record</a></strong>) should be deposited on publication. Open access costs incurred once a project is completed cannot be refunded from the budget. However, a pilot project under the OpenAIRE2020 project will address publication charges from completed FP7 projects.</p>
+<p>If the author does not publish their article as gold OA, the <strong><a href="#Article versions">Accepted Manuscript</a></strong> version of the article must be deposited in a repository on publication (green OA), with open access available within either six months (science, technology, and medical subjects) or twelve months (social sciences, arts and humanities) of publication. Data related to the article should also be deposited in a data repository.</p>
+<p><strong><a href="https://www.scitecheuropa.eu/">Horizon2020 website</a></strong></p>
+	<li class="nav-item">
+													<a class="nav-link active show" id="tabtable-australia-tab" data-toggle="pill" href="#tabtable-australia" role="tab" aria-controls="tabtable-australia>" aria-selected="true">
+														Australia													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-austria-tab" data-toggle="pill" href="#tabtable-austria" role="tab" aria-controls="tabtable-austria>" aria-selected="true">
+														Austria													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-belgium-tab" data-toggle="pill" href="#tabtable-belgium" role="tab" aria-controls="tabtable-belgium>" aria-selected="true">
+														Belgium													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-canada-tab" data-toggle="pill" href="#tabtable-canada" role="tab" aria-controls="tabtable-canada>" aria-selected="true">
+														Canada													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-china-tab" data-toggle="pill" href="#tabtable-china" role="tab" aria-controls="tabtable-china>" aria-selected="true">
+														China													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-denmark-tab" data-toggle="pill" href="#tabtable-denmark" role="tab" aria-controls="tabtable-denmark>" aria-selected="true">
+														Denmark													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-germany-tab" data-toggle="pill" href="#tabtable-germany" role="tab" aria-controls="tabtable-germany>" aria-selected="true">
+														Germany													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-iceland-tab" data-toggle="pill" href="#tabtable-iceland" role="tab" aria-controls="tabtable-iceland>" aria-selected="true">
+														Iceland													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-italy-tab" data-toggle="pill" href="#tabtable-italy" role="tab" aria-controls="tabtable-italy>" aria-selected="true">
+														Italy													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-japan-tab" data-toggle="pill" href="#tabtable-japan" role="tab" aria-controls="tabtable-japan>" aria-selected="true">
+														Japan													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-lithuania-tab" data-toggle="pill" href="#tabtable-lithuania" role="tab" aria-controls="tabtable-lithuania>" aria-selected="true">
+														Lithuania													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-mexico-tab" data-toggle="pill" href="#tabtable-mexico" role="tab" aria-controls="tabtable-mexico>" aria-selected="true">
+														Mexico													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-thenetherlands-tab" data-toggle="pill" href="#tabtable-thenetherlands" role="tab" aria-controls="tabtable-thenetherlands>" aria-selected="true">
+														The Netherlands													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-portugal-tab" data-toggle="pill" href="#tabtable-portugal" role="tab" aria-controls="tabtable-portugal>" aria-selected="true">
+														Portugal													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-singapore-tab" data-toggle="pill" href="#tabtable-singapore" role="tab" aria-controls="tabtable-singapore>" aria-selected="true">
+														Singapore													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-spain-tab" data-toggle="pill" href="#tabtable-spain" role="tab" aria-controls="tabtable-spain>" aria-selected="true">
+														Spain													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-sweden-tab" data-toggle="pill" href="#tabtable-sweden" role="tab" aria-controls="tabtable-sweden>" aria-selected="true">
+														Sweden													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-switzerland-tab" data-toggle="pill" href="#tabtable-switzerland" role="tab" aria-controls="tabtable-switzerland>" aria-selected="true">
+														Switzerland													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-unitedkingdom-tab" data-toggle="pill" href="#tabtable-unitedkingdom" role="tab" aria-controls="tabtable-unitedkingdom>" aria-selected="true">
+														United Kingdom													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-unitedstates-tab" data-toggle="pill" href="#tabtable-unitedstates" role="tab" aria-controls="tabtable-unitedstates>" aria-selected="true">
+														United States													</a>
+												</li>
+												</ul><div class="pillar__tabtable--copy tab-content" id="pills-tabContent">												<div class="tab-pane fade active show" id="tabtable-australia" role="tabpanel" aria-labelledby="pills-australia-tab">
+													<p><strong><a href="https://www.arc.gov.au/policies-strategies/policy/arc-open-access-policy">The Australian Research Council (ARC)</a></strong><br />
+<strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Provide publication metadata and ensure grant information is included in the article. Researchers must make the <strong><a href="#Article versions">Accepted Manuscript</a></strong> version of their article openly accessible within twelve (12) months of publication of the final published article (the <strong><a href="#Article versions">Version of Record</a></strong>). If a journal has a longer embargo period, the grantee should note this in their Final Report.</p>
+<p>In all cases, Research Output Metadata must be made available to the public in an Institutional Repository as soon as possible but no later than three (3) months from the date of Publication.</p>
+<p><strong><a href="https://nhmrc.gov.au/">National Health and Medical Research Council (NHMRC)</a></strong><br />
+<strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Ensure grant information is included in the article. Researchers must deposit the <strong><a href="#Article versions">Accepted Manuscript</a> </strong>version of their article in a repository within twelve (12) months of publication of the final published article (the <strong><a href="#Article versions">Version of Record</a></strong>). If the Version of Record is freely available on the publisher’s website, researchers can provide a link to the article. If a journal has a longer embargo period, the grantee should note this in their grant reports.</p>
+<p>Publication metadata most be openly accessible no later than 3 months from the date of publication.</p>
+<p>This applies to peer-reviewed publications, including conference papers from 15 January 2018.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-austria" role="tabpanel" aria-labelledby="pills-austria-tab">
+													<p><strong><a href="http://epub.oeaw.ac.at/oa/">ÖAW</a> (Academy of Sciences)</strong><br />
+<strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+ÖAW recommends deposit of work in a repository as quickly as possible.</p>
+<p><strong><a href="https://www.fwf.ac.at/en/research-funding/open-access-policy/">Austrian Science Fund / FWF</a> *</strong><br />
+<strong>Policy:</strong> Gold and green OA<br />
+* holder of a <strong><a href="https://www.tandfonline.com/openaccess/members">prepayment membership with Taylor &amp; Francis</a></strong></p>
+<p><strong>Key information for funded researchers</strong><br />
+For gold OA, funds are available to pay APCs up to €2,500 for full OA journals and €1,500 for hybrid journals. Researchers must sign a <strong><a href="https://creativecommons.org/licenses/">Creative Commons Attribution (CC BY) license</a></strong> when publishing their article. Journals should be indexed in DOAJ (if full OA &#8211; Open journals), or Scopus / Web of Science (if hybrid OA &#8211; Open Select journals)</p>
+<p>For green OA, researchers must deposit the <strong><a href="#Article versions">Accepted Manuscript</a></strong> version of the article in a repository within twelve months of publication.</p>
+<p>Deposit in a sustainable-access repository deposit is required for all publications (list provided at <strong><a href="http://www.opendoar.org/">OpenDOAR</a></strong>), and if publications are in the life sciences, deposit is required in Europe PubMed Central. Where possible, researchers should make their data openly accessible either immediately, or if not used in publications, two years after the project is completed.</p>
+<p>Taylor &amp; Francis manages the deposit of articles in PubMed Central for all authors. To ensure we can do this for you, please ensure you complete the funding information in our online submissions system when you submit your paper or tell us at proof stage.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-belgium" role="tabpanel" aria-labelledby="pills-belgium-tab">
+													<p><strong><a href="http://www.fnrs.be/index.php/open-access">Fonds de la recherche Scientifique (FRS-FNRS)</a></strong><br />
+<strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Deposit the Author’s <strong><a href="#Article versions">Accepted Manuscript</a></strong> version of their article in a repository immediately on acceptance. This version must be made freely available within either six months (science, technology, and medical) or twelve months (social sciences, arts, and humanities) of publication.</p>
+<p>If authors are unable to meet the embargo periods, they are required to inform their hosting institution and the FRS-FNRS.</p>
+<p>Gold OA costs incurred during the timeframe of the project can be claimed, to a limit of €500 per article.</p>
+<p>This policy applies to any article and any symposia, seminar, conference or poster which has been the subject of a peer-reviewed scientific publication</p>
+<p><a href="http://www.fwo.be/en/general-regulations/"><strong>Fonds voor Wetenschappelijk Onderzoek / Research Foundation Flanders (FWO)</strong></a><br />
+<strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Deposit their article (and data) in a public open-access database (or repository), within twelve months of publication.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-canada" role="tabpanel" aria-labelledby="pills-canada-tab">
+													<p><strong><a href="http://www.science.gc.ca/default.asp?lang=En&amp;n=F6765465-1">Tri-Agency Policy</a></strong><br />
+Natural Sciences and Engineering Research Council of Canada (NSERC), the Social Sciences and Humanities Research Council of Canada (SSHRC) and the Canadian Institutes of Health Research (CIHR)</p>
+<p><strong>Policy:</strong> Gold or green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Gold OA / delayed free access: ensure final published articles are freely accessible through the publisher’s website within twelve months of publication. Grant funds can be used to cover article publishing charges (APCs). Researchers are encouraged to deposit the Version of Record into an accessible online repository.<br />
+Green OA: archive Author’s <strong><a href="#Article versions">Accepted Manuscript</a></strong> versions of articles in a repository within twelve months of publication.</p>
+<p><strong>Data deposit (CIHR funded researchers)</strong><br />
+Deposit data into a publicly accessible repository or database and retain all data sets (published or not) for a minimum of five years after the end of the grant (or longer if other policies apply).</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-china" role="tabpanel" aria-labelledby="pills-china-tab">
+													<p><strong><a href="http://www.eifl.net/news/research-funders-china-issue-open-access-policies">Chinese Academy of Science (CAS)</a></strong></p>
+<p><strong>Policy:</strong> Green OA. Funds available to publish Gold OA.</p>
+<p><strong>Key information for funded researchers</strong><br />
+Researchers and graduate students must deposit the final, peer-reviewed manuscripts of their research articles resulting from any public funding, submitted and consequently published since the issuing of the policy, into the open access repositories of their respective institutes, to be made open access within twelve months of their official publication.</p>
+<p>CAS also encourages researchers to deposit previously published articles into their respective institutional repositories. CAS will also support researchers to publish in open access journals with good quality control and an affordable APC.</p>
+<p><strong><a href="http://www.eifl.net/news/research-funders-china-issue-open-access-policies">National Natural Science Foundation of China (NSFC)</a></strong><br />
+<strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Funded researchers must deposit the final, peer-reviewed manuscripts of research articles resulting from its funding, submitted and consequently published since the issuing of the policy, into the NSFC open access repository (2016), to be made open access within twelve months of their official publication in academic journals.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-denmark" role="tabpanel" aria-labelledby="pills-denmark-tab">
+													<p><strong>Danish Council for Independent Research</strong><br />
+<strong>Danish National Research Foundation</strong><br />
+<strong>Danish Council for Strategic Research</strong><br />
+<strong>Danish National Advanced Technology Foundation</strong><br />
+<strong>Danish Council for Technology and Innovation</strong></p>
+<p><strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+If the journal permits it, deposit the <strong><a href="#Article versions">Author&#8217;s Accepted Manuscript</a></strong> version of articles in repositories within six months (health, natural sciences, engineering, agricultural, and veterinarian sciences) or twelve months (social sciences and the humanities).</p>
+<p><a href="http://ufm.dk/en/research-and-innovation/cooperation-between-research-and-innovation/open-science/open-access-policy-for-public-research-councils-and-foundations"><strong>Danish Ministry of Higher Education and Science website</strong></a></p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-germany" role="tabpanel" aria-labelledby="pills-germany-tab">
+													<p><strong><a href="http://www.dfg.de/formulare/12_20/12_20_en.pdf">Deutsche Forschungsgemeinschaft (DFG)</a></strong></p>
+<p><strong>Policy:</strong> Green and gold OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Publications are to be made freely accessible in open access journals immediately on publication or – via repositories – no later than six months (sciences) or twelve months (social sciences and humanities) after the original publication.</p>
+<p>Article publishing charges of up to €2,000 (incl. VAT) may be financed through DFG funds for publication in full Open journals. This cannot be used to co-finance APCs higher than this amount.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-iceland" role="tabpanel" aria-labelledby="pills-iceland-tab">
+													<p><strong><a href="http://www.rannis.is/media/rannsoknasjodur/2015_IRF_rules.pdf">RANNIS</a></strong></p>
+<p><strong>Policy:</strong> Green and gold OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Unless otherwise agreed upon, researchers should publish their research either in open access journals or deposit in repositories on publication, with an embargo period of up to twelve (12) months.</p>
+<p>Plans are being made for grantees to be able to apply for funding to cover part of the APC.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-italy" role="tabpanel" aria-labelledby="pills-italy-tab">
+													<p><strong><a href="http://attiministeriali.miur.it/anno-2014/gennaio/dd-23012014.aspx">Ministry of Education, Universities and Research (MIUR)</a></strong></p>
+<p><strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Please check <a href="http://roarmap.eprints.org/"><strong>ROARmap</strong></a> for updates.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-japan" role="tabpanel" aria-labelledby="pills-japan-tab">
+													<p><strong><a href="http://www.jst.go.jp/EN/about/openscience/index.html">Japan Science and Technology Agency (JST)</a></strong></p>
+<p><strong>Policy:</strong> Prefers green OA, allows gold.</p>
+<p><strong>Key information for funded researchers</strong><br />
+Researchers should deposit the <strong><a href="#Article versions">Accepted Manuscript</a></strong> version of their article in a repository.</p>
+<p>Article publishing charges can be reimbursed as a direct expense of a JST-funded research project.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-lithuania" role="tabpanel" aria-labelledby="pills-lithuania-tab">
+													<p><strong><a href="https://www.lmt.lt/en/science-policy-implementation/open-science/open-access-in-lithuania/2935">Research Council of Lithuania</a></strong></p>
+<p><strong>Policy:</strong> Green and gold OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+The <strong><a href="#Article versions">Accepted Manuscript</a></strong> should be deposited in in a repository immediately on publication, providing open access after an embargo period of 6 (sciences) or 12 (social sciences and the humanities) months.</p>
+<p>Article publishing charges are eligible costs for projects. <strong><a href="https://creativecommons.org/licenses/">CC BY licences</a></strong> should be used in open access journals.</p>
+<p><strong><a href="https://www.e-tar.lt/portal/lt/legalAct/dceeeb10e05711e59cc8b27b54efaf6e">Read the legislation</a></strong> (Lithuanian).</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-mexico" role="tabpanel" aria-labelledby="pills-mexico-tab">
+													<p><strong>Policy:</strong> National legislation encouraging green OA, depositing to a national repository.</p>
+<p><strong>Key information for funded researchers</strong><br />
+Please check <strong><a href="http://roarmap.eprints.org/">ROARmap</a></strong> for updates.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-thenetherlands" role="tabpanel" aria-labelledby="pills-thenetherlands-tab">
+													<p><em>Please note – many authors based in institutions in the Netherlands may be eligible to publish open access in our Open Select journals, free of charge, under </em><strong><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/oa-agreements/publishing-in-the-netherlands/"><em>our agreement with VSNU</em></a></strong><em>. </em></p>
+<p><strong><a href="https://www.nwo.nl/en">Netherlands Organisation for Scientific Research </a></strong></p>
+<p><strong>Policy:</strong> Green and gold OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Authors can choose to publish gold OA in either hybrid or full OA titles.</p>
+<p>If opting for the green OA route, researchers should deposit their <strong><a href="#Article versions">Author&#8217;s Original Manuscript or Accepted Manuscript</a> </strong>openly in a repository immediately on publication.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-portugal" role="tabpanel" aria-labelledby="pills-portugal-tab">
+													<p><strong><a href="https://www.fct.pt/dsi/eciencia/index.phtml.en">Fundação para a Ciência e a Tecnologia (FCT)</a></strong></p>
+<p><strong>Policy:</strong> Green and gold OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Peer-reviewed content to be deposited in one of the open access repositories hosted within the Repositório Científico de Acesso Aberto de Portugal (<strong><a href="http://www.rcaap.pt/index.jsp?locale=en">RCAAP</a></strong>) as soon as possible, preferably immediately on acceptance for publication. Embargo periods of up to 6 (scientific subject areas) or 12 months (social sciences, arts, and humanities) are allowed. Researchers are encouraged to share data with the scientific community, by placing it in open access databases (such as Genbank), within the shortest time possible.</p>
+<p>Article publishing charges are eligible for reimbursement within the scope of FCT&#8217;s project funding. Articles published on a gold OA basis using these funds should be depositied immediately into a repository, and a <strong><a href="https://creativecommons.org/licenses/">CC BY licence</a></strong> should be applied.</p>
+<p><strong><a href="https://www.fct.pt/documentos/PoliticaAcessoAberto_Publicacoes.pdf">Find out more</a></strong> (Portuguese).</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-singapore" role="tabpanel" aria-labelledby="pills-singapore-tab">
+													<p><strong><a href="http://oar.a-star.edu.sg/jspui/">Agency for Science, Technology and Research (A*STAR)</a></strong></p>
+<p><strong>Policy:</strong> Green OA, gold OA article publishing charge funding available.</p>
+<p><strong>Key information for funded researchers</strong><br />
+All content must be deposited in A* OA Repository (A*OAR) or any other institutional/subject repository and be publicly available no later than 12 months following publication.</p>
+<p>APCs are grant-fundable, with A* recommending full OA journals.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-spain" role="tabpanel" aria-labelledby="pills-spain-tab">
+													<p><strong><a href="http://www.unesco.org/new/en/communication-and-information/portals-and-platforms/goap/access-by-region/europe-and-north-america/spain/">National legislation</a></strong></p>
+<p><strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Spanish researchers who carry out their research mainly funded by the national government will make public a copy of the final version of the accepted paper as soon as possible, and no later than twelve months after publication. These open access copies will be archived in an institutional or thematic repository.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-sweden" role="tabpanel" aria-labelledby="pills-sweden-tab">
+													<p><strong><a href="https://www.vr.se/english.html">Vetenskapsrådet / Swedish Research Council</a></strong></p>
+<p><strong>Policy:</strong> Green and Gold OA</p>
+<p><strong>Key information for funded researchers</strong><strong><br />
+</strong>If opting for green OA, researchers must deposit their article in a repository within a maximum of six months (science, technology, and medical) or twelve months (social sciences, arts, and humanities) from publication.</p>
+<p>Where article publishing charges are paid, researchers must sign a <strong><a href="https://creativecommons.org/licenses/">Creative Commons Attribution (CC BY) license</a></strong> when publishing their article.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-switzerland" role="tabpanel" aria-labelledby="pills-switzerland-tab">
+													<p><strong><a href="http://www.snf.ch/en/theSNSF/research-policies/open-access/Pages/default.aspx">Swiss National Science Foundation (SNSF)</a></strong></p>
+<p><strong>Policy:</strong> Green OA. Article publishing charge (APC) funding available for gold OA.</p>
+<p><strong>Key information for funded researcher</strong><br />
+Researchers should deposit their work in a repository within six months for journal articles and 12 months for books. If this is not possible, grantees should inform the SNSF.</p>
+<p>SNSF offer grants to cover APCs in full OA journals.</p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-unitedkingdom" role="tabpanel" aria-labelledby="pills-unitedkingdom-tab">
+													<p><strong><a href="http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Open-access/Charity-open-access-fund/index.htm">Charity Open Access Fund (COAF)</a></strong></p>
+<p>(Arthritis Research UK, Bloodwise, British Heart Foundation, Cancer Research UK, Parkinson&#8217;s UK, Wellcome Trust)<br />
+<strong>Policy:</strong> Gold OA (funded for <strong><a href="http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Open-access/Charity-open-access-fund/WTP057250.htm">36 institutions</a></strong>)</p>
+<p><strong>Key information for funded researchers</strong><strong><br />
+</strong>Article publishing charges for research papers acknowledging at least one of the partner charities as a funder can be charged to COAF.</p>
+<p>Authors must have signed a <strong><a href="http://creativecommons.org/licenses/">Creative Commons Attribution (CC BY) license</a></strong> when publishing their article. The journal must deposit, on behalf of the author, the final published article (the <strong><a href="#Article versions">Version of Record</a></strong>) to PubMed Central on publication.</p>
+<p>Taylor &amp; Francis manages the deposit of articles in PubMed Central for all authors. To ensure we can do this for you, please ensure you complete the funding information in our online submissions system when you submit your paper or tell us at proof stage.</p>
+<p><strong><a href="https://re.ukri.org/research/open-access-research/">Research England</a></strong></p>
+<p><strong>Policy:</strong> Green and Gold OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+To be eligible for submission to REF 2021 the <strong><a href="#Article versions">Accepted Manuscript</a></strong> must have been deposited in an institutional or subject repository on acceptance for publication (applies to articles published after April 1, 2016).</p>
+<p>Where a publication specifies an embargo period, authors can comply with the policy by making a ‘closed’ deposit on acceptance. The maximum allowed embargo period is 12 months for science, technology and medicine and 24 months for the social sciences, arts, and humanities.</p>
+<p>Articles published as Gold OA are not required to be deposited. Gold OA articles will only be compliant with the policy if they are OA immediately on publication.</p>
+<p><a href="https://www.ukri.org/"><strong>UK Research and Innovation</strong></a></p>
+<p><strong>Policy:</strong> Gold and green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+If opting for gold OA, researchers must sign a <strong><a href="http://creativecommons.org/licenses/">Creative Commons Attribution (CC BY) license</a></strong> when publishing their article. Article publishing charges (APCs) may be paid from block grants to research organizations.</p>
+<p>For green OA, the <strong><a href="#Article versions">Accepted Manuscript</a></strong> must be deposited in a repository within six months of publication for STEM disciplines, or 12 months in the arts, humanities, and social sciences. Where funding for APCs is unavailable, the maximum embargo is 12 months for STEM disciplines or 24 months in the arts, humanities, and social sciences.</p>
+<p>Research papers in biomedicine should be published immediately, or with an embargo period of no longer than 6 months.</p>
+<p>RCUK Policy on Open Access will continue to apply to Research Council-supported research until the outcome of the UKRI review of open access is known.</p>
+<p><strong><a href="http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Open-access/Guides/WTD018855.htm">Wellcome</a></strong></p>
+<p><strong>Policy:</strong> Gold (funded) and green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+For gold OA with article publishing charge (APC) funding, authors must have signed a <strong><a href="http://creativecommons.org/licenses/">Creative Commons Attribution (CC BY) license</a></strong> when publishing their article and ensure it is deposited in PubMed Central as soon as possible.</p>
+<p>For green OA, the <strong><a href="#Article versions">Accepted Manuscript</a></strong> must be deposited in Europe PubMed Central within six months of publication.</p>
+<p>Taylor &amp; Francis manages the deposit of Gold OA articles in PubMed Central for all authors. To ensure we can do this for you, please ensure you complete the funding information in our online submissions system when you submit your paper or tell us at proof stage.</p>
+<p>Taylor &amp; Francis meets Wellcome&#8217;s publisher requirements as defined on their <a href="https://wellcome.ac.uk/funding/managing-grant/publisher-requirements"><strong>website</strong>.</a></p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-unitedstates" role="tabpanel" aria-labelledby="pills-unitedstates-tab">
+													<p><strong><a href="https://publicaccess.nih.gov/">National Institutes of Health (NIH) public access policy</a></strong></p>
+<p><strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+The <strong><a href="#Article versions">Accepted Manuscript</a></strong> or the final published article (<strong><a href="#Article versions">Version of Record</a></strong>) should be deposited in National Library of Medicine&#8217;s PubMed Central, to be made publicly available no later than twelve months after the official date of publication.</p>
+<p>Taylor &amp; Francis manages the deposit of NIH-funded articles in PubMed Central for all authors. To ensure we can do this for you, please ensure you complete the funding information in our online submissions system when you submit your paper or tell us at proof stage.</p>
+<p><strong><a href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf">OSTP (Office of Science and Technology Policy) memorandum</a></strong></p>
+<p><strong>Policy:</strong> Green OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Funded federal agencies or bureaus should ensure free, public, online access to a machine-readable version of either the <strong><a href="#Article versions">Accepted Manuscript</a></strong> version or the final published article (<strong><a href="https://authorservices.taylorandfrancis.com/copyright-and-you#VoR">Version of Record</a></strong>) of funded research within twelve months of publication.<br />
+Each agency has specified its own repository of choice in which to deposit content. Each department&#8217;s plan can be accessed on <a href="https://www.cendi.gov/"><strong>CENDI</strong></a>.</p>
+<p>Agencies covered by the OSTP memo:</p>
+<ul>
+<li>Department of Health and Human Services (HHS)</li>
+<li>Agency for Healthcare Research and Quality (AHRQ)</li>
+<li>HHS Office of the Assistant Secretary for Preparedness and Response (ASPR)</li>
+<li>HHS Centers for Disease Control and Prevention (CDC)</li>
+<li>Department of Homeland Security (DHS)</li>
+<li>Department of Defense (DoD)</li>
+<li>Department of Energy (DOE)</li>
+<li>Department of the Interior (DOI)</li>
+<li>Department of Transportation (DOT)</li>
+<li>Department of Education (ED)</li>
+<li>Environmental Protection Agency (EPA)</li>
+<li>HHS Food and Drug Administration (FDA)</li>
+<li>National Aeronautics and Space Administration (NASA)</li>
+<li>HHS National Institutes of Health (NIH)</li>
+<li>Department of Commerce (DOC)</li>
+<li>National Institute of Standards and Technology (NIST)</li>
+<li>DOC National Oceanic and Atmospheric Administration (NOAA)</li>
+<li>National Science Foundation (NSF)</li>
+<li>Office of the Director of National Intelligence (ODNI)</li>
+<li>Smithsonian Institution (SI)</li>
+<li>United States Agency for International Development (USAID)</li>
+<li>United States Department of Agriculture (USDA)</li>
+<li>United States Department of Veterans Affairs (VA)</li>
+</ul>
+												</div>
+												</div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>International open access funder policies and mandates</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-tabtable pillar__repeater--tabtable-red"><div class="pillar__tabtable--title"><span>Bill & Melinda Gates Foundation</span></div><ul class="nav nav-pills mb-3 pills-tab" id="" role="tablist">												<li class="nav-item">
+													<a class="nav-link active show" id="tabtable-billmelindagatesfoundation-tab" data-toggle="pill" href="#tabtable-billmelindagatesfoundation" role="tab" aria-controls="tabtable-billmelindagatesfoundation>" aria-selected="true">
+														Bill & Melinda Gates Foundation													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-worldbank-tab" data-toggle="pill" href="#tabtable-worldbank" role="tab" aria-controls="tabtable-worldbank>" aria-selected="true">
+														World Bank													</a>
+												</li>
+																								<li class="nav-item">
+													<a class="nav-link show" id="tabtable-worldhealthorganization-tab" data-toggle="pill" href="#tabtable-worldhealthorganization" role="tab" aria-controls="tabtable-worldhealthorganization>" aria-selected="true">
+														World Health Organization													</a>
+												</li>
+												</ul><div class="pillar__tabtable--copy tab-content" id="pills-tabContent">												<div class="tab-pane fade active show" id="tabtable-billmelindagatesfoundation" role="tabpanel" aria-labelledby="pills-billmelindagatesfoundation-tab">
+													<p><strong>Policy: </strong>Gold OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+All articles and their associated data must be OA immediately upon publication, without any embargo period, and published under the terms of a <strong><a href="#creativecommons">CC BY license</a></strong> 4.0, or equivalent.</p>
+<p>The foundation will pay reasonable article publishing charges for publication</p>
+<p><a href="http://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy"><strong>Bill &amp; Melinda Gates Foundation website</strong></a></p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-worldbank" role="tabpanel" aria-labelledby="pills-worldbank-tab">
+													<p><strong>Policy:</strong> Green and gold OA</p>
+<p><strong>Key information for funded researchers</strong><br />
+Articles published gold OA should be under the terms of a <strong><a href="#creativecommons">CC-BY license</a></strong>. For green OA, articles should be published under the terms of a <strong><a href="#creativecommons">CC BY-NC-ND license</a> </strong>with a maximum 18 month embargo period on the <strong><a href="#Article versions">Accepted Manuscript</a></strong> deposit. The World Bank requires electronic copies of complete, final manuscripts, as defined above, as well as the associated metadata, to be deposited in the Open Knowledge Repository.</p>
+<p>Taylor &amp; Francis manages the deposit of articles and associated metadata in the Open Knowledge Repository for all authors. To ensure we can do this for you, please ensure you complete the funding information in our online submissions system when you submit your paper or tell us at proof stage.</p>
+<p><a href="http://documents.worldbank.org/curated/en/2012/04/16200740/world-bank-open-access-policy-formal-publications"><strong>World Bank website</strong></a></p>
+												</div>
+																								<div class="tab-pane fade" id="tabtable-worldhealthorganization" role="tabpanel" aria-labelledby="pills-worldhealthorganization-tab">
+													<p><strong>Policy: </strong>Green and gold OA, with funding available.</p>
+<p><strong>Key information for funded researchers</strong><br />
+Articles authored or co-authored by WHO staff must be published in an open access journal, or a hybrid open access journal under the terms of a <strong><a href="https://creativecommons.org/licenses/by/3.0/igo/">Creative Commons intergovernmental organization (IGO) ported license</a></strong>, or in a subscription journal that allows for the depositing of the Author&#8217;s <strong><a href="#Article versions">Accepted Manuscript</a></strong> in Europe PubMed Central within twelve months of the official publication date.</p>
+<p>Articles authored or co-authored by individuals or institutions that are funded in whole of part by WHO should publish their article under a Creative Commons licence, or in a subscription journal that allows for the depositing of the Author’s Accepted Manuscript in Europe PubMed Central within twelve months of the official publication date.</p>
+<p>Gold OA costs can be included in funding applications.</p>
+<p><strong><a href="http://www.who.int/about/policy/en/">World Health Organization website</a></strong></p>
+												</div>
+												</div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>How do I check if the journal I want to publish in is compatible with my funder’s OA policy?</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p>Use the <strong><a href="https://authorservices.taylorandfrancis.com/publishing-open-access/oa-options-finder">open access options finder</a></strong> to search for details of every Taylor &amp; Francis journal’s green OA policy and gold OA publishing options.</p>
+<p>This includes information on which licenses are available and what embargo period applies. Some funders require any gold OA articles to be published under a <strong><a href="#creativecommons">Creative Commons Attribution (CC BY) license</a></strong>. This is available on the majority of our Open Select and Open journals.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Deposit agreements with major research funders</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><img class="size-full wp-image-9499 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/nih.png" alt="" width="266" height="200" /></p>
+<p>Taylor &amp; Francis will deposit all qualifying funded manuscripts, including those funded by the National Institutes of Health (NIH), Wellcome, and the Bill and Melinda Gates Foundation, in PubMed Central on the authors’ behalf. We have deposit agreements with PubMed Central and Europe PubMed Central for articles from certain funders, including the NIH and those listed by Europe PMC.</p>
+<p>We deposit all articles by the online publication date for NIH-funded manuscripts. For all other funded manuscripts, we deposit within 7 days of final paginated publication.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Funder statements</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p>Funder statements will show in the additional information section on the HTML version of the article for all of our journals. This ensures funder information is visible on every applicable article and you can easily meet the requirements of the organization that funded your research.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Complying with the World Bank and Food and Agriculture Organization of the United Nations (FAO) OA policies</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><img class="size-full wp-image-9500 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/logos.png" alt="" width="266" height="200" /></p>
+<p>If you are an employee of the International Bank for Reconstruction and Development / the World Bank or the FAO, your work is governed by the “Publication Framework Agreement” (PFA) which the World Bank / FAO and Taylor &amp; Francis have agreed.</p>
+<p>This allows for the posting of an AOM (the version submitted for peer review) in the Bank’s / FAO’s repository for public access at any time. It also allows the posting of the Author’s Accepted Manuscript (the version revised after peer review, but prior to Taylor &amp; Francis’s copy-editing, etc.) in the Bank’s / FAO’s repository after an embargo of 18 months, with a link to the Taylor &amp; Francis Version of Scholarly Record. The World Bank / FAO asserts and retains copyright in each article.<br />
+<a name="openresearch"></a></p>
+</div></div>						</div>
+					</div>
+										<div class="pillar__repeater--sectiontitle" data-location="row_9" style="background-image:url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/dartboard_background.jpg);">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									Helping you achieve your open research aims								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container pillar__repeater">
+						<div class="row justify-content-sm-center">
+							<div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-leadingletter"><p>Open research is a movement to open up all the outputs of scholarly activity. This includes elements such as data, computer code, and citations.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p>At Taylor &amp; Francis we want to bring these outputs to the surface. Visibility will enrich the reading experience and means that results can be verified and reproduced. Open research also ensures that researchers are given credit for all their valuable work.</p>
+<p>Here are some of the ways Taylor &amp; Francis is supporting the open research goals of our authors:</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fal fa-clipboard-list"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Data sets</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p><a href="https://authorservices.taylorandfrancis.com/understanding-our-data-sharing-policies/"><img class="size-full wp-image-9525 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Data-sharing.png" alt="" width="266" height="264" srcset="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Data-sharing.png 266w, https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Data-sharing-100x100.png 100w" sizes="(max-width: 266px) 100vw, 266px" /></a><a name="Data sharing"></a>It is increasingly common for researchers to make their research data open. In fact, some funders are now making data sharing a requirement.</p>
+<p>Sharing data publicly improves the robustness of the research process. It supports validation, research transparency, reproducibility and replicability of results. Depositing data in a repository mints a permanent identifier, such as a DOI. This allows authors and others to cite the data set and researchers to get appropriate credit for their work.</p>
+<p>For more details about the benefits of data sharing and the requirements of Taylor &amp; Francis journals, read our <strong><a href="https://authorservices.taylorandfrancis.com/understanding-our-data-sharing-policies">guide to data sharing</a></strong>.</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Code</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p><a href="https://authorservices.taylorandfrancis.com/using-code-within-your-research"><img class="size-full wp-image-9524 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Code-Ocean-image.png" alt="Code Ocean screenshot" width="266" height="184" /></a>We’re partnering with Code Ocean to help take Taylor &amp; Francis articles to the next level. We’re aiming to improve the openness and transparency of the underlying code and data associated with articles.</p>
+<p>Code Ocean allows readers to access code and data directly within an article. They can also run everything in the cloud, without downloading anything to their local computers. <strong><a href="https://authorservices.taylorandfrancis.com/using-code-within-your-research">Find out more</a></strong>.</p>
+<div class="pillar__icon pillar__icon--right" data-iconweight="" style="font-weight: 100;"></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Citations</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><a href="https://authorservices.taylorandfrancis.com/opening-up-citations"><img class="size-full wp-image-9522 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/I4OC.jpg" alt="I4OC logo" width="266" height="143" /></a>Taylor &amp; Francis is part of the <strong><a href="https://authorservices.taylorandfrancis.com/opening-up-citations">Initiative for Open Citations</a></strong> (I4OC), a collaboration between publishers, researchers, and organizations. Its aim is to promote access to data on citations that is structured, separable and open.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Open Science Badges</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p><a href="https://authorservices.taylorandfrancis.com/open-science-badges/"><img class="size-full wp-image-9593 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/open-science-badges-landscape.png" alt="3 open science badges" width="266" height="194" /></a></p>
+<p>Researchers submitting to journals that support this Center for Open Science (COS) initiative have the opportunity to apply for one or more of the <strong><a href="https://authorservices.taylorandfrancis.com/open-science-badges/">Open Science Badges</a></strong> during submission. If accepted, the badge(s) will be displayed within the html and pdf versions of your article on Taylor &amp; Francis Online.</p>
+<p>The Badges program was designed by the COS to acknowledge open science practices. They are offered as incentives for researchers to share data, materials, or to preregister, and are a signal to the reader that the content of the study has been made available in perpetuity.</p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Open research podcast episode</h3></div><div class="pillar__repeater--block pillar__repeater--type-standardicon"><p><a href="https://authorservices.taylorandfrancis.com/develop-your-research-career-podcast"><img class="size-full wp-image-9588 alignleft" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Open-Research-podcast-266.png" alt="Open research" width="266" height="266" srcset="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Open-Research-podcast-266.png 266w, https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/Open-Research-podcast-266-100x100.png 100w" sizes="(max-width: 266px) 100vw, 266px" /></a>To find out more about what open research is and how it can benefit you and your work, listen to our podcast episode, <strong><a href="https://authorservices.taylorandfrancis.com/develop-your-research-career-podcast/#Episode7">‘Making your research open’</a></strong>. With contributions from open research experts, we examine the different ways scholarly outputs can be made open and the support that&#8217;s available for researchers to do this.</p>
+<p>Other episodes in this podcast series, 15 minutes to develop your research career, include, <strong><a href="https://authorservices.taylorandfrancis.com/develop-your-research-career-podcast/?utm_source=Author_Services&amp;utm_medium=cms&amp;utm_campaign=JMQ04326#Episode5">Getting published for the first time</a></strong>; <strong><a href="https://authorservices.taylorandfrancis.com/develop-your-research-career-podcast/?utm_source=Author_Services&amp;utm_medium=cms&amp;utm_campaign=JMQ04326#Episode1">Public engagement in research</a></strong>; and <strong><a href="https://authorservices.taylorandfrancis.com/develop-your-research-career-podcast/?utm_source=Author_Services&amp;utm_medium=cms&amp;utm_campaign=JMQ04326#Episode6">The unspoken challenges of research life</a></strong>.</p>
+<div class="pillar__icon pillar__icon--left" data-iconweight="" style="font-weight: 100;"><i class="fas fa-podcast"></i></div></div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Publishing open access: a guide for authors</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><div id="attachment_9808" style="width: 276px" class="wp-caption alignleft"><a href="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/12/Open-access-guide-for-authors.pdf"><img class="size-full wp-image-9808" src="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/12/Open-access-author-guide.png" alt="Open access author guide" width="266" height="268" srcset="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/12/Open-access-author-guide.png 266w, https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/12/Open-access-author-guide-100x100.png 100w" sizes="(max-width: 266px) 100vw, 266px" /></a><p class="wp-caption-text"><a href="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/12/Open-access-guide-for-authors.pdf">Download a copy of the guide</a></p></div>
+<p><a href="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/12/Open-access-guide-for-authors.pdf">Download a copy of our handy open access guide for authors</a>.</p>
+<p>Find out about the different routes to making your work open access, the benefits of doing so, and how you can achieve your open access goals with Taylor &amp; Francis Group journals.</p>
+<p>&nbsp;</p>
+<p><a href="https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/12/Open-access-author-guide-in-Japanese.pdf">日本語版のダウンロードはこちらから</a></p>
+</div></div><div class="col-12 col-md-10 pillar__repeater--item"><div class="pillar__repeater--block pillar__repeater--type-standard--title"><h3>Keep up to date with open access developments</h3></div><div class="pillar__repeater--block pillar__repeater--type-standard"><p>Open access is fast-moving, with new opportunities and requirements appearing regularly. Taylor &amp; Francis is committed to being at the forefront of these changes, providing increasing choice for researchers and funders.<strong><a href="http://pages.email.taylorandfrancis.com/Open_Access/"> Make sure you’re the first to hear about the latest developments by registering for our Open Access Bulletin</a></strong>.</p>
+</div></div>						</div>
+					</div>
+								<div class="">
+				<div class="container">
+					<div class="row justify-content-sm-center">
+						<div class="col-12 col-md-10">
+							<h3 class="pillar__relatedposts--title">Related Posts</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="">
+				<div class="container">
+					<div class="row justify-content-sm-center">
+						<div class="col-12 col-md-10">
+							<div class="row pillar__related">
+								<div class="col-12 col-md-4 pillar__related--item"><a href="https://authorservices.taylorandfrancis.com/research-that-makes-an-impact/"><div style="background-image: url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/12/Kristen-Knutson-and-Malcolm-von-Schantz.jpg);" class="pillar__related--thumbnail">&nbsp;</div><h3 class="pillar__related--title">Research that makes an impact</h3><div class="pillar__related--copy">In our latest Twitter chat we talked to Kristen Knutson and Malcolm von Schantz, authors of a paper which has received a very impressive level of attention this year.
+
+Their article, published in  [...]</div></a></div><div class="col-12 col-md-4 pillar__related--item"><a href="https://authorservices.taylorandfrancis.com/topguidelines/"><div style="background-image: url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/11/Open-science-badges-2.png);" class="pillar__related--thumbnail">&nbsp;</div><h3 class="pillar__related--title">The Centre of Open Science and promoting openness in research</h3><p>The TOP guidelines are a set of 8 standards designed to improve the transparency and openness of research. Hear from David Mellor from the Center for Open Science on open research.</p>
+<div class="pillar__related--copy"></div></a></div><div class="col-12 col-md-4 pillar__related--item"><a href="https://authorservices.taylorandfrancis.com/open-science-badges/"><div style="background-image: url(https://authorservices.taylorandfrancis.com/wp-content/uploads/2018/10/open-science-badges-e1541423076598.png);" class="pillar__related--thumbnail">&nbsp;</div><h3 class="pillar__related--title">Open Science Badges</h3><div class="pillar__related--copy">Is your research eligible for one of the Open Science Badges? Researchers submitting to journals that support this Center for Open Science (COS) initiative have the opportunity to apply for one or mo [...]</div></a></div>								<div class="col-12">
+									<span class="pillar__related--footer">Discover more great stories from the <a href="/category/insights">blog</a></span>
+								</div>

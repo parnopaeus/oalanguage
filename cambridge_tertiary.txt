@@ -1,0 +1,81 @@
+﻿<h1 class="title title-left ">Services for open access policies
+</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<div class="column core-page-tabs">
+<div class="row">
+<div class="tab-title current-mobile hide-for-large-up">
+<a href=""></a>
+<div class="blue-square"><a href="#" class="icon arrow" aria-label="toggle visibility of page tabs"></a></div>
+</div>
+<ul class="tabs">
+<li class="tab-title "><a href="/core/services">All services</a></li>
+<li class="tab-title "><a href="/core/services/librarians">Librarians</a></li>
+<li class="tab-title "><a href="/core/services/authors">Authors</a></li>
+<li class="tab-title "><a href="/core/services/agents">Agents</a></li>
+<li class="tab-title "><a href="/core/services/corporates">Corporates</a></li>
+<li class="tab-title "><a href="/core/services/publishing-partners">Publishing partners</a></li>
+<li class="tab-title active"><a href="/core/services/open-access-policies">Open access policies</a></li>
+</ul>
+</div>
+</div>
+<section class="row margin-top-for-small margin-top-for-medium">
+<div class="large-12 columns">
+<div class="split-panel">
+<div class="wrapper">
+<div class="panel large-3 small-12 narrow-column">
+<ul class="index-collection">
+<li class="has-children"><span class="active">Open access policies</span><ul class="children"><li><a href="/core/services/open-access-policies/open-research">Open Research</a></li><li><a href="/core/services/open-access-policies/introduction-to-open-access">Introduction to open access</a></li><li><a href="/core/services/open-access-policies/social-sharing">Social sharing</a></li><li><a href="/core/services/open-access-policies/open-access-journals">Open access journals</a></li><li><a href="/core/services/open-access-policies/open-access-books">Open access books</a></li><li><a href="/core/services/open-access-policies/open-access-elements">Open access Elements</a></li><li><a href="/core/services/open-access-policies/open-access-resources">Open access resources </a></li><li><a href="/core/services/open-access-policies/read-and-publish-agreements">Read and publish agreements</a></li></ul></li>
+</ul>
+<div class="cms-area-container"><div class="cms-area" id="sidebar"></div></div>
+</div>
+<div class="panel large-9 small-12 column main-column padding-top" id="maincontent">
+<div class="row">
+<div class="large-12 columns">
+<div class="cms-area-container"><div class="cms-area" id="content"><div class="cms-block" id="57835bb38ea6885e0a6065ab" data-block-key="aop-block-html"><p>The Open Research movement seeks to maximise the impact and benefits of research by prioritising barrier-free access to research findings, data and methodologies. Open Research reflects a fundamental belief that the pursuit of knowledge benefits directly from collaboration, transparency, rapid dissemination and accessibility.</p>
+<p>Open Access (OA) has become an important way to make research findings freely available for anyone to access and view. Cambridge Open serves authors and the wider community by publishing high-quality, peer-reviewed OA content. We support and promote all forms of OA that are financially sustainable. Our&nbsp;<a href="https://www.cambridge.org/core/services/open-access-policies/introduction-to-open-access">introduction to open access page</a>&nbsp;provides some essential information about the types of OA we offer.&nbsp;You can also read&nbsp;<a href="https://www.cambridge.org/core/services/aop-file-manager/file/5ad5f983381abb5352be9220" target="_blank">A Guide to Open Access at Cambridge</a>, or our&nbsp;<a href="https://www.cambridge.org/core/services/aop-file-manager/file/5af9823c49de668e0606050e/1386_Cambridge%20Open_Author%20FAQs.pdf" target="_blank">Frequently Asked Questions for Authors</a>.</p>
+<p>We publish Gold OA journals and books, and we work with publishing partners such as learned societies to develop OA for different communities.
+</p>
+<p>We also support social sharing and Green OA (also called Green archiving) across our journals and books programmes, allowing authors to deposit content in PubMed Central, other institutional and subject-specific repositories, and commercial social sharing sites. Cambridge Open allows authors to comply with the Gold and Green OA requirements of major funders.
+</p>
+<hr>
+<h5>Quick links to key policies and information</h5>
+<p><strong>For authors and others:<br></strong></p>
+<li> <a href="/core/services/open-access-policies/open-access-journals/gold-open-access-journals">Gold OA journals</a>, <a href="/core/services/open-access-policies/open-access-books/gold-open-access-books">books</a> and <a href="https://www.cambridge.org/core/services/open-access-policies/open-access-elements/gold-open-access-elements">Elements</a></li><li><a href="/core/services/open-access-policies/open-access-journals/gold-open-access-journals">Our Article Processing Charges (APCs) for journals</a></li><li><a href="/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals">Green OA and social sharing policy for journals</a></li><li><a href="/core/services/open-access-policies/open-access-books/green-open-access-policy-for-books">Green OA and social sharing policy for books</a></li><li><a href="https://www.cambridge.org/core/services/open-access-policies/open-access-elements/green-open-access-policy-for-elements">Green OA and social sharing policy for Elements</a> </li><li><a href="https://www.cambridge.org/core/services/open-access-policies/social-sharing">Social sharing information and policies</a></li><span></span>
+<p><br></p>
+<p><strong>For institutions:</strong></p>
+<li><a href="/core/services/open-access-policies/open-access-journals/double-dipping-policy">Avoiding double-dipping</a></li></div></div></div>
+</div>
+</div>
+<hr />
+<div class="row">
+<div class="large-6 columns">
+<div class="cms-area-container"><div class="cms-area" id="promo-1"><div class="cms-block" id="5ad5fd1c381abb5352be9223" data-block-key="aop-block-html"><h4>Read our&nbsp;Guide to Open Access at Cambridge</h4>
+<figure class="content-block-image-wrapper" rel="width: 250px; margin: 0px 10px 10px 0px; float: left;" style="width: 250px; margin: 0px 10px 10px 0px; float: left;"><a href="https://www.cambridge.org/core/services/aop-file-manager/file/5ad5f983381abb5352be9220" target="_blank"><img src="/core/services/aop-file-manager/file/5ad6009d79bded3d29dbe6ff" alt="A Guide to Open Access at Cambridge cover" title="A Guide to Open Access at Cambridge cover"></a></figure>
+<p><br></p></div></div></div>
+</div>
+<div class="large-6 columns">
+<div class="cms-area-container"><div class="cms-area" id="promo-2"><div class="cms-block" id="5ad5f55f381abb5352be921f" data-block-key="aop-block-video"> <div class="header">
+<div class="left title-underline">
+<h3>
+<span class="subject-title">Introducing Cambridge Open</span>
+</h3>
+<div class="border"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="flex-video">
+<iframe width="100%" src="https://www.youtube.com/embed/rB9LAyKs9Gw?html5=1" frameborder="0" allowfullscreen></iframe>
+</div>
+</div></div></div>
+</div>
+</div>
+<hr />
+</div>
+</div>
+</div>

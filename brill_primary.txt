@@ -1,0 +1,95 @@
+﻿<h1 class="text-display2 m-0 px-4" id="pagetitle">Frequently Asked Questions - Open Access</h1>
+	
+		
+		
+		<div class="px-4" id="pageContent">
+		    
+				
+		    
+		
+			
+			
+				<p> <a name="top"></a></p>
+<p><a href="#what">What is Open Access?</a><br/>
+<a href="#why"> Why should I publish in Open Access?</a><br/>
+<a href="#economics"> What about the economics of Open Access?</a><br/>
+<a href="#greengold"> What are the differences between Green and Gold Open Access?</a><br/>
+<a href="#quality"> Does Open Access have implications for the quality of the content?</a><br/>
+<a href="#pricing"> What is Brill’s policy when it comes to pricing subscription journals with a significant amount of Open Access content?</a><br/>
+<a href="#retroactive"> Can my article, journal issue or book be made available in Open Access after it has been published?</a><br/>
+<a href="#print"> Do you still print Open Access material?</a><br/>
+<a href="#waivers"> Are any waivers or discounts in place for authors from developing countries?</a><br/>
+<a href="#entire"> Can an entire journal or book series be Open Access?</a></p>
+<h3>Answers</h3>
+<p><strong>What is Open Access?<a name="what"></a></strong><br/>
+Open Access means that the reader has unrestricted, free online access to scholarly publications. It also means that there are almost no restrictions for others to further distribute or use the material. Exactly what readers are allowed to do with the work is still, however, in the hands of the author: they are free to choose either a liberal or a more restrictive <a target="_blank" href="https://creativecommons.org/licenses/">Creative Commons</a> license.</p>
+<p><strong>Why should I publish in Open Access?<a name="why"></a></strong></p>
+<ul>
+    <li>Mandate: An increasing number of research councils, funding bodies and institutions stipulate that funded research should be published in Open Access. Notable examples are RCUK (United Kingdom), NWO (The Netherlands) as well as the European Research Council. See also <a href="/page/MandatesandFunding/mandates-and-funding">Mandates and Funding</a>.</li>
+    <li>Visibility: with Open Access, your work is freely available to as broad an audience as possible. It boosts downloads and citations. You are also free to share it wherever you like.</li>
+    <li>Access to funding: institutions often promote Open Access. The institutions that do so have a separate Open Access budget in place that their affiliated researchers have access to. You may, too. Check with your librarian or with <a href="mailto:brillopen@brill.com">brillopen@brill.com</a>.</li>
+    <li>Interdisciplinary: Open Access adds to the discourse between research fields and disciplines and enables a tighter scholarly network that we all ultimately benefit from.</li>
+</ul>
+<p><strong>What about the economics of Open Access?<a name="economics"></a></strong><br/>
+Publishing scholarly research involves investment and thus means the publisher takes a commercial risk. Traditionally, this investment is covered by selling subscriptions. In the Open Access model, these costs are covered by another party. Three dominant models can currently be discerned:</p>
+<ul>
+    <li>The author’s affiliated institution covers the charges</li>
+    <li>Crowdfunding (e.g. <a target="_blank" href="http://www.knowledgeunlatched.org/">Knowledge Unlatched</a>)</li>
+    <li>External funding (e.g. from a research grant)</li>
+    <li>Author funding</li>
+</ul>
+<p><strong>     What are the differences between Green and Gold Open Access?<a name="greengold"></a></strong><br/>
+<em>Gold</em></p>
+<ul>
+    <li>Immediate Open Access upon publication</li>
+    <li>Archiving: version of record (print PDF)</li>
+    <li>APC-based</li>
+</ul>
+<p><em>​Green</em></p>
+<ul>
+    <li>Delayed Open Access (embargo)</li>
+    <li>Archiving: submitted manuscript</li>
+    <li>Subscription-based</li>
+</ul>
+<p>For more information on Green Open Access, please view our policy on <a href="/page/RightsPermissions/rights-and-permissions#selfarchiving">self-archiving</a>.</p>
+<p><strong>Does Open Access have implications for the quality of the content?<a name="quality"></a></strong><br/>
+No. All of Brill’s Open Access publications go to our standard process of rigorous quality control:</p>
+<ul>
+    <li>assessment by a scholarly editorial board;</li>
+    <li>external peer review, in most cases double-blind.</li>
+</ul>
+<p>Additionally, payment of publication charges is only due after the manuscript has been definitively accepted for publication. Brill will not charge anything if the manuscript is not published (which means that Brill still takes on part of the commercial risks).</p>
+<p><strong>What is Brill’s policy when it comes to pricing subscription journals with a significant amount of Open Access content?<a name="pricing"></a></strong><br/>
+Each year Brill evaluates the amount of Open Access content in all of our journals and adjusts the subscription price accordingly, if necessary.</p>
+<p><strong>Can my article, journal issue or book be made available in Open Access after it has been published?<a name="retroactive"></a></strong><br/>
+Yes. If your work has been published longer than a year, Brill will have received income from the sales. This is why Brill offers a discount on retroactive Open Access publication charges, based on the number of years your work has already been published. For more information, please see <a href="/page/OpenAccessforAuthors/open-access-for-authors#retroactive">Retroactive Open Access Publishing</a> or contact <a href="mailto:brillopen@brill.com">brillopen@brill.com</a>.</p>
+<p><strong>Do you still print Open Access material?<a name="print"></a></strong><br/>
+Yes, in most cases:</p>
+<ul>
+    <li>Articles in hybrid journals are still included in the print edition.</li>
+    <li>Books with a CC-BY-NC license are still made available in print.</li>
+</ul>
+<p>There are, however, exceptions:</p>
+<ul>
+    <li>Books with a CC-BY license are online-only</li>
+    <li>Articles in our full Brill Open Journals are online-only</li>
+</ul>
+<p><strong>Are any waivers or discounts in place for authors from developing countries?<a name="waivers"></a></strong><br/>
+Yes. Brill participates in several <a href="/page/DevelopingCountriesProgram/brills-developing-countries-program">developing countries programs</a>, which means authors from developing countries are eligible for a significant discount on or a full waiver of the Open Access publication charges.</p>
+<p><strong>Can an entire journal or book series be Open Access?<a name="entire"></a></strong><br/>
+Yes. Brill publishes various full Open Access journals, such as <a href="/view/journals/fasc/fasc-overview.xml">Fascism</a>, as well as full Open Access book series, such as <a href="/view/serial/RSH">Radboud Studies in Humanities</a>.<br/>
+Societies or scholars who may be interested in publishing their journal in Open Access with us are welcome to contact the relevant <a href="/page/AcquisitionsEditors/acquisitions-editors">acquisitions editor</a> or Brill’s Open Access department at <a href="mailto:brillopen@brill.com">brillopen@brill.com</a>.</p>
+<p><a href="#top">Back to top</a></p>
+			
+			
+			
+		</div>
+	</div>
+
+		</div>
+	
+	
+				
+			
+			</div><!-- end pageBody -->
+			

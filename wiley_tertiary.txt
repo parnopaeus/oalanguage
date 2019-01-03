@@ -1,0 +1,38 @@
+﻿  <a class="callout" href="/author-resources/Journal-Authors/open-access/author-compliance-tool.html">
+<h4>Author Compliance Tool</h4>
+<p>Use our ACT to check preprints policies of Wiley journals.</p></a>
+
+<h1><nobr>Wiley’s Preprints</nobr> Policy</h1>
+
+<p>A preprint is a paper that is made available publicly via a community preprint server prior to (or simultaneous with) submission to a journal. Preprint servers, i.e., servers that allow for the posting of papers prior to submission for publication, are becoming more common across a range of disciplines.</p></br>
+
+<p>Wiley believes that in communities where non-commercial preprint servers exist, journals should allow for the submission of manuscripts which have already been made available on such a server. Allowing submission does not, of
+course, guarantee that an article will be sent out for review; it simply reflects a belief that availability on a preprint server should not be a disqualifier for submission.</p></br>
+
+<h2>Wiley's Preprints Policy statement for subscription/hybrid open access journals</h2>
+
+<p><i>[Journal] will consider for review articles previously available as preprints on non-commercial servers. Authors may also post the <a href="" title="The submitted version of an article is the author's version that has not been peer-reviewed, nor had any value added to it by Wiley (such as formatting or copy editing)." style="background-color:#E7FDFF;color:#597BA9;text-decoration:underline; text-decoration-style:dashed;">submitted version</a> of a manuscript to non-commercial servers at any time. Authors are requested to update any pre-publication versions with a link to the final published article.</i></p></br>
+
+<h2>Wiley's Preprints Policy statement for open access journals</h2>
+
+<p><i>[Journal] will consider for review articles previously available as preprints on non-commercial servers. Authors are requested to update any pre-publication versions with a link to the final published article. Authors may also post the final published version of the article immediately after publication.</i></p></br>
+
+<h2>Licensing implications</h2>
+
+<p>Wiley will publish submissions that have previously been assigned CC-BY (-NC/-NC-ND) as preprints. If a preprint has been posted under a CC license, it is still possible to publish in the journal under a standard <a href="/author-resources/Journal-Authors/licensing/licensing-info-faqs.html">Copyright Transfer Agreement (CTA) or an Exclusive License Agreement (ELA)</a>.</p></br>
+
+<p>Authors should not assign copyright during the preprint process; authors should retain copyright in their          work when posting to a preprint server.</p></br>
+    
+<h2>Implications for citation practices</h2>
+
+<p>Wiley encourages researchers and academics who reference preprints (like other peer reviewed and non-peer                reviewed sources) to continue to cite these sources accurately.</p></br>
+
+<p>Researchers can search preprint servers that are easily found using scholarly search engines or that are                 recognized and well-established.</p></br>
+
+<p>If a preprint is assigned a DOI, Wiley will assign a new DOI to the accepted article and can optionally                link to the preprint. Note that the preprint publisher must link to the published article--this is                 mandatory and falls on the preprint server, not Wiley. More details are available <a href="https://support.crossref.org/hc/en-us/articles/213126346-Posted-content-includes-preprints-">here</a>.</p></br>
+
+<h2>About this policy</h2>
+
+<p>The above sections detail Wiley's general policy for preprint submissions. A number of Wiley journals have set policies independently and authors should refer to the policy on the individual journal pages. </p></br>
+        </div> 
+   

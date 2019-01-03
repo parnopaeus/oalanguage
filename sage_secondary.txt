@@ -1,0 +1,30 @@
+﻿ <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Authors can make their article open access either via the gold OA publishing or green OA archiving as described below.</p>
+<p>A number of funders require research articles which have resulted from their funding to be made open access, including RCUK, NIH and Wellcome Trust. SAGE helps authors comply with these mandates either via the gold open access publication route or green open access archiving.<br />
+	Please check with your funders if there is a mandate to publish your research open access and the criteria for compliance. These resources may be helpful:</p>
+<ul class="list-branded">
+<li><a href="http://roarmap.eprints.org/" target="_blank">Registry of Open Access Repositories Mandatory Archiving Policies</a> (ROARMAP) is a resource which aims to collate information about mandates</li>
+<li><a href="http://www.sherpa.ac.uk/fact/index.php?la=en" target="_blank">SHERPA/FACT</a> aims to give accurate journal data regarding Research Councils United Kingdom (RCUK) and Wellcome Trust compliance</li>
+<li><a href="http://publicaccess.nih.gov/" target="_blank">National Institutes of Health</a> (NIH) provides public access compliance information</li>
+</ul>
+<h2 class="heading-medium margin-top--large">The Green Route – Open Access Archiving</h2>
+<p>Authors may be able to comply with funder mandates by archiving their work in an institutional or subject repository. More information can be found here: <a href="https://us.sagepub.com/en-us/nam/journal-author-archiving-policies-and-re-use">SAGE’s open access archiving policy</a>. For most SAGE journals the embargo on subject repository archiving is 12 months. Therefore, for any funder which requires deposit after 12 months, the author can publish in any SAGE subscription journal at no cost. If the funder requires deposit in less than 12 months then authors will need to publish in a pure gold open access journal and pick the correct licence to be compliant.</p>
+<h2 class="heading-medium margin-top--large">The Gold Routes – Open Access Publishing</h2>
+<p>To follow the gold route for open access publication, authors have the choice to either:</p>
+<ul class="list-branded">
+<li>Publish in pure gold open access journals where all the content is open access for an article processing charge. A full list of <a href="https://us.sagepub.com/en-us/nam/pure-gold-open-access-journals">SAGE’s pure gold open access journals</a></li>
+<li>Or, make their article immediately available as open access for an article processing charge in otherwise subscription-based journals via the <a href="https://us.sagepub.com/en-us/nam/sage-choice">SAGE Choice program</a>.</li>
+</ul>
+<p class="button button-invert-emphasize"><a href="https://us.sagepub.com/en-us/nam/can-your-library-help-you-publish-open-access">Can your institution's library help you publish open access?</a></p>
+<h2 class="heading-medium margin-top--large">How much is the Article Processing Charge for Gold Open Access Publication?</h2>
+<p>For <a href="https://us.sagepub.com/en-us/nam/pure-gold-open-access-journals">pure gold open access journals</a>, APCs vary from journal to journal, so please visit the individual journal’s homepage for details.</p>
+<p>The standard Article Processing Charge for <a href="https://us.sagepub.com/en-us/nam/sage-choice">SAGE Choice</a> articles is 3000 USD. To view a list of exceptions please visit the <a href="https://us.sagepub.com/en-us/nam/sage-choice-journal-and-pricing-exceptions">SAGE Choice Journal and Pricing Exceptions page</a>.</p>
+<p>Please note that for some journals value added tax (VAT) must be added to the APC. Please check the individual journal homepage for clarification. For these journals, if the paying author/institution is based in the European Union, VAT must be added to the APC. Providing a VAT registration number will allow an institution to be exempt from paying this tax, except for UK institutions.</p>
+<h2 class="heading-medium margin-top--large">Open Access License Information</h2>
+<p>SAGE gold open access articles are released under one of the <a href="https://us.sagepub.com/en-us/nam/re-use-of-open-access-content">Creative Commons licenses</a>. Though open access articles are free to access, the Creative Commons license assigned to the article will stipulate under what circumstances article content can be copied, adapted, displayed, distributed, republished or otherwise re-used.Individual license information for each article is provided on the article webpage and on the article PDF.</p>
+<h2 class="heading-medium margin-top--large">Attribution for re-use of SAGE Open Access Content</h2>
+<p>If you are re-using SAGE open access content, it must be accompanied by an attribution that includes information about the original work. <a href="https://us.sagepub.com/en-us/nam/re-use-of-open-access-content">More information about open access re-use requirements at SAGE </a></p>
+<h2 class="heading-medium margin-top--large">More resources</h2>
+<p class="button button-invert-emphasize"><a href="https://us.sagepub.com/en-us/nam/faqs">Open Access Frequently Asked Questions</a></p>
+<p class="button button-invert-emphasize"><a href="https://us.sagepub.com/en-us/nam/resources-journal-authors-and-editors">More resources for journal authors and editors</a></p>
+</div></div></div>

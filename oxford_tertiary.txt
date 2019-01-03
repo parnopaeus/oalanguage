@@ -1,0 +1,25 @@
+﻿<div class="content_centre_single increased_font_size"> 
+      <h1 id="content" class="inspire_promo_title removed_bottom_margin">Open Access and Academic Monographs</h1> 
+      <div class="content_block"> 
+       <p> </p> 
+       <h2 class="section_heading">OUP Supports Open Access</h2> 
+       <p>Oxford University Press (OUP) is mission-driven to support the broad dissemination of high-quality academic research. We believe that open access (OA) can add value to the scholarly publishing process by maximising discoverability and distribution of research materials online through a clear framework for reuse. We have a proven track record in this area; our journals programme, <a href="http://www.oxfordjournals.org/en/oxford-open/index.html" target="_blank">Oxford Open</a> recently celebrated a successful decade of quality, sustainable OA publishing. The majority of our journals now offer authors both green and gold OA options, and a range of licence types, to make their research freely available.</p> 
+       <h2 class="section_heading">Open Access Monographs</h2> 
+       <p>At OUP we recognise the continuing importance of the monograph as a valuable mode of scholarly communication, especially in the humanities and social sciences. We have taken an active role in discussions around the changing nature of the monograph in the context of digital advancements and evolving publication models. We are currently participating in a number of studies and consortium projects. These will allow us a greater understanding of the opportunities open access publishing offers our monograph authors and will help inform our own publication models.</p> 
+       <p><a href="http://oapen-uk.jiscebooks.org/" target="_blank">JISC/AHRC OAPEN-UK Project</a></p> 
+       <p><a title="OAPEN-UK" href="/academic/open-access/oapen-uk/?lang=en&amp;cc=us">OUP's participation in OAPEN-UK</a></p> 
+       <p><a href="http://www.hefce.ac.uk/rsrch/oa/monographs/" target="_blank">HEFCE OA Monographs</a><br></p> 
+       <h2 class="section_heading">Information for Authors</h2> 
+       <p>Open access publishing is rapidly evolving, and led in some part by the policies introduced by research organisations and funding bodies. OUP are committed to developing models in response to the needs of our academic authors and we are actively supporting researchers with open access publishing requirements to fulfil. </p> 
+       <h3>Open Access Publishing</h3> 
+       <p>Under an open access publishing model a full academic monograph can be made freely available online immediately on publication. OUP can support your open access requirements by making a version available for free download and re-use under a Creative Commons licence via our websites, as well as third party discovery sites such as Directory of Open Access Books, OAPEN Library, PMC Bookshelf, and Google Books. We charge a fee, tailored to your monograph, for this service. If you are interested in this model, you may wish to contact your institution or research funder in advance to see if funding support is available.</p> 
+       <p>For more information, please contact the <a title="Find an Editor" href="https://global.oup.com/academic/contactus/editorial/">relevant editor</a> to discuss options for your monograph. All proposals are subject to full peer review and standard acceptance procedures.</p> 
+       <h3>Self-Archiving</h3> 
+       <p>Our self-archiving policy&nbsp;allows authors to make a chapter or portion of their academic book available online through a personal webpage or institutional/funder repositories. No fee is charged but your deposit may be subject to an embargo period. For further details of OUP's author reuse and self-archiving policy please see <a title="Rights &amp; Permissions" href="https://global.oup.com/academic/rights/">academic permissions</a>.</p> 
+       <h3>Research Funding</h3> 
+       <p>To ensure compliance with funder policies, we request that authors submitting academic proposals provide details of any research funding which directly supported their work. If you are aware of any publishing requirements from your institution or research funder(s), please let your editor know.</p> 
+       <p><a title="OUP Open Access titles" href="https://global.oup.com/academic/open-access/titles/">View OUP's Open Access titles</a></p> 
+      </div> 
+     </div> 
+     <div class="content_right"> 
+      <!-- change for tsk 580483 - GA Web Promo item display issues --> 
