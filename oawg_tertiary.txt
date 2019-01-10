@@ -1,0 +1,63 @@
+	<h1 class="pagetitle">FAQ</h1>
+
+				<div id="post-10" class="post-10 page type-page status-publish hentry">
+
+					<div class="entry">
+
+						<h2>Frequently Asked Questions about Open Access</h2>
+<ul>
+<li><a href="index.html#Why">Why has the working group been started?</a></li>
+<li><a href="index.html#BOAI/OKD">What are BOAI? and OKD and why do they matter?</a></li>
+<li><a href="index.html#join">Can anyone join?</a></li>
+<li><a href="index.html#only">Are you only about science and medicine?</a></li>
+<li><a href="index.html#groups">Aren&#8217;t there already groups working on Open Access?</a></li>
+<li><a href="index.html#published">Is you just focussing on Open Access to published scholarly literature?</a></li>
+<li><a href="index.html#copyright">What is your view of the legal aspects of copyright?</a></li>
+<li><a href="index.html#business">How do you carry out its business?</a></li>
+<li><a href="index.html#entity">Are you a legal entity?</a></li>
+<li><a href="index.html#findoitmore">How do I find out more about?</a></li>
+<li><a href="index.html#currentactivities">What is @ccess currently doing?</a></li>
+<li><a href="index.html#Accessversusopenaccess">How does @ccess differ from Open Access?</a></li>
+<li><a href="index.html#accessvalidation">Does @ccess validate material?</a></li>
+</ul>
+<p><a name="Why"></a><strong>Why has @access been started?</strong></p>
+<p>We believe that modern electronic scholarship depends critically on material that is available to everyone for reading, editing, re-using, textmining, datamining, mashups, republication and similar activities. We define such material as Open Access if it conforms to the definition laid out in the Budapest Open Access Initiative:</p>
+<p>&#8220;The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited.&#8221;</p>
+<p>Moreover, we believe that the open access movement should not only be an academic pursuit. Thousands of people are cut off from current scientific knowledge by the high fees required to access it. Patient advocates, health care practitioners, small businesses, translators, citizen and amateur scientists among others. They are the &#8216;Scholarly Poor&#8217; and the reason we want @ccess for all.</p>
+<p><a name="BOAI/OKD"></a><strong>What are BOAI? and OKD and why do they matter?</strong></p>
+<p>The <a href="http://www.soros.org/openaccess">Budapest Open Access Initiative</a> (BOAI) originated at a meeting in Budapest on December 1-2, 2001, organised by Open Society Institute (OSI), which aimed to accelerate progress in the international effort to make research articles in all academic fields freely available on the internet. In the words of the <a href="http://www.soros.org/openaccess/read">BOAI</a>:</p>
+<p>By &#8220;open access&#8221; to this literature, we mean its free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose, without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited.</p>
+<p>The <a href="http://opendefinition.org/">Open Knowledge Definition</a> sets out principles to define ‘openness’ in relation to content and data – that’s any kind of material or data ‘from sonnets to statistics, genes to geodata’. The definition can be summed up in the statement that “A piece of content or data is open if anyone is free to use, reuse, and redistribute it — subject only, at most, to the requirement to attribute and share-alike.”</p>
+<p>While OKD has a scope beyond the scholarly literature, there are few differences between the two statements other than the OKD allows a requirement to share alike whereas the BOAI does not; in terms of licensing BOAI defines &#8220;Open Access&#8221; content as under a CC-BY Attribution or more permissive license.</p>
+<p>This is important because scholarly literature currently labelled as &#8216;Open Access&#8217; is not always BOAI compliant, it may have non-commercial clauses, modification may be banned or permissions may be unclear. @ccess is reclaiming the BOAI definition of Open Access.</p>
+<p><a name="join"></a><strong>Can anyone join @ccess?</strong></p>
+<p>Yes! There is no barrier to membership, anyone who joins our mailing list and is actively participating in group activities is considered a member and can request to be listed on the members page of the website.</p>
+<p><a name="only"></a><strong>Is @ccess only about science and medicine?</strong></p>
+<p>Absolutely not. It&#8217;s about Open Scholarship in its most general sense. This extends to Arts and Humanities, Galleries, Libraries, Archives and Museums (GLAM), the entire body of scholarly knowledge. This applies wherever knowledge is Open or people feel it should be Open.</p>
+<p><a name="groups"></a><strong>Aren&#8217;t there already groups working on Open Access?</strong><br />
+Yes, many groups are working to promote open access from multiple perspectives, a selection of such organisations are listed here:<a href="http://oad.simmons.edu/oadwiki/Advocacy_organizations_for_OA"> OAD List</a></p>
+<p><a name="only"></a><strong>Is @ccess just about Open Access to published scholarly literature?</strong></p>
+<p>A fundamental aspect of @ccess is that anyone can be part of it. You don&#8217;t have to be an employed academic. Citizen Science and Wikipedia have shown that anyone can help to build top quality scholarly material. It&#8217;s possible that @ccess might create its own Open publications &#8211; they will possibly look different from current &#8220;journals&#8221;.</p>
+<p><a name="copyright"></a><strong>What are your views of the legal aspects of copyright?</strong></p>
+<p>We work within existing laws &#8211; it is not a &#8220;pirate&#8221; organization. However we believe that many copyright laws and practices are seriously detrimental to scholarship and the human, physical and intellectual health of the planet. It will work to get them changed, in part by showing the values of Open material.</p>
+<p><a name="business"></a><strong>How do you carry out its business?</strong></p>
+<p>Openly. Wherever possible discussions will be conducted in public on the <a href="http://lists.okfn.org/mailman/listinfo/open-access">open-access mailing list</a>, which is fully <a href="http://lists.okfn.org/pipermail/open-access/">archived</a>. Meetings will be conducted via Skype with relevant minutes being recorded on public Etherpads.</p>
+<p><a name="entity"></a><strong>Are you a legal entity?</strong><br />
+@ccess is a working group under the umbrella of the Open Knowledge Foundation Network. Members are volunteers and the initiative itself is not a legal entity.</p>
+<p>The Open Knowledge Foundation Limited is a not-for-profit organization, incorporated in England &amp; Wales as a company limited by guarantee with company number 05133759.</p>
+<p><a name="findoutmore"></a><strong>How do I find out more about @ccess?</strong></p>
+<p>You can join our <a href="http://lists.okfn.org/mailman/listinfo/open-access">mailing list</a> and catch up on previous discussions in the <a href="http://lists.okfn.org/pipermail/open-access/">archives</a>. Project updates on work in progress may also be posted on the <a href="http://wiki.okfn.org/Working_Groups/access">@ccess wiki</a> before it is ready to appear on this site.</p>
+<p><a name="pronounce"></a><strong>How do you pronounce @ccess?</strong><br />
+Ak-ses</p>
+<p><a name="currentactivities"></a><strong>What is @ccess currently doing?</strong></p>
+<p>We are currently developing ideas on the road to follow towards the goal of  @ccess for everyone to all scientific publications . Although we have started as a relatively small group we have the ambition to grow into a large group of  networked communities of scientists and non-scientists sharing community generated knowledge. For this we have explicitly opted for a bottom-up structure, driven by the community.  We do not want to fall into the trap of becoming an inert and ineffective hierarchical structured organisation.</p>
+<p>&nbsp;</p>
+<p><a name="Accessversusopenaccess"></a><strong>How does @access differ from Open Access? </strong></p>
+<p>Open Access has taken on different meanings after the original definition by the Budapest Open Access Initiative BOAI) in 2002. With the introduction of the term @ccess for BOAI compliant Open Access, we want to create an unique identifier for Open Access according to the BOAI definition.</p>
+<p><a name="accessvalidation"></a><strong>Does @ccess validate material?</strong></p>
+<p>For the moment @ccess does not validate or certify scientific publications. We will engage in discussions with SPARC to see if there is a need to do so in the near future.</p>
+
+												
+					</div>
+
+				</div>

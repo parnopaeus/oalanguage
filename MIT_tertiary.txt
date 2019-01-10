@@ -1,0 +1,125 @@
+<div class="main-content content-main">
+	
+	<div class="entry-content">
+		<h1>Open access publishing support</h1><p>The MIT Libraries offer support for open access publishing in the following ways:</p>
+<p>&nbsp;</p>
+<section class="expandable">
+<h3><a href="#">Open access publishing fund</a></h3>
+<div class="content">The MIT Libraries&#8217; OA fund give MIT researchers up to $1000 towards publication fees in peer-reviewed, open access journals. <a href="/scholarly/publishing/oa-publishing-support/open-access-publishing-fund/">Get more information and apply for funds here</a>.</div>
+</section>
+<section class="expandable">
+<h3><a href="#">American Chemical Society</a></h3>
+<div class="content">
+<p>MIT Libraries subscribe to &#8220;ACS All Publications,&#8221; which means ACS members who are affiliated with MIT get a discount on ACS &#8220;<a href="http://pubs.acs.org/page/4authors/authorchoice/index.html">AuthorChoice</a>.&#8221; AuthorChoice makes the final published version of articles open access immediately or after 12 months. There is an extra fee for a Creative Commons license. <a href="http://acsopenaccess.org/wp-content/uploads/author-choice-pricing.pdf"> More information</a></p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">arXiv</a></h3>
+<div class="content">Through funding from the MIT Libraries, MIT is an institutional supporting member of this repository, which offers open access to e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics. <a href="http://arxiv.org/help/support/faq"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">BioMed Central</a></h3>
+<div class="content">MIT Libraries’ membership provides MIT authors with a 15% discount on article processing fees for BMC journals and all SpringerOpen journals as well.</div>
+</section>
+<section class="expandable">
+<h3><a href="#">DOAJ</a></h3>
+<div class="content">MIT Libraries is a financially supporting member of the Directory of Open Access Journals, a community-curated online directory that indexes and provides access to high quality, open access, peer-reviewed journals. <a href="https://doaj.org/"> More information </a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">Electrochemical Society</a></h3>
+<div class="content">
+<p><a href="http://libraries.mit.edu/news/electrochemical-society/21687/">MIT Libraries’ subscription</a> to <a href="http://ecsdl.org/site/misc/ecs_plus.xhtml"> ECS Plus</a> provides MIT authors with free, unlimited credits to publish articles open access. <a href="http://ecsdl.org/site/misc/ecs_plus.xhtml">Here&#8217;s how it works</a> (from ECS):</p>
+<p>&#8220;When authors submit a paper, they will be able to look up whether or not their institution subscribes to ECS Plus. As part of the <a title="[opens in a new window]" href="http://ecsjournals.msubmit.net/" target="_blank" rel="external-nw noopener noreferrer">manuscript submission process</a>, they will need to select Author Choice Open Access, and at that stage they can indicate that they will be claiming an Article Credit because they come from an ECS Plus subscribing institution.</p>
+<p>When their paper has been accepted, they will be sent an e-mail inviting them to claim their Article Credit through CCC RightsLink, who handle our APC transactions. Once in the RightsLink system, they simply need to click “Apply Discounts” and search for their institution to apply their Article Credit. For more information, you can <a title="[opens in a new window]" href="http://ecsdl.org/site/ecs/2016_ecs_oa_guidelines.pdf" target="_blank" rel="external-nw noopener noreferrer">view our entire Open Access workflow here</a></p>
+<p>We will also contact active authors from every ECS Plus subscribing institution to let them know their institution is a subscriber and that they can take advantage of their Article Credits next time they submit a paper.&#8221;</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">HathiTrust</a></h3>
+<div class="content">MIT Libraries is a financially supporting member of the HathiTrust, an international community of research libraries committed to the long-term curation of and access to the cultural record. <a href="https://www.hathitrust.org/"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">HAU-N.E.T.</a></h3>
+<div class="content">MIT Libraries’ financial support contributes to HAU-N.E.T.’s (HAU Network of Ethnographic Theory) ability to offer open access publishing opportunities for books and journals related to anthropology. <a href="https://www.haujournal.org/haunet/"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">Knowledge Unlatched</a></h3>
+<div class="content">MIT Libraries supports Knowledge Unlatched, which coordinates a coalition of libraries that share the costs of making books open access. PDFs of these books are available under a Creative Commons license. Knowledge Unlatched has made more than 400 books open access since 2014. <a href="http://www.knowledgeunlatched.org/"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">Language Science Press</a></h3>
+<div class="content">MIT Libraries financial support contributes Language Science Press’s ability to offer open access publishing opportunities for books and journals related to linguistics. <a href="http://langsci-press.org/index"> More information</a></div>
+</section>
+<section class="expandable">
+<section class="expandable">
+<h3><a href="#">Libraria</a></h3>
+<div class="content">MIT Libraries supports the open access publishing initiative Libraria, an open access publishing cooperative working to develop and test business models that will allow learned societies to “flip” their journals from a subscription model to an open access model without article processing fees. Libraria is currently focusing on journals in anthropology, archaeology, and neighboring fields. <a href="http://libraria.cc/">More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">MDPI</a></h3>
+<div class="content">MIT Libraries is an institutional member of MDPI. Our membership provides MIT authors with a 10% discount on article processing charges for MDPI journals, and discounts on book publishing charges. MDPI publishes open access journals and books in the sciences.</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Nucleic Acids Research</a></h3>
+<div class="content">MIT Libraries’ membership provides MIT authors with a 50% discount on open access processing fees. <a href="http://www.oxfordjournals.org/our_journals/nar/about.html"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">Open Library of the Humanities</a></h3>
+<div class="content">MIT Libraries&#8217; financial support contributes to OLH&#8217;s ability to offer open access publishing to authors without payment of publication fees. <a href="https://about.openlibhums.org/libraries/supporting-institutions/"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">Proceedings of the National Academy of Sciences (PNAS)</a></h3>
+<div class="content">MIT Libraries’ site license provides MIT authors with a 25% discount on the optional open access processing fees. <a href="http://www.pnas.org/site/subscriptions/open-access.xhtml"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">Reveal Digital Collections</a></h3>
+<div class="content">MIT Libraries has provided financial support for the following collections from Reveal Digital: Independent Voices, Diversity and Dissent: Civil Society in 20th Century America, and Newspapers from the Rise and Fall of the Ku Klux Klan in the 1920s. Through collaborative institutional funding Reveal Digital digitizes and provides open access to primary source materials and publications. <a href="http://revealdigital.com/"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">Royal Society</a></h3>
+<div class="content">MIT Libraries&#8217; membership provides MIT authors with a 25% discount on article processing charges for any Royal Society journal, including their open access journal and their open access option for traditional journals called EXiS Open Choice. <a href="https://royalsociety.org/journals/librarians/open-access-membership/"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">Royal Society of Chemistry</a></h3>
+<div class="content">
+<p>Under a <a href="https://libraries.mit.edu/news/royal-society-chemistry-3/27769/">new agreement between MIT Libraries and the Royal Society of Chemistry</a>, articles published by MIT corresponding authors through 2019 will be made openly available at the time of publication at no cost to the author.</p>
+<p><a href="http://libraries.mit.edu/scholarly/publishing/oa-publishing-support/rsc-mit-libraries-read-publish-agreement">More information</a></p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Science</a></h3>
+<div class="content">
+<p>Corresponding authors whose papers are accepted in Science Advances are eligible for a 30% discount on APCs. As the authors proceed through the payment process for the APC, there should be a pop-up for applicable discounts, one of which is the affiliation discount. The dropdown list should auto-populate with MIT or Massachusetts Institute of Technology either based the corresponding author’s affiliation or once they start typing into the free text search field. Once their institution is chosen, it should auto-populate the eligible affiliation discount.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">SCOAP3 journals</a></h3>
+<div class="content">MIT Libraries&#8217; financial support helps SCOAP3 (the Sponsoring Consortium for Open Access Publishing in Particle Physics) offer open access publishing opportunities for journals related to high-energy physics.<br />
+<a href="https://scoap3.org/what-is-scoap3/"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">SocArXiv</a></h3>
+<div class="content">
+<p>The MIT Libraries is a <a href="https://socopen.org/2017/03/09/socarxiv-kicks-off-fundraising-drive-with-new-support/">supporter</a> of SocArxiv, the social sciences&#8217; open archive. SocArXiv is led by a steering committee of sociologists and research library leaders, including MIT Libraries Director Chris Bourg.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Springer</a></h3>
+<div class="content">
+<p>MIT and Springer have renewed an established agreement that extends reuse rights to MIT authors of papers published in Springer journals. <a href="/scholarly/publishing/mit-springer-agreement/">More information</a>.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">TRAIL Project</a></h3>
+<div class="content">MIT Libraries is a financially supporting member of the TRAIL Project (Technical Report Archive &amp; Image Library), which digitizes and provides open access to U.S. government agency technical reports. <a href="https://www.crl.edu/programs/trail"> More information</a></div>
+</section>
+<section class="expandable">
+<h3><a href="#">Other resources</a></h3>
+<ul>
+<li class="content">OA technology options for journals: <a href="https://scholarlykitchen.sspnet.org/2018/02/22/open-access-technology-options/">This 2018 blog post on the Scholarly Kitchen website</a> includes suggestions for OA platforms and publishers.</li>
+</ul>
+</section>
+</section>
+	</div>
+
+</div>

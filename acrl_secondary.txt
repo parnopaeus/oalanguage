@@ -1,0 +1,153 @@
+<div id="s-lg-guide-main" class="container s-lib-main s-lib-side-borders">
+        
+				<div class="row s-lg-row">
+    <div id="s-lg-col-126" class="col-md-12">
+        <div class="s-lg-col-boxes s-lg-box-special">
+							<div id="s-lg-box-wrapper-13748340" class="s-lg-box-wrapper-13748340">
+					<div id="s-lg-box-11660586-container" class="s-lib-box-container">
+						<div id="s-lg-box-11660586" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Public Access Mandates Explained
+                                </h2>
+							<div id="s-lg-box-collapse-11660586" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-25339666" class="  clearfix">
+				<p>In 2008, the National Institutes of Health (NIH) adopted a policy requiring all NIH funded research to be deposited within 12 months of publication into the repository PubMedCentral. In 2013, the White House, through the&nbsp;Office of Science and Technology Policy, issued <a href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=yes,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">an executive directive</a> mandating that&nbsp;U.S. Government agencies with annual extramural research and development expenditures over $100 million make the results of taxpayer-funded research&mdash;both articles and data&mdash;be made freely available to the general public with the goal of accelerating scientific discovery and fueling innovation. Those agencies have begun adopting and issuing plans for the deposit of scholarly articles and data into openly accessible repositories. Similarly, a few states and several private funders have proposed and enacted legislation and policies mandating public access of funded resesearch.&nbsp;Libraries providing support to faculty and researchers subject to these mandates can use this as an opportunity to discuss author&#39;s rights and open access with authors and the importance and impact of retaining rights to one&#39;s own work as well as ensuring the widest reach and impact of scholarship.</p>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-1" class="col-md-8">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-13748332" class="s-lg-box-wrapper-13748332">
+					<div id="s-lg-box-11660578-container" class="s-lib-box-container">
+						<div id="s-lg-box-11660578" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Public Access Mandates - Resources and Readings
+                                </h2>
+							<div id="s-lg-box-collapse-11660578" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-28070530" class="s-lg-link-list s-lg-link-list-2"><li class="">
+                        
+			<div id="s-lg-content-25339921" class=""><span><a href="http://www.arl.org/focus-areas/public-access-policies/federally-funded-research/2696-white-house-directive-on-public-access-to-federally-funded-research-and-data" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339921'});">ARL Guide to Public Access Mandates</a> 
+				</span><div id="s-lg-link-desc-25339921" class="s-lg-link-desc">ARL web page that compiles links to the full text of agency plans accompanied by an ARL-authored summary of individual agency plans</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339702" class=""><span><a href="http://sparcopen.org/our-work/2013-executive-directive/#plans" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339702'});">SPARC - Public Access Directive</a> 
+				</span><div id="s-lg-link-desc-25339702" class="s-lg-link-desc">Up to date list of links to agency plans and further coverage on the Executive Directive and other public access initiatives</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339710" class=""><span><a href="http://bit.ly/FedOASummary" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339710'});">OSTP Responses Spreadsheet</a> 
+				</span><div id="s-lg-link-desc-25339710" class="s-lg-link-desc">Crowwdsourced spreadsheet tracking agency plans and their requirements</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25350017" class=""><span><a href="http://datasharing.sparcopen.org/" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25350017'});">Data Sharing Requirements Database</a> 
+				</span><div id="s-lg-link-desc-25350017" class="s-lg-link-desc">Joint project of SPARC and Johns Hopkins University, allows users to search database for data sharing requirements by agency</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339779" class=""><span><a href="https://figshare.com/articles/Overview_of_OSTP_Responses/1367165" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339779'});">Overview of OSTP Responses (FigShare)</a> 
+				</span><div id="s-lg-link-desc-25339779" class="s-lg-link-desc">Chart providing a visual summary of requirements of individual agency public access policies</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339877" class=""><span><a href="http://bit.ly/FOPOP-FAQ" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339877'});">Public Access Policies FAQ</a> 
+				</span><div id="s-lg-link-desc-25339877" class="s-lg-link-desc">Crowsourced FAQ about the requirements of public access mandates, open access, and similar issues. Developed by libraries for use by libraries.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25340047" class=""><span><a href="https://www.youtube.com/watch?v=pIPVq0C1C-o" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25340047'});">Expanding Public Access to Federally Funded Research: Implementing the OSTP Memo</a> 
+				</span><div id="s-lg-link-desc-25340047" class="s-lg-link-desc">Panel presentation (2013) at Columbia University as part of Research without Borders programming that discusses the requirements of the public access directive and the publisher (CHORUS) and library (SHARE) responses to the directive.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339949" class=""><span><a href="http://www.slideshare.net/hilarymdavis/cross-davis-federallyfundedresearchsupportnov8" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339949'});">Support When it Counts: Library Roles in Public Access to Federally Funded Research</a> 
+				</span><div id="s-lg-link-desc-25339949" class="s-lg-link-desc">2013 Charleston Conference presentation slides on how libraries can support public access. See also the accompanying paper at http://docs.lib.purdue.edu/charleston/2013/Communication/2/</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339966" class=""><span><a href="http://digitalcommons.wustl.edu/cgi/viewcontent.cgi?article=1013&context=becker_pubs" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339966'});">Public Access Policy Support Programs at Libraries: A Roadmap for Success</a> 
+				</span><div id="s-lg-link-desc-25339966" class="s-lg-link-desc">Paper (2010) focused on library support of compliance with NIH mandate, but useful information for supporting other public access mandates</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25340029" class=""><span><a href="http://www.jetlaw.org/wp-content/uploads/2016/03/KimbroughGasaway_SPE_7-FINAL.pdf" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25340029'});">Publication of Government-Funded Research, Open Access, and the Public Interest</a> 
+				</span><div id="s-lg-link-desc-25340029" class="s-lg-link-desc">Article (2016) on public access mandates in the context of the larger open access initiative. Nice overview of the issues and current state of programs and initiatives to further the principles of open access.</div>
+			</div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+    <div id="s-lg-col-2" class="col-md-4">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-13748326" class="s-lg-box-wrapper-13748326">
+					<div id="s-lg-box-11660573-container" class="s-lib-box-container">
+						<div id="s-lg-box-11660573" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Examples of Library Public Access Info Web Pages
+                                </h2>
+							<div id="s-lg-box-collapse-11660573" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-28070366" class="s-lg-link-list s-lg-link-list-2"><li class="">
+                        
+			<div id="s-lg-content-25339755" class=""><span><a href="http://scholcomm.columbia.edu/open-access/private-foundations-requiring-public-access/" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339755'});">Columbia University - Guide to Private Funder Public Access Mandates</a> 
+				</span><div id="s-lg-link-desc-25339755" class="s-lg-link-desc">List of private funders, with links to their plans, that have enacted public access mandates</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339736" class=""><span><a href="http://scholcomm.columbia.edu/open-access/public-access-mandates-for-federally-funded-research/" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339736'});">Columbia University - Public Access Mandates to Federally Funded Research</a> 
+				</span><div id="s-lg-link-desc-25339736" class="s-lg-link-desc">Web site providing links and information on individual agency plans</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339699" class=""><span><a href="http://libraries.mit.edu/scholarly/publishing/research-funders/research-funder-open-access-requirements/" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339699'});">MIT Libraries - Research Funder Open Access Requirements</a> 
+				</span><div id="s-lg-link-desc-25339699" class="s-lg-link-desc">Table summarizing major US Research funder open access requirements for publications and data, and links to information on related journal requirements.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339731" class=""><span><a href="http://guides.library.oregonstate.edu/c.php?g=286315&p=1905979" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339731'});">Oregon State University Libraries - Public Access to Federally Funded Research</a> 
+				</span><div id="s-lg-link-desc-25339731" class="s-lg-link-desc">Guide to public agency plans</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339769" class=""><span><a href="http://cms.uflib.ufl.edu/ScholComm/publicaccess" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339769'});">University of Florida - Public Access Policies</a> 
+				</span><div id="s-lg-link-desc-25339769" class="s-lg-link-desc">List of public access policies with brief synopsis of their scopes, timelines, and requirements.</div>
+			</div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-127" class="col-md-12">
+        <div class="s-lg-col-boxes">
+        </div>
+    </div>
+				
+</div>    <ul id="s-lg-page-prevnext" class="pager s-lib-hide"><li class="previous"><a href="//acrl.libguides.com/scholcomm/toolkit/openaccess">&lt;&lt; <strong>Previous:</strong> Open Access Policies & Publishing</a></li><li class="next"><a href="//acrl.libguides.com/scholcomm/toolkit/ACRLOAPolicy"><strong>Next:</strong> ACRL Policy Statement &gt;&gt;</a></li></ul></div>

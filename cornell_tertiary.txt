@@ -1,0 +1,509 @@
+<div id="s-lg-guide-header" class="container s-lib-header s-lib-side-borders">
+
+<div id="s-lib-bc">
+
+
+
+<ol id="s-lib-bc-list" class="breadcrumb">
+
+
+
+<li id="s-lib-bc-customer">
+
+<a title="Cornell" href="http://www.library.cornell.edu/">Cornell
+
+</a>
+
+</li>
+
+<li id="s-lib-bc-site">
+
+<a title="LibGuides" href="//guides.library.cornell.edu/">LibGuides
+
+</a>
+
+</li>
+
+<li id="s-lib-bc-guide">
+
+<a title="Open Access Publishing " href="//guides.library.cornell.edu/openaccess">Open Access Publishing 
+
+</a>
+
+</li>
+
+<li id="s-lib-bc-page" class="active">Vetting OA journals
+
+</li>
+
+</ol> </div>
+
+<div class="pull-right">
+
+<div id="s-lg-guide-header-search">
+
+
+
+<div id="s-lg-guide-search-box">
+
+<form role="search" id="s-lg-guide-search-form" action="//guides.library.cornell.edu/srch.php"
+
+method="GET">
+
+<div class="input-group input-group-sm">
+
+<input type="text" id="s-lg-guide-search-terms" name="q" class="form-control" placeholder="Search this Guide">
+
+<label class="sr-only" for="s-lg-guide-search-terms">Search this Guide</label><input type="hidden" name="guide_id" value="32366" />
+
+<span class="input-group-btn">
+
+<button class="btn btn-default" type="submit">Search</button>
+
+</span>
+
+</div>
+
+</form>
+
+</div> </div>
+
+</div>
+
+<div id="s-lg-guide-header-info">
+
+<h1 id="s-lg-guide-name">Open Access Publishing : Vetting OA journals</h1>
+
+<div id="s-lg-guide-desc-container">
+
+<span id="s-lg-guide-description">This guide provides guidance in open access scholarly publishing for researchers in all disciplines.</span>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- END: Guide Info Header -->
+
+<div id="s-lg-tabs-container" class="container s-lib-side-borders pad-top-med">
+
+<div id="s-lg-guide-tabs" class="tabs" role="navigation" aria-label="Guide Page Menu">
+
+<ul class="nav nav-tabs split-button-nav" role="menu">
+
+
+
+<li role="menuitem" >
+
+<a
+
+title=""
+
+class=""
+
+href="//guides.library.cornell.edu/openaccess/home" 
+
+aria-label="Navigate to the page: What is Open Access?"
+
+>
+
+<span>What is Open Access?</span>
+
+
+
+</a>
+
+</li>
+
+<li role="menuitem" >
+
+<a
+
+title=""
+
+class=""
+
+href="//guides.library.cornell.edu/openaccess/publish" 
+
+aria-label="Navigate to the page: Where to publish"
+
+>
+
+<span>Where to publish</span>
+
+
+
+</a>
+
+</li>
+
+<li role="menuitem" class="active">
+
+<a
+
+title=""
+
+class="active"
+
+href="//guides.library.cornell.edu/openaccess/vetting-journals" 
+
+aria-label="Navigate to the page: Vetting OA journals"
+
+>
+
+<span>Vetting OA journals</span>
+
+
+
+</a>
+
+</li>
+
+<li role="menuitem" >
+
+<a
+
+title=""
+
+class=""
+
+href="//guides.library.cornell.edu/openaccess/policies" 
+
+aria-label="Navigate to the page: Policies &amp; perspectives"
+
+>
+
+<span>Policies & perspectives</span>
+
+
+
+</a>
+
+</li>
+
+<li role="menuitem" >
+
+<a
+
+title=""
+
+class=""
+
+href="http://guides.library.cornell.edu/authorrights" 
+
+aria-label="Navigate to the page: Author Rights Resources"
+
+>
+
+<span>Author Rights Resources</span>
+
+
+
+</a>
+
+</li>
+
+<li role="menuitem" >
+
+<a
+
+title=""
+
+class=""
+
+href="//guides.library.cornell.edu/openaccess/help" 
+
+aria-label="Navigate to the page: How the library can help"
+
+>
+
+<span>How the library can help</span>
+
+
+
+</a>
+
+</li> </ul>
+
+</div>
+
+</div>
+
+<div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
+
+<!-- BEGIN: Guide Content -->
+
+<div id="s-lg-guide-main" class="container s-lib-main s-lib-side-borders">
+
+
+
+<div class="row s-lg-row">
+
+<div id="s-lg-col-126" class="col-md-12">
+
+<div class="s-lg-col-boxes">
+
+</div>
+
+</div>
+
+
+
+</div>
+
+<div class="row s-lg-row">
+
+<div id="s-lg-col-1" class="col-md-12">
+
+<div class="s-lg-col-boxes">
+
+<div id="s-lg-box-wrapper-712029" class="s-lg-box-wrapper-712029">
+
+<div id="s-lg-box-629504-container" class="s-lib-box-container">
+
+<div id="s-lg-box-629504" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">Criteria to consider
+
+</h2>
+
+<div id="s-lg-box-collapse-629504" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1170095" class=" clearfix">
+
+<p style="text-align: left;"><span style="font-size: medium; color: #000000;"><strong>Before deciding to publish in a new OA journal, consider the following criteria:</strong></span></p>
+
+
+
+<ul>
+
+<li>The journal is included in the&nbsp;<a href="https://doaj.org/" target="_blank">Directory of Open Access Journals</a>. Journals indexed in&nbsp;DOAJ&nbsp;after March 2014 (noted with&nbsp;a green check mark or &quot;DOAJ&nbsp;Seal&quot;), underwent a more stringent review process than journals indexed prior&nbsp;to that date.</li>
+
+<li><a href="http://thinkchecksubmit.org/" target="_blank">ThinkCheckSubmit</a>&nbsp;-&nbsp;This tool, produced with the support of a coalition from across scholarly communications in response to discussions about deceptive publishing,&nbsp;walks you through the process of evaluating journals.</li>
+
+<li><span style="font-size: small;">The journal is indexed in an established and reputable database such as <a href="http://ip-science.thomsonreuters.com/mjl/#journal_lists" target="_blank">Web of Knowledge</a>, <a href="http://resolver.library.cornell.edu/misc/4135101/" target="_blank">Ulrich&#39;s</a>, or <a href="http://www.csa.com/factsheets/supplements/sociossl.php" target="_blank">Sociological Abstracts</a> (see sidebar).</span></li>
+
+<li><span style="font-size: small;">Examine the journal&#39;s website for such information as affiliation with a university or professional organization, editorial board credentials, or acceptance rates.&nbsp;If you have doubts, contact members of the editorial board or article authors.</span></li>
+
+<li><span style="font-size: small;">Publishing fees and copyright ownership are clearly indicated.&nbsp;For more information about your rights as an author, see the <a href="http://guides.library.cornell.edu/aecontent.php?pid=472614&amp;sid=3900603" target="_self">Know your copyrights</a>&nbsp;tab.</span></li>
+
+<li><span style="font-size: small;">The publisher is a member of a reputable industry organization such as <a href="http://oaspa.org/membership/members/" target="_blank">Open Access Scholarly Publishers Association</a> or the <a href="http://publicationethics.org/members" target="_blank">Committee on Publication Ethics (COPE)</a>.</span></li>
+
+</ul>
+
+
+
+<p style="text-align: center;"><span style="font-size: x-small;">Adapted from <a href="http://libguides.govst.edu/predatorypublishing">Paul Blobaum&#39;s</a> Checklist for Review of Journal Quality, Governor&#39;s State University</span></p>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="s-lg-box-wrapper-712030" class="s-lg-box-wrapper-712030">
+
+<div id="s-lg-box-629505-container" class="s-lib-box-container">
+
+<div id="s-lg-box-629505" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">Ethics in OA Publishing
+
+</h2>
+
+<div id="s-lg-box-collapse-629505" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1170096" class=" clearfix">
+
+<p>With the advent of open access publishing, printing barriers are removed and the assembly and dissemination of information requires little more than Internet access.&nbsp;Unfortunately, this has led to a proliferation of open access publishers with little or no subject expertise and of questionable repute.&nbsp;Scholars and researchers may receive email solicitations for fee-based paper submissions to journals that make false or misleading claims about the stringency of their peer-review process, members of their editorial board or indexing status. </p>
+
+
+
+<ul>
+
+<li>The <a href="http://publicationethics.org/" target="_blank">Committee on Publication Ethics</a> is &quot;a forum for editors and publishers of peer reviewed journals to discuss all aspects of publication ethics&quot;.</li>
+
+</ul>
+
+
+
+<p style="text-align: left;"><a href="http://publicationethics.org/" target="_blank"><img height="80" src="http://lgimages.s3.amazonaws.com/data/imagemanager/66248/cope.png" style="margin-left: auto; margin-right: auto; display: block;" width="389" /></a></p>
+
+
+
+<p style="text-align: left;">&nbsp;</p>
+
+
+
+<ul>
+
+<li>The <a href="http://oaspa.org/" target="_blank">Open Access Scholarly Publishers Association</a> is a forum for open access publishers.&nbsp;Membership is vetted and can be an indication of publisher quality.</li>
+
+</ul>
+
+
+
+<p><a href="http://oaspa.org/" target="_blank"><img height="49" src="http://lgimages.s3.amazonaws.com/data/imagemanager/66248/oaspa.png" style="border: 1px solid black; margin-left: auto; margin-right: auto; display: block;" width="389" /></a></p>
+
+
+
+<p>&nbsp;</p>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="s-lg-box-wrapper-712028" class="s-lg-box-wrapper-712028">
+
+<div id="s-lg-box-629545-container" class="s-lib-box-container">
+
+<div id="s-lg-box-629545" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">Database Indexes
+
+</h2>
+
+<div id="s-lg-box-collapse-629545" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1170126" class=" clearfix">
+
+<p>Here are some quick links to lists of traditional and open access journal titles indexed in well-known scholarly databases</p>
+
+</div><div class="">
+
+<ul id="s-lg-link-list-1290574" class="s-lg-link-list s-lg-link-list-10"><li class="">
+
+
+
+<div id="s-lg-content-312084" class=""><a href="http://resolver.library.cornell.edu/misc/8339987" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '312084'});">EconLit with Full Text</a> <div id="s-lg-database-desc-312084" class="s-lg-database-desc">Abstracts, indexing, and full-text articles in all fields of economics, including capital markets, country studies, econometrics, economic forecasting, environmental economics, government regulations, labor economics, monetary theory, and urban economics.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1199767" class=""><a href="http://resolver.library.cornell.edu/misc/5702198" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '1199767'});">MEDLINE</a> <div id="s-lg-database-desc-1199767" class="s-lg-database-desc">Compiled by the U.S. National Library of Medicine (NLM), MEDLINE is the world's most comprehensive source of life sciences and biomedical bibliographic information. It contains nearly eleven million records from over 7,300 different publications from 1965 to present.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1199877" class=""><a href="http://resolver.library.cornell.edu/misc/2351079" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '1199877'});">PsycINFO</a> <div id="s-lg-database-desc-1199877" class="s-lg-database-desc">Contains citations and summaries of the international literature in psychology and related behavioral and social sciences, including psychiatry, sociology, anthropology, education, pharmacology, and linguistics. Includes applied psychology, communication systems, developmental psychology, educational psychology, experimental human and animal psychology, personality, physical and psychological disorders, physiological psychology and intervention, professional personnel and issues, psychometrics, social processes and issues, sports psychology and leisure, and treatment and prevention.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1199930" class=""><a href="http://resolver.library.cornell.edu/misc/3131835" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '1199930'});">Sociological Abstracts</a> <div id="s-lg-database-desc-1199930" class="s-lg-database-desc">Abstracts and indexes the international literature in sociology and related disciplines in the social and behavioral sciences. Provides citations from 1963 to the present, and abstracts since 1974, to journal articles, conference papers, books, and dissertations. Subjects covered include community development, culture and social structure, demography and human biology, environmental interactions, family and social welfare, health and medicine and law, religion and science, social psychology and group interactions, welfare services, and women's studies.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1199964" class=""><a href="http://resolver.library.cornell.edu/misc/4135101" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '1199964'});">Ulrich's Periodicals Directory</a> <div id="s-lg-database-desc-1199964" class="s-lg-database-desc">Contains information on currently published as well as discontinued periodicals. Includes magazines, journals, newsletters, newspapers, conference proceedings, and electronic publications, together with search and browse indexes. It also contains complete names and addresses of journal publishers.</div>
+
+</div></li>
+
+
+
+</ul>
+
+</div><div class="">
+
+<ul id="s-lg-link-list-1290576" class="s-lg-link-list s-lg-link-list-2"><li class="">
+
+
+
+<div id="s-lg-content-1196865" class=""><span><a href="http://ip-science.thomsonreuters.com/mjl/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196865'});">Web of Knowledge Databases</a> 
+
+</span>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-5690845" class=""><span><a href="http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://resolver.library.cornell.edu/misc/6184929" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '5690845'});">CAB Abstracts</a> 
+
+</span><div id="s-lg-link-desc-5690845" class="s-lg-link-desc">CAB Abstracts covers the significant research and development literature in the fields of nutrition, agriculture, forestry, aspects of human health, animal health and the management and conservation of natural resources.</div>
+
+</div></li>
+
+
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+<div class="row s-lg-row">
+
+<div id="s-lg-col-127" class="col-md-12">
+
+<div class="s-lg-col-boxes">
+
+</div>
+
+</div>
+
+
+
+</div> <ul id="s-lg-page-prevnext" class="pager s-lib-hide"><li class="previous"><a href="//guides.library.cornell.edu/openaccess/publish">&lt;&lt; <strong>Previous:</strong> Where to publish</a></li><li class="next"><a href="//guides.library.cornell.edu/openaccess/policies"><strong>Next:</strong> Policies & perspectives &gt;&gt;</a></li></ul></div>

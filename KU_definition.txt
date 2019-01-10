@@ -1,0 +1,86 @@
+<h1>What is Open Access?</h1>
+
+<p style="font-size:1.5em; line-height:1.5em">Open Access is an international movement that has the goal of making peer-reviewed published scholarship available free of charge to the public and to the global scholarly community.</p>
+
+<p style="font-size:1.5em; line-height:1.5em">For additional reading about open access in general we recommend Wikipedia's well-referenced <a class="external" href="http://en.wikipedia.org/wiki/Open_access">Open Access</a> article.</p>
+</div>
+
+<div class="grid-2"><img alt="Open Access logo" id="oalogo" src="/sites/openaccess.drupal.ku.edu/files/images/general/OAlogo.png" /></div>
+</div></div></div>    </article>
+
+    <div class="homepage-bottomleft">
+        <div class="field field-name-field-bottomleft field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h2>News</h2>
+
+<div class="view view-news-article-list-more view-id-news_article_list_more view-display-id-page news-list-main view-dom-id-eddd598e021c49c1ca948b468ec13287">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="more-news"><li class="views-row views-row-1 views-row-odd views-row-first more-news-row">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/open-access-week-2018-workshops">Open Access Week 2018 Workshops</a></span>  </span>  
+  <div>        <div></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>KU Libraries and the Shulenburger Office of Scholarly Communication &amp; Copyright are pleased to offer programs in support of Open Access Week, an international event to advance and celebrate openness in the academy.</p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/open-access-week-2018-workshops">More...</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even more-news-row">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/dept-education-5m-funding-oer-moving-forward">Dept. of Education $5M Funding for OER Moving Forward</a></span>  </span>  
+  <div>        <div></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Last March, <a href="https://edscoop.com/oer-college-textbooks-education-department-pilot-program">Congress authorized $5M to support Open Educational Resources</a>, to be administered by the Department of Education.</p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/dept-education-5m-funding-oer-moving-forward">More...</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd more-news-row">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/barriers-finding-and-using-oer-decreasing">Barriers to Finding and Using OER Decreasing</a></span>  </span>  
+  <div>        <div></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>The newest iteration of the Babson Report, officially "<a href="https://www.onlinelearningsurvey.com/oer.html">Opening the Textbook: Open Educational Resources in U.S. Higher Education, 2017</a>" created a stir in the closing weeks of 2017.</p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/barriers-finding-and-using-oer-decreasing">More...</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even views-row-last more-news-row">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/ku-libraries-host-mozilla-working-open-workshop">KU Libraries to host Mozilla Working Open Workshop</a></span>  </span>  
+  <div>        <div></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden">
+<div class="field-items">
+<div class="field-item even">
+<p><img alt="Mozilla Working Open Workshop web banner" src="/sites/openaccess.ku.edu/files/docs/WOW_web.jpg" style="width: 1080px; height: 540px;" /></p></div></div></div></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/ku-libraries-host-mozilla-working-open-workshop">More...</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+
+<div style="margin-top:2em;"><a href="/news">News Archive</a></div>
+</div></div></div>    </div>
+
+    <div class="homepage-bottomright">
+        <div class="field field-name-field-bottomright field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Open Access @ KU</h2>
+
+<div id="factoids">
+<p><span class="number">16,977</span><br /><span class="text">The number of researchers to date that have signed the pledge not to publish, review, or serve on editorial boards for Elsevier journals</span></p>
+
+<p class="first"><span class="number">94</span><br /><span class="text">The number of scholarly communities in KU ScholarWorks</span></p>
+
+<p><span class="number">72,328</span><br /><span class="text">The number of times that the most popular KU ScholarWorks item, <a href="http://hdl.handle.net/1808/5624">Greetings from the Teklimakan: a handbook of Modern Uyghur</a>, has been downloaded since 2007</span></p>
+
+<p><span class="number">2009</span><br /><span class="text">The year that the KU Open Access Policy was approved by the Faculty Senate</span></p>
+
+<p><span class="number">8,991,295</span><br /><span class="text">The number of times that items in KU ScholarWorks have been downloaded since 2007</span></p>
+
+<p><span class="number">241</span><br /><span class="text">The number of works by undergraduate students in KU ScholarWorks</span></p>
+
+<p><span class="number">722</span><br /><span class="text">The number of dissertations and theses in the <a href="http://hdl.handle.net/1808/7158">Pre-1923 Dissertations and Theses</a> collection.</span></p>
+</div>
+
+<h2>KU Faculty's Open Access Policy</h2>
+
+<p>The <a class="external" href="https://documents.ku.edu/policies/governance/OpenAccess.htm"> KU Faculty Open Access Policy</a> (revised and passed the faculty senate on February 11, 2010) is a mechanism that asserts the rights of KU faculty to provide broad, free access to their journal publications to colleagues around the world.</p>
+
+<p>Under the policy, KU faculty can exercise these rights by retaining enough copyrights and once rights are retained provide KU with the necessary bibliographic information and a copy of the publication. KU then provides efficient and effective access to these publications by means of <a class="external" href="http://kuscholarworks.ku.edu/">KU ScholarWorks</a>.  If a publisher requires a faculty member to opt out of the policy for a specific article, the author may submit an <a href="https://openaccess.ku.edu/open-access-policy-waiver-form">Open Access Policy Waiver Form</a>.</p>
+
+<p><a class="ku_button ku_button-blue" href="/getting-started" style="display: block; margin: 2em 2em"><span class="ku_button_content">Get Started</span></a></p>
+
+<ul class="spacedNobullets"><li><a href="/resources">Policy Resources</a></li>
+	<li><a href="https://openaccess.ku.edu/open-access-initiatives-university-kansas-ku">Open Access Initiatives@KU</a></li>
+	<li><a href="/open-access-advisory-board">Open Access Advisory Board</a></li>
+	<li><a href="/open-access-liasons">Departmental Liaisons</a></li>
+</ul><script type="text/javascript">
+<!--//--><![CDATA[// ><!--

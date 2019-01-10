@@ -1,0 +1,231 @@
+<div class="main-content content-main">
+	
+	<div class="entry-content">
+		<h1>FAQ on the OA policy</h1><h3>Purpose of MIT&#8217;s faculty open access policy</h3>
+<section class="expandable">
+<h3><a href="#">What is the goal of the policy?</a></h3>
+<div class="content">The goal is expressed in the first line of the <a href="/scholarly/mit-open-access/open-access-policy/">policy</a>: “The Faculty of the Massachusetts Institute of Technology is committed to disseminating the fruits of its research and scholarship as widely as possible.”</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Is MIT’s policy unique?</a></h3>
+<div class="content">
+<p>No. Harvard University’s Faculty of Arts and Sciences, Harvard Law School, the Stanford School of Education, among many others, have similar policies. See a <a href="/scholarly/mit-open-access/oa-policies-at-other-universities/">list of universities in the US that have policies</a> and a <a href="http://roarmap.eprints.org/">complete world-wide list </a>of various kinds of open access policies.</p>
+<p>Research funders are supporting such efforts as well. For instance, the <a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-08-033.html">National Institutes of Health</a> was one of the first federal funders to require posting of articles derived from research they fund in an open-access repository. See more information on research funder policies <a href="/scholarly/research-funders/">here</a>.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">What does the policy do for me?</a></h3>
+<div class="content">The web makes it possible for faculty to share their articles widely, openly, and freely; in addition, research has repeatedly shown that articles available freely online are more often cited and have greater impact than those not freely available. While many faculty already make their writings available on their web pages, some are prevented from doing so by perceived or actual limits set on such sharing in their publisher copyright transfer agreements. This policy will allow you to legally make your writings openly accessible, and it will enable MIT to help you do so.</div>
+</section>
+<h3>Complying with the policy</h3>
+<section class="expandable">
+<h3><a href="#">How do I comply with the policy?</a></h3>
+<div class="content">
+<p>The policy operates automatically to give MIT a license in any scholarly articles faculty members complete after its adoption.</p>
+<p>To be thorough, MIT recommends that you communicate this policy to your publisher and add to any copyright license or assignment for scholarly articles an addendum stating that the agreement is subject to this prior license. That way, you will avoid agreeing to give the publisher rights that are inconsistent with the prior license to MIT that permits open-access distribution. MIT provides a suitable form of <a href="http://libraries.mit.edu/scholarly/wp-content/files/mit-amendment-oa-policy-2009.docx">addendum</a> for this purpose. Whether you use the addendum or not, the license to MIT still will have force.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">What if a journal publisher refuses to publish my article because of the prior permission given to MIT under the policy?</a></h3>
+<div class="content">You have a number of options. One is to try to persuade the publisher that it should accept MIT’s non-exclusive license in order to be able to publish your article. Another is to seek a different publisher. A third is to consult with the our office (<a href="mailto:scholarlypub@mit.edu">scholarlypub@mit.edu</a>) or the Office of General Counsel about taking steps to address the publisher’s specific concerns. A fourth is to obtain a waiver for the article under the policy (see more below under Opting Out.)</div>
+</section>
+<section class="expandable">
+<h3><a href="#">When and where do I submit a paper to DSpace@MIT under the policy?</a></h3>
+<div class="content">Papers should be submitted as of the date of publication. <strong>To submit a paper under the policy</strong>, upload the author’s final manuscript, post peer-review, via a <a href="http://dspace.mit.edu/handle/1721.1/49433/submit">web form,</a> or send it to <a href="mailto:oapolicysubmissions@mit.edu">the OA Policy Submission email list.</a> If you have already submitted this version to a preprint server (e.g. arXiv), you may email the paper’s identifying repository number, or the URL, instead of the paper.</div>
+</section>
+<h3>Scope of the policy</h3>
+<section class="expandable">
+<h3><a href="#">What kinds of writings does this apply to?</a></h3>
+<div class="content">
+<p>It applies to “scholarly articles.” Using terms from the <a href="http://www.soros.org/openaccess/read.shtml">Budapest Open Access Initiative</a>, scholarly articles are articles that describe the fruits of research and that authors give to the world for the sake of inquiry and knowledge without expectation of payment. Such articles are typically presented in peer-reviewed scholarly journals and conference proceedings.</p>
+<p>Many written products are not encompassed under this specific notion of scholarly article, such as books, popular articles, commissioned articles, fiction and poetry, encyclopedia entries, ephemeral writings, lecture notes, lecture videos, or other copyrighted works. The Open Access Policy is not meant to address these kinds of works.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">What version of the paper is submitted under the policy?</a></h3>
+<div class="content">
+<p>The author’s final version of the article; that is, the author’s manuscript with any changes made as a result of the peer-review process, but prior to publisher’s copy-editing or formatting.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Does the policy apply to articles I’ve already written?</a></h3>
+<div class="content">The policy doesn’t apply to articles that were completed before the policy was adopted March 18, 2009, nor to any articles for which you entered into an incompatible publishing agreement before the policy was adopted. The policy also does not apply to any articles you write after leaving MIT.</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Does the policy apply to co-authored papers?</a></h3>
+<div class="content">Yes. Each joint author of an article holds copyright in the article and, individually, has the authority to grant MIT a non-exclusive license. Joint authors are those who participate in the preparation of the article with the intention that their contributions be merged into inseparable or interdependent parts of the whole.</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Why aren’t images covered by the policy?</a></h3>
+<div class="content">
+<p>Images are created by faculty in such a wide range of contexts and for such a wide range of purposes that it was too complex to include images in the policy. To the extent that images are contained in the articles, however, they would be covered by the policy.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#"> Why aren’t Ph.D. theses included in the policy?</a></h3>
+<div class="content">MIT has already made a commitment to making Ph.D. theses openly available worldwide. <a href="http://dspace.mit.edu/handle/1721.1/7582">DSpace@MIT makes more than 40,000 selected theses and dissertations</a> from all MIT departments, dating as far back as the mid 1800′s, openly available to the world. Since 2004, all new Masters and Ph.D. theses are being scanned and added to this collection after degrees are awarded. Regardless of whether copyright is held by the student or the Institute, the MIT Libraries publish the thesis electronically, allowing open access viewing. While there are fees charged for scanning and printing theses, these fees are used to scan more theses and make them available for open viewing. Without these fees, only a very small subset of theses (those submitted electronically) would be available online. While the current system is not strictly open access as defined by the <a href="http://www.soros.org/openaccess/read.shtml">Budapest Open Access Initiative</a>, which would include no limits on printing, it’s a significant step in that direction.</div>
+</section>
+<h3>Opting out of the policy</h3>
+<section class="expandable">
+<h3><a href="#">How do I opt out?</a></h3>
+<div class="content">
+<p>To opt out, fill out <a href="/forms-private/opt-out-of-the-mit-open-access-policy/">a simple web form</a>, or send an email or other written notice to <a href="mailto:oapolicyoptout@mit.edu">oapolicyoptout@mit.edu</a> informing MIT of the following:</p>
+<ul>
+<li>Name of MIT author</li>
+<li>Title of article (expected or working title)</li>
+<li>Journal you expect to publish in</li>
+<li>Reason you are opting out</li>
+</ul>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">What happens if I do not opt out, but assign exclusive rights to a publisher anyway, mistakenly signing a publisher’s agreement that conflicts with the policy?</a></h3>
+<div class="content">
+<p>MIT’s license would still have force, because it would have been granted (through this policy) prior to the signing of the publisher contract. If the publisher expresses concern that cannot be remedied, you have several options. You could:</p>
+<ul>
+<li>Consult a librarian: <a href="mailto:scholarlypub@mit.edu">scholarlypub@mit.edu</a></li>
+<li>Consult with the Office of General Counsel; or</li>
+<li>Opt out for a given article.</li>
+</ul>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">What happens when co-authors disagree on whether or not to opt out?</a></h3>
+<div class="content">Each co-author in a jointly written article owns the copyright. Under U.S. copyright law, any co-author has the right to grant a nonexclusive permission to others. It would be up to the co-author to decide whether to opt out of the policy for a given article to accommodate a co-author.</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Why does the policy include an opt out? Doesn’t that undermine the policy?</a></h3>
+<div class="content">
+<p>The majority of faculty stated a preference for an opt out. One of the concerns frequently raised was the importance of an opt out for junior faculty who do not want to jeopardize their ability to work with certain publishers. Another was the desire to comply with a certain society’s policies even if in conflict with this policy.</p>
+<p>Even with an opt out option, the policy changes the default for author’s rights. The new given is that MIT has rights to openly share MIT faculty work and can extend rights to the authors for their use as well.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#"> Could I retract a paper later if a publisher required me to do so?</a></h3>
+<div class="content">It would be possible to remove a paper, particularly in cases involving a legal dispute. The specifics would depend on procedures worked out by the Faculty Committee on the Library System to implement the policy.</div>
+</section>
+<h3>Legal aspects of the policy</h3>
+<section class="expandable">
+<h3><a href="#">Is MIT taking the rights to my writing?</a></h3>
+<div class="content">
+<p>No. This policy grants specific nonexclusive permissions to MIT. You still retain ownership and complete control of the copyright in your writings, subject only to this prior permission. You can exercise your copyrights in any way you see fit, including transferring them to a publisher if you so desire. However, if you do so, MIT would still retain its license and the right to distribute the article from its repository. Also, if your article arises in whole or in part from federally funded research, you may have to retain sufficient rights to comply with <a href="/scholarly/research-funders/">public access policies.</a></p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">What happens if I get into legal difficulty when attempting to comply with the policy?</a></h3>
+<div class="content">
+<p>Staff in the Office of General Counsel and the Libraries are available to support the policy and to supply guidance to faculty.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">How can I use an article that appears with both a publisher copyright statement and a Creative Commons License?</a></h3>
+<div class="content">
+<p>Some articles in the MIT Open Access Articles collection appear with a publisher’s copyright statement (e.g. “c2009 American Physical Society”) in addition to a <a href="http://www.creativecommons.org/">Creative Commons</a> license. The publisher’s copyright statement may indicate that the article’s copyright was transferred by the author(s) to the publisher, or that the author used a template provided by the publisher in expectation of copyright being transferred. Because the MIT Open Access Policy operates automatically to give MIT a license to any scholarly articles faculty members complete after its adoption, MIT’s license predates this transfer of copyright to a publisher. Therefore, while the article’s copyright is held by the publisher, that copyright is subject to MIT’s pre-existing license.</p>
+<p>MIT has chosen to distribute articles under its Open Access Policy using one of the standard Creative Commons licenses: the Attribution-Noncommercial-Share Alike license. If a CC license appears with an article, it is the CC license that determines how the article may be used.<br />
+This particular CC license means that you are free to share (copy, distribute and transmit the work) and remix (adapt) the work under the following conditions:<br />
+• Attribution: You must attribute the work in the manner specified by the author or licensor (but not in any way that suggest that they endorse you or your use of the work)<br />
+• Noncommercial: You may not use this work for commercial purposes<br />
+• Share Alike: If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p>
+</div>
+</section>
+<h3>What happens with articles that fall under the policy</h3>
+<section class="expandable">
+<h3><a href="#">What will MIT do with the articles?</a></h3>
+<div class="content">MIT will continue to operate its open-access repository, <a href="http://dspace.mit.edu/">DSpace@MIT</a>, to make available the scholarly articles provided under the policy. This repository has MIT standing behind it to ensure its availability, longevity, and functionality, to the extent technologically feasible. The repository is backed up, mirrored, and made open to harvesting by search services such as <a href="http://www.oaister.org/">OAIster</a> and <a href="http://scholar.google.com/">Google Scholar</a>. Adjustments will be made to the deposit processes, under the guidance of the Faculty Committee on the Library System, to make it as convenient as possible. MIT may further allow others to distribute the content, provided that the articles are not sold for profit. For instance, faculty at other institutions could be given permission to make copies for free distribution directly to their students. However, MIT does not have– and cannot grant to others –the right to sell the articles for a profit or to sell a book containing the articles for a profit.</div>
+</section>
+<section class="expandable">
+<h3><a href="#"> Does this license preclude all activities that involve payment?</a></h3>
+<div class="content">No, not necessarily. An activity will not cease to be permitted under the policy merely because a charge is imposed to cover some or all of the costs of the activity, provided that articles are not sold for a profit. Hence, for example, MIT’s selling course packs at cost would be permitted. The Faculty Committee on the Library System will provide advice on what licensed uses of repository material are appropriate and consistent with the purposes of the policy.</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Can others distribute my work, for instance, placing it in a course pack?</a></h3>
+<div class="content">This policy would grant MIT the right to license others to distribute the work, so long as the work was not sold for a profit. For example, MIT could give permission for an article to be used in a course pack (including giving such permission to you if you have otherwise transferred copyright), so long as the course pack was not sold for profit. No one would be able to sell your articles for profit without getting permission from the appropriate rights holder, whether that were you or a publisher to whom you have assigned such rights.</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Can my articles be used to provide search or other services by companies such as Google?</a></h3>
+<div class="content">
+<p>Yes, the license allows MIT to enable both commercial and nonprofit entities to use the articles to provide search or other services, so long as the articles are not being sold for a profit. This is true even if the services generate advertising revenues or the company charges for the services. For instance, the license allows MIT to enable the articles to be harvested and indexed by search services, such as Google Scholar, so that they can more readily be found, and to be used to provide other value-added services as long as the articles themselves are not sold for a profit. MIT also could authorize use of the articles in a commercial service that provides information extracted from the articles (but not the full text itself), such as bibliographic data or citation lists. Any arrangements would be consistent with the goals of open access and ensuring wide visibility and availability of scholarly articles.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Who will monitor implementation of the policy?</a></h3>
+<div class="content">The Faculty Committee on the Library System (which is a standing committee of the MIT faculty) is working with the MIT Libraries to develop an implementation plan that has faculty interests in mind. They anticipate developing processes and procedures by soliciting input from the faculty and providing progress reports to the faculty as the implementation plan is developed. The Faculty Policy Committee will be responsible for presenting a report regarding the policy to the faculty in five years.</div>
+</section>
+<h3>How the OA policy affects scholarly publishing</h3>
+<section class="expandable">
+<h3><a href="#">Will this policy harm journals, scholarly societies, small friendly publishers, or peer review?</a></h3>
+<div class="content">
+<p>There is no empirical evidence that even when all articles are freely available, journals are canceled. The major societies in physics have not seen any impact on their publishing programs despite the fact that for many years an open access repository <a href="http://www.arxiv.org/">(arXiv)</a> has been making available nearly all of the High Energy Physics literature written during that period. If there is downward pressure on journal prices over time, publishers with the most inflated prices – which tend to be the commercial publishers – will feel the effects sooner. Journals will still be needed for their value-added services, such as peer review logistics, copy editing, type setting, and maintaining web sites.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Will this policy harm those in tenure processes who need to show publication in high quality journals?</a></h3>
+<div class="content">The opt out option protects authors who need to publish in journals that will not cooperate with the policy.</div>
+</section>
+<section class="expandable">
+<h3><a href="#">How will this policy affect other universities, particularly small ones?</a></h3>
+<div class="content">
+<p>We expect that as similar policies are passed at more universities, the overall climate for scholarly communication will improve, to the benefit of all institutions of higher education. Smaller universities may not have the resources to build their own repositories, but shared repositories are starting to become available for such cases.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">What’s in it for MIT?</a></h3>
+<div class="content">
+<p>The policy would increase the impact of MIT research by making it more widely available. Studies show a very large citation advantage for open access articles, ranging from 45% to over 500%, but restrictive publisher business models limit wide sharing through onerous terms in contracts with university libraries and individual authors. For example, many publishers prohibit authors from posting their work openly on the web, and publishers commonly ‘rent’ access to their content, putting access at risk following cancellation of subscriptions. Performing systematic searching, advanced indexing, or analysis are prohibited in virtually all contracts.</p>
+<p>The policy would give MIT a means of negotiating for more attractive terms with publishers, an effort needed in a context of dramatic inflation and market consolidation: the 5 largest journal publishers now account for over half of total market revenues, and over the past 15 years, the price of scholarly journals has grown roughly three times as fast as the Consumer Price Index.</p>
+</div>
+</section>
+<h3>More information on the policy</h3>
+<section class="expandable">
+<h3><a href="#">How is granting a nonexclusive license to MIT compatible with MIT being able to exercise ‘all rights under copyright’?</a></h3>
+<div class="content">
+<p>The legal framework for copyright is that you can’t give away what you don’t have. MIT will have been granted nonexclusive rights, and will not be able in turn to grant exclusive rights. MIT, however, will be able to exercise all of the other rights under copyright, including reproducing, displaying, distributing, and making derivative works of articles covered by the policy, as long as these activities are not done for profit.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Why make this an automatic license? Why not just suggest that faculty individually retain a license for open-access distribution?</a></h3>
+<div class="content">
+<p>Experience has shown that “opt in” systems have little effect on authors’ behavior. For instance, before Congress made it a requirement, participation in the NIH Public Access Policy was optional. During that period, there was only a 4% level of compliance. Experience in many areas has shown that opt-out systems achieve much higher degrees of participation than opt-in systems.</p>
+<p>Individual faculty benefit from a blanket policy because it makes it possible for MIT to work with publishers on behalf of the faculty, to simplify procedures and broaden access.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Why isn’t student work, or that of research staff, covered by the policy?</a></h3>
+<div class="content">
+<p>The 2009 policy applies only to faculty because in a faculty policy it seemed clearest to focus on faculty work. (MIT already receives a license to Ph.D. theses; in addition, many student articles will be co-authored by faculty and will be subject to this policy.)</p>
+<p><a href="http://libraries.mit.edu/scholarly/mit-open-access/opt-in-oa-license/">As of April 2017, all MIT authors</a>, including students, postdocs, and staff, can <a href="/forms-private/mit-authors-opt-in-open-access-license/">“opt-in” to an open access license</a>.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Who will pay for this?</a></h3>
+<div class="content">
+<p>MIT already has the technical infrastructure in place to store the articles, in the form of the open access repository <a href="http://dspace.mit.edu/">DSpace@MIT</a>. In addition, the MIT Libraries have experience supporting access to faculty research such as technical reports and working papers, and for the past several years have maintained an Office of Scholarly Publishing, Copyright, and Licensing to assist faculty who wish to retain rights in their published works. Once an implementation plan is developed, it will be possible to assess what other staff or technical support might be needed, if any, and to reassess priorities in light of those needs.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">How is this policy related to the NIH Public Access Policy, and how is that policy working?</a></h3>
+<div class="content">
+<p><a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-08-033.html">The NIH Public Access Policy</a> applies only to NIH funded research – about 1/3 of MIT’s funded research dollars. It requires authors to deposit their peer-reviewed articles in the open access repository PubMedCentral where they must be accessible within 12 months of publication. Making the policy mandatory has had a dramatic effect on deposits: the rate has increased from under 10% to an estimated 60%. The policy makes tax payer funded research available to taxpayers.</p>
+<p>A particular article could be subject to both this policy and the NIH Public Access Policy, if it is peer reviewed and arose, in whole or in part, from NIH-funded research. If an NIH-funded article is covered by this open access policy, the author would use the MIT amendment to publication agreements to cover NIH’s obligations and accommodate the MIT policy. Even if the author decides to opt out of the policy for an article, the author must reserve rights sufficient to comply with the NIH policy when entering into a publication agreement for the article.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Why doesn’t the policy express support for open access journals?</a></h3>
+<div class="content">
+<p>This policy takes only a first step towards re-balancing the scholarly publishing system, giving MIT a means of negotiating for faculty and allowing wider sharing of their research. Other steps will no doubt make sense in the future. MIT,  for example, supports open access journals with a <a href="/oafund">fund</a> authors can use for publication fees.</p>
+</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Why doesn’t the policy offer a delay before posting the articles, so that the MIT version doesn’t show until after journal publication?</a></h3>
+<div class="content">Different disciplines have very different “half lives” for journal articles, making it very difficult to include a particular time period in an overall policy. Instead, the opt out exists for authors whose publishers require a delay before posting.</div>
+</section>
+<section class="expandable">
+<h3><a href="#">Won’t this lead to the proliferation of versions and confusion over citation?</a></h3>
+<div class="content">
+<p>With or without this policy, the academic community will need to work on the problem of version control in digital scholarship. There are technical and standard-based solutions that will address this problem. Some of those examining this issue include an <a href="http://masetto.ingentaconnect.com/vl=16443694/cl=27/tt=885/ini=alpsp/nw=1/fm=docpdf/rpsv/cw/alpsp/09531513/v13n4/s8/p251">International working group of scholars, scholarly societies, and publishers</a> and the AAAS, among others. Nomenclature and modeling efforts have been begun by the <a href="http://www.niso.org/publications/rp/RP-8-2008.pdf">National Information Standards Organization</a> and the <a href="http://www.lse.ac.uk/library/vif/Framework/index.html">Version Identification Framework. </a>These efforts will be closely monitored.</p>
+</div>
+</section>
+<p>&nbsp;</p>
+	</div>
+
+</div>

@@ -1,0 +1,158 @@
+
+<h2 class="s-lib-box-title">Defining Open Access
+
+</h2>
+
+<div id="s-lg-box-collapse-629501" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1170092" class=" clearfix">
+
+<p><img height="168" src="http://lgimages.s3.amazonaws.com/data/imagemanager/66248/open_access_logo_plos_white.svg.png" style="float: left; margin-left: 15px; margin-right: 15px;" width="107" /><span style="font-size: small;">Open access (OA) refers to freely available, digital, online information.&nbsp;Open access scholarly literature is free of charge and often carries less restrictive copyright and licensing barriers than traditionally published works, for both the users and the authors.&nbsp;</span></p>
+
+
+
+<p><span style="font-size: small;">While OA is&nbsp;a newer form of scholarly publishing, many OA journals comply with well-established peer-review processes and maintain high publishing standards. For more information,&nbsp;see Peter Suber&#39;s overview of Open Access:&nbsp;<a href="http://legacy.earlham.edu/~peters/fos/overview.htm" target="_blank">http://legacy.earlham.edu/~peters/fos/overview.htm</a>.</span></p>
+
+
+
+<p>&nbsp;</p>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="s-lg-box-wrapper-712023" class="s-lg-box-wrapper-712023">
+
+<div id="s-lg-box-629502-container" class="s-lib-box-container">
+
+<div id="s-lg-box-629502" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">Green vs. Gold
+
+</h2>
+
+<div id="s-lg-box-collapse-629502" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1170093" class=" clearfix">
+
+<p><img height="53" src="http://lgimages.s3.amazonaws.com/data/imagemanager/66248/solid_green.png" style="float: left; margin-left: 15px; margin-right: 15px;" width="53" /></p>
+
+
+
+<p><strong>Green OA</strong> publishing refers to the self-archiving of published or pre-publication&nbsp;works for free public use.&nbsp;Authors provide access to preprints or post-prints (with publisher permission) in an institutional or disciplinary&nbsp;archive such as&nbsp;<a href="http://ecommons.cornell.edu/" target="_blank">eCommons@Cornell</a> and <a href="http://arxiv.org/" target="_blank">arXiv.org</a>.</p>
+
+
+
+<p><img height="52" src="http://lgimages.s3.amazonaws.com/data/imagemanager/66248/pure-gold-color-powder-coating-powder.jpg" style="margin-left: 15px; margin-right: 15px; float: left;" width="52" /><strong>Gold OA</strong> publishing refers to works published in an open access journal and accessed via the journal or publisher&#39;s website.&nbsp;Examples of Gold OA include <a href="http://www.plos.org/" target="_blank">PLOS (Public Library of Science)</a> and <a href="http://www.biomedcentral.com/" target="_blank">BioMed Central</a>.</p>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="s-lg-box-wrapper-712024" class="s-lg-box-wrapper-712024">
+
+<div id="s-lg-box-629503-container" class="s-lib-box-container">
+
+<div id="s-lg-box-629503" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">Gratis vs. Libre
+
+</h2>
+
+<div id="s-lg-box-collapse-629503" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1170094" class=" clearfix">
+
+<p><img style="margin-left: auto; margin-right: auto; display: block;" src="http://lgimages.s3.amazonaws.com/data/imagemanager/66248/5755171802_20dba1bbe3.jpg" height="203" width="362" /></p>
+
+<p style="text-align: center;"><span style="font-size: xx-small;">&nbsp;&nbsp; Image: Opensource.com, <a target="_blank" href="http://tinyurl.com/l7y66vo">http://tinyurl.com/l7y66vo</a></span></p>
+
+<ul>
+
+<li><span style="font-size: xx-small;"><span style="font-size: small;"><strong>Gratis OA</strong> is information that is available free of charge, while some copyright and licensing restrictions may still apply.</span><br /></span></li>
+
+</ul>
+
+<ul>
+
+<li><span style="font-size: xx-small;"><span style="font-size: small;"><strong>Libre OA</strong> is information that is free of charge and free of most copyright and licensing restriction.<br /></span></span></li>
+
+</ul>
+
+<ul>
+
+<li><span style="font-size: xx-small;"><span style="font-size: small;">While 'free' implies that the information does not cost anything to access, remember that OA publishing still often involves a cost to the author to publish the work.</span></span></li>
+
+</ul>
+
+<p style="text-align: left;"><span style="font-size: xx-small;">&nbsp;</span></p>
+
+<p style="text-align: left;"><span style="font-size: xx-small;">&nbsp;</span></p>
+
+<p style="text-align: right;"></p>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="s-lg-box-wrapper-712025" class="s-lg-box-wrapper-712025">
+
+<div id="s-lg-box-629810-container" class="s-lib-box-container">
+
+<div id="s-lg-box-629810" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">Open Access Explained
+
+</h2>
+
+<div id="s-lg-box-collapse-629810" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1176923" class="s-lg-widget "><iframe width="420" height="315" src="//www.youtube.com/embed/L5rVH1KGBCY" frameborder="0" allowfullscreen></iframe>
+
+</div>

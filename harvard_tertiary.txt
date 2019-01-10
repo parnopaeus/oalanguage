@@ -1,0 +1,247 @@
+<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">How to make your own work open access</span></h1>
+						<div id="bodyContent">
+								<div id="siteSub">From Harvard Open Access Project</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table align="right">
+<tr>
+<td> <div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Publish_in_an_OA_journal_.28.22gold.22_OA.29"><span class="tocnumber">1</span> <span class="toctext">Publish in an OA journal ("gold" OA)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Deposit_in_an_OA_repository_.28.22green.22_OA.29"><span class="tocnumber">2</span> <span class="toctext">Deposit in an OA repository ("green" OA)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Permissions"><span class="tocnumber">3</span> <span class="toctext">Permissions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Translations_of_this_handout"><span class="tocnumber">4</span> <span class="toctext">Translations of this handout</span></a></li>
+</ul>
+</div>
+
+</td></tr></table>
+<ul>
+<li> This page is part of the <a rel="nofollow" class="external text" href="http://cyber.law.harvard.edu/hoap">Harvard Open Access Project</a> (HOAP).
+</li>
+</ul>
+<ul>
+<li> I first wrote these notes as an online handout for a <a rel="nofollow" class="external text" href="http://cyber.law.harvard.edu/events/luncheon/2012/10/OAweek">talk</a> at the <a rel="nofollow" class="external text" href="http://cyber.law.harvard.edu/">Berkman Klein Center</a> on October 23, 2012, and have added updates and revisions periodically since then. &#8212;<a rel="nofollow" class="external text" href="http://bit.ly/petersuber">Peter Suber</a>.
+<ul>
+<li> These notes focus on <a rel="nofollow" class="external text" href="http://bit.ly/oa-overview">open access</a> to peer-reviewed research articles and their unrefereed preprints. They do not cover books, theses and dissertations, conference presentations, datasets, courseware, audio, video, multimedia, or source code. But I might add pages on other categories over time. The live audience for the talk consisted of Harvard people, which explains the occasional Harvard reference. But the sources cited will be useful for scholars anywhere. The full title of the talk was, <i>How to Make Your Research Open Access (Whether You're at Harvard or Not)</i>. 
+</li>
+<li> Now that I've got the notes online, I <a rel="nofollow" class="external text" href="mailto:peter.suber@gmail.com">welcome</a> suggestions.
+</li>
+<li> This handout should be more useful than my slides from the talk. I keep it up to date, link to the sites I mention, and use complete sentences. But FYI, <a rel="nofollow" class="external text" href="https://docs.google.com/presentation/d/1F7M6I8PyCGDXmfE96llnu21S8Eu_rx_ubwUANBNMeEU/edit">here are the slides</a>.
+</li>
+<li> Also see <a rel="nofollow" class="external text" href="http://archive.org/stream/9780262517638OpenAccess/9780262517638_Open_Access#page/n181/mode/2up">Chapter 10</a> ("Self-help") of my book, <i><a href="/hoap/Open_Access_(the_book)" title="Open Access (the book)">Open Access</a></i> (MIT Press, 2012), and the <a rel="nofollow" class="external text" href="http://bit.ly/oa-book#ch10">updates to Chapter 10</a>. The book is itself OA.
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Suggested short URL for this page = <a rel="nofollow" class="external text" href="http://bit.ly/how-oa">bit.ly/how-oa</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Publish_in_an_OA_journal_.28.22gold.22_OA.29">Publish in an OA journal ("gold" OA)</span></h2>
+<ul>
+<li> Find a suitable OA journal. Go to the <a rel="nofollow" class="external text" href="http://www.doaj.org/">Directory of Open Access Journals</a> (DOAJ) and browse by field.
+<ul>
+<li> As you browse, bear in mind that some OA journals will be high in quality, impact, and prestige. Some will be low. In this respect, OA journals are just like conventional, non-OA journals.
+</li>
+<li> Some will use liberal open licenses, like <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by/3.0">CC-BY</a>. Some will use more restrictive open licenses like <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by-nc/3.0">CC-BY-NC</a> or <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by-nc-nd/3.0">CC-BY-NC-ND</a>. Some will offer only gratis access without open licenses, that is, they will be free of charge for reading but publish under all-rights-reserved copyrights.
+</li>
+<li> Some will charge publication fees (also called <i>article processing charges</i> or APCs), and some will not. 
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> If the best journal for your purposes charges a publication fee, see whether your funder or employer will pay it. (Most of these fees are paid by funders or employers, not by authors out of pocket.)
+<ul>
+<li> There's no complete list of funders willing to pay publication fees on behalf of grantees. But see the <a rel="nofollow" class="external text" href="http://www.biomedcentral.com/about/apcfaq/grants">incomplete list</a> from BioMed Central, or the <a rel="nofollow" class="external text" href="http://www.nature.com/openresearch/funding/funding-for-oa-articles/#List_of_funders">larger incomplete list</a> from Nature Research. If the article you want to publish is based on funded research, check with your funding agency directly.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://oad.simmons.edu/oadwiki/OA_journal_funds">Many universities</a> are willing to pay publication fees on behalf of faculty.
+</li>
+<li> If you're at Harvard, apply to the <a rel="nofollow" class="external text" href="http://osc.hul.harvard.edu/HOPE/">Harvard Open-Access Publishing Equity</a> (HOPE) fund. For a Harvard-based project to spread HOPE-like funds to other institutions, see the <a rel="nofollow" class="external text" href="http://www.oacompact.org/">Compact for Open-Access Publishing Equity</a> (COPE).
+</li>
+<li> If you're worried about paying fees out of pocket, here's some background to help you estimate the odds. Although charging publication fees is the best-known business model for peer-reviewed OA journals, it's not the most common. Only <a rel="nofollow" class="external text" href="http://blogs.law.harvard.edu/pamphlet/2009/05/29/what-percentage-of-open-access-journals-charge-publication-fees/">about 30%</a> of peer-reviewed OA journals overall charge publication fees (<a rel="nofollow" class="external text" href="https://plus.google.com/u/0/+PeterSuber/posts/aaAknRyN9cs">update</a>). When OA journals do charge fees, the fees are usually paid by funders (59%) or by universities (24%). Only 12% of the time are they paid by authors out of pocket. See Table 4 of the comprehensive <a rel="nofollow" class="external text" href="http://arxiv.org/abs/1101.5260">Study of Open Access Publishing</a> (SOAP). That means that only 3.6% of authors who publish in OA journals overall (12% of 31%) pay fees out of pocket. At the same time, <a rel="nofollow" class="external text" href="http://www.biomedcentral.com/1741-7015/10/124">about 50%</a> of articles published in peer-reviewed OA journals are published in fee-based journals. Hence, if we count by article rather than by journal, then only 6% of authors who publish in OA journals overall (12% of 50%) pay fees out of pocket. These figures are averages, and the rates depend significantly on field and type of employer; see Figure 8 of the <a rel="nofollow" class="external text" href="http://arxiv.org/abs/1101.5260">SOAP study</a>. (SOAP was published in 2011, and I haven't seen more recent data. If you have, please <a rel="nofollow" class="external text" href="mailto:peter.suber@gmail.com">let me know</a>.)
+</li>
+<li> If you want to see how a given journal's fee compares with others, and how it correlates with the journal's impact or influence, see <a rel="nofollow" class="external text" href="http://flourishoa.org/">FlourishOA</a>.
+</li>
+<li> If you want to know whether a given journal charges a publication fee, then the <a rel="nofollow" class="external text" href="http://www.doaj.org/">Directory of Open Access Journals</a> (DOAJ) will tell you. If the journal is not listed in the DOAJ, then reconsider whether it's the right journal for you. For more, see the next entry on assessing the quality of an unknown journal.
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> If you find an otherwise promising OA journal in your field, but have never heard of it, investigate it. Network with trusted colleagues to do so.
+<ul>
+<li> Find the names of the editors and members of the editorial board. Do you recognize and respect them? 
+</li>
+<li> Above all, read a good sample of its papers. Are they good, by your own standards? Would you be proud or embarrassed to be associated with them?
+</li>
+<li> Is the journal listed in the <a rel="nofollow" class="external text" href="http://doaj.org/">Directory of Open Access Journals</a> (DOAJ)? If so, then either trust the journal or deepen your investigation. Read more <a rel="nofollow" class="external text" href="http://www.nature.com/news/open-access-website-gets-tough-1.15674">here</a>, <a rel="nofollow" class="external text" href="https://doajournals.wordpress.com/2015/03/05/doaj-is-raising-the-quality-bar-for-open-access-sparc-blog-post/">here</a>, or <a rel="nofollow" class="external text" href="https://www.digital-science.com/blog/perspectives/raising-the-bar-at-directory-of-open-access-journals/">here</a> about the DOAJ efforts to weed out untrustworthy journals.
+</li>
+<li> Also follow the progress of <a rel="nofollow" class="external text" href="https://www.cabells.com/">Cabell's</a>, <a rel="nofollow" class="external text" href="http://www.journalguide.com/">JournalGuide</a>, <a rel="nofollow" class="external text" href="http://journalreviewer.org/">JournalReviewer</a>, <a rel="nofollow" class="external text" href="https://www.enago.com/academy/journal-finder/">Open Access Journal Finder</a>,  <a rel="nofollow" class="external text" href="http://pre-val.org/">Peer Review Evaluation</a> (PRE), <a rel="nofollow" class="external text" href="http://www.qoam.eu/">Quality Open Access Market</a> (QOAM), <a rel="nofollow" class="external text" href="https://scirev.sc/">SciRev</a>, and <a rel="nofollow" class="external text" href="http://thinkchecksubmit.org/">Think-Check-Submit</a>. All these services are trying different ways to solve the same problem.
+</li>
+<li> Don't assume that unknown journals are weak. Low profile does not imply low quality, especially when journals are new, and the average OA journal is significantly newer than the average conventional journal. New journals, OA and non-OA, face the <a rel="nofollow" class="external text" href="http://dash.harvard.edu/handle/1/4322577">vicious circle</a> of needing excellent submissions to generate reputation, and needing reputation to attract excellent submissions. Don't fault a journal for being only partway through the process of escaping this circle. Look to its quality alone, as far as you can determine it. Even journals excellent from birth need time to develop a reputation in proportion to their quality. When an honest, new, and little-known journal is struggling for visibility, you can help it escape the circle by submitting some of your best work. In the words of Harvard's <a rel="nofollow" class="external text" href="http://gantercourses.net/wp-content/uploads/2013/11/Faculty-Advisory-Council-Memorandum-on-Journal-Pricing-%C2%A7-THE-HARVARD-LIBRARY.pdf">Faculty Advisory Council on the Library</a> (April 2012), "move prestige to open access."
+</li>
+<li> Is the publisher a <a rel="nofollow" class="external text" href="http://www.oaspa.org/members.php">member</a> of the <a rel="nofollow" class="external text" href="http://www.oaspa.org/">Open Access Scholarly Publishers Association</a> (OASPA)? OASPA has a good <a rel="nofollow" class="external text" href="http://oaspa.org/membership/code-of-conduct/">code of conduct</a> and set of <a rel="nofollow" class="external text" href="https://oaspa.org/membership/membership-criteria/">membership criteria</a> requiring peer review, requiring disclosure of a journal's vetting process, fees, and ownership, and prohibiting spam to solicit papers or members of editorial boards. Also see the <a rel="nofollow" class="external text" href="http://doaj.org/bestpractice">DOAJ Principles of Transparency</a>. Some honest, high-quality OA publishers do not yet belong to OASPA, and some honest, high-quality OA journals are not yet listed in the DOAJ. But we should encourage them to apply. If your investigation of a particular journal doesn't turn up evidence that you trust one way or another, then follow the rule to avoid publishers who aren't members of OASPA and journals that aren't listed in the DOAJ. Don't hesitate to tell them that you are doing so. That will give them an incentive to join, and live up to their professional standards. 
+<ul>
+<li> Similarly, if institutions must decide which OA journals to support, they could require OASPA membership and/or DOAJ listing, and say so on a public web page. (This is the approach we take with the Harvard <a rel="nofollow" class="external text" href="https://osc.hul.harvard.edu/programs/hope/faq/">HOPE Fund</a>.) That will strengthen the incentive for OA publishers and journals to live up to the standards set by OASPA and DOAJ. 
+</li>
+</ul>
+</li>
+<li> Related but requiring more effort: Assess the journal under the <a rel="nofollow" class="external text" href="http://publicationethics.org/news/principles-transparency-and-best-practice-scholarly-publishing-revised-and-updated">Principles of Transparency and Best Practice in Scholarly Publishing</a> issued jointly by the <a rel="nofollow" class="external text" href="http://publicationethics.org/">Committee on Publication Ethics</a> (COPE), the <a rel="nofollow" class="external text" href="https://doaj.org/">Directory of Open Access Journals</a> (DOAJ), the <a rel="nofollow" class="external text" href="http://oaspa.org/">Open Access Scholarly Publishers Association</a> (OASPA), and the <a rel="nofollow" class="external text" href="http://www.wame.org/">World Association of Medical Editors</a> (WAME).
+</li>
+<li> If an unknown OA journal solicits your work, or invites you to join the editorial board, then you could reply that you'll consider it when the publisher joins OASPA and the journal is listed in the DOAJ.
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> When you find a suitable OA journal, then submit your manuscript, just as you would to a conventional journal. 
+</li>
+</ul>
+<ul>
+<li> If you don't find a suitable OA journal, check again when you publish your next paper. Things are changing fast.
+<ul>
+<li> But don't conclude that you can't yet make your article OA. If you don't make it gold OA (through an OA journal), you can publish it in a non-OA journal make the peer-reviewed manuscript green OA (through an OA repository). For details, see the section on <a href="#Deposit_in_an_OA_repository_.28.22green.22_OA.29">green OA</a>, below.
+</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Deposit_in_an_OA_repository_.28.22green.22_OA.29">Deposit in an OA repository ("green" OA)</span></h2>
+<ul>
+<li> Find a suitable OA repository for your work.
+<ul>
+<li> Institutional repositories try to capture the research output of an institution. Disciplinary repositories try to capture the research output of a field. Find out whether there's an OA repository in your institution or field.
+</li>
+<li> If you don't know whether your institution has an institutional repository, ask a librarian.
+</li>
+<li> Consult the <a rel="nofollow" class="external text" href="http://www.opendoar.org/">Directory of Open Access Repositories</a> (OpenDOAR) or the <a rel="nofollow" class="external text" href="http://roar.eprints.org/">Registry of Open Access Repositories</a> (ROAR). Both list both sorts of repository. Also see the <a rel="nofollow" class="external text" href="http://oad.simmons.edu/oadwiki/Disciplinary_repositories">list of disciplinary repositories</a> at the <a rel="nofollow" class="external text" href="http://oad.simmons.edu">Open Access Directory</a>.
+</li>
+<li> Harvard's institutional repository is called <a rel="nofollow" class="external text" href="http://dash.harvard.edu/">Digital Access to Scholarship at Harvard</a> (DASH). Anyone with an active Harvard ID may <a rel="nofollow" class="external text" href="http://osc.hul.harvard.edu/dash/quicksubmit">deposit</a> in DASH. Students and Fellows: that includes you.
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> If there isn't an OA repository in your institution or field, then consider a universal repository such as <a rel="nofollow" class="external text" href="http://www.zenodo.org/">Zenodo</a>, <a rel="nofollow" class="external text" href="http://opendepot.org/">OpenDepot</a>, or <a rel="nofollow" class="external text" href="https://github.com/">GitHub</a>. 
+<ul>
+<li> You could also post your work to your personal web site or home page. But repositories are better long-term solutions because they take steps toward digital preservation and provide persistent URLs. In addition, they're better indexed by search engines, and will continue to hold your work and make it OA after you change jobs or die. 
+</li>
+<li> Non-profit OA repositories are also a better choice than for-profit sites like Academia.edu and ResearchGate. See the well-written arguments by the <a rel="nofollow" class="external text" href="http://osc.universityofcalifornia.edu/2015/12/a-social-networking-site-is-not-an-open-access-repository/">U of California</a> and <a rel="nofollow" class="external text" href="http://www.plannedobsolescence.net/academia-not-edu/">Kathleen Fitzpatrick</a>.
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Start with your new works and deposit them as you finish them. As you find time, deposit your older works retroactively.
+<ul>
+<li> When you deposit new works, deposit at the time of acceptance. That's when you have the peer-reviewed manuscript in hand (before you lose track of it) and that's when you're still thinking about widening access to your new work (before you become preoccupied by your next project). 
+</li>
+<li> To be explicit on a point many people miss: When you make new work OA, it can be green or gold (OA through repositories or journals), at your choice. But when you want to make older work OA, it's usually too late for gold OA but never too late for green OA.
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Most of the time, you may lawfully make your article OA through a repository even if you published it in a non-OA journal. There are two reasons why. (For more details on each, see the section on <a href="#Permissions"> Permissions</a> below.)
+<ol>
+<li> First, <a rel="nofollow" class="external text" href="http://www.sherpa.ac.uk/romeo/statistics.php">most</a> non-OA publishers give standing permission for green OA. 
+</li>
+<li> Second, research institutions can adopt <a href="/hoap/Good_practices_for_university_open-access_policies" title="Good practices for university open-access policies"> rights-retention OA policies</a> to assure permission for green OA even in cases where publishers don't already give standing permission. 
+</li>
+</ol>
+<ul>
+<li> Unfortunately the two facts above are among the best-kept secrets of OA, and must compete against some of the most widespread misunderstandings about OA, for example, that all OA is gold OA, that publishing in a non-OA journal forecloses the possibility of OA, that the relevant rights always belong to publishers, and that non-OA publishers are doing nothing to adapt to an OA world or accommodate authors who want OA.
+</li>
+<li> Important conclusion, especially for early-career researchers: Some OA journals are among the top journals in their fields, whether we measure this status by citations, altmetrics, downloads, or reputation. This set of OA journals grows with time. But some hiring, promotion, and tenure committees don't yet recognize any OA journals among the top journals in their field. If that's your situation (given your field and your committee), and if you need the imprimatur of a "top journal" for your career, then don't conclude that there's a tradeoff between OA and your career. At worst there's only a tradeoff between gold OA and your career. Don't forget the green OA option, and don't fail to take advantage of it. Publish in the best journal that will accept your work. (Get your career so that you can fight for OA from inside.) If that journal isn't OA, then deposit the same article at the same time in an OA repository.
+</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Permissions">Permissions</span></h2>
+<ul>
+<li> No matter which path you choose ("gold" or "green" OA), the journal or repository will need permission to make your work OA. But permission from whom? The answer depends on what happened to the rights in your article after you wrote it.
+</li>
+</ul>
+<ul>
+<li> When you write a new article, you are the copyright holder. You needn't apply for a copyright or register the work. It's automatic. If you haven't already transferred rights to others, then permission for OA comes from you.
+<ul>
+<li> You may authorize publication in an OA journal (<a href="#Publish_in_an_OA_journal_.28.22gold.22_OA.29">gold OA</a>). Just sign the publishing contract.
+</li>
+<li> You may authorize OA through a repository (<a href="#Deposit_in_an_OA_repository_.28.22green.22_OA.29">green OA</a>) for an unpublished manuscript or preprint. Just make the deposit. If there's a check box to affirm that you have the right to authorize OA, check it. However, if you want to deposit a <i>published</i> article, then you have probably transferred all or some rights to a publisher. Hence, see next.
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> If you want to deposit a <i>published</i> article in a repository, and make it OA, then the repository will need permission from the relevant rightsholder.
+<ul>
+<li> If you retained key rights when you published (desirable but still rare), then you may authorize OA through a repository on your own. You needn't consult or involve the publisher. 
+</li>
+<li> If you transferred key rights to the publisher (undesirable but still common), then you will need the publisher's permission.
+</li>
+<li> However, <a rel="nofollow" class="external text" href="http://www.sherpa.ac.uk/romeo/statistics.php">most</a> conventional or non-OA publishers give standing permission for author-initiated green OA. 
+<ul>
+<li> To see whether your journal or publisher gives this kind of standing permission, read your publishing agreement. Or look up the journal or publisher in the <a rel="nofollow" class="external text" href="http://www.sherpa.ac.uk/romeo.php">SHERPA RoMEO database</a>. 
+</li>
+</ul>
+</li>
+<li> If your journal or publisher does <i>not</i> give standing permission for green OA, then try one of these strategies.
+<ul>
+<li> Ask for permission. Many publishers who don't give standing permission will agree to case-by-case requests. 
+</li>
+<li> Use an <a rel="nofollow" class="external text" href="http://oad.simmons.edu/oadwiki/Author_addenda">author addendum</a>. An author addendum is a proposed modification to the publishing agreement, written by a lawyer, giving the author the right to authorize OA (and sometimes other rights as well). Because it's only a proposed modification, publishers may accept it or reject it. 
+</li>
+<li> Work for a rights-retention OA policy at your institution. (More on this below.)
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Permission to deposit an article in an OA repository often depends on the <i>version</i> you plan to deposit.
+<ul>
+<li> For example, most publishers who give standing permission for green OA permit deposit of the version approved by peer review (sometimes called the <i>accepted author manuscript</i> or <i>AAM</i>), but not the published edition (sometimes called the <i>version of record</i> or <i>VOR</i>). 
+<ul>
+<li> Symmetrically, most university and funder OA policies are satisfied by deposit of the AAM, and don't require deposit of the VOR.
+</li>
+</ul>
+</li>
+<li> If you have permission to deposit the AAM, and not the VOR, then you'll need to put your hands on the AAM. This may sound easy, since you're the author. But it might be the single largest obstacle to green OA. Sometimes it's objectively hard, and sometimes authors merely think it's hard and decide they can't be bothered.
+<ul>
+<li> <i>Tip for the future:</i> Whenever you publish a new article, always keep the AAM and deposit it in an OA repository at the time of acceptance. 
+</li>
+<li> If you have permission to deposit the VOR, then you can always get a copy from the journal web site.
+</li>
+<li> SHERPA maintains a shorter <a rel="nofollow" class="external text" href="http://www.sherpa.ac.uk/romeo/PDFandIR.php?la=en">list</a> of publishers who give standing permission for authors to deposit the VOR.
+</li>
+</ul>
+</li>
+<li> If you have permission to deposit the AAM, but don't have the AAM itself, then see the <a rel="nofollow" class="external text" href="https://openaccessbutton.org/">Open Access Button</a> instructions on <a rel="nofollow" class="external text" href="https://docs.google.com/document/d/1TPOH664MgMVBW3zfsbbDgaPr6qv_C97Uhj6cESGb3F4/edit#heading=h.clbvz43nrm75">how to fetch the AAM from your publisher's version-control system</a>. Right now these instructions apply only to authors, but in the future they might include instructions for those acting on behalf of authors, such as librarians, administrative assistants, research assistants, and student workers.
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> For standing permission to make your future articles OA <i>without</i> depending on publishers for that permission, work for a rights-retention OA policy at your institution. Rights-retention policies are sometimes called <a rel="nofollow" class="external text" href="http://osc.hul.harvard.edu/modelpolicy">Harvard-style</a> policies.
+<ul>
+<li> The <a rel="nofollow" class="external text" href="http://cyber.law.harvard.edu/hoap">Harvard Open Access Project</a> (HOAP) can <a href="/hoap/Main_Page#Policy_consultations" title="Main Page">help</a> you with a policy at your institution. Also see the HOAP guide to <a href="/hoap/Good_practices_for_university_open-access_policies" title="Good practices for university open-access policies">good practices for university OA policies</a>, which focuses on rights-retention policies. (Disclosure: I write and edit the guide with Stuart Shieber.)
+</li>
+<li> By adopting a rights-retention OA policy, faculty grant the institution a range of nonexclusive rights to their future scholarly articles, including the right to authorize OA through the institutional repository. This assures that faculty may lawfully make their work OA...
+<ul>
+<li> even when they publish in a non-OA journal,
+</li>
+<li> even when the non-OA journal does not give standing permission for green OA, and
+</li>
+<li> even when faculty members have not negotiated special access terms or permissions with their publishers.
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Translations_of_this_handout">Translations of this handout</span></h2>
+<p>This handout is also available in <a href="/hoap/How_to_make_your_own_work_open_access_(French_translation)" title="How to make your own work open access (French translation)">French</a> (November 2017), <a href="/hoap/How_to_make_your_own_work_open_access_(German_translation)" title="How to make your own work open access (German translation)">German</a> (October 2017), <a href="/hoap/How_to_make_your_own_work_open_access_(Greek_translation)" title="How to make your own work open access (Greek translation)">Greek</a> (September 2013), <a href="/hoap/How_to_make_your_own_work_open_access_(Indonesian_translation)" title="How to make your own work open access (Indonesian translation)">Indonesian</a> (October 2017), and <a href="/hoap/How_to_make_your_own_work_open_access_(Spanish_translation)" title="How to make your own work open access (Spanish translation)">Spanish</a> (January 2014). I <a rel="nofollow" class="external text" href="mailto:peter.suber@gmail.com">welcome</a> other translations.
+</p>
