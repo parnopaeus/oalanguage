@@ -1,0 +1,91 @@
+                        <div class="col-md-10 col-md-offset-1">
+                            <h1>Open Access</h1>
+                            <!--- end header -->
+                            <p >Open Access is the free, immediate, online availability of research articles coupled with the rights to use these articles fully in the digital environment. Open Access ensures that anyone can access and use these results—to turn ideas into industries and breakthroughs into better lives.</p>                        </div>
+                    </div>
+                    <!--- end blurb -->
+
+                                          <div class="row sub-nav push-down lessthan3">
+                        <div class="col-md-12">
+                            <ul id="menu-why-it-matters-menu" class="menu"><li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-137 current_page_item menu-item-145"><a href="https://sparcopen.org/open-access/">Open Access</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="https://sparcopen.org/open-education/">Open Education</a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://sparcopen.org/open-data/">Open Data</a></li>
+<li id="menu-item-1080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1080"><a href="/impact-stories">Impact Stories</a></li>
+</ul>                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <!--- end topper content -->
+        </div>
+    </section>
+
+
+
+
+
+
+<article class="page-content sec-block sec-short">
+                        <div class="container narrow push-down">
+                <div class="share-float">
+    <h6 class="share-label">Share</h6>
+    <ul>
+        <li>
+            <a href="#"  onclick="
+                        window.open(
+                          'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('https://sparcopen.org/open-access/'),
+                          'facebook-share-dialog',
+                          'width=626,height=436');
+                        return false;">
+                <button class="fill facebook"><i class="fa fa-facebook"></i><span class="ac-hide">Share on Facebook</span></button>
+            </a>
+        </li>
+        <!--break-->
+        <li>
+            <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsparcopen.org%2Fopen-access%2F&text=Open+Access&via=sparc_na&related=sparc_na" target="_blank">
+                <button class="fill twitter"><i class="fa fa-twitter"></i><span class="ac-hide">Share on Twitter</span></button>
+            </a>
+        </li>
+        <!--break-->
+        <li>
+            <a href="#" class="addthis_button_email"  addthis:title="Open Access - SPARC" addthis:url="https://sparcopen.org/open-access/">
+                <button class="fill email"><i class="fa fa-envelope"></i><span class="ac-hide">Share via Email</span></button>
+            </a>
+        </li>
+        <!--break-->
+    </ul>
+</div>                    <div class="row">
+                        <div class="col col-md-10 col-md-offset-1">
+                            <p>Research provides the foundation of modern society. Research leads to breakthroughs, and communicating the results of research is what allows us to turn breakthroughs into better lives—to provide new treatments for disease, to implement solutions for challenges like global warming, and to build entire industries around what were once just ideas.</p>
+<p>However, our current system for communicating research is crippled by a centuries old model that hasn’t been updated to take advantage of 21st century technology:</p>
+<ol>
+<li>Governments provide most of the funding for research—hundreds of billions of dollars annually—and public institutions employ a large portion of all researchers.</li>
+<li>Researchers publish their findings without the expectation of compensation. Unlike other authors, they hand their work over to publishers without payment, in the interest of advancing human knowledge.</li>
+<li>Through the process of peer review, researchers review each other’s work for free.</li>
+<li>Once published, those that contributed to the research (from taxpayers to the institutions that supported the research itself) have to pay again to access the findings. Though research is produced as a public good, it isn’t available to the public who paid for it.</li>
+</ol>
+<p>Our current system for communicating research uses a print-based model in the digital age. Even though research is largely produced with public dollars by researchers who share it freely, the results are hidden behind technical, legal, and financial barriers. These artificial barriers are maintained by legacy publishers and restrict access to a small fraction of users, locking out most of the world’s population and preventing the use of new research techniques.</p>
+<p><strong>This fundamental mismatch between what is possible with digital technology—an open system for communicating research results in which anyone, anywhere can contribute—and our outdated publishing system has led to the call for Open Access.</strong></p>
+<p>Open Access is the free, immediate, online availability of research articles combined with the rights to use these articles fully in the digital environment. Open Access is the needed modern update for the communication of research that fully utilizes the Internet for what it was originally built to do—accelerate research.</p>
+<p><strong>Funders invest in research to advance human knowledge and ultimately improve lives.</strong> Open Access increases the return on that investment by ensuring the results of the research they fund can be read and built on by anyone.</p>
+<p><strong>Breakthroughs often come from unexpected places</strong>; the Theory of Relativity was developed by a patent clerk. Open Access expands the number of potential contributors to research from just those at institutions wealthy enough to afford journal subscriptions to anyone with an internet connection.</p>
+<p><strong>Researchers benefit from having the widest possible audience.</strong> Researchers provide their articles to publishers for free, because their compensation comes in the form of recognition for their findings. Open Access means more readers, more potential collaborators, more citations for their work, and ultimately more recognition.</p>
+<p><strong>The research enterprise itself benefits when the latest techniques can be easily used.</strong> For years, we have had powerful text and data mining tools that can analyze the entire research literature, uncovering trends and connections that no human reader could. While publishers’ technical and legal barriers currently prevent their widespread use, Open Access empowers anyone to use these tools, which hold the potential of revolutionizing how research is conducted.</p>
+<p>Even the best ideas remain just that until they are shared, until they can be utilized by others. The more people that can access and build upon the latest research, the more valuable that research becomes and the more likely we are to benefit as a society. More eyes make for smaller problems.</p>
+                        </div>
+                    </div>
+                    <!-- end row -->
+                </div>
+        
+    <div class="container page-content-footer">
+            <div class="row button-list">
+        <ul>
+                <li>
+            <a href="/what-we-do/active-policy/" target="_blank">
+                <button class="btn-outline">Learn about SPARC’s policy priorities</button>
+            </a>
+        </li>
+
+                <li>
+            <a href="/wp-content/uploads/2017/04/Open-Access-Factsheet_SPARC.11.10-3.pdf" target="_blank">
+                <button class="btn-outline">Download SPARC's OA factsheet</button>

@@ -1,0 +1,173 @@
+<h2>About SHERPA</h2>
+  <span class="localnav"><a href="#mission">Mission</a>&nbsp; |&nbsp;&nbsp;<a href="#partners">Partners</a>&nbsp;|&nbsp;&nbsp;<a href="#affiliate">Affiliate 
+  Partners</a>&nbsp;|&nbsp; <a href="#working"></a> <a href="#working">Working 
+  with SHERPA</a>&nbsp; |&nbsp; <a href="#staff">Staff</a>&nbsp; | &nbsp; <a href="#governance">Governance</a> 
+  </span> <a name="mission"></a> 
+  <h3><a name="mission"></a>Mission</h3>
+  <br>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="296">
+    <tr> 
+      <td width="50%" valign="top" height="302"> 
+        <p>The original SHERPA partnership was formed for the SHERPA project (2002-2006) 
+          and drew from research-led universities with an active interest in establishing 
+          an example of a then-new concept - an open access institutional repository. 
+          After a year, the original 7&nbsp;development partners were joined by 
+          6&nbsp;more partners to form a partnership of 21 individual institutions. 
+          We now have 34 partners and affiliates overall, consisting of 32 HE 
+          institutions, the STFC and the British Library.</p>
+        <p>SHERPA achieved its original goals ahead of schedule and within budget 
+          and has been an active presence on the developing field of institutional 
+          repository use. The partnership has now gone on to collaborate in a 
+          number of other open access projects.</p>
+        <p>The partnership is a large and varied consortium and has within its 
+          membership a range of examples of repository environments and institutional 
+          structures. The partners are all research-led institutions, all with 
+          practical experience of building and populating eprint repositories. 
+          As such they are well placed to take full advantage of the facilities 
+          that eprint repositories and extended-data repositories can offer. This 
+          strong and varied consortial background offers the ideal environment 
+          for exploring and testing ideas for repository development, which can 
+          be evaluated and disseminated to the wider community.<br>
+        </p>
+      </td>
+      <td width="50%" align="center" valign="top" height="302"> <img src="images/sherpamap.jpg" width="255" height="362" border="1" alt="Map showing SHERPA Partner Locations"> 
+      </td>
+    </tr>
+  </table>
+  <h3><a name="partners" id="partners"></a>Partners</h3>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="296">
+    <tr> 
+      <td width="50%" valign="top"> 
+        <h4><strong>SHERPA Partners</strong></h4>
+        <ul>
+          <li>University of Nottingham<I> (lead)</I></li>
+          <li>University of Birmingham</li>
+          <li>University of Bristol</li>
+          <li>University of Cambridge</li>
+          <li>University of Durham</li>
+          <li>University of Edinburgh</li>
+          <li>University of Glasgow</li>
+          <li>London LEAP Consortium</li>
+          <li>University of Newcastle</li>
+          <li>University of Oxford</li>
+          <li>White Rose Partnership</li>
+          <li>Arts and Humanities Data Service <I>(now dissolved)</I></li>
+          <li>The British Library</li>
+        </ul>
+        <h4><a name="affiliate"></a>Affiliate Partners</h4>
+        <ul>
+          <li>Brunel University</li>
+          <li>Cranfield University</li>
+          <li>University of Exeter</li>
+          <li>University of Leicester</li>
+          <li>University of Liverpool</li>
+          <li>University of Salford</li>
+          <li>Sheffield Hallam University</li>
+          <li>University of St Andrews</li>
+          <li>STFC</li>
+          <li>Trinity College Dublin</li>
+        </ul>
+        <P>Affiliate Partners join with other partners in a mailing list and web 
+          services, and are able to take part in the wider collaboration and consultation 
+          work on repository issues within the project. The SHERPA Management 
+          Group welcome applications: <A href="projects/affpartners.html">further 
+          details</A> are available</P>
+      </td>
+      <td width="50%" valign="top"> 
+        <h4><strong>Consortium-Partner details</strong></h4>
+        <ul>
+          <li><i>London LEAP Consortium</i> 
+            <ul>
+              <li>Birkbeck College</li>
+              <li>Goldsmiths College</li>
+              <li>Imperial College</li>
+              <li>Institute of Cancer Research</li>
+              <li>Kings College</li>
+              <li>London School of Economics and Political Science (LSE)</li>
+              <li>Queen Mary</li>
+              <li>Royal Holloway</li>
+              <li>School of Advanced Study (SAS)</li>
+              <li>School of Oriental and African Studies (SOAS)</li>
+              <li>School of Pharmacy (SoP)</li>
+              <li>University College, London (UCL)</li>
+            </ul>
+          </li>
+        </ul>
+        <ul>
+          <li><i>White Rose Partnership </i> 
+            <ul>
+              <li>University of Leeds</li>
+              <li>University of Sheffield</li>
+              <li>University of York</li>
+            </ul>
+          </li>
+        </ul>
+        . </td>
+    </tr>
+  </table>
+  <h3><a name="working"></a>Working with SHERPA</h3>
+  <p>The SHERPA partner institutions are an existing consortium, with well established 
+    managerial support, communications and working practices. As such we are well 
+    placed to take advantage of our past work to launch into new areas of repository 
+    development. The range of <a href="projects/index.html">projects</a> and issues 
+    the partnership is addressing shows the depth of knowledge and experience 
+    that is being built. </p>
+  <p>The SHERPA partnership is a large, diverse and representative body of institutions. 
+    Partner institutions range from smaller specialised bodies such as SOAS, through 
+    to large, diverse Universities like Cambridge and Oxford. The partnership 
+    includes the British Library and the Arts and Humanities Development Service 
+    with their skills and experience in intellectual property rights, data preservation 
+    and collection management.</p>
+  <p>The partners are all research-led institutions, prominent in the research 
+    profile of the UK and are well placed to take full advantage of the facilities 
+    that eprint repositories and extended-data repositories can offer. While the 
+    majority of institutions use EPrints software, three partners use DSpace for 
+    their principle repositories and one uses an in-house system. SHERPA contains 
+    two consortial partners, who have different organisational structures. The 
+    White Rose Partnership shares a repository, along with joint advocacy, development 
+    and presentation. The London LEAP consortium takes advantage of joint technical 
+    working but presents seven different repositories to its end users, with individual 
+    development paths for the repositories themselves. </p>
+  <p>This strong and varied consortial background offers the ideal environment 
+    for exploring and testing ideas for repository development. <br>
+  </p>
+  <h3><a name="staff"></a>Staff</h3>
+  <p><b>Central Staff</b></p>
+  <p><a href="contacts.html#director">Co-Directors</a>,&nbsp; <a href="contacts.html#manager">Partnership 
+    Manager</a>, <a href="http://crc.nottingham.ac.uk/contacts.php">CRC Team</a></p>
+  <p><b>Repository Officers</b></p>
+  <p><a href="contacts.html#blibrary">British Library</a>,&nbsp;
+    <a href="contacts.html#birkbeck">Birkbeck</a>,&nbsp; <a href="contacts.html#birmingham">Birmingham</a>,&nbsp; 
+    <a href="contacts.html#bristol">Bristol</a>,&nbsp; <a href="contacts.html#cambridge">Cambridge</a>,&nbsp; 
+    <a href="contacts.html#durham">Durham</a>,&nbsp; <a href="contacts.html#edinburgh">Edinburgh</a>,&nbsp; 
+    <a href="contacts.html#glasgow">Glasgow</a>,&nbsp;<a href="contacts.html#goldsmiths">Goldsmiths</a>, 
+    <a href="contacts.html#imperial">Imperial</a>, <a href="contacts.html#icr">ICR</a>, 
+    <a href="contacts.html#kings">Kings</a>,&nbsp; <a href="contacts.html#leeds">Leeds</a>,&nbsp; 
+    <a href="contacts.html#newcastle">Newcastle</a>, <a href="contacts.html#nottingham">Nottingham</a>,&nbsp; 
+    <a href="contacts.html#oxford">Oxford</a>,&nbsp;<a href="contacts.html#queenm">Queen 
+    Mary </a>, <a href="contacts.html#holloway">Royal Holloway</a>,&nbsp; <a href="contacts.html#sheffield">Sheffield</a>, 
+    <a href="contacts.html#sas">SAS</a>, <a href="contacts.html#soas">SOAS</a>,&nbsp; 
+    <a href="contacts.html#sheffield"></a> <a href="contacts.html#sop">SoP</a>,&nbsp;<a href="contacts.html#ucl">UCL</a>,&nbsp; 
+    <a href="contacts.html#york">York, </a></p>
+  <h3><a name="governance"></a> Governance </h3>
+  <p>Day to day management of the project overall is by the <a href="contacts.html#manager">SHERPA 
+    Partnership Manager</a>, Bill Hubbard, based at the CRC, University of Nottingham. 
+    He liaises with other projects, interested institutions, organisations and 
+    initiatives. Enquiries and comments on the work of the project should be made 
+    to him in the first instance. He is supported by the <A href="http://www.sherpa.ac.uk/about.html">CRC 
+    team</A>. </p>
+  <p>SHERPA has two co-Directors, <a href="contacts.html#director">Stephen Pinfield</a> 
+    and <a href="contacts.html#director">Caroline Williams</a>, who both oversee 
+    the management of the project and ensure adherence to the strategic direction 
+    of the SHERPA Managent Group. They also maintain liaison with other interested 
+    institutions and scholarly bodies and represent the interests and management 
+    of the project at senior inter-institutional levels and within RLUK.</p>
+  <p>Work at individual institutions is under the control of Repository Officers.
+    Enquiries about project work at specific sites can be 
+    made to individual <a href="contacts.html#officer">Repository Officers</a>. 
+  </p>
+  <p>As part of the formal management structure of SHERPA, a management group 
+    for the CRC has been set up to oversee the development of the partnership 
+    in the longer term as part of its remit. Membership has been drawn from within 
+    the project and the HE community. Contact the <A href="contacts.html#manager">SHERPA 
+    Partnership Manage</A>r for more information.</p>

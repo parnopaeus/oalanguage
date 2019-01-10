@@ -1,6 +1,6 @@
-We engage and invest in research in order to accelerate the pace 
+ï»¿We engage and invest in research in order to accelerate the pace 
 of scienti c discovery, encourage innovation, enrich education, 
-and stimulate the economy — to improve the public good. 
+and stimulate the economy â€” to improve the public good. 
 Communication o the results o research an essential component 
 o the research process; research can only advance by sharing 
 the results, and the value of an investment in research is only 
@@ -11,12 +11,12 @@ users. The Internet gives us the opportunity to bring this crucial
 information to a worldwide audience at virtually no marginal 
 cost, and allows us to use it in new, innovative ways. This has 
 resulted in a call for a new framework to allow research results to 
-be more easily accessed and used — the call for Open Access. 
+be more easily accessed and used â€” the call for Open Access. 
 Over the past decade, Open Access h become central to 
 advancing the interests o researchers, scholars, students, business , 
-and the public — well librarians. Increasingly, institutions 
-that support research — from public and private research funders 
-to higher education institutions — are implementing policies 
+and the public â€” well librarians. Increasingly, institutions 
+that support research â€” from public and private research funders 
+to higher education institutions â€” are implementing policies 
 that require researchers to make articles that report on research 
 generated from their funding openly accessible to and fully 
 useable by the public. 
@@ -35,7 +35,7 @@ is provided by the Directory of Open Access
 Journals (DOAJ) [1]. 
 252,418 articles 
 were published in Open Access Journals 
-during 2000–2012 [1]. 
+during 2000â€“2012 [1]. 
 2,500 repositories 
 are available for authors to digitally deposit 
 their work [3]. A comprehensive list of these 
@@ -48,7 +48,7 @@ Washington, DC 20036
 tel: +1 202 296 2296 
 email: sparc@sparcopen.org 
 web: www.sparcopen.org 
-Number of articles published with CC BY licenses 2000–2012 [1]
+Number of articles published with CC BY licenses 2000â€“2012 [1]
 
 .................................................... 
 SPARC considers the terms outlined by the Creative Commons 
@@ -118,7 +118,7 @@ library community and SPARC have led
 the charge in working with policymakers to 
 ensure that the results of publicly funded 
 research are made freely available. Use 
-SPARC’s legislative advocacy platform 
+SPARCâ€™s legislative advocacy platform 
 to contact your elected representatives in 
 Congress and in your state. 
 [1] Growth in use of the CC-BY license. Open Access Scholarly Publishers Assocaition. 

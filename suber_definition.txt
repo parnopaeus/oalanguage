@@ -1,0 +1,641 @@
+<p><CENTER><FONT SIZE=+2><b>Open Access Overview</b></font><p><b>Focusing on open access to peer-reviewed research articles and their preprints</b></CENTER> 
+
+
+
+
+
+<p>This is an introduction to open access (OA) for those who are new to the concept. I hope it's short enough to read, long enough to be useful, and organized to let you skip around and dive into detail only where you want detail. It doesn't cover every nuance or answer every objection. But for those who read it, it should cover enough territory to prevent the misunderstandings that delayed progress in our early days. 
+
+
+
+<p>If this overview is still too long, then see my <a href="http://www.earlham.edu/~peters/fos/brief.htm">very brief</a> introduction to OA. It's available in 20+ languages and should print out on just one page, depending on your font size. If these pieces are too short, see my other <a href="http://cyber.law.harvard.edu/~psuber/wiki/Writings_on_open_access">writings on OA</a>, including <a href="http://cyber.law.harvard.edu/hoap/Open_Access_(the_book)"><em>Open Access</em></a> (MIT Press, 2012), my book-length introduction to OA. The <a href="http://bit.ly/oa-book">book home page</a> includes links to OA editions and a continually growing collection of updates and supplements. 
+
+<!-- <p>Once you're acquainted with the general idea of OA, follow new developments through the <a href="http://bit.ly/o-a-t-p">Open Access Tracking Project</a> and the <a href="http://www.earlham.edu/~peters/fos/newsletter/archive.htm">SPARC Open Access Newsletter</a>. (My blog, <a href="http://www.earlham.edu/~peters/fos/fosblog.html">Open Access News</a>, reported new developments in detail starting in May 2002; I laid it down in April 2010, but the archive remains online.) --> 
+
+<!-- and see <a href="http://www.earlham.edu/~peters/fos/do.htm">what you can do</a> to help the cause. --> 
+
+
+
+<p>I <a href="mailto:peter.suber@gmail.com">welcome</a> your comments and suggestions. 
+
+
+
+<blockquote> 
+
+<a href="http://bit.ly/petersuber">Peter Suber</a> 
+
+</blockquote> 
+
+
+
+<P><HR SIZE="1" WIDTH="100%" NOSHADE> 
+
+
+
+<!-- 
+
+<UL type=disc> 
+
+<P><STRONG>Contents</STRONG> 
+
+<UL type=disc> 
+
+<LI><a href="#definition">Definition</a> 
+
+<LI><a href="#compatible">Compatibilities</a> 
+
+<LI><a href="#copyright">Copyright</a> 
+
+<LI><a href="#royaltyfree">Focus on royalty-free literature</a> 
+
+<LI><a href="#publiclyfunded">Focus on publicly-funded research</a> 
+
+<LI><a href="#free">Production costs</a> 
+
+<LI><a href="#peerreview">Peer review</a> 
+
+<LI><a href="#vehicles">Vehicles</a> 
+
+<UL type=disc> 
+
+<LI><a href="#journals">OA journals</a> 
+
+<LI><a href="#archives">OA archives or repositories</a> 
+
+</UL> 
+
+<LI><a href="#constructive">Constuctive purpose</a> 
+
+<LI><a href="#notuniversal">Not universal access</a> 
+
+<LI><a href="#notbizmodel">Many business models</a> 
+
+<LI><a href="#interests">Many benefits, beneficiaries</a> 
+
+<LI><a href="#history">History</a> 
+
+<LI><a href="#links">Useful links</a> 
+
+</UL> 
+
+</UL> 
+
+--> 
+
+
+
+
+
+
+
+<UL type=disc> 
+
+
+
+<!-- ============================== --> 
+
+<a name="definition"></a> <a name="def"></a> 
+
+<p><li>Open-access (OA) literature is digital, online, free of charge, and free of most copyright and licensing restrictions. 
+
+<UL type=disc> 
+
+<LI>OA removes <i>price barriers</i> (subscriptions, licensing fees, pay-per-view fees) and <i>permission barriers</i> (most copyright and licensing restrictions). The <a href="https://www.plos.org/">PLoS</a> shorthand definition &#151;"free availability and unrestricted use"&#151; succinctly captures both elements. 
+
+<a name="permissionbarriers"></a> 
+
+<LI>There is some flexibility about which permission barriers to remove. For example, some OA providers permit commercial re-use and some do not. Some permit derivative works and some do not. But all of the major public definitions of OA agree that merely removing price barriers, or limiting permissible uses to "fair use" ("fair dealing" in the UK), is not enough. 
+
+<LI>Here's how the <a href="http://www.budapestopenaccessinitiative.org/read">Budapest Open Access Initiative</a> put it: "There are many degrees and kinds of wider and easier access to this literature. By 'open access' to this literature, we mean its free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose, without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited." 
+
+<LI>Here's how the <a href="http://www.earlham.edu/~peters/fos/bethesda.htm">Bethesda</a> and <a href="http://openaccess.mpg.de/Berlin-Declaration">Berlin</a> statements put it: For a work to be OA, the copyright holder must consent in advance to let users "copy, use, distribute, transmit and display the work publicly and to make and distribute derivative works, in any digital medium for any responsible purpose, subject to proper attribution of authorship...." 
+
+<LI>The <a href="http://www.budapestopenaccessinitiative.org/">Budapest</a> (February 2002), <a href="http://www.earlham.edu/~peters/fos/bethesda.htm">Bethesda</a> (June 2003), and <a href="http://openaccess.mpg.de/Berlin-Declaration">Berlin</a> (October 2003) definitions of "open access" are the most central and influential for the OA movement. Sometimes I refer to them collectively, or to their common ground, as the <a href="http://dash.harvard.edu/handle/1/4736612">BBB definition</a>. 
+
+<li>When we need to refer unambiguously to sub-species of OA, we can <a href="http://en.wikipedia.org/wiki/Gratis_versus_Libre">borrow</a> terminology from the kindred movement for free and open-source software. <a href="http://dash.harvard.edu/handle/1/4322580">Gratis OA</a> removes price barriers alone, and <a href="http://dash.harvard.edu/handle/1/4322580">libre OA</a> removes price barriers and at least some permission barriers as well. Gratis OA is free of charge, but not free of copyright of licensing restrictions. Users must either limit themselves to fair use or seek permission to exceed it. Libre OA is free of charge and expressly permits uses beyond fair use. To adapt Richard Stallman's famous <a href="http://www.gnu.org/philosophy/free-sw.html">formulation</a> (originally applied to software), gratis OA is free as in beer, while libre OA is also free as in speech. 
+
+<!-- (The BBB definition calls for libre OA; but because libre OA covers a range of things, not every kind of libre OA satisfies the BBB definition.) --> 
+
+<!-- <LI>While removing price barriers without removing permission barriers is not enough for full OA under the BBB definition, there's no doubt that price barriers constitute the bulk of the problem for which OA is the solution. --> 
+
+<LI>In addition to removing access barriers, OA should be immediate, rather than delayed, and should apply to full texts, not just abstracts or summaries. 
+
+</UL> 
+
+
+
+<!-- ============================== --> 
+
+<a name="compatible"></a> 
+
+<p><LI>OA is <a href="http://www.earlham.edu/~peters/writing/jbiol.htm">compatible</a> with <a href="#copyright">copyright</a>, <a href="#peerreview">peer review</a>, <a href="#journals">revenue</a> (even profit), print, preservation, <a href="http://dash.harvard.edu/handle/1/4322577">prestige</a>, <a href="http://dash.harvard.edu/handle/1/4552042">quality</a>, career-advancement, indexing, and other features and supportive services associated with conventional scholarly literature. 
+
+<UL type=disc> 
+
+<LI>The primary difference is that the bills are not paid by readers and hence do not function as access barriers. 
+
+</UL> 
+
+
+
+<!-- ============================== --> 
+
+<a name="copyright"></a> 
+
+<!-- ..copyright --> 
+
+<p><LI>The legal basis of OA is the consent of the copyright holder (for newer literature) or the expiration of copyright (for older literature). 
+
+<UL type=disc> 
+
+<LI>Because OA uses copyright-holder consent or the expiration of copyright, it does not require the reform, abolition, or infringement of copyright law. 
+
+<a name="licenses"></a> 
+
+<LI>One easy, effective, and increasingly common way for copyright holders to manifest their consent to OA is to use one of the <a href="http://creativecommons.org/">Creative Commons</a> licenses. Many <a href="http://web.archive.org/web/20130501234933/http://digital-rights.net/wp-content/uploads/books/ocl_v1.2.pdf">other open-content licenses</a> will also work. Copyright holders could also compose their own licenses or permission statements and attach them to their works (though there are good reasons <a href="http://www.plagiarismtoday.com/2009/05/28/why-to-not-write-your-own-license/">not to do so</a> without legal advice). 
+
+<LI>When copyright holders consent to OA, what are they consenting to? Usually they consent in advance to the unrestricted reading, downloading, copying, sharing, storing, printing, searching, linking, and crawling of the full-text of the work. Most authors choose to retain the right to block the distribution of mangled or misattributed copies. Some choose to block commercial re-use of the work. Essentially, these conditions block plagiarism, misrepresentation, and sometimes commercial re-use, and authorize all the uses required by legitimate scholarship, including those required by the technologies that facilitate online scholarly research. 
+
+<LI>For works not in the public domain, OA depends on copyright-holder consent. Two related conclusions follow: (1) OA is not <a href="http://dash.harvard.edu/handle/1/4455490">Napster for science</a>. It's about lawful sharing, not sharing in disregard of law. (2) OA to copyrighted works is voluntary, even if it is sometimes a condition of a voluntary contract, such as an employment or funding contract. There is no vigilante OA, no infringing, expropriating, or piratical OA. 
+
+<li>Of course OA can be implemented badly so that it infringes copyright. But so can ordinary publishing. With a little care it can be implemented well so that doesn't infringe copyright. Just like ordinary publishing. 
+
+</UL> 
+
+
+
+<!-- ============================== --> 
+
+<a name="royaltyfree"></a> 
+
+<!-- ..royaltyfree --> 
+
+<p><LI>The campaign for OA focuses on literature that authors give to the world without expectation of payment. 
+
+<UL type=disc> 
+
+<LI>Let me call this <i>royalty-free literature</i>. (It's interesting that there isn't already a standard term for this.) 
+
+<!-- /// when my bloomington paper is in HTML, then link from here to the section on royalty-free lit --> 
+
+<LI>There are two reasons to focus on royalty-free literature. First, it reduces costs for the provider or publisher. Second, it enables the author to consent to OA without losing revenue. 
+
+<LI>The most important royalty-free literature for our purposes is the body of peer-reviewed scientific and scholarly research articles and their preprints. (Non-academics are often surprised to learn that scholarly journals generally do not pay authors for their articles.) 
+
+<LI>Obviously no one writes royalty-free literature for money. Scholars write journal articles because advancing knowledge in their fields advances their careers. They write for <a href="http://opcit.eprints.org/oacitation-biblio.html">impact</a>, not for money. It takes nothing away from a disinterested desire to advance knowledge to note that it is accompanied by a strong self-interest in career-building. OA does not depend on altruistic volunteerism. 
+
+<LI>Because scholars do not earn money from their journal articles, they are very differently situated from most musicians and movie-makers. Controversies about OA to music, movies, and other royalty-producing content, therefore, do not carry over to research articles. 
+
+<LI>Royalty-free literature is the low-hanging fruit of OA, but OA needn't be limited to royalty-free literature. OA to royalty-producing literature, like monographs, textbooks, and novels, is possible as soon as the authors consent. But because these authors often fear the loss of revenue, their consent is more difficult to obtain. They have to be persuaded either (1) that the benefits of OA exceed the value of their royalties, or (2) that OA will trigger a net increase in sales. However, there is growing evidence that both conditions are met for most research monographs. 
+
+<LI>Nor need OA even be limited to literature. It can apply to any digital content, from raw and semi-raw data to images, audio, video, multi-media, and software. It can apply to works that are born digital or to older works, like public-domain literature and cultural-heritage objects, digitized later in life. 
+
+<LI>I refer to "peer-reviewed research articles and their preprints" in my subtitle because it's the focus of most OA activity and the focus of this overview, not because it sets the boundaries of OA. 
+
+</UL> 
+
+
+
+<!-- ============================== --> 
+
+<a name="taxpayerfunded"></a><a name="publiclyfunded"></a> 
+
+<!-- ..taxpayer ..public --> 
+
+<p><LI>Many OA initiatives focus on publicly-funded research. 
+
+<UL type=disc> 
+
+<LI>The <a href="http://dash.harvard.edu/handle/1/4725013">argument</a> for public access to publicly funded research is strong, and a growing number of countries <a href="http://www.eprints.org/openaccess/policysignup/">require OA to publicly-funded research</a>. 
+
+<LI>The campaign for OA to publicly-funded research usually recognizes exceptions for (1) classified, military research, (2) research resulting in patentable discoveries, and (3) research that authors publish in some royalty-producing form, such as books. Recognizing these exceptions is at least pragmatic, and helps avoid needless battles while working for OA to the largest, easiest subset of publicly-funded research. 
+
+<LI>The lowest of the low-hanging fruit is research that is <i>both</i> royalty-free and publicly-funded. The <a href="http://publicaccess.nih.gov/">policy of the US National Institutes of Health</a> (NIH) is a good example. 
+
+<li>But the OA movement is not limited to publicly-funded research, and seeks OA to research that is unfunded or funded by private foundations (like the <a href="http://www.wellcome.ac.uk/">Wellcome Trust</a> or <a href="http://www.hhmi.org/">Howard Hughes Medical Institute</a>). 
+
+</UL> 
+
+
+
+<!-- ============================== --> 
+
+<a name="free"></a> 
+
+<p><LI>OA literature is not free to produce or publish. 
+
+<UL type=disc> 
+
+<LI>No serious OA advocate has ever said that OA literature is costless to produce, although many argue that it is much less expensive to produce than conventionally published literature, even less expensive than priced online-only literature. The question is not whether scholarly literature can be made costless, but whether there are better ways to pay the bills than by charging readers and creating access barriers. 
+
+<LI>As the <a href="http://www.earlham.edu/~peters/fos/boaifaq.htm#wishfulthinking">BOAI FAQ</a> put it: "<i>Free</i> is ambiguous. We mean free for readers, not free for producers. We know that open-access literature is not free (without cost) to produce. But that does not foreclose the possibility of making it free of charge (without price) for readers and users." 
+
+<LI>The costs of producing OA literature, the savings over conventionally published literature, and the business models for recovering the costs, depend on whether the literature is delivered through <a href="#journals">OA journals</a> or <a href="#repositories">OA repositories</a>. (Details <a href="#green/gold">below</a>.) 
+
+<li>For those who do argue that OA literature costs less to produce than non-OA literature of comparable quality, how does the argument run? In short: OA dispenses with print (but so do many non-OA journals nowadays). OA eliminates subscription management (soliciting, tracking, renewing subscribers, negotiating prices and site licenses, collecting fees). OA eliminates DRM (authenticating users, distinguishing authorized from unauthorized users, blocking access to the unauthorized). OA reduces or eliminates legal expenses (drafting and enforcing restrictive licenses). Many OA journals eliminate marketing and rely solely on spontaneous aid from other players, such as search engines, bloggers, discussion forums, social tagging, and social networking. While reducing these expenses, OA adds back little more than the cost of collecting author-side fees or institutional subsidies. 
+
+<LI>As long as the full-text is OA, priced add-ons or enhancements are compatible with OA. If the enhancements are expensive to provide, then providers may have to charge for them. If they are valuable, then providers may find people willing to pay for them. At some OA journals, priced add-ons provide part of the revenue needed to pay for OA. 
+
+
+
+</UL> 
+
+
+
+<!-- ============================== --> 
+
+<a name="peerreview"></a> 
+
+<!-- ..peer --> 
+
+<p><LI>OA is compatible with peer review, and all the major OA initiatives for scientific and scholarly literature insist on its importance. 
+
+<UL type=disc> 
+
+<LI>Peer review does not depend on the price or medium of a journal. Nor does the value, rigor, or integrity of peer review. 
+
+<LI>One reason we know that peer review at OA journals can be as rigorous and honest as peer review in conventional journals is that it can use the same procedures, the same standards, and even the same people (editors and referees) as conventional journals. 
+
+<LI>Conventional publishers sometimes object that one common funding model for OA journals (charging fees to authors of accepted articles or their sponsors) compromises peer review. I've answered this objection at length elsewhere (<a href="http://dash.harvard.edu/handle/1/4727446">1</a>, <a href="http://dash.harvard.edu/handle/1/4552042">2</a>). 
+
+<LI>OA journals can use traditional forms of peer review or they can use innovative new forms that take advantage of the new medium and the interactive network joining scholars to one another. However, removing access barriers and reforming peer review are independent projects. OA is compatible with every kind of peer review and doesn't presuppose any particular model. 
+
+<li>The reverse is not true, however. Some emerging models of peer review presuppose OA, for example models of "open review" in which submitted manuscripts are made OA (before or after some in-house review) and then reviewed by the research community. Open review requires OA but OA does not require open review. 
+
+<LI>In most disciplines and most fields the editors and referees who perform peer review donate their labor, just like the authors. Where they are paid, OA to the resulting articles is still possible; it merely requires a larger subsidy than otherwise. 
+
+<LI>Despite the fact that those exercising editorial judgment usually donate their labor, performing peer review still has costs --distributing files to referees, monitoring who has what, tracking progress, nagging dawdlers, collecting comments and sharing them with the right people, facilitating communication, distinguishing versions, collecting data, and so on. Increasingly these non-editorial tasks are being automated by software, including <a href="http://oad.simmons.edu/oadwiki/Free_and_open-source_journal_management_software">free and open-source software</a>. 
+
+</UL> 
+
+
+
+<!-- ============================== --> 
+
+<a name="vehicles"></a><a name="venues"></a><a name="green/gold"></a> 
+
+<!-- ..vehicles --> 
+
+<p><LI>There are two primary vehicles for delivering OA to research articles, <a href="#journals">OA journals</a> ("gold OA") and <a href="#repositories">OA repositories</a> ("green OA"). 
+
+<UL type=disc> 
+
+<LI>The chief difference between them is that OA journals conduct peer review and OA repositories do not. This difference explains many of the other differences between them, especially the costs of launching and operating them. 
+
+<LI>There are other OA vehicles on which I won't focus here, such as personal web sites, ebooks, discussion forums, email lists, blogs, wikis, videos, audio files, RSS feeds, and P2P file-sharing networks. There will undoubtedly be many more in the future. 
+
+<LI>Most activists refer to OA delivered by journals as <em>gold OA</em> (regardless of the journal's business model), and to OA delivered by repositories as <em>green OA</em>. 
+
+<li>The green/gold distinction is about venues or delivery vehicles, not user rights or degrees of openness. It is <a href="http://www.earlham.edu/~peters/fos/2008/08/greengold-oa-and-gratislibre-oa.html">not equivalent</a> to the <a href="http://dash.harvard.edu/handle/1/4322580">gratis/libre</a> distinction. 
+
+<!-- link for RSS feeds 
+
+http://www.public.iastate.edu/~CYBERSTACKS/eFeeds.htm 
+
+--> 
+
+</UL> 
+
+
+
+<!-- ============================== --> 
+
+<a name="journals"></a> 
+
+<!-- ..journals --> 
+
+<p><LI>OA journals ("gold OA"): 
+
+<UL type=disc> 
+
+<LI>OA journals conduct <a href="#peerreview">peer review</a>. 
+
+<LI>OA journals find it easier than non-OA journals to let authors retain copyright. 
+
+<li>OA journals find it easier than OA repositories to provide <a href="http://dash.harvard.edu/handle/1/4322580">libre OA</a>. OA repositories cannot usually generate permission for libre OA on their own. But OA journals can. 
+
+<LI>Some OA journal publishers are non-profit (e.g. <a href="https://www.plos.org/">Public Library of Science</a> or PLoS) and some are for-profit (e.g. <a href="http://www.biomedcentral.com/">BioMed Central</a> or BMC). 
+
+<LI>OA journals pay their bills very much the way broadcast television and radio stations do: those with an interest in disseminating the content pay the production costs upfront so that access can be free of charge for everyone with the right equipment. Sometimes this means that journals have a subsidy from a university or professional society. Sometimes it means that journals charge a publication fee on accepted articles, to be paid by the author or the author's sponsor (employer, funding agency). OA journals that charge publication fees usually waive them in cases of economic hardship. OA journals with institutional subsidies tend to charge no publcation fees. OA journals can get by on lower subsidies or fees if they have income from other publications, advertising, priced add-ons, or auxiliary services. Some institutions and consortia arrange fee discounts. Some OA publishers (such as <a href="http://www.biomedcentral.com/">BMC</a> and <a href="https://www.plos.org/">PLoS</a>) waive the fee for all researchers affiliated with institutions that have purchased an annual membership. 
+
+<a name="authorpays"></a> 
+
+<LI>A common misunderstanding is that all OA journals use an "author pays" business model. There are two mistakes here. The first is to assume that there is only one business model for OA journals, when there are <a href="http://oad.simmons.edu/oadwiki/OA_journal_business_models">many</a>. The second is to assume that charging an upfront fee is an "author pays" model. In fact, <a href="http://dash.harvard.edu/handle/1/4552050">most</a> OA journals (70%) charge no author-side fees at all. Moreover, <a href="http://www.alpsp.org/Ebusiness/ProductCatalog/Product.aspx?ID=47">most</a> conventional or non-OA journals (75%) <em>do</em> charge author-side fees. When OA journals do charge fees, the fees are <a href="http://arxiv.org/abs/1101.5260">usually</a> (88%) paid by author-sponsors (employers or funders) or waived, not paid by authors out of pocket. 
+
+<!-- This misunderstanding is harmful because it makes authors wonder whether they can afford to pay the fees and gives OA opponents a chance to spread <a href="http://en.wikipedia.org/wiki/Fud">FUD</a>. --> 
+
+<!-- In fact there are many reasons why <a href="http://dash.harvard.edu/handle/1/4552039">OA journals do not exclude indigent authors</a>. --> 
+
+<li>A growing number of universities maintain <a href="http://oad.simmons.edu/oadwiki/OA_journal_funds">funds</a> to pay publication fees on behalf of faculty who choose to publish in fee-based OA journals. 
+
+<LI>Some OA proponents use a color code to classify journals: <i>gold</i> (provides OA to its peer-reviewed research articles, without delay), <i>green</i> (permits authors to deposit their peer-reviewed manuscripts in OA repositories), <i>pale green</i> (permits, i.e. doesn't oppose, preprint archiving by authors), <i>gray</i> (none of the above). 
+
+<LI>For details on the business side of OA journals, see the <a href="http://oad.simmons.edu">OAD</a> list of <a href="http://oad.simmons.edu/oadwiki/Guides_for_OA_journal_publishers">Guides for OA journal publishers</a>. 
+
+<LI>We can be confident that OA journals are economically sustainable because the true costs of peer review, manuscript preparation, and OA dissemination are considerably lower than the prices we currently pay for subscription-based journals. There's more than enough money already committed to the journal-support system. Moreover, as OA spreads, libraries will realize large savings from the conversion, cancellation, or demise of non-OA journals. 
+
+<!-- Hence, even if rising levels of green OA cause widespread cancellation of subscription journals, this needn't jeopardize peer review if the savings are <a href="http://dash.harvard.edu/handle/1/4322578">redirected</a> to support peer-reviewed OA journals. --> 
+
+<LI>For a list of OA journals in all fields and languages, see the <a href="http://www.doaj.org/">Directory of Open Access Journals</a>. 
+
+<li>For news about OA journals, follow the <a href="http://tagteam.harvard.edu/hubs/oatp/tag/oa.journals">oa.journals</a> and <a href="http://tagteam.harvard.edu/hubs/oatp/tag/oa.gold">oa.gold</a> tags at the <a href="http://cyber.law.harvard.edu/hoap/Open_Access_Tracking_Project">OA Tracking Project</a>. 
+
+</UL> 
+
+
+
+<!-- ============================== --> 
+
+<a name="archives"></a><a name="repositories"></a> 
+
+<!-- ..archives ..repositories --> 
+
+<p><LI>OA repositories ("green OA"): 
+
+<UL type=disc> 
+
+<LI>OA repositories can be organized by discipline (e.g. <a href="http://arxiv.org/">arXiv</a> for physics) or institution (e.g. <a href="http://dash.harvard.edu/">DASH</a> for Harvard). When universities host OA repositories, they usually take steps to ensure long-term preservation in addition to OA. 
+
+<LI>OA repositories do not perform peer review themselves. However, they generally host articles peer-reviewed elsewhere. 
+
+<LI>OA repositories can contain preprints, postprints, or both. 
+
+<UL type=disc> 
+
+<LI>A preprint is any version prior to peer review and publication, usually the version submitted to a journal. 
+
+<LI>A postprint is any version approved by peer review. Sometimes it's important to distinguish two kinds of postprint: (a) those that have been peer-reviewed but not copy-edited and (b) those that have been both peer-reviewed and copy-edited. Some journals give authors permission to deposit the first but the not the second kind in an OA repository. 
+
+</UL> 
+
+<LI>OA repositories can include preprints and postprints of journal articles, theses and dissertations, course materials, departmental databases, data files, audio and video files, institutional records, or digitized special collections from the library. Estimates of the costs of running a repository depend critically on how many different functions they take on. If the average cost of an institutional repository is now high, it's because the average institutional repository now does much more than merely provide OA to deposited articles. 
+
+<LI>OA repositories provide OA by default to all their contents. Most now also allow "dark deposits" which can be made OA at any later date. This is useful in working with publishers who permit green OA only after an embargo period. Authors may deposit new articles immediately upon publication and switch them to OA when the embargo period expires. 
+
+<LI>Authors need no permission for preprint archiving. When they have finished writing the preprint, they still hold copyright. If a journal refuses to consider articles that have circulated as preprints, that is an optional journal-submission policy, not a requirement of copyright law. (Some journals do hold this policy, called the Ingelfinger Rule, though it seems to be in decline, especially in fields outside medicine.) 
+
+<LI>If authors transfer copyright to a publisher, then OA archiving requires the publisher's permission. Most surveyed publishers (<a href="http://sherpa.ac.uk/romeo/statistics.php">60+%</a>) already give blanket permission for postprint archiving. Many others will do so on request, and nearly all will accommodate a mandatory green OA policy from the author's funder or employer. However, when authors retain the right to authorize green OA, then they may authorize green OA on their own without negotiating with publishers. 
+
+<li>When authors transfer copyright to publishers, they transfer the OA decision to publishers at the same tme. Even if most publishers allow green OA, many do not. In addition, many qualify their permission and some add new restrictions over time, such as fees or embargo periods. For these reasons there is a growing trend among scholarly authors to retain the right to provide green OA and only transfer the remaining bundle of rights to publishers. Some do this through <a href="http://oad.simmons.edu/oadwiki/Author_addenda">author addenda</a> which modify the publisher's standard copyright transfer agreement. Some funders (like the <a href="http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Open-access/Policy/index.htm">Wellcome Trust</a> and <a href="http://publicaccess.nih.gov/">NIH</a>) require authors to retain key rights when publishing journal articles. At some universities (like <a href="http://osc.hul.harvard.edu/">Harvard</a> and <a href="https://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-open-access-policy/">MIT</a>) faculty have granted the university the non-exclusive right to provide OA to their work. 
+
+<li>Because rights-retention policies solve the green OA permission problem for future work, there's no need for green OA policies to create loopholes for dissenting publishers, for example requiring OA "subject to copyright" or "except when publishers do not allow it". There may be good reasons to create <a href="http://osc.hul.harvard.edu/authors/waiver">opt-outs for authors</a>, as Harvard does, but there's no need to create opt-outs for publishers. When authors authorize OA while they are still the copyright holders, they needn't seek permission from publishers later on and needn't worry about infringement. Funders and universities are upstream from publishers and can adopt policies to ensure green OA and the permissions to make it lawful. 
+
+<LI>Because most publishers already permit green OA, and because green OA is a <i>bona fide</i> form of OA, authors who fail to take advantage of the opportunity are actually a greater obstacle to OA than publishers who fail to offer the opportunity. Funders and universities are in a position to close the gap and ensure green OA for 100% of published work by their grantees and faculty. Because authors cannot close this gap on their own, funders and universities who fail to close the gap have no one else to blame if fast-rising journal prices enlarge the fast-growing fraction of new research inaccessible to those who need it. All publishers could help the process along and some are actually doing so. But there's no need to depend on publishers when we could depend on ourselves. 
+
+<!-- <li>But if a journal does not allow it, then the author can still archive the preprint and the corrigenda (the differences between the preprint and the postprint). --> 
+
+<LI>For a searchable database of publisher policies about copyright and archiving, see <a href="http://www.sherpa.ac.uk/romeo.php">Project SHERPA</a>. 
+
+<!-- Also see the Eprints <a href="http://romeo.eprints.org/stats.php">journal-level supplement</a> to SHERPA's publisher-level data. --> 
+
+<LI>Because <a href="http://sherpa.ac.uk/romeo/statistics.php">most</a> publishers and journals already give blanket permission for green OA, the burden is on authors to take advantage of the opportunity. This means that authors may publish in nearly any journal that will accept their work (OA or non-OA) and still provide OA to the peer-reviewed text through an OA repository. (Unfortunately, the compatibility of green OA with publishing in most non-OA journals is still one of the best-kept secrets of scholarly publishing.) 
+
+<!-- There are good reasons to have both OA journals and OA archives; and if we do, then journals should feel no pressure to convert to OA (merely to allow OA archiving) and authors should feel no pressure to submit their work to OA journals (merely to deposit it in OA archives). --> 
+
+<LI>The most useful OA repositories comply with the <a href="http://www.openarchives.org/">Open Archives Initiative</a> (OAI) protocol for metadata harvesting, which makes them interoperable. In practice, this means that users can find a work in an OAI-compliant archive without knowing which archives exist, where they are located, or what they contain. (Confusing as it may be, OA and OAI are separate but overlapping initiatives that should not be mistaken for one another.) 
+
+<LI>Every university in the world can and should have its own open-access, OAI-compliant repository and a policy to encourage or require its faculty members to deposit their research output in the repository. A <a href="http://www.eprints.org/openaccess/policysignup/">growing number</a> do precisely this. 
+
+<LI>We can be confident that OA repositories are economically sustainable because they are so <a href="http://web.archive.org/web/20041204125834/http://www.arl.org/sparc/pubs/enews/aug01.html#6">inexpensive</a>. There are many systems of <a href="http://oad.simmons.edu/oadwiki/Free_and_open-source_repository_software">free and open-source software</a> to build and maintain them. Depositing new articles takes only a <a href="http://eprints.ecs.soton.ac.uk/10688/">few minutes</a>, and is done by individual authors, not archive managers. In any case, OA repositories benefit the institutions that host them by enhancing the visibility and impact of the articles, the authors, and the institution. 
+
+<!-- <LI>For detail on setting up an institutional repository, see the <a href="http://www.arl.org/sparc/IR/IR_Guide.html">SPARC Institutional Repository Checklist & Resource Guide</a>. 
+
+<LI>For more details on OA archiving, see the BOAI <a href="http://www.eprints.org/self-faq/">Self-Archiving FAQ</a>. --> 
+
+<LI>The two leading lists of OA repositories around the world are the <a href="http://www.opendoar.org/">Directory of Open Access Repositories</a> (OpenDOAR) and the <a href="http://roar.eprints.org/">Registry of Open Access Repositories</a> (ROAR). 
+
+<li>For news about OA repositories, follow the <a href="http://tagteam.harvard.edu/hubs/oatp/tag/oa.repositories">oa.repositories</a> and <a href="http://tagteam.harvard.edu/hubs/oatp/tag/oa.green">oa.green</a> tags at the <a href="http://cyber.law.harvard.edu/hoap/Open_Access_Tracking_Project">OA Tracking Project</a>. 
+
+</UL> 
+
+
+
+
+
+
+
+<!-- ============================== --> 
+
+<a name="constructive"></a> 
+
+<!-- ..constructive --> 
+
+<p><LI>The OA project is constructive, not destructive. 
+
+<UL type=disc> 
+
+<LI>The purpose of the campaign for OA is the constructive one of providing OA to a larger and larger body of literature, not the destructive one of putting non-OA journals or publishers out of business. The consequences may or may not overlap (this is contingent) but the purposes do not overlap. 
+
+<LI>Even though journal prices have risen <a href="http://web.archive.org/web/20130617183513/http://www.sparc.arl.org/bm~pix/journal-price-graph~s600x600.jpg">four times faster than inflation</a> since the mid-1980's, the purpose of OA is not to punish or undermine expensive journals, but to provide an accessible alternative and take full advantage of new technology &#151;the internet&#151; for widening distribution and reducing costs. Moreover, for researchers themselves, the overriding motivation is not to solve the journal pricing crisis but to deliver wider and easier access for readers and larger audience and impact for authors. 
+
+<LI>Publishers are not monolithic. Some already provide full OA, some provide hybrid models, some are experimenting, and some are considering experiments. Among those not providing OA, some are opposed and some are merely unpersuaded. Among the unpersuaded, some provide more free online content than others. Among the opposed, some have merely decided not to provide it themselves, while others lobby actively against policies to encourage or require it. Some oppose gold but not green OA, while others oppose green but not gold OA. OA gains nothing and loses potential allies by blurring these distinctions. 
+
+<LI>Promoting OA does not require the boycott of any kind of literature, any kind of journal, or any kind of publisher. Promoting OA need not cause publisher setbacks, and publisher setbacks need not advance OA. To focus on undermining non-OA journals and publishers is to <a href="http://dash.harvard.edu/handle/1/4391169">mistake the goal</a>. 
+
+<LI>Open-access and toll-access literature can coexist. We know that because they coexist now. We don't know whether this coexistence will be <a href="http://dash.harvard.edu/handle/1/4391157">temporary or permanent</a>, but the most effective and constructive way to find out is to work for OA and see what happens to non-OA providers, not to detour from building OA to hurt those who are not helping. 
+
+</UL> 
+
+
+
+
+
+<!-- ============================== --> 
+
+<a name="notuniversal"></a> 
+
+<!-- ..universal --> 
+
+<p><LI>Open access is not synonymous with universal access. 
+
+<UL type=disc> 
+
+<LI>Even after OA has been achieved, at least four kinds of access barrier might remain in place: 
+
+<OL> 
+
+<LI><i>Filtering and censorship barriers</i>. Many schools, employers, and governments want to limit what you can see. 
+
+<LI><i>Language barriers</i>. Most online literature is in English, or just one language, and machine translation is very weak. 
+
+<LI><i>Handicap access barriers</i>. Most web sites are not yet as accessible to handicapped users as they should be. 
+
+<LI><i>Connectivity barriers</i>. The digital divide keeps billions of people, including millions of serious scholars, offline. 
+
+</OL> 
+
+<LI>Even if we want to remove these four additional barriers (and most of us do), there's no reason to hold off using the term "open access" until we've succeeded. Removing price and permission barriers is a significant plateau worth recognizing with a special name. 
+
+</ul> 
+
+
+
+
+
+<!-- ============================== --> 
+
+<a name="notbizmodel"></a><a name="kindofaccess"></a> 
+
+<!-- ..biz --> 
+
+<p><LI>OA is a kind of access, not a kind of business model, license, or content. 
+
+<UL type=disc> 
+
+<LI>OA is not a kind of business model. 
+
+<UL type=disc> 
+
+<LI>There are <a href="http://oad.simmons.edu/oadwiki/OA_journal_business_models">many business models</a> compatible with OA, i.e many ways to pay the bills so that readers can reach the content without charge. Models that work well in some fields and nations may not work as well in others. No one claims that one size fits all. 
+
+<LI>There are many <a href="http://www.earlham.edu/~peters/fos/lists.htm#disciplines">differences among the disciplines</a> that affect the funding of OA. We should not expect OA to make progress in all disciplines at the same rate, any more than we should expect it to make progress in all countries at the same rate. Most of the progress and debate is taking place in the STM fields (science, technology, and medicine), but OA is just as feasible and useful in the <a href="http://www.earlham.edu/~peters/writing/apa.htm">humanities</a>. 
+
+<LI>New OA business models are <a href="http://oad.simmons.edu/oadwiki/OA_journal_business_models">evolving</a>, and older ones are being tested and revised, all the time. There's a lot of room for creativity in finding ways to pay the costs of a peer-reviewed OA journal or a general-purpose OA repository, and we're far from having exhausted our cleverness and imagination. 
+
+</UL> 
+
+<LI>OA is not a kind of license. There are many licenses compatible with OA, i.e. many ways to remove permission barriers for users and let them know what they may and may not do with the content. See the sections on <a href="#permissionbarriers">permission barriers</a> and <a href="#licenses">licenses</a> above. 
+
+<LI>OA is not a kind of content. Every kind of digital content can be OA, from texts and data to software, audio, video, and multi-media. The OA movement focuses on peer-reviewed research articles and their preprints. While most of these are just text, a growing number integrate text with images, data, and executable code. OA can also apply to non-scholarly content, like music, movies, and novels, even if these are not the focus of most OA activists. 
+
+</UL> 
+
+
+
+
+
+
+
+<!-- ============================== --> 
+
+<a name="interests"></a> 
+
+<!-- ..interests --> 
+
+<p><LI>OA serves the interests of many groups. 
+
+<UL type=disc> 
+
+<LI><i>Authors</i>:&nbsp; OA gives them a worldwide audience larger than that of any subscription-based journal, no matter how prestigious or popular, and demonstrably <a href="http://opcit.eprints.org/oacitation-biblio.html">increases the visibility and impact</a> of their work. 
+
+<LI><i>Readers</i>:&nbsp; OA gives them barrier-free access to the literature they need for their research, unconstrained by the budgets of the libraries where they may have access privileges. OA increases reader reach and retrieval power. OA also gives barrier-free access to the <i>software</i> they use in their research. Free online literature is free online data for software that facilitates full-text searching, indexing, mining, summarizing, translating, querying, linking, recommending, alerting, "mash-ups" and other forms of processing and analysis. 
+
+<LI><i>Teachers and students</i>:&nbsp; OA puts rich and poor on an equal footing for these key resources and eliminates the need for payments or permissions to reproduce and distribute content. 
+
+<LI><i>Libraries</i>:&nbsp; OA solves the <a href="http://en.wikipedia.org/wiki/Serials_crisis">pricing crisis</a> for scholarly journals. It also solves what I've called the <a href="http://www.earlham.edu/~peters/writing/acrl.htm">permission crisis</a>. OA also serves library interests in other, indirect ways. Librarians want to help users find the information they need, regardless of the budget-enforced limits on the library's own collection. Academic librarians want to help faculty increase their audience and impact, and help the university raise its research profile. 
+
+<LI><i>Universities</i>:&nbsp; OA increases the visibility of their faculty and research, reduces their expenses for journals, and advances their mission to share knowledge. 
+
+<LI><i>Journals and publishers</i>:&nbsp; OA makes their articles more visible, discoverable, retrievable, and useful. If a journal is OA, then it can use this superior visibility to attract <a href="http://dash.harvard.edu/handle/1/4552042">submissions</a> and advertising, not to mention readers and <a href="http://opcit.eprints.org/oacitation-biblio.html">citations</a>. If a subscription-based journal provides OA to some of its content (e.g. selected articles in each issue, all back issues after a certain period, etc.), then it can use its increased visibility to attract all the same benefits plus <a href="http://web.archive.org/web/20031115185846/http://www.biomedcentral.com/openaccess/archive/?page=features&issue=6">subscriptions</a>. If a journal permits OA through postprint archiving, then it has an edge in attracting authors over journals that do not permit postprint archiving. Of course subscription-based journals and their publishers have countervailing interests as well and often resist or oppose OA. But it oversimplifies the situation to think that <i>all</i> their interests pull against OA. 
+
+<LI><i>Funding agencies</i>:&nbsp; OA increases the return on their investment in research, making the results of the funded research more widely available, more discoverable, more retrievable, and more useful. When funding agencies disburse public funds, OA helps in a second way as well, by providing fundamental fairness to taxpayers or public access to the results of publicly-funded research. 
+
+<LI><i>Governments</i>:&nbsp; As funders of research, governments benefit from OA in all the ways that funding agencies do (see previous entry). OA also promotes democracy by sharing non-classified government information as widely as possible. 
+
+<LI><i>Citizens</i>:&nbsp; OA gives them access to peer-reviewed research, most of which is unavailable in public libraries, and gives them access to the research for which they have already paid through their taxes. But even those with no interest in reading this literature for themselves will benefit indirectly because researchers will benefit directly. OA accelerates not only research but the translation of research into new medicines, useful technologies, solved problems, and informed decisions that benefit everyone. 
+
+</UL> 
+
+
+
+
+
+<!-- ============================== --> 
+
+<a name="history"></a> 
+
+<!-- ..history --> 
+
+<p><LI>OA in historical perspective: 
+
+<UL type=disc> 
+
+<LI>Scholarly journals do not pay authors for their articles, and have not done so since the first journals were launched in London and Paris in 1665. (See Jean-Claude Gu&eacute;don, <a href="http://www.arl.org/component/content/article/6/2598">In Oldenburg's Long Shadow</a>.) 
+
+<LI>Journals took off because they were more timely than books. For readers, journals were better than books for learning quickly about the recent work of others. For authors they were better than books for sharing new work quickly with the wider world and for establishing priority over other scientists working on the same problem. Journals gave authors the benefit of a fast, public time-stamp on their work. Because authors were rewarded in these strong, intangible ways, they accepted the fact that journals couldn't afford to pay them. Over time, journal revenue grew but authors continued in the tradition of writing articles for impact, not for money. 
+
+<LI>OA was physically and economically impossible in the age of print, even if the copyright holder wanted it. Prices were not only unavoidable for print journals, they were even affordable until the 1970's, when they began to rise faster than inflation. Journal subscription prices have risen nearly <a href="http://web.archive.org/web/20130617183513/http://www.sparc.arl.org/bm~pix/journal-price-graph~s600x600.jpg">four times faster than inflation</a> since 1986. Fortuitously, just as journal prices were becoming unbearable, the internet <a href="http://oad.simmons.edu/oadwiki/Timeline">emerged</a> to offer an alternative. 
+
+<LI>It doesn't matter whether we blame unaffordable journals on excessive publisher prices or inadequate library budgets. If we focus on publishers, it doesn't matter whether we blame greed or innocent market forces (rising costs and new services). Blame is irrelevant and distracting. The volume of published knowledge is growing exponentially and will always grow faster than library budgets. In that sense, <a href="http://dash.harvard.edu/handle/1/4723859">OA scales with the growth of knowledge</a> and toll access does not. We've already (long since) reached the point at which <a href="http://cyber.law.harvard.edu/hoap/Open_Access_(the_book)#p30.2">even affluent research institutions</a> cannot afford access to the full range of research literature. Priced access to journal articles would not scale with the continuing, explosive growth of knowledge even if prices were low today and guaranteed to remain low forever. 
+
+<LI>The pricing crisis itself is just one factor in the rise of OA. Even if scholars did not turn to OA in order to bypass unaffordable access fees, they'd turn to it in order to take advantage of the internet as a powerful new technology for sharing knowledge instantly, with a worldwide audience, at zero marginal cost, in a digital form amenable to unlimited processing. 
+
+<LI>For a schematic history of OA, see the OAD <a href="http://oad.simmons.edu/oadwiki/Timeline">timeline</a> of the OA movement. 
+
+</ul> 
+
+
+
+</UL> 
+
+
+
+
+
+<P><HR SIZE="1" WIDTH="100%" NOSHADE> 
+
+
+
+<a name="links"></a> 
+
+<p><b>Further reading</b> 
+
+<UL type=disc> 
+
+
+
+<li><a href="http://www.openscholarship.org/">Enabling Open Scholarship</a> (EOS). From a group of European research institutions led by the Universit&eacute; de Li&egrave;ge. 
+
+
+
+<li><a href="http://bit.ly/goodoa">Good practices for university open-access policies</a>. From Stuart Shieber and me. First put online in October 2012 and periodically updated. 
+
+
+
+<li><a href="http://bit.ly/how-oa">How to make your own work open access</a>. From me. First put online in October 2012 and periodically updated. 
+
+
+
+<LI><a href="http://www.biomedcentral.com/about/advocacy12">(Mis)Leading Open Access Myths</a>, BioMed Central, 2004. Also see my own <a href="http://www.theguardian.com/higher-education-network/blog/2013/oct/21/open-access-myths-peter-suber-harvard">Open access: six myths to put to rest</a>, <em>The Guardian</em>, October 21, 2013. 
+
+
+
+<li><a href="http://oad.simmons.edu">Open Access Directory</a> (OAD). A wiki I co-founded with Robin Peek in April 2008. Some key OAD lists: 
+
+<UL type=disc> 
+
+<li><a href="http://oad.simmons.edu/oadwiki/Advocacy_organizations_for_OA">Advocacy organizations for OA</a>. 
+
+<li><a href="http://oad.simmons.edu/oadwiki/Blogs_about_OA">Blogs about OA</a>. 
+
+<li><a href="http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA">Declarations in support of OA</a>. 
+
+<LI><a href="http://oad.simmons.edu/oadwiki/Events">Events</a>. Conferences and workshops related to OA. 
+
+<LI><a href="http://oad.simmons.edu/oadwiki/OA_book_business_models">OA book business models</a> 
+
+<li><a href="http://oad.simmons.edu/oadwiki/OA_by_the_numbers">OA by the numbers</a>. 
+
+<li><a href="http://oad.simmons.edu/oadwiki/OA_journal_business_models">OA journal business models</a> 
+
+<LI><a href="http://oad.simmons.edu/oadwiki/Timeline">Timeline of the OA movement</a>. 
+
+</ul> 
+
+
+
+<li><a href="http://cyber.law.harvard.edu/hoap/Open_Access_Tracking_Project">Open Access Tracking Project</a> (OATP). A real-time alert service I launched in April 2009. 
+
+
+
+<li><a href="http://www.sparc.arl.org/">Scholarly Publishing and Academic Resources Coalition</a> (SPARC) 
+
+
+
+<LI><a href="http://www.earlham.edu/~peters/fos/do.htm">What you can do to promote open access</a>. My old list, in need of updating. 
+
+
+
+<p>This is a very selective list. For more, browse my <a href="http://www.earlham.edu/~peters/fos/fosblog.html">blog archive</a> (2002-2010), <a href="http://www.earlham.edu/~peters/fos/newsletter/archive.htm">newsletter archive</a> (2001 to present). Or search them both, and my other <a href="http://cyber.law.harvard.edu/~psuber/wiki/Writings_on_open_access">writings on OA</a>: 
+
+

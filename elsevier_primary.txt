@@ -1,4 +1,4 @@
-Your Guide to 
+ÔªøYour Guide to 
 Publishing Open Access 
 with Elsevier
 
@@ -14,18 +14,18 @@ with clear guidelines for readers to share and use the content. There are two ma
 access: gold and green. 
 WHAT IS THE DIFFERENCE BETWEEN GOLD AND GREEN? 
 GOLD OPEN ACCESS GREEN OPEN ACCESS 
-Access ï Free public access to the final 
+Access ‚Ä¢ Free public access to the final 
 published article. 
-ï Access is immediate and permanent. 
-ï Free public access to a version of 
+‚Ä¢ Access is immediate and permanent. 
+‚Ä¢ Free public access to a version of 
 your article. 
-ï Time delay may apply (embargo period). 
-Fee ï Open access fee is paid by the author, 
+‚Ä¢ Time delay may apply (embargo period). 
+Fee ‚Ä¢ Open access fee is paid by the author, 
 or on their behalf (for example by a 
 funding body). 
-ï No fee is payable by the author, as costs 
+‚Ä¢ No fee is payable by the author, as costs 
 are covered by library subscriptions. 
-Use ï Determined by your user license. ï Authors retain the right to use their 
+Use ‚Ä¢ Determined by your user license. ‚Ä¢ Authors retain the right to use their 
 articles for a wide range of purposes. 
 All open versions of your article should 
 have a user license attached. 
@@ -43,10 +43,10 @@ Publishing gold open access
 with Elsevier 
 WHAT IS AN OPEN ACCESS ARTICLE? 
 Publishing your research as an open access article with Elsevier will mean that it: 
-ï is peer-reviewed. 
-ï is immediately free to access online upon publication. 
-ï can be shared and used by readers as defined by your user license. 
-ï has an open access fee paid by you, or on your behalf (for example by your institution 
+‚Ä¢ is peer-reviewed. 
+‚Ä¢ is immediately free to access online upon publication. 
+‚Ä¢ can be shared and used by readers as defined by your user license. 
+‚Ä¢ has an open access fee paid by you, or on your behalf (for example by your institution 
 or funding body). 
 TYPES OF JOURNALS WHICH OFFER GOLD OPEN ACCESS 
 1) Open access journals 
@@ -72,8 +72,8 @@ society who provide funds to cover all the costs of publication, including the o
 for all authors. Therefore the journal is both free to read and free to publish in for everyone. 
 Elsevier publishes a number of these journals on behalf or societies and organizations. 
 We recommend that you always check the Guide for Authors for information about your 
-journalís open access policy. 
-To discover Elsevierís open access options visit www.elsevier.com/openaccessoptions
+journal‚Äôs open access policy. 
+To discover Elsevier‚Äôs open access options visit www.elsevier.com/openaccessoptions
 
 4 Elsevier 
 ACCEPTANCE PUBLICATION 
@@ -89,12 +89,12 @@ Indicate if you are funded or not.
 If you are funded by an organization 
 we have an agreement with, we will 
 give you further information about 
-how to comply with your funderís policy. 
+how to comply with your funder‚Äôs policy. 
 Pay an open access fee. This is covered 
 by either: 
-ï You ñ often reimbursed. 
-ï Your institution or funding body. 
-ï Or a society or organization when 
+‚Ä¢ You ‚Äì often reimbursed. 
+‚Ä¢ Your institution or funding body. 
+‚Ä¢ Or a society or organization when 
 publishing in a subsidized journal. 
 If your funding body has an agreement 
 with Elsevier, they will be credited on our 
@@ -105,7 +105,7 @@ Crossmark is added to ensure
 all versions link to the .nal 
 published article. 
 The article is permanently preserved and 
-accessible via Elsevierís platforms. 
+accessible via Elsevier‚Äôs platforms. 
 Open access articles can be immediately 
 posted to an institutional or subject 
 repository. 
@@ -138,7 +138,7 @@ the article under the applicable
 license. 
 Step 4: The publisher makes the 
 article available online with the 
-authorís user license. 
+author‚Äôs user license. 
 Understanding the legal fine print 
 For gold open access publishing you need two types of licenses: 
 1. COPYRIGHT 
@@ -146,23 +146,23 @@ Publishers need certain permissions in order to publish and share your research.
 permissions are defined by what is known as a journal publishing agreement or license. 
 Elsevier uses an exclusive license agreement for gold open access articles, which means: 
 YOU KEEP : ELSEVIER IS GRANTED: 
-ï The copyright of your article 
-ï Patent trademark and other intellectual 
+‚Ä¢ The copyright of your article 
+‚Ä¢ Patent trademark and other intellectual 
 property rights in your article. 
-ï The right to request others to provide you 
+‚Ä¢ The right to request others to provide you 
 with an appropriate credit for your article 
 when it is referred to, or appears in 
 another work. 
-ï The right to use your own article in the 
+‚Ä¢ The right to use your own article in the 
 same way as readers defined by your 
 selection of user license (see page 6). 
-ï An exclusive right to publish your article. 
-ï The right to share your article in all formats 
+‚Ä¢ An exclusive right to publish your article. 
+‚Ä¢ The right to share your article in all formats 
 so your research is widely distributed after 
 publication, using the latest technology. 
-ï The right to publish your article with your 
+‚Ä¢ The right to publish your article with your 
 selected user license on our online platforms. 
-ï The right to enforce your user license, on 
+‚Ä¢ The right to enforce your user license, on 
 your behalf, against third parties in the 
 case of plagiarism, ethical disputes and 
 fraudulent use.
@@ -186,10 +186,10 @@ Reuse portions
 or extracts 
 from the article 
 in other works 
-ëSell ë or 
+‚ÄòSell ‚Äò or 
 re-use for 
-ìcommercial 
-purposesî 
+‚Äúcommercial 
+purposes‚Äù 
 Commercial 
 license: 
 CC-BY 4.0 
@@ -205,10 +205,10 @@ distribution
 2. USER LICENSE 
 The user license of an article determines how readers can share and use your article without the 
 need to request permission. Before publishing open access, we recommend you to: 
-ï Understand what each user license permits and the rights it grants to readers to use your article. 
-ï Check if your funding body or institution requires the use of a specific license in their policy. 
-ï Read your journalís Guide for Authors to ensure they offer the license you want to use. 
-ï Visit the Creativecommons.org site to read what to consider before selecting a user license. It is 
+‚Ä¢ Understand what each user license permits and the rights it grants to readers to use your article. 
+‚Ä¢ Check if your funding body or institution requires the use of a specific license in their policy. 
+‚Ä¢ Read your journal‚Äôs Guide for Authors to ensure they offer the license you want to use. 
+‚Ä¢ Visit the Creativecommons.org site to read what to consider before selecting a user license. It is 
 important to note that your license selection is non-revocable. 
 At Elsevier we give you a choice of user licenses so you can select the license which suits your type 
 of research. Below is a quick reference guide what each license permits readers to do:
@@ -223,20 +223,20 @@ full-text which is sometimes known as manuscript posting or self-archiving. Link
 immediately to the final version of your article, but sharing the full-text of your article requires a bit 
 more time and effort as you need to be mindful of when, where, and how this is done. 
 You are able to link or share full-text, but there are some advantages to linking to your articles: 
-ï Maximize Research Impact ñ citation metrics and altmetrics are used to assess the impact of 
+‚Ä¢ Maximize Research Impact ‚Äì citation metrics and altmetrics are used to assess the impact of 
 research, so it is essential that these are aggregated and shared. This is easier when you link to 
 the full text rather than have multiple versions across different platforms. 
-ï Best Available Version ñ It is also important that you share the best available version, so readers 
+‚Ä¢ Best Available Version ‚Äì It is also important that you share the best available version, so readers 
 can trust they are reading the most up to date, correct and citable version of your work. When 
 linking, this is often done dynamically by publishers sharing their holdings information with 
 both repositories and search engines, so readers will automatically get the best available version. 
-ï Article in Context ñ Another benefit of linking is that readers can benefit from finding other 
+‚Ä¢ Article in Context ‚Äì Another benefit of linking is that readers can benefit from finding other 
 relevant articles, saving them important time in discovering research. This can occur in the 
 context of a repository, where they can see other research from your institution or from the 
 publishing platform. 
-ï More Efficient ñ Linking is also easier for authors as there is no additional step to deposit the 
+‚Ä¢ More Efficient ‚Äì Linking is also easier for authors as there is no additional step to deposit the 
 full text version. You can continue to promote your research through our share link service. After 
-publication youíll receive a customized url which provides 50 days free access to your article, so 
+publication you‚Äôll receive a customized url which provides 50 days free access to your article, so 
 you can promote it on all relevant platforms. 
 
 8 Elsevier 
@@ -244,46 +244,46 @@ Elsevier Article Sharing Policy
 ELSEVIER SUPPORTS RESPONSIBLE SHARING 
 Responsible sharing in line with copyright enables publishers to sustain high quality journals and 
 the services they provide to the research community. Find out how you can share your research 
-published in Elsevier journals ñ www.elsevier.com/sharing-articles. 
+published in Elsevier journals ‚Äì www.elsevier.com/sharing-articles. 
 You can share your research at each stage of the research process: 
 Share 
 Presubmission Preprints1 can be shared anywhere at any time. 
 PLEASE NOTE: Cell Press, The Lancet, and some society-owned titles have different 
 preprint policies. Information on these is available on the journal homepage. 
 After acceptance Accepted manuscripts2 can be shared: 
-ï Privately with students or colleagues for their personal use. 
-ï Privately on institutional repositories. 
-ï On personal websites or blogs. 
-ï To refresh preprints on arXiv and RePEc. 
-ï Privately on commercial partner sites. 
+‚Ä¢ Privately with students or colleagues for their personal use. 
+‚Ä¢ Privately on institutional repositories. 
+‚Ä¢ On personal websites or blogs. 
+‚Ä¢ To refresh preprints on arXiv and RePEc. 
+‚Ä¢ Privately on commercial partner sites. 
 After publication Gold open access articles can be shared: 
-ï Anytime, anywhere on non-commercial platforms. 
-ï Via commercial platforms if the author has chosen a CC-BY license, 
+‚Ä¢ Anytime, anywhere on non-commercial platforms. 
+‚Ä¢ Via commercial platforms if the author has chosen a CC-BY license, 
 or the platform has an agreement with us. 
 Subscription articles can be shared: 
-ï As a link anywhere at any time. 
-ï Privately with students or colleagues for their personal use. 
-ï Privately on commercial partner sites. 
+‚Ä¢ As a link anywhere at any time. 
+‚Ä¢ Privately with students or colleagues for their personal use. 
+‚Ä¢ Privately on commercial partner sites. 
 After embargo Author manuscripts can be shared: 
-ï Publicly on non-commercial platforms. 
-ï Publicly on commercial partner sites.≥ 
-π Preprint is your initial write up of your results and analysis that has not yet have been peer reviewed or submitted to a journal. 
+‚Ä¢ Publicly on non-commercial platforms. 
+‚Ä¢ Publicly on commercial partner sites.¬≥ 
+¬π Preprint is your initial write up of your results and analysis that has not yet have been peer reviewed or submitted to a journal. 
 2 Accepted manuscript is a version of your manuscript which typically includes any changes you have incorporated through the 
 process of submission, peer review and in your communications with the editor. 
 3 For an overview of how and where you can share your article, please see elsevier.com/sharing-articles 
 In all cases: 
-ï Preprints and accepted manuscripts shouldnít be added to or enhanced in any way 
+‚Ä¢ Preprints and accepted manuscripts shouldn‚Äôt be added to or enhanced in any way 
 to appear more like, or to substitute for, the final published journal article. 
-ï All posted articles should link to the final version via the Digital Object Identifyer (DOI). 
-ï Posted accepted manuscripts need to have a CC-BY-NC-ND user license. 
+‚Ä¢ All posted articles should link to the final version via the Digital Object Identifyer (DOI). 
+‚Ä¢ Posted accepted manuscripts need to have a CC-BY-NC-ND user license. 
 For more information, please see our open access policy at elsevier.com/openaccess. 
 Should you have any questions, please contact our permissions helpdesk: 
 permissionshelpdesk@elsevier.com or (+1) 800-523-4069 x 3808.
 
 Your Guide To Publishing Open Access 9 
-π Please note that Cell Press, The Lancet, and some society-owned titles have different preprint policies. Information on these is available 
+¬π Please note that Cell Press, The Lancet, and some society-owned titles have different preprint policies. Information on these is available 
 on the journal homepage. 
-≤ For the journal specific embargo period see the journal homepage. 
+¬≤ For the journal specific embargo period see the journal homepage. 
 3 Published journal article: After peer review, the journal will finalize your article which includes copy editing, formatting and adding 
 branding. This is the version which is published online and final version of record for your article. 
 4 For more information about share links see elsevier.com/author-share-link 
@@ -294,7 +294,7 @@ You can use your article for your own classroom teaching and internal training
 at your institution (including use in course packs and courseware). 
 For grant applications You can include your article for grant funding purposes. 
 With my colleagues You can easily share your article with your colleagues through email. 
-On a preprint server You can always post your preprint on a preprint serverπ. Additionally, for 
+On a preprint server You can always post your preprint on a preprint server¬π. Additionally, for 
 ArXiv and RePEC you can also immediately update this version with your 
 accepted manuscript. 
 On my personal blog 
@@ -306,15 +306,15 @@ open access articles on your non-commercial personal website or blog.
 On my institutional 
 repository 
 You can post your accepted manuscript immediately to an institutional 
-repository and make this publicly available after an embargo period≤ has 
+repository and make this publicly available after an embargo period¬≤ has 
 expired. Remember that for gold open access articles, you can post your 
-published journal article≥ and immediately make it publicly available. 
+published journal article¬≥ and immediately make it publicly available. 
 On a subject repository 
 (or other noncommercial 
 repository) 
 You can always post your preprint version and you can also post your 
-accepted manuscript after the embargo period≤ has expired. Remember for gold 
-open access articles, you can post the published journal article≥ immediately. 
+accepted manuscript after the embargo period¬≤ has expired. Remember for gold 
+open access articles, you can post the published journal article¬≥ immediately. 
 On a Scholarly 
 Collaboration 
 Network (SCN), 
@@ -330,13 +330,13 @@ Additional sharing options may be available, see www.elsevier.com/sharingpolicy.
 Social Media, such as 
 Facebook, LinkedIn, 
 Twitter 
-Elsevier will send you a ëshare linkí 4: a personal, customized short link that you 
+Elsevier will send you a ‚Äòshare link‚Äô 4: a personal, customized short link that you 
 will receive after final publication of your article. It provides 50 days free access 
 to your newly-published article on ScienceDirect to anyone clicking on the link. 
 We encourage you to share this link on social media. After 50 days the share 
 link will still work but automatically revert to a link to your full text article. 
 I want to share my article 
-© August 2015 by Elsevier. All rights reserved. Policies may change. For the latest policies see http://www.elsevier.com/sharingpolicy
+¬© August 2015 by Elsevier. All rights reserved. Policies may change. For the latest policies see http://www.elsevier.com/sharingpolicy
 
 10 Elsevier 
 Preparing your article for sharing 
@@ -349,7 +349,7 @@ preprint or accepted manuscript to attach a noncommercial Creative Commons user 
 in the future. 
 How to attach a CC-BY-NC-ND license: On your preprint or accepted manuscript add the 
 following to the title page, copyright information page, or header /footer: 
-Example: © 2015. This manuscript version is made available under the CC-BY-NC-ND 4.0 license 
+Example: ¬© 2015. This manuscript version is made available under the CC-BY-NC-ND 4.0 license 
 http://creativecommons.org/licenses/by-nc-nd/4.0/ 
 You can also include the license badges available from the Creative Commons website to provide 
 visual recognition. If you are hosting your manuscript as a webpage you will also find the correct 
@@ -369,7 +369,7 @@ and accepted manuscript version of your article. After acceptance, we understand
 not be possible in all cases and have a simple way for you to retrieve your accepted manuscript 
 from our submission system.* 
 1. Log into Elsevier Editorial system (EES) and on your overview page you will see under 
-the ìcompletedî section, click on the link to ìsubmission with a decisionî 
+the ‚Äúcompleted‚Äù section, click on the link to ‚Äúsubmission with a decision‚Äù 
 2. This will bring your to an overview of all your submissions and you can simply click 
 on the relevant article title 
 3. A pop up box will appear where you can download a PDF version of the accepted manuscript. 
@@ -390,10 +390,10 @@ IMPACT ON PUBLISHING
 Selecting an appropriate journal 
 If you wish to comply with open access policies, you will need to understand what options are 
 available in your chosen journal. We recommend you to: 
-ï Read the journal Guide for Authors and look for both gold and green options. 
-ï Look for funding body or institutional agreements with your publisher of choice, 
+‚Ä¢ Read the journal Guide for Authors and look for both gold and green options. 
+‚Ä¢ Look for funding body or institutional agreements with your publisher of choice, 
 which will make compliance easier. 
-ï Look on your institutionís intranet for open access information and links. 
+‚Ä¢ Look on your institution‚Äôs intranet for open access information and links. 
 Paying for gold open access 
 Your funding body or institution may have made funds available to cover associated gold open 
 access fees. These can be either reimbursed to you directly from the funder or from a central 
@@ -412,12 +412,12 @@ Human Kidney Disease-causing INF2 Mutations Perturb
 Rho/Dia Signaling in the Glomerulus 
 Protein kinase inhibitor SU6668 attenuates positive regulation 
 of Gli proteins in cancer and multipotent progentitor cells 
-Volume 1, Issues 2ñ3, December 2014, Pages 107ñ116 
+Volume 1, Issues 2‚Äì3, December 2014, Pages 107‚Äì116 
 Original Article 
-a Protobios LLC, M‰ealuse 4, Tallinn 12618, Estonia 
+a Protobios LLC, M√§ealuse 4, Tallinn 12618, Estonia 
 b Department of Gene Technology, Tallinn University of Technology, Akadeemia tee 15, Tallinn 12618, Estonia 
 c Institute of Technology, University of Tartu, Nooruse 1, 50411 Tartu, Estonia 
-d Cellin Technologies LLC, M‰ealuse 4, Tallinn 12618, Estonia 
+d Cellin Technologies LLC, M√§ealuse 4, Tallinn 12618, Estonia 
 Show more 
 doi:10.1016/j.ebiom.2014.11.009 
 Alia Piirsooa,d, , , Lagle Kasaka,b, Mari-Liis Kautsa, Mart Loogc, Kairit Tintsd, Piia Uusend, 
@@ -438,9 +438,9 @@ Books Reference Works Images Advanced search | Expert search
 Under a Creative Commons license 
 Show less 
 doi:10.1018/j.bbamer.2014.01.003 Get rights and content 
-Biochimica et Biophysica Acta (BBA) ñ 
+Biochimica et Biophysica Acta (BBA) ‚Äì 
 Molecular Cell Research 
-Volume 1843, Issue 4, April 2014, Pages 703ñ714 
+Volume 1843, Issue 4, April 2014, Pages 703‚Äì714 
 Hua Suna,b,c, Khaldoun I. Al-Romaiha,b, Calum A. MacRaeb,c,d, Martin R. Pollaka,b,d, , 
 in 
 All Years to: 
@@ -464,7 +464,7 @@ Search
 - All Sciences - 
 1. Open Access label 
 Your article will appear online with a 
-label ëopen accessí. Your research will 
+label ‚Äòopen access‚Äô. Your research will 
 also be labelled in keyword search results 
 as open access. 
 EBioMedicine 
@@ -472,10 +472,10 @@ EBioMedicine: Bridging Two Cultures to Improve Health
 Protein kinase inhibitor SU6668 attenuates positive regulation 
 of Gli proteins in cancer and multipotent progentitor Volume 1, Issue 1, November 2014, Pages 1 
 Editorial 
-a Protobios LLC, M‰ealuse 4, Tallinn 12618, Estonia 
+a Protobios LLC, M√§ealuse 4, Tallinn 12618, Estonia 
 b Department of Gene Technology, Tallinn University of Technology, Akadeemia tee 15, Tallinn 12618, Estonia 
 c Institute of Technology, University of Tartu, Nooruse 1, 50411 Tartu, Estonia 
-d Cellin Technologies LLC, M‰ealuse 4, Tallinn 12618, Estonia 
+d Cellin Technologies LLC, M√§ealuse 4, Tallinn 12618, Estonia 
 Show more 
 doi:10.1018/j.ebiom.2014.10.007 
 Alia Piirsooa,d, , , Lagle Kasaka,b, Mari-Liis Kautsa, Mart Loogc, Kairit Toomas Neumana, Marko Piirsoob 
@@ -499,9 +499,9 @@ Books Reference Works Images Advanced search | Expert search
 Under a Creative Commons license 
 Show less 
 doi:10.1018/j.bbamer.2014.01.003 Get rights and content 
-Biochimica et Biophysica Acta (BBA) ñ 
+Biochimica et Biophysica Acta (BBA) ‚Äì 
 Molecular Cell Research 
-Volume 1843, Issue 4, April 2014, Pages 703ñ714 
+Volume 1843, Issue 4, April 2014, Pages 703‚Äì714 
 in 
 All Years to: 
 Agricultural and Biological Sciences 
@@ -534,9 +534,9 @@ Protein kinase inhibitor SU6668 attenuates positive regulation
 of Gli proteins in cancer and multipotent progentitor cells 
 Volume 1, Issue 1, November 2014, Pages 1 
 Editorial 
-a Protobios LLC, M‰ealuse 4, Tallinn 12618, Estonia 
+a Protobios LLC, M√§ealuse 4, Tallinn 12618, Estonia 
 b Department of Gene Technology, Tallinn University of Technology, Akadeemia tee 15, Tallinn c Institute of Technology, University of Tartu, Nooruse 1, 50411 Tartu, Estonia 
-d Cellin Technologies LLC, M‰ealuse 4, Tallinn 12618, Estonia 
+d Cellin Technologies LLC, M√§ealuse 4, Tallinn 12618, Estonia 
 Show more 
 doi:10.1018/j.ebiom.2014.10.007 
 Alia Piirsooa,d, , , Lagle Kasaka,b, Mari-Liis Kautsa, Mart Loogc, Kairit Tintsd, Piia Uusend, 
@@ -561,9 +561,9 @@ Books Reference Works Images Advanced search | Expert search
 Under a Creative Commons license 
 Show less 
 doi:10.1018/j.bbamer.2014.01.003 Get rights and content 
-Biochimica et Biophysica Acta (BBA) ñ 
+Biochimica et Biophysica Acta (BBA) ‚Äì 
 Molecular Cell Research 
-Volume 1843, Issue 4, April 2014, Pages 703ñ714 
+Volume 1843, Issue 4, April 2014, Pages 703‚Äì714 
 in 
 All Years to: 
 Agricultural and Biological Sciences 
@@ -588,7 +588,7 @@ Search
 Within your article, you will see an option 
 for readers to find out more information 
 about your publication by clicking the 
-ëshow moreí label. This section contains 
+‚Äòshow more‚Äô label. This section contains 
 details on: 
 a Funding body information 
 b User license information 
@@ -603,9 +603,9 @@ Look through the editorial board for established and known editors.
 View recent publications in the journal. 
 Check for societies affiliated with the journal. 
 Check your open access options: 
-Read your institutionís and/or funding bodyís open access policy. 
+Read your institution‚Äôs and/or funding body‚Äôs open access policy. 
 Discuss your publication options with your co-authors. 
-Read your journalís open access options in the Guide for Authors. 
+Read your journal‚Äôs open access options in the Guide for Authors. 
 2) ACCEPTANCE: 
 FOR GOLD OPEN ACCESS FOR GREEN OPEN ACCESS 
 Indicate your intention to publish 
@@ -624,7 +624,7 @@ Share the share link to your article that
 provides 50 days free access. 
 Check the embargo period for 
 your journal on the journal homepage. 
-Check your journalís policy on 
+Check your journal‚Äôs policy on 
 self-archiving.2 
 1For Funding Body Agreements see: www.elsevier.com/fundingbodies 
 2For posting information see: www.elsevier.com/where-to-share
@@ -635,19 +635,19 @@ At Elsevier we recognize that access to quality research is vital to the scienti
 beyond. Our role is to help you advance essential knowledge, save lives, and improve the way 
 we all live. We do this by providing tools and resources, greater author publishing choices and 
 supporting open access implementation across the industry. 
-Elsevierís open access options: 
-ï Open access journals: over 100 journals to choose from. 
-ï Open access articles: over 1600 established journals support authors who want to publish 
+Elsevier‚Äôs open access options: 
+‚Ä¢ Open access journals: over 100 journals to choose from. 
+‚Ä¢ Open access articles: over 1600 established journals support authors who want to publish 
 their article open access. 
-ï Green open access: as an author you can share your research in a variety of ways with the 
+‚Ä¢ Green open access: as an author you can share your research in a variety of ways with the 
 wider public. 
 Why publish open access with Elsevier? 
-ï Quality, established and reputable journals indexed by Scopus and supporting industry 
+‚Ä¢ Quality, established and reputable journals indexed by Scopus and supporting industry 
 initiatives such as ORCID, Crossref and CHORUS to help maintain your publication record. 
-ï Reaching key audiences with 10 million active users per month using our publishing 
+‚Ä¢ Reaching key audiences with 10 million active users per month using our publishing 
 platform ScienceDirect. 
-ï Tailored open access publication choices so authors can decide how best to publish open access. 
-© August 2015 by Elsevier. All rights reserved. Policies may change. For the latest policies see www.elsevier.com/openaccess
+‚Ä¢ Tailored open access publication choices so authors can decide how best to publish open access. 
+¬© August 2015 by Elsevier. All rights reserved. Policies may change. For the latest policies see www.elsevier.com/openaccess
 
 Elsevier helps you publish your entire research 
 process, from methods, to data, to software. 
@@ -660,8 +660,8 @@ methods every day. Get credit and exposure for the time, effort and money
 you've put in to making methods work for you. 
 journals.elsevier.com/methodsx 
 DATA IN BRIEF 
-Data in Brief provides a way for researchers to share and reuse each otherís 
-datasets. Make your data count ñ publish your dataset description with 
+Data in Brief provides a way for researchers to share and reuse each other‚Äôs 
+datasets. Make your data count ‚Äì publish your dataset description with 
 Data in Brief! 
 journals.elsevier.com/data-in-brief 
 SOFTWAREX 
@@ -683,7 +683,7 @@ Promote Your Work
 elsevier.com/promote-your-work 
 Share Link 
 elsevier.com/author-share-link 
-Authorsí Update 
+Authors‚Äô Update 
 elsevier.com/authors-update 
 Journal Finder 
 journalfinder.elsevier.com 

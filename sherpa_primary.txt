@@ -1,0 +1,189 @@
+<h2>Authors and Open Access</h2>
+  <p><span class="localnav"><a href="#whatoa">What is Open Access?</a>&nbsp; |&nbsp; 
+    <a href="#funderrurles">Funders' Grant Rules </a> |&nbsp; <a href="#funderrurles">Journals' 
+    Copyright Rules </a> |&nbsp; <a href="#whichrepos">Which Repository?</a> |&nbsp; 
+    <a href="#assistance">Assistance</a></span></p>
+  <h3><a name="whatoa"></a>What is Open Access?</h3>
+  <p><b>Open Access is . . .</b><br>
+    If an article is &quot;Open Access&quot; it means that it can be freely accessed 
+    by anyone in the world using an internet connection. This means that the potential 
+    readership of Open Access articles is far, far greater than that for articles 
+    where the full-text is restricted to subscribers. Evidence shows that making 
+    research material Open Access increases the number of readers and significantly 
+    increases citations to the article - in some fields increasing citations by 
+    300%. </p>
+  <p><b>What Open Access is <i>not</i></b><br>
+    It is important to point out that Open Access does not affect peer-review; 
+    articles are peer-reviewed and published in journals in the normal way. There 
+    is no suggestion that authors should use repositories instead of journals. 
+    Open Access repositories supplement and do not replace journals. Some authors 
+    have feared that wider availability will increase plagiarism: in fact, if 
+    anything, Open Access serves to <i>reduce</i> plagiarism. When material is 
+    freely available the chance that plagiarism is recognised and exposed is that 
+    much higher. </p>
+  <p><b>What is the problem?</b><br>
+    Journal price rises over the last decade mean that most universities can no 
+    longer afford subscriptions to all of the journals that their academics need. 
+    Even if a journal is available on-line, this does not mean it is freely available: 
+    university libraries pay large subscriptions to allow their academics to easily 
+    access journal materials on-line. Price rises that are many times the rate 
+    of inflation continue to be imposed each year, further restricting access 
+    to journal articles. The situation is even worse in the developing world, 
+    where journal subscription prices mean that many institutions simply cannot 
+    afford access to up-to-date research.</p>
+  <p><b>Open Access Solutions</b><br>
+    Open Access addresses these problems by taking the results of research that 
+    has already been paid for and making it freely available on-line, through 
+    repositories and websites. This process can have significant advantages for 
+    individual authors, for researchers, for institutions and for the process 
+    of research generally by freeing up the process of dissemination. Many funders 
+    have recognised that the job of research is only half-done if the results 
+    of that research cannot reach the widest audience. Some are formulating policies 
+    to require Open Access to their funded research.</p>
+  <p><b>Public Access<br>
+    </b> Another aspect is that on a national level, most research is publicly 
+    funded and yet the general public cannot get access to the results that have 
+    been paid for by their taxes. For example, the majority of research paid for 
+    and carried out by the National Health Service is not freely available - even 
+    to NHS staff. Restricting access to research has many disadvantages. For instance, 
+    it means that there is often no readily accessible material available to science 
+    journalists or the public to counter the regular scare-stories or reputed 
+    miracle cures widely reported in the mass media.</p>
+  <p><b>Open Access Repositories</b><br>
+    Open Access repositories can hold digital duplicates of published articles 
+    and make them freely available. Subject to copyright (<a href="#journalrules">see 
+    below</a>) authors can deposit copies of their finished articles in repositories 
+    alongside their publication in normal journals. The available evidence shows 
+    that this does not affect journal subscriptions. If the subject-discipline 
+    circulates unrefereed <i>pre-prints</i> or <i>working papers</i> in advance 
+    of publication (like Physics, or Economics), then these can be deposited. 
+    If an accepted method of communication is through conference papers (like 
+    Computer Science), then these can be deposited: similarly for fields that 
+    use book chapters or reports. Other fields like Biomedicine only circulate 
+    refereed <i>post-prints</i>. Repositories tag peer-reviewed material to make 
+    this status clear. The important point is that repositories reflect and support 
+    the existing research culture of the discipline.</p>
+  <p>The system works by these electronic versions of article, or <i>eprints</i>, 
+    being deposited into a database, or repository. These repositories are mainly 
+    administered by research institutions, which confers the advantage of allowing 
+    local support of users. Such <i>institutional repositories</i> share records 
+    about their content with service providers, who then offer search services 
+    to users across every record that they hold. This means that a researcher 
+    using a search service is searching across all repositories, not just individual 
+    ones. Once the researcher finds a record, then they can view the full-text 
+    direct from the instutional repository. As well as services which just search 
+    repositories, the full-text is also searched by Google, Yahoo and others.</p>
+  <p>There are increasing numbers of open access repositories available around 
+    the world. The <a href="HTTP://www.OpenDOAR.org">OpenDOAR</a> service allows 
+    you to <a href="http://www.opendoar.org/find.php">search for repositories</a> 
+    or for <a href="http://www.opendoar.org/search.php">repository content</a>. 
+    A list of <a href="http://www.opendoar.org/find.php?search=&clID=&ctID=&submit=Filter&cID=224&lID=&rSoftWareName=&format=summary&step=20&sort=r.rName&rID=&ctrl=new&p=1">repositories 
+    based in the UK</a> is available.</p>
+  <p><b>Open Access Journals</b><br>
+    An alternate way of providing Open Access is to publish in an Open Access 
+    Journal. These journals make their articles available for free through charging 
+    for the publication services <i>before</i> publication, rather than <i>after</i> 
+    publication through subscriptions. Open Access publication charges can be 
+    often included within the costs of research funding, so the money for access 
+    comes through the research funder, rather than through the library budget. 
+    Of course, the initial source of the money is often the same (from government 
+    funding), but the economics of this model means that the overall cost is lower. 
+    There are a growing number of Open Access Journals, with a journal available 
+    in most disciplines. A list of the ones currently available is provided by 
+    the <a href="http://www.doaj.org/">Directory of Open Access Journals</a>. 
+  </p>
+  <p>Some publishers are now experimenting with hybrid journals, where the subscription 
+    version is still sold, but for a supplement - typically around $3000 each 
+    - an articles can then be made freely available. It has been noted that far 
+    from reducing costs, this increases the overall cost of publication. However, 
+    while the Open Access model catches on, this is one way that articles can 
+    be made freely available. </p>
+  <p><b>Depositing in Repositories</b><br>
+    There is no charge for using institutional repositories. The process of deposition 
+    typically takes about 10 minutes and consists of filling in a web-based form 
+    with details about the article; then attaching a pdf copy (or similar), and 
+    then submitting it to the repository administrator. Repositories have help-systems 
+    and guidance: some institutions may offer personal assistance for the first 
+    few times you deposit. The process is quick and simple and will mean that 
+    the article is then available world-wide to a vastly increased readership. 
+  </p>
+  <p>Be sure when writing an article to keep a copy of the final version, after 
+    all the changes due to peer-review have been integrated in the text. Publishers 
+    sometimes refuse permission for authors to use the version which have been 
+    typeset, but allow authors to use their own final version, even though the 
+    content of the article is exactly the same. If you no longer have your own 
+    copy, then sometimes your editor might be able to supply you with a copy of 
+    what you sent them. However, it is always easier to keep your own copy of 
+    your final version.</p>
+  <h3><a name="funderrurles"></a>Funders' Grant Rules</h3>
+  <p>A number of research funders now have rules in place which make deposit in 
+    an open access repository a requirement of any grant. Other funders make a 
+    strong recommendation for deposit, or may make additional funds available 
+    for publication in an open access journal, or in one of the hybrid journals 
+    set up by some publishers. </p>
+  <p>SHERPA runs a service called <a href="http://www.sherpa.ac.uk/juliet/">JULIET</a>, 
+    as a complement to the <a href="http://www.sherpa.ac.uk/romeo.php">RoMEO</a> 
+    service, which lists these rules and recommendations. Use the list to check 
+    to see if a particular funder has an open access requirement for research 
+    outputs.</p>
+  <p>A briefing paper created and distributed to University of Nottingham academics 
+    on the practical requirements of the major research funders on scholarly output, 
+    <a href="../documents/sherpaplusdocs/Nottingham-research-output-procedures-May07.pdf">is 
+    available here</a>. </p>
+  <h3><a name="journalrules"></a>Journals' Copyright Rules</h3>
+  <p>There may be copyright restrictions in making an eprint freely available. 
+    Although the majority of publisher and journals allow authors to archive their 
+    work under certain conditions, other publishers are more restrictive.</p>
+  <p>Typically, when an article is published, the author assigns copyright, or 
+    gives a copyright license to the publisher. Depending on the particular agreement 
+    that is signed, the author retains more or less rights to use the article. 
+    Some agreements forbid the author from photocopying the article, using it 
+    in teaching, or mounting it on-line. Other agreements are more liberal and 
+    allow the author to retain rights to use the article as they wish. </p>
+  <p>SHERPA runs the <a href="http://www.sherpa.ac.uk/romeo.php">RoMEO</a> service, 
+    which lists publishers and their associated copyright agreements. Use the 
+    RoMEO service to search for a publisher, or a particular journal, to see what 
+    rights are assigned to publishers and which are retained by the author.</p>
+  <h3><a name="whichrepos"></a>Which Repository</h3>
+  <p>Funders may have requirements for research to be deposited in a particular 
+    repository: some subject-based repositories have been set-up for this purpose. 
+    SHERPA runs a service called <a href="http://www.sherpa.ac.uk/juliet/">JULIET</a> 
+    which lists funders' rules and if they have a requirement for authors to use 
+    a particular repository. </p>
+  <p>Otherwise, the great majority of research-led universities in the UK already 
+    have an institutional repository for use by their staff. A list of UK <a href="instcontacts.html">institutional 
+    repositories and contacts</a> is available from this site. If you belong to 
+    one of these institutions, then such a repository is probably the best place 
+    to hold your eprint. Remember, other researchers will find the eprint irrespective 
+    of which repository holds it - the place you store the eprint is not necessarily 
+    the way that people will use to find the eprint. </p>
+  <p>If your institution does not yet have a repository, then if you work for 
+    an academic institution in the UK, there is now a service called &quot;<a href="HTTP://depot.Edina.AC.UK">the 
+    Depot</a>&quot; where you can deposit research articles on an open access 
+    basis. In time, as more institutions establish their own repositories, material 
+    will be transferred from the Depot to the appropriate institutional repository. 
+    This will be done automatically and access will be maintained at all times.</p>
+  <p>As part of the SHERPA project, the British Library has set up a <a href="http://sherpa.bl.uk/">pilot 
+    repository</a> for use by unaffiliated scholars from the UK who use the Library's 
+    facilities and who are not directly associated with a particular institution.</p>
+  <p> There are some moves underway to provide general repositories for use by 
+    academics without access to archive facilities in the UK, the USA and elsewhere. 
+    Until these initiatives come to fruition, for authors outside the UK without 
+    an institutional repository, there are a small number of subject-based repositories 
+    elsewhere in the world which might be able to hold your material. SHERPA runs 
+    a service called <a href="http://www.opendoar.org/">OpenDOAR</a> which lists 
+    repositories world-wide. Use <a href="http://www.opendoar.org/">OpenDOAR</a> 
+    to see if your subject-discipline has a general repository you can use. </p>
+  <h3><a name="assistance"></a>Assistance</h3>
+  <p>Repository systems are designed to allow academics to archive their own work. 
+    It is generally a simple process and should take no more than 10 minutes. 
+    Like other IT systems, when coming to it for the first time the process might 
+    take slightly longer; but the input form is straight forward.</p>
+  <p>If you belong to a SHERPA partner institution, then there is someone in your 
+    organisation who is able to advise or assist you in depositing your eprint. 
+    A list of <a href="http://www.sherpa.ac.uk/contacts.html">SHERPA Officers</a> 
+    is available, listed by institution. Other institutions also have archives 
+    and provide assistance: a list of these <a href="instcontacts.html">repositories 
+    and contacts</a> is available. We will maintain this and update the list as 
+    new repositories and contacts develop. </p>
+  <p>&nbsp;</p>
