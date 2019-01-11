@@ -56,7 +56,7 @@ How was the publication fee covered?
 Source: “Open Access Publishing today: 
 what scientists do and why.” 
 Talk given at the SOAP Symposium, Berlin, 
-January 13, 2011, http://de.slideshare.net/ 
+January 13, 2011, <a href="http://de.slideshare.net/"> 
 ProjectSoap/soap-symposiumtalkiii 
 “…scientists now have the 
 satisfaction of seeing the results of their 
@@ -128,11 +128,11 @@ In an interview with Springer, Peter Suber noted that, “the number is not only
 the growth is accelerating. Funders are charities or philanthropies, and that explains why they 
 grasp the logic of OA. If a research project is worth funding, then its results are worth sharing.” 
 2 ROARMAP: Registry of Open Access Repositories Mandatory Archiving Policies, 
-http://roarmap.eprints.org, status: September 2014 
-3 Berlin Declaration, http://oa.mpg.de/lang/en-uk/berlin-prozess/berliner-erklarung, status: September 2014 
-4 OA journal funds, http://oad.simmons.edu/oadwiki/OA_journal_funds, status: September 2014 
-5 The STM report, November 2012, page 23, http://www.stm-assoc.org/2012_12_11_STM_Report_2012.pdf 
-6 Open Access Overview, Peter Suber, http://legacy.earlham.edu/~peters/fos/overview.htm, status: September 2014 
+<a href="http://roarmap.eprints.org">, status: September 2014 
+3 Berlin Declaration, <a href="http://oa.mpg.de/lang/en-uk/berlin-prozess/berliner-erklarung">, status: September 2014 
+4 OA journal funds, <a href="http://oad.simmons.edu/oadwiki/OA_journal_funds">, status: September 2014 
+5 The STM report, November 2012, page 23, <a href="http://www.stm-assoc.org/2012_12_11_STM_Report_2012.pdf"> 
+6 Open Access Overview, Peter Suber, <a href="http://legacy.earlham.edu/~peters/fos/overview.htm">, status: September 2014 
 “Open Access allows authors to 
 (finally!) make their own decision about 
 whether or not they want their work to 
@@ -147,18 +147,18 @@ Full Professor at the Institute of
 Microbiology, University of Münster, 
 Germany
 
-springer.com 
+<a href="springer.com"> 
 4 
 Open Access – broad readership, high impact 
 7 Mikael Laakso, Bo-Christer Björk (2012), “Anatomy of open access publishing: a study of longitudinal development 
-and internal structure.” BMC Medicine. doi: 10.1186/1741-7015-10-124, http://www.biomedcentral.com/ 
+and internal structure.” BMC Medicine. doi: 10.1186/1741-7015-10-124, <a href="http://www.biomedcentral.com/"> 
 1741-7015/10/124 
-8 Directory of Open Access Journals (DOAJ): http://www.doaj.org, status: September 2014 
-9 Directory of Open Access Books (DOAB): http://www.doabooks.org, status: September 2014 
-10 Society Publishers with Open Access Journals: https://docs.google.com/spreadsheet/ccc?key=0AgBYTDKmesh7dDZ6 
-UnBfcnpOdVpnd3ptSnVpQ0xrenc#gid=1, status: September 2014 
-11 BASE: http://www.base-search.net/about/en/index.php, status: September 2014 
-12 More information on Springer’s OA portfolio can be found at springer.com/openaccess and springeropen.com 
+8 Directory of Open Access Journals (DOAJ): <a href="http://www.doaj.org">, status: September 2014 
+9 Directory of Open Access Books (DOAB): <a href="http://www.doabooks.org">, status: September 2014 
+10 Society Publishers with Open Access Journals: <a href="https://docs.google.com/spreadsheet/ccc?key=0AgBYTDKmesh7dDZ6 
+UnBfcnpOdVpnd3ptSnVpQ0xrenc#gid=1">, status: September 2014 
+11 BASE: <a href="http://www.base-search.net/about/en/index.php">, status: September 2014 
+12 More information on Springer’s OA portfolio can be found at <a href="springer.com/openaccess"> and <a href="springeropen.com"> 
 Support for OA continues to grow, as demonstrated by the rapid expansion in the number 
 of OA journals and articles published each year. Over the past decade, open access journal 
 publishing has steadily grown at a rate of 1% a year. In 2011, an estimated 340,000 articles 
@@ -224,7 +224,7 @@ Stefanie Muzik, Head of the Scientific
 Publications Department of the European 
 Society of Radiology
 
-Open Access – broad readership, high impact springer.com 
+Open Access – broad readership, high impact <a href="springer.com"> 
 5 
 About 100 SpringerOpen and BioMed Central journals are fully sponsored by one or more 
 affiliated institutions or societies; the remainder charge APCs. However, for many of these 
@@ -283,7 +283,7 @@ Secretary General and Director of
 Administration of the International 
 Society for Translational Medicine
 
-Open Access – broad readership, high impact springer.com 
+Open Access – broad readership, high impact <a href="springer.com"> 
 Get connected with us! @SpringerOpen and @BioMedCentral SpringerOpen 
 A01240R | EB-12 B | Image page 1: Gudella/iStockphoto 
 Copyright and Creative Commons 
@@ -314,12 +314,11 @@ their approach to OA and to ensure that they have an integrated, forward-looking
 strategy; one that expands access to content, and does so with minimal restrictions and limitations 
 for the user. Springer has a long reputation for innovation and quality and has been a 
 leader in OA publishing since its inception. 
-14 Lists & Infographics. High-Impact Open Access Journals, UOC Virtual Library: http://bit.ly/1wppfe9, 
+14 Lists & Infographics. High-Impact Open Access Journals, UOC Virtual Library: <a href="http://bit.ly/1wppfe9">, 
 status: September 2014 
 Would you like to know 
 more about Springer’s 
 open access portfolio? 
-Visit us at springer.com/ 
-openaccess 
+Visit us at <a href="springer.com/openaccess"> 
 BioMed Central 
 

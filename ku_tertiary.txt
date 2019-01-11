@@ -29,7 +29,7 @@ author to make an open copy of the published article (the accepted manuscript-po
 open access journals (PLoS, BMC) do have a fee required, but in most cases it takes the place of the traditional 
 “page charges” and the fees are lower, and they do not get subscription money as well. 
 Some universities now have Open Access Author Funds, to help authors pay those open access charges in nonhybrid 
-(fully open access) journals. KU has such a fund. Please visit, http://library.kumc.edu/authors-fund.xml, 
+(fully open access) journals. KU has such a fund. Please visit, <a href="http://library.kumc.edu/authors-fund.xml">, 
 for more information or contact, Ada Emmett, aemmett@ku.edu if you or your department chair would like to 
 learn more. 
 . Will Open Access Mean the Demise of the Society Journals? 

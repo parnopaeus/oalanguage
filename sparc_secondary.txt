@@ -47,7 +47,7 @@ Resources Coalition
 Washington, DC 20036 
 tel: +1 202 296 2296 
 email: sparc@sparcopen.org 
-web: www.sparcopen.org 
+web: <a href="www.sparcopen.org ">
 Number of articles published with CC BY licenses 2000–2012 [1]
 
 .................................................... 
@@ -122,7 +122,7 @@ SPARC’s legislative advocacy platform
 to contact your elected representatives in 
 Congress and in your state. 
 [1] Growth in use of the CC-BY license. Open Access Scholarly Publishers Assocaition. 
-http://oaspa.org/growth-in-use-of-the-cc-by-license-2/ 
-[2] Directory of Open Access Journals. http://www.doaj.org 
-[3] Directory of Open Access Repositories. http://www.opendoar.org
+<a href="http://oaspa.org/growth-in-use-of-the-cc-by-license-2/"> 
+[2] Directory of Open Access Journals. <a href="http://www.doaj.org"> 
+[3] Directory of Open Access Repositories. <a href="http://www.opendoar.org">
 

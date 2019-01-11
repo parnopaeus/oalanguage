@@ -34,7 +34,7 @@ IOP Publishing (IOP) is committed to providing long-term, sustainable access to 
 maintaining high-value, trustworthy author and reader services, which enhance scientific communication and progress. 
 In practical terms, this means that as an IOP author you can: 
 * See the glossary on page 3. 
-Find out more at iopscience.org/openaccess 
+Find out more at <a href="http://iopscience.org/openaccess"> 
 Open access publishing 
 Key information for authors
 
@@ -87,7 +87,7 @@ via your department or via your library. IOP also offers
 discounts for referees for gold open access publishing. 
 The article publication charge for IOP journals ranges from 
 £1200 to £1700, depending on the title. Full details are 
-available at iopscience.org/openaccess. 
+available at <a href="iopscience.org/openaccess">. 
 7 What is the copyright/licence policy of the publisher, 
 i.e. how can the published work be reused? 
 The most commonly used licence for gold open access 
@@ -112,7 +112,7 @@ of the Open Access Scholarly Publishers Association
 9 Where can I go to learn more about IOP’s open access 
 policy? 
 IOP’s open access policy is regularly reviewed. You can 
-keep up to date at iopscience.org/openaccess. You 
+keep up to date at <a href="iopscience.org/openaccess">. You 
 can also follow up with your subject librarian to learn 
 what resources and support for open access exist at your 
 institution. 
@@ -132,7 +132,7 @@ by a journal to make an article available on a gold open access basis. Some jour
 models exist. 
 Creative Commons 
 Creative Commons (CC) is a non-profit organization that enables the sharing and use of creativity and knowledge through free 
-legal tools. Find out more at http://creativecommons.org. All CC licences are intended to work worldwide and operate within 
+legal tools. Find out more at <a href="http://creativecommons.org">. All CC licences are intended to work worldwide and operate within 
 the boundaries of copyright law. 
 CC BY 
 This is the most commonly used Creative Commons licence for open access publishing. With this licence you are free to: 

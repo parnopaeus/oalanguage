@@ -336,7 +336,7 @@ to your newly-published article on ScienceDirect to anyone clicking on the link.
 We encourage you to share this link on social media. After 50 days the share 
 link will still work but automatically revert to a link to your full text article. 
 I want to share my article 
-© August 2015 by Elsevier. All rights reserved. Policies may change. For the latest policies see http://www.elsevier.com/sharingpolicy
+© August 2015 by Elsevier. All rights reserved. Policies may change. For the latest policies see <a href="http://www.elsevier.com/sharingpolicy">
 
 10 Elsevier 
 Preparing your article for sharing 
@@ -350,7 +350,7 @@ in the future.
 How to attach a CC-BY-NC-ND license: On your preprint or accepted manuscript add the 
 following to the title page, copyright information page, or header /footer: 
 Example: © 2015. This manuscript version is made available under the CC-BY-NC-ND 4.0 license 
-http://creativecommons.org/licenses/by-nc-nd/4.0/ 
+<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/"> 
 You can also include the license badges available from the Creative Commons website to provide 
 visual recognition. If you are hosting your manuscript as a webpage you will also find the correct 
 HTML code to add to your page from www.creativecommons.org 
@@ -361,7 +361,7 @@ way to do this is to include the Digital Object Identifier (DOI) link
 in your posted article. 
 A DOI is a standardized method for identifying an electronic object and you can easily find your 
 DOI under the title of your article. To convert a DOI to a Web address, add the following URL to the 
-DOI: http://dx.doi.org/ followed by your DOI number. We recommend you include this information 
+DOI: <a href="http://dx.doi.org/"> followed by your DOI number. We recommend you include this information 
 to your title page or header/footer. 
 Finding your accepted author manuscript 
 In order to share your full-text article for green open access, you will need to retain the preprint 
@@ -401,7 +401,7 @@ fund held by the institution or paid directly to the publisher under a funding b
 agreement. In other cases, your funding body may require researchers to use their grant funds 
 to cover the open access fee. Elsevier has established a number of funding body and institutional 
 agreements designed to make publishing gold open access easy for researchers. Please see: 
-www.elsevier.com/fundingbodies
+<a href="http://www.elsevier.com/fundingbodies">
 
 12 Elsevier 
 How will your open access article appear? 
@@ -626,8 +626,8 @@ Check the embargo period for
 your journal on the journal homepage. 
 Check your journal’s policy on 
 self-archiving.2 
-1For Funding Body Agreements see: www.elsevier.com/fundingbodies 
-2For posting information see: www.elsevier.com/where-to-share
+1For Funding Body Agreements see: <a href="http://www.elsevier.com/fundingbodies"> 
+2For posting information see: <a href="http://www.elsevier.com/where-to-share">
 
 14 Elsevier 
 Elsevier and open access 
@@ -647,7 +647,7 @@ initiatives such as ORCID, Crossref and CHORUS to help maintain your publication
 • Reaching key audiences with 10 million active users per month using our publishing 
 platform ScienceDirect. 
 • Tailored open access publication choices so authors can decide how best to publish open access. 
-© August 2015 by Elsevier. All rights reserved. Policies may change. For the latest policies see www.elsevier.com/openaccess
+© August 2015 by Elsevier. All rights reserved. Policies may change. For the latest policies see <a href="http://www.elsevier.com/openaccess">
 
 Elsevier helps you publish your entire research 
 process, from methods, to data, to software. 
@@ -658,38 +658,38 @@ METHODSX
 MethodsX publishes the small but important customizations you make to 
 methods every day. Get credit and exposure for the time, effort and money 
 you've put in to making methods work for you. 
-journals.elsevier.com/methodsx 
+<a href="journals.elsevier.com/methodsx"> 
 DATA IN BRIEF 
 Data in Brief provides a way for researchers to share and reuse each other’s 
 datasets. Make your data count – publish your dataset description with 
 Data in Brief! 
-journals.elsevier.com/data-in-brief 
+<a href="journals.elsevier.com/data-in-brief"> 
 SOFTWAREX 
 SoftwareX is the open access home for your software. Publish your 
 software in SoftwareX and get your software indexed, discoverable, 
 accessible and citable. 
-journals.elsevier.com/softwarex 
+<a href="journals.elsevier.com/softwarex"> 
 
 Useful Links 
 Open Access 
-elsevier.com/openaccess 
+<a href="elsevier.com/openaccess"> 
 Policies 
-elsevier.com/policies 
+<a href="elsevier.com/policies"> 
 Funding Bodies 
-elsevier.com/fundingbodies 
+<a href="elsevier.com/fundingbodies"> 
 User Licenses 
-elsevier.com/openaccesslicenses 
+<a href="elsevier.com/openaccesslicenses"> 
 Promote Your Work 
-elsevier.com/promote-your-work 
+<a href="elsevier.com/promote-your-work"> 
 Share Link 
-elsevier.com/author-share-link 
+<a href="elsevier.com/author-share-link"> 
 Authors’ Update 
-elsevier.com/authors-update 
+<a href="elsevier.com/authors-update"> 
 Journal Finder 
-journalfinder.elsevier.com 
+<a href="journalfinder.elsevier.com"> 
 Publishing Campus Researcher Training 
-publishingcampus.elsevier.com 
+<a href="publishingcampus.elsevier.com ">
 Ethics in Research & Publication 
-publishingcampus.com/ethics 
-Visit: www.elsevier.com/open-access-options
+<a href="publishingcampus.com/ethics ">
+Visit: <a href="www.elsevier.com/open-access-options">
 

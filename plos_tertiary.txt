@@ -1,0 +1,82 @@
+﻿HowOpenIsIt? 
+
+
+Thousands of journals have adopted policies that embrace some or all of the Open Access core 
+components related to readership, reuse, copyright, author and automatic posting, and machine 
+readability. 
+
+But not all Open Access is created equal 
+
+The “HowOpenIsIt?®” Open Access Spectrum (OAS) guide provides standardized Open Access 
+terminology in an easily understandable, comprehensive resource created by PLOS, the 
+Scholarly Publishing and Academic Resources Coalition (<a href="sparcopen.org">SPARC) and the Open Access 
+Scholarly Publishers Association (<a href="oaspa.org">OASPA) based on core components of Open Access derived 
+from the 2002 Budapest Open Access Initiative (<a href="http://www.opensocietyfoundations.org/openaccess/read">BOAI). 
+
+The OAS guide illustrates a nuanced continuum of more versus less open to enable users to 
+compare and contrast publications and policies across a grid of clearly defined 
+components, moving the conversation from “Is It Open Access?” to “HowOpenIsIt?” 
+
+The HowOpenisit? Open Access Spectrum guide 
+illustrates the continuum from more open to less open. 
+
+1. Brings a broad understanding of Open Access to those unfamiliar with its nuances 
+2. Deepens the understanding of those already familiar with Open Access 
+3. Enables users to compare and contrast publications and policies and to determine how 
+open is a publisher and/or publication 
+4. Standardizes terminology and clarifies the definition of Open Access 
+
+
+ 
+
+https://www.plos.org/uploads/image/file/59020/sm_HowOpenIsIt_English-chart.png
+HowOpenIsIt? was vetted and refined in a practical use pilot of 100 journals by PLOS, SPARC 
+and <a href="http://publications.copernicus.org/">Copernicus Publications in consultation with OASPA, Securing a Hybrid Environment for 
+
+
+Research Preservation and Access (<a href="http://www.sherpa.ac.uk/">SHERPA) and Infrastructures for Open Access (<a href="http://is4oa.org/">IS4OA). 
+Through the work of volunteer translators, the guide is available in multiple languages (see 
+below) for use around the world by authors, libraries, research funders, government agencies, 
+institutions and other interested parties. 
+
+ 
+
+As increasing numbers of hybrid publishing models develop, the challenge lies in clearly 
+understanding where each journal lies on the continuum. To address this, the <a href="http://www.oaspectrum.org/">Open Access 
+Spectrum Evaluation Tool – based on HowOpenIsIt? – provides a quantitative score of a 
+journal’s degree of openness. The OAS evaluation tool, created and updated by a team of 
+scholarly communication and publishing experts including representatives from DOAJ and 
+librarians from the US, Europe and Africa, currently maintains a database of more than 1,000 
+journals. 
+
+
+The guide is available for download in a number of languages through the work of volunteer 
+translators. 
+
+<a href="https://www.plos.org/files/HowOpenIsIt_English.pdf">OAS in English (.pdf) 
+
+<a href="https://www.plos.org/files/HowOpenIsIt_Chinese.pdf">OAS in Chinese (.pdf) 
+
+<a href="https://www.plos.org/files/HowOpenIsIt_Spanish.pdf">OAS in Spanish (.pdf) 
+
+<a href="https://www.plos.org/files/HowOpenIsIt_Italian.pdf">OAS in Italian (.pdf) 
+
+<a href="https://www.plos.org/files/HowOpenIsIt_Portuguese.pdf">OAS in Portuguese (.pdf) 
+
+<a href="https://www.plos.org/files/HowOpenIsIt_French.pdf">OAS in French (.pdf) 
+
+<a href="https://www.plos.org/files/HowOpenIsIt_Catalan.pdf">OAS in Catalan (.pdf) 
+
+<a href="https://www.plos.org/files/HowOpenIsIt-FAQ.docx">OAS Frequently Asked Questions in English (.docx) 
+
+<a href="https://www.plos.org/files/HowOpenIsIt_Slides.pptx">Slideshow (.pptx) 
+
+<a href="https://www.plos.org/files/HowOpenIsIt_OASGrid.pdf">Assess Where You Are On the OAS Grid (.pdf) 
+
+<a href="https://www.plos.org/files/HowOpenIsIt_FoldGuide.pdf">Instructions for the OAS (.pdf) 
+
+ 
+
+ 
+
+

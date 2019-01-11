@@ -22,7 +22,7 @@ the widest possible exposure of the author’s graduate research:
 the ProQuest® Dissertations & Theses (PQDT) database, the world’s most 
 comprehensive collection of dissertations and theses. 
 . PQDT Open: Open access titles can be retrieved via the ProQuest database PQDT 
-Open (http://pqdtopen.proquest.com). Anyone with access to the Internet will be able to 
+Open (<a href="http://pqdtopen.proquest.com">). Anyone with access to the Internet will be able to 
 read and download open access dissertations and theses for free. 
 
 
