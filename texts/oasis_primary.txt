@@ -1,0 +1,84 @@
+﻿<td class="contentheading" width="100%">
+					Open Access: What is it and why should we have it?			</td>
+						<td align="right" width="100%" class="buttonheading">
+		<a href="/web/20180106204003/http://www.openoasis.org/index.php?view=article&amp;catid=56%3Ahome&amp;id=130%3Aopen-access-what-is-it-and-why-should-we-have-it&amp;format=pdf&amp;option=com_content&amp;Itemid=390" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/web/20180106204003im_/http://www.openoasis.org/templates/js_optimus_free/images/pdf_button.png" alt="PDF"/></a>		</td>
+		
+				<td align="right" width="100%" class="buttonheading">
+		<a href="/web/20180106204003/http://www.openoasis.org/index.php?view=article&amp;catid=56%3Ahome&amp;id=130%3Aopen-access-what-is-it-and-why-should-we-have-it&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=390" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/web/20180106204003im_/http://www.openoasis.org/templates/js_optimus_free/images/printButton.png" alt="Print"/></a>		</td>
+		
+					</tr>
+</table>
+
+<table class="contentpaneopen">
+<tr>
+	<td>
+				<span>
+							<a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=section&amp;id=32&amp;Itemid=390">						General							</a>									</span>
+					</td>
+</tr>
+
+
+
+<tr>
+<td valign="top">
+<div id="wikipage" class="box wikistyle">
+<div id="wikipage-inner">
+<p>Open Access provides the means to maximise the visibility, and thus the uptake and use, of research outputs. <span class="searchhilitepage">Open</span> Access is the immediate, online, free availability of research outputs without the severe restrictions on use commonly imposed by publisher copyright agreements. It is definitely not vanity publishing or self-publishing, nor about the literature that scholars might normally expect to be paid for, such as books for which they hope to earn royalty payments. It concerns the outputs that scholars normally give away free to be published – peer-reviewed journal articles, conference papers and datasets of various kinds.</p>
+<p>The three original, formal definitions of <span class="searchhilitepage">Open</span> Access are the <a href="https://web.archive.org/web/20180106204003/http://www.soros.org/openaccess/">Budapest</a> (2002), <a href="https://web.archive.org/web/20180106204003/http://www.earlham.edu/%7Epeters/fos/bethesda.htm">Bethesda</a> (2003) and <a href="https://web.archive.org/web/20180106204003/http://oa.mpg.de/openaccess-berlin/berlindeclaration.html">Berlin</a> (2003) definitions and they are usually referred to as a consolidated '<a href="https://web.archive.org/web/20180106204003/http://www.earlham.edu/%7Epeters/fos/newsletter/09-02-04.htm#progress">BBB definition</a>'.</p>
+<p>Not only scholars benefit from Open Access. They are the most obvious beneficiaries, perhaps, because their work gains instant worldwide visibility, and they also gain as readers if much more world research is available on an <span class="searchhilitepage">Open</span> Access basis for them to access freely and read. But there are many other beneficiaries, too.</p>
+<p>Research institutions benefit from having a management information tool that enables them to assess and monitor their research programmes, and they have a marketing tool that enables them to provide a shop window for their research efforts. The same advantages apply to external research funders who need to be able to access and keep track of outputs from their funding, and measure and assess how effectively their money has been spent. They also can ensure that the results of their spending have had the widest possible dissemination.</p>
+<p>It is because Open Access is so much in the interest of research funders and employers that an increasing number of them around the world are introducing Open Access policies that require their funded researchers to provide <span class="searchhilitepage">Open</span> Access to their work.</p>
+<p>The advantages of <span class="searchhilitepage">Open</span> Access for science and scholarship are, in brief:</p>
+<p>• <span class="searchhilitepage">Open</span> Access brings greater visibility and impact</p>
+<p>• <span class="searchhilitepage">Open</span> Access moves research along faster</p>
+<p>• <span class="searchhilitepage">Open</span> Access enables better management and assessment of research</p>
+<p>• <span class="searchhilitepage">Open</span> Access provides the material on which the new semantic web tools for data-mining and text-mining can work, generating new knowledge from existing findings</p>
+<p>Explore this site to find out:</p>
+<p><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=139&amp;Itemid=309">How <span class="searchhilitepage">Open</span> Access is provided</a></p>
+<p><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=146&amp;Itemid=308">Benefits of <span class="searchhilitepage">Open</span> Access</a></p>
+<p><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=151&amp;Itemid=310">Author concerns about <span class="searchhilitepage">Open</span> Access</a></p>
+<h5>Further resources</h5>
+<p><a href="https://web.archive.org/web/20180106204003/http://www.earlham.edu/%7Epeters/fos/overview.htm">A comprehensive overview of <span class="searchhilitepage">Open</span> Access</a> by Peter Suber</p>
+<p><span class="gold-title"><a href="https://web.archive.org/web/20180106204003/http://www.academicmatters.ca/AcademicMatters_printable_article.aspx?catalog_item_id=2477">Open Access: Promises and Challenges of Scholarship in the Digital Age </a>by Leslie Chan<br/></span></p>
+<p>An essay that discusses the advantages of <span class="searchhilitepage">Open</span> Access to research in more detail: i<a href="https://web.archive.org/web/20180106204003/http://eprints.ecs.soton.ac.uk/13860/">n English</a> or <a href="https://web.archive.org/web/20180106204003/http://eprints.ecs.soton.ac.uk/15958/">en Español</a> by Alma Swan</p>
+<p><a href="/web/20180106204003/http://www.openoasis.org/images/stories/briefing_papers/Open_Access.pdf">Briefing Paper on <span class="searchhilitepage">Open</span> Access <br/></a></p>
+</div>
+</div>
+
+</td>
+</tr>
+
+<tr>
+	<td class="modifydate">
+		Last Updated on Friday, 11 September 2009 19:28	</td>
+</tr>
+</table>
+<span class="article_separator">&nbsp;</span>
+
+				</div>    
+				</td>
+						    <td class="rightcol" style="width:200px;px">
+								<div class="moduleS1">
+			<div>
+				<div>
+					<div>
+													<h3>Topics</h3>
+											<ul class="menu-sidenav"><li id="current" class="active"><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=130&amp;Itemid=390"><span>Open Access: what is it and why should we have it?</span></a></li><li class="haschild"><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=146&amp;Itemid=308" class="child"><span>Benefits of Open Access for research dissemination</span></a><ul><li class="haschild"><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=560&amp;Itemid=391" class="child"><span>Citation impact</span></a><ul><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=561&amp;Itemid=392"><span>Managing your research profile</span></a></li><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=562&amp;Itemid=393"><span>Research metrics</span></a></li></ul></li></ul></li><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=28&amp;Itemid=412"><span>Researchers in Developing Countries</span></a></li><li class="haschild"><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=139&amp;Itemid=309" class="child"><span>Ways to provide Open Access to your work</span></a><ul><li class="haschild"><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=137&amp;Itemid=312" class="child"><span>Open Access Repositories</span></a><ul><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=153&amp;Itemid=313"><span>Self-Archiving FAQs</span></a></li></ul></li><li class="haschild"><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=155&amp;Itemid=316" class="child"><span>Open Access Journals</span></a><ul><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=565&amp;Itemid=394"><span>Setting up an Open Access journal</span></a></li></ul></li><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=566&amp;Itemid=395"><span>Publish your book in Open Access</span></a></li></ul></li><li class="haschild"><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=151&amp;Itemid=310" class="child"><span>Author''s Concerns</span></a><ul><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=152&amp;Itemid=311"><span>Author's Rights and Author Addenda</span></a></li><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=154&amp;Itemid=315"><span>Publisher Permissions and Embargoes</span></a></li><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=156&amp;Itemid=325"><span>Researchers and Open Access Policies</span></a></li></ul></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="moduleS1">
+			<div>
+				<div>
+					<div>
+													<h3>Additional Resources</h3>
+											<ul class="menu-sidenav"><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_content&amp;view=article&amp;id=169&amp;Itemid=361"><span>Greater Reach for Your Research</span></a></li><li><a href="/web/20180106204003/http://www.openoasis.org/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=362"><span>Author Addenda</span></a></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+	
+			    </td>
+						  </tr>
+			</table>
+
+		</div>

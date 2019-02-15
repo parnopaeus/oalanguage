@@ -1,0 +1,103 @@
+﻿Researchers publish their results to establish their own claim to the research and to enable 
+other researchers to build upon them. In the case of journal articles, only the richest 
+institutions have been able to afford a reasonable proportion of all the scholarly journals 
+published and so learning about and accessing such articles has not always been easy for 
+most researchers. Open Access changes all this. 
+The World Wide Web provides the means for researchers to make their research results 
+available to anyone, anywhere, at any time. This applies to journal articles regardless of 
+whether or not their library has a subscription to the journal in which the articles were 
+published as well as to other types of research output such as conference papers, theses or 
+research reports. This is known as Open Access. 
+What Open Access is 
+The Open Access research literature is composed of free, online copies of peer-reviewed 
+journal articles and conference papers as well as technical reports, theses and working 
+papers. In most cases there are no licensing restrictions on their use by readers. They can 
+therefore be used freely for research, teaching and other purposes. The Budapest Open 
+Access Initiative (<a href="http://www.soros.org/openaccess/">) defines Open Access thus: 
+"By 'open access' to this literature we mean its free availability on the public internet, 
+permitting anyusers to read, download, copy, distribute, print, search, or link to the full texts 
+of these articles, crawl them for indexing, pass them as data to software, or use them for 
+any other lawful purpose, without financial, legal, or technical barriers other than those 
+inseparable from gaining access to the internet itself." 
+What Open Access is not 
+There are various misunderstandings about Open Access. It is not self-publishing, nor a way 
+to bypass peer-review and formal publication, nor is it a kind of second-class, cut-price 
+publishing route. It is simply the means to make research results freely available online to 
+the whole research community. 
+How is Open Access provided? 
+Open Access can be provided in two main ways. A researcher can place a copy of each 
+article in an Open Access repository or can publish articles in Open Access journals. In 
+addition, a researcher may place a copy of each article on a personal or departmental 
+website. Whilst all three routes to Open Access ensure that far more users can access such 
+articles than if they were hidden away in Closed Access (subscription-based) journals, the 
+first two constitute much more systematic and organised approaches than the third and 
+maximise the chance of other researchers locating and reading articles. 
+Open Access repositories are digital collections of research articles placed there by their 
+authors. In the case of journal articles this may be done either before (preprints) or after 
+publication (postprints). This is known as ‘self-archiving’. These repositories expose the 
+metadata of each article (the title, authors, and other bibliographic details) in a format 
+compliant with the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH). To 
+access the contents of these archives you can use Google, Google Scholar or other Web 
+search engines. These search engines systematically harvest the contents of the archives 
+worldwide, forming a database of current global research. Open Access repositories may be 
+multidisciplinary and located in universities or other research-based institutions, or they may 
+be centralised and subject-based, such as the one covering certain areas of physics and 
+related disciplines, called arXiv. A list of Open Access repositories is maintained by the EPrints 
+Open Access: 
+A Briefing Paper 
+Open Access Scholarly Information Sourcebook
+
+site at Southampton University (<a href="http://roar.eprints.org/">). If your institution does not have an 
+archive, extensive information on how to set one up can be found on that website. Another 
+list of repositories is maintained by and by the SHERPA Project at Nottingham University 
+(<a href="http://http://www.opendoar.org/">). Self-archiving is an international movement that is developing 
+fast, and many research funders – such as the National Institutes of Health in the US and 
+the UK’s Research Councils – require their grant-holders to make their articles Open Access 
+by self-archiving. 
+Some universities have also introduced policies of this kind and a list of institutions requiring 
+their researchers to deposit in a repository is available at the Registry of Open Access 
+Repository Material Archiving Policies (ROARMAP: <a href="http://http://www.eprints.org/openaccess/ 
+policysignup/">). If you are concerned that your journal’s publisher may have copyright 
+restrictions that would prevent you from self-archiving your articles, this will in most 
+instances not be the case. Current publisher policies on self-archiving and copyright are 
+detailed on the SHERPA project website at Nottingham University (<a href="http://http://www.sherpa.ac.uk/ 
+romeo.php">) and on the EPrints site (<a href="http://http://romeo.eprints.org/">). 
+Open Access journals are peer-reviewed journals whose articles may be accessed 
+online by anyone without charge. Some, mainly those published from a university 
+department or with substantial subsidy, make no author or page charges. Others levy a 
+charge for publishing an article, turning on its head the traditional model where a library 
+pays for access to the contents of a journal through a subscription. This charge may be paid 
+by the author(s) but in most cases it is financed by a research grant or institutional funds. 
+Your institution may already have taken the decision to pay for Open Access articles to be 
+published, or your grant-awarding body may have adopted this as one of its policies. A list of 
+grant awarding bodies that explicitly permit funds to be used for this purpose is maintained 
+on the BioMed Central website at <a href="http://http://www.biomedcentral.com/info/about/apcfaq">. Many 
+publishers now offer their authors the option of paying a publication charge to make a 
+particular article open access, even if the remainder of the journal is only available on 
+subscription. 
+A comprehensive list of Open Access journals in all subject areas is maintained by the 
+University of Lund (<a href="http://http://www.doaj.org/">). At the start of 2009 this list contains over 3800 
+journals. Many of these Open Access journals have impact factors and are indexed by the 
+Institute for Scientific Information for its Web of Knowledge/Web of Science service. 
+Why should authors provide Open Access to their work? 
+There is accumulating evidence that shows that research articles that have been selfarchived 
+are cited more often than those that have not. A bibliography of studies on “The 
+effect of open access and downloads (‘hits’) on citation impact” is maintained by the Open 
+Citation Project (<a href="http://http://opcit.eprints.org/oacitation-biblio.html">). Making research publications 
+Open Access means that research has much more impact than before. Moreover, the 
+research cycle – where work is published, read, cited and then built upon by other 
+researchers – is enhanced and accelerated when results are available on an Open Access 
+basis. Studies are also underway on the wider economic impact of open access to 
+research publications following initial research by John Houghton and Peter Sheehan of 
+Victoria University, Melbourne (see “The economic impact of increased access to research 
+findings” at <a href="http://http://www.cfses.com/documents/wp23.pdf">). Academic institutions are also 
+finding open access repositories valuable in generating management information and 
+reports on their research programmes and in raising awareness of their research profile. 
+Further resources 
+The Open Access Scholarly Information Sourcebook website is a complete resource on open 
+Access <a href="http://http://www.openoasis.org"> 
+An essay published in American Scientist that discusses the principles and advantages of Open 
+Access in more detail in English (<a href="http://http://eprints.ecs.soton.ac.uk/13860/">) and in Spanish (<a href="http://http:// 
+eprints.ecs.soton.ac.uk/15958/">) 
+This Briefing Paper was written by Alma Swan for OASIS: <a href="http://www.openoasis.org">
+
