@@ -20,7 +20,7 @@ Outputs of the analysis were put into a spreadsheet for easier use and analysis.
 
 ### Analysis spreadsheet
 
-The raw numbers for our analysis are available in the spreadsheet titled "analysis_numbers.csv". There is also an Excel .xlsx file with the below information included as comments. 
+The raw numbers for our analysis are available in the spreadsheet titled "analysis_numbers.csv". There is also an Excel .xlsx file with the below information included as comments, and the publisher names in a different order to match other data collected for this project. 
 
 The information in this spreadsheet contains the following columns: 
 * Source for the texts 
