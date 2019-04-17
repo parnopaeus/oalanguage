@@ -4,11 +4,11 @@
 
 This repository contains text data and code for analysis of language used on Open Access websites. The project owners are Lauren B. Collister (lbcollister@pitt.edu) and Melissa Cantrell (melissa.cantrell@colorado.edu).
 
-## License
+### License
 
 The text files in this repository were pulled directly from source websites, and therefore copyright for those texts belong to the source indicated. We are using these texts under Fair Use, particularly a transformative use as they were used for textual analysis.
 
-All code and text beyond the source texts is owned by Melissa Cantrell and Lauren Collister, and is licensed for your re-use under a [Creative Commons - Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). 
+All code and text beyond the source texts is owned by Melissa Cantrell and Lauren Collister, and is licensed for your re-use under a [Creative Commons - Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ### About the text files
 
