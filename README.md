@@ -6,7 +6,7 @@ This repository contains text data and code for analysis of language used on Ope
 
 Results from this study have been published in the following outlets:
 
-Cantrell, Melissa H.; Collister, Lauren B. The status quo bias and the uptake of open access. First Monday, 24:7. doi:https://doi.org/10.5210/fm.v24i7.10089.
+Cantrell, Melissa H.; Collister, Lauren B. 2019. The status quo bias and the uptake of open access. First Monday, 24:7. doi:https://doi.org/10.5210/fm.v24i7.10089.
 
 ### License
 
