@@ -5,6 +5,7 @@
 This repository contains text data and code for analysis of language used on Open Access websites. The project owners are Lauren B. Collister (lbcollister@pitt.edu) and Melissa Cantrell (melissa.cantrell@colorado.edu).
 
 Results from this study have been published in the following outlets:
+
 Cantrell, Melissa H.; Collister, Lauren B. The status quo bias and the uptake of open access. First Monday, 24:7. doi:https://doi.org/10.5210/fm.v24i7.10089.
 
 ### License
