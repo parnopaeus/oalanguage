@@ -99,3 +99,7 @@ The information in the spreadsheet contains five tabs. The first tab contains da
 	*  Alternative Pay Models - Text that indicates methods of payment for fees associated with Open Access publishing is copied and listed here.
 *  Alt. Cost Recovery Matrix - Using text from “Alternative Pay Models” Column in the “Cost Coding” tab, this tab indicates which cost recovery models for payments are indicated by each source group. If a cost recovery model is mentioned, the matrix is marked with an “X” in the relevant field. A grey row indicates that no cost recovery model was mentioned by that source group.
 *  Cost Recovery Chart - Results from the Alt. Cost Recovery Matrix tab are summarized and displayed in chart form in this tab.
+
+### Contact
+
+For any questions about this project please contact Lauren B. Collister (lbcollister@pitt.edu) and Melissa Cantrell (melissa.cantrell@colorado.edu).
