@@ -1,0 +1,51 @@
+News
+
+CMU Joins Universities in Open Access Deal with ACM
+
+Carnegie Mellon University has joined three leading universities in entering into transformative open access agreements with the Association for Computing Machinery (ACM), the world’s largest scientific and educational computing society.
+
+Carnegie Mellon reached the agreement with some of ACM’s largest institutional customers, including the University of California (UC), Carnegie Mellon University (CMU), Massachusetts Institute of Technology (MIT), and Iowa State University (ISU). CMU is the single biggest contributor to ACM.
+
+The agreements, which run for three-year terms beginning January 1, 2020, cover both access to and open access publication in ACM’s journals, proceedings and magazines for these universities, and represent the first transformative open access agreements for ACM.
+
+“This joint agreement shows our universities’ collective power to secure the widest possible readership for our research,” said Keith Webster, Carnegie Mellon’s dean of University Libraries and director of emerging and integrative media initiatives. “By doing so, scholars at Carnegie Mellon University and other institutions can more rapidly advance innovation and discoveries that benefit society. If we want to see real momentum in changing from restrictive, costly publishing models to those that provide open access to our scholarly work, libraries must work together to build the business models of the future.”
+
+Under the new agreements, faculty and students of CMU, UC, MIT and ISU will continue to receive unlimited and unrestricted access to all articles in the ACM Digital Library during the three-year term. Beginning January 1, 2020, articles with corresponding authors from these institutions published during the period of the agreements in ACM journals, conference proceedings and magazines will be made openly available at the time of publication at no cost to the authors. 
+
+Additionally, ACM will make deposits into institutional repositories for all co-authors from these universities. The new agreement also expands the range of rights authors retain when publishing with ACM. 
+
+“This agreement brings to life a bold vision for how society publishers and universities can work together to make full open access a reality,” said Jeff MacKie-Mason, university librarian at UC Berkeley, co-chair of the team overseeing UC’s publisher negotiations and a member of ACM. “We can — and will — work with publishers of all sizes to navigate the transition to open access so that researchers and the public have free and immediate access to the world's knowledge.” 
+
+This new transformative open access publishing model was developed in collaboration with CMU, UC, MIT and ISU. 
+“What began as a conversation at an open access workshop led to many long hours of truly collaborative work and has resulted in a model that we believe has the potential to transform ACM’s publications program,” said Scott Delman, ACM director of publications. “We believe that the new model, which we’re calling ACM OPEN, brings the computing community closer to a sustainable future where all scholarly articles are immediately open at the time of publication.” 
+
+“I appreciate the willingness of ACM and the libraries to collaborate on a creative agreement that moves us toward an open access model for publishing,” said Hilary Seo, Iowa State University interim dean of Library Services. “This is what happens when libraries and publishers deviate from traditional models and build agreements with access, trust and innovation at the core.” 
+
+“This agreement with ACM is a model for new kinds of collaborations between research libraries and scholarly societies,” said Chris Bourg, director of Libraries at MIT. “We are especially pleased that it aligns with the MIT Framework for Publisher Contracts, published in October 2019 and endorsed by over 100 libraries and consortia. When scholarly societies and libraries work together, we can forge sustainable paths to achieving immediate open access to scholarly research.” 
+
+These new agreements express ACM’s commitment to open access publication and its transition to full open access within the next several years. ACM is extending the principles of the new access model to universities throughout the world under the rubric ACM OPEN. 
+FAQ
+
+Who is eligible for the open access publishing option? 
+Beginning January 1, 2020, and running for a three-year term, research articles with a corresponding author from CMU published in all ACM journals, conference proceedings and magazines will be made openly available in perpetuity at the time of publication at no cost to the authors.
+ 
+Will I continue to have access to the ACM articles I read?
+Under the new agreements, CMU faculty and students will continue to receive unlimited and unrestricted access to all articles in the ACM Digital Library during the three-year term as per ACM’s regular terms of use found at ACM Digital Library Terms of Use.
+ 
+Why does CMU encourage its researchers to publish their work open access?
+If you publish your paper Open Access, you retain your rights as an author and your work is immediately accessible to anyone. We encourage authors to choose a Creative Commons license.
+ 
+How will my article be open access?
+Corresponding Authors will have the option to select the rights assignment option of their choice, including the option for all individual co-authors of the published article to retain the copyright to their article, provide ACM with an exclusive license to publish their article, provide ACM with a non-exclusive license to publish their article, and in the case of the authors’ copyright retention, to make their published article shareable via the use of a Creative Commons license, with CC-BY as the default option. 
+ 
+How does this new agreement affect the existing open access funding available through the Libraries' Article Processing Charge (APC) fund?
+If a CMU author is the corresponding author on a research article in the ACM Digital Library, they will have the choice to publish in ACM's peer-reviewed scholarly publications on an open access basis with no fee charged to them while also having the option to retain copyright in their work; therefore, the APC fund is not needed. If you are not a corresponding author of an article in the ACM Digital Library, the Libraries' APC fund may be used to pay some of the open access publishing fees. To see APC eligibility requirements and get more information, visit this site. Note: The Libraries pays the publisher directly upon receipt of an approved application for funding and the publisher’s invoice. We do not reimburse authors or departments for paid invoices.
+ 
+How will this new agreement provide flexibility to accommodate all CMU authors, whether they want to publish open access or not?
+The agreement provides the option for CMU corresponding authors to publish their articles open access. Authors who do not want to publish open access may opt out and publish their articles as subscription-only behind the journal’s paywall, as they have the option to do now. 
+ 
+How does this new agreement affect me serving as a reviewer or editor for ACM journals or conferences?
+Your ability to choose which journals to review and edit will not be affected.
+ 
+Can I continue to publish in the journal or conference of my choice once the new agreement is in effect?
+Your ability to choose where to publish your research will not be affected. Authors may continue to publish in and support any journal of their choice. 

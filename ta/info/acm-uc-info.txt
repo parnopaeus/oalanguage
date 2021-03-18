@@ -1,0 +1,128 @@
+Association for Computing Machinery (ACM) Frequently Asked Questions
+ 
+
+Learn more about UC’s open access agreement with the Association for Computing Machinery (ACM), signed in January 2020, and what it means for UC authors who publish in ACM journals and conference proceedings.
+
+    Agreement Basics
+    Impact for Authors
+
+
+Agreement Basics
+What are the basic terms of the agreement?
+
+The UC’s agreement with ACM is a three-year pilot that covers open access publication in ACM’s journals, proceedings, and magazines for all UC corresponding authors, along with subscription access.  UC is paying ACM a single bulk fee to cover both article publication costs and subscription access. 
+
+This agreement provides: 
+
+    A direct path for UC authors to publish research and review articles open access –at no cost to them– in all of ACM’s journals, proceedings, and magazines. 
+    All UC corresponding authors can choose to retain copyright in their articles regardless of the open access status of the articles.
+    Authors who elect open access may select a Creative Commons license for article sharing and reuse.
+    Any articles published by a UC corresponding author since the beginning of 2019 will be made open retroactively in the ACM Digital Library.
+        As the agreement is implemented, procedures will be put in place to convert these articles to open access.
+    ACM has agreed to automatically deposit a copy of all UC-authored articles, including those for which the UC author is not the corresponding author, into the UC repository eScholarship.
+    UC faculty and students also continue to receive unlimited and unrestricted access to all content (open access and paywalled) in the ACM Digital Library.
+
+The agreement began in January 2020 and runs through December of 2022.
+How does the agreement work?
+
+Through this agreement, no article-level payments are necessary to make articles from UC corresponding authors open access in the ACM Digital Library; instead the UC libraries are paying a single fee to cover both subscription access and open access publication costs for UC authors.
+
+For all UC corresponding authors (see Who is considered a UC corresponding author?), open access is now the default publication option for research and review articles in any ACM journal, conference, or magazine. Authors can opt out of the open access arrangement and publish behind a paywall if they so choose.
+Why did UC enter into this agreement?
+
+This agreement has two goals: (1) to support UC’s mission as a public university and advance the global shift toward sustainable open access publishing by making UC-authored publications open to the world, and (2) to work collaboratively with a key scholarly society and other research institutions to jointly experiment with sustainable business models for open access publishing. UC faculty committees have set the libraries’ course for achieving these goals by urging us to work towards divesting from the subscription system and redirecting funds to invest in open access publication. Guiding faculty statements and messaging include:
+
+    The Academic Senate’s University Committee on Library and Scholarly Communication’s (UCOLASC) Declaration of Rights and Principles to Transform Scholarly Communication
+    UC’s Systemwide Library and Scholarly Information Advisory Committee’s (SLASIAC) Call to Action regarding negotiating journal agreements at UC
+    The choice of all 10 UC campuses to sign the expression of interest for the OA2020 initiative
+    The UC Academic Council’s support for achieving a transformative agreement with publishers like Elsevier, in their Statement on the University’s Negotiations with Elsevier Publishing 
+
+UC recognizes that there are many pathways to open access publishing of research. Through this pilot with ACM, the UC adds another option for our authors who want to make their work freely and openly available, regardless of whether they have funds available to pay the article processing charge normally required to publish open access with ACM.  Participating in this innovative pilot of a model built jointly with ACM, UC, and three other leading universities, forges a path for ACM to migrate their publishing model fully to open access. This is a path ACM has publicly committed to as part of the pilot.
+Why do we think this model will sustainably promote open access?
+
+The transition to an open access publishing world requires investment in and support for multiple strategies. By subsidizing fees for authors who want to publish open access in ACM journals and proceedings, UC is striving to make it easier for UC authors to choose open access publishing of their research.  Such opportunities also exemplify UC’s commitment to establish a broad portfolio of open access agreements with publishers of all types and sizes, and to encourage experimentation with a variety of viable open access publishing business models.  
+
+Collaborating with other universities and scholarly societies to build models that can work broadly, as was the case with this Agreement, also promotes sustainability.  This collaboratively created open access model has already shown its impact, having been quickly adopted by institutions in Europe and the US.
+
+Generally, making open access publishing the default pathway for authors, and experimenting with offering open access at no cost to authors, will enable and encourage more authors — particularly those without grant funding — to publish open access. In addition, because the annual cost is capped, the overall financial risk to UC is limited.
+
+The UC Libraries reviewed a number of funding strategies (set forth in the Pathways to OA toolkit) that could help transition academic journals from closed to open. One such strategy identified would be to enter into a transformative agreement, in which institutions and publishers shift the publishing model “from one based on toll access (subscription) to one in which publishers are remunerated a fair price for their open access publishing services” (ESAC definition). That model is exactly what UC and ACM, with the other collaborating universities, have embarked upon.
+Impact for Authors
+Why should I publish open access?
+
+The mission of the University of California is to “provide long-term benefits to society through transmitting advanced knowledge, discovering new knowledge, and functioning as an active working repository of organized knowledge.” Open access publishing, which makes more of the research generated by UC scholars freely available, fulfills our mission by transmitting knowledge more broadly and facilitating new discoveries that build on our scholars’ work.
+
+As stated in its Open Access Policy, UC’s systemwide faculty Senate recognizes “the benefits that accrue to themselves as individual scholars and to the scholarly enterprise from such wide dissemination, including greater recognition, more thorough review, consideration and critique, and a general increase in scientific, scholarly and critical knowledge.”
+
+You can read more about the value of open access and UC’s efforts to support it on our companion page, Moving Towards Open Access.
+Am I affected by this agreement?
+
+As a UC affiliated author of an ACM research, review, or conference article you are affected in one of two possible ways:
+
+UC corresponding author: If you are (1) a UC affiliate (faculty, lecturer, staff, graduate student), and (2) you are the article’s corresponding author, and (3) you choose to publish your article open access in ACM’s journals or proceedings, you will have the ability to publish your article open access at no cost to you.  Additionally, ACM has agreed to automatically deposit the article in the UC repository eScholarship.  The process for this is still being worked out as of this writing (May 2020).  
+
+If you want to publish in an ACM journal or proceedings, but do not want to publish open access, you may opt out of this agreement and publish your article as paywalled content in the ACM Digital Library. 
+
+UC co-author: If you are (1) a UC affiliate (faculty, lecturer, staff, graduate student), and (2) you are one of the article’s coauthors, but not the corresponding author, ACM has agreed to automatically deposit the final accepted manuscript of your article (including peer review changes) in the UC repository eScholarship.  The process for this is still being worked out as of this writing (May 2020).
+
+All UC faculty, lecturers, staff, and students will continue to have reading access to the full ACM Digital Library.
+Who is considered a corresponding author?
+
+Corresponding authors are either sole authors or co-authors of articles accepted by ACM for publication, who are designated by their co-authors to serve in the role of corresponding author for the article.  A corresponding author has the authority to represent their co-authors in all publication-related matters with ACM, and is responsible for the completion of the ACM author publication agreement process, including assigning rights to ACM to enable publication.
+Why is this different from other agreements, where I am asked to use grant money?
+
+The UC libraries have collaborated with three other major universities and ACM to develop a model for open access publishing that shifts library payments from subscription/paywalled access to open access publishing.  While there is concern that the libraries’ budget alone cannot cover the full cost of all open access publications while continuing to pay for subscription access where needed, the libraries also acknowledge the need to explore multiple paths to viable open access business models, especially those that can be established collaboratively, thus supporting a faster path to a full open access transition. 
+
+Following the 3-year pilot, the libraries will assess and evaluate this new and innovative open access business model.
+Why should I be concerned with publishing open access when I can already publish open access for free under UC’s open access policies?
+
+While it is true that under UC’s open access policies you can deposit your last author’s copy (sometimes called a “postprint”) into eScholarship and any other open access repository of your choice, participating in open access publication through ACM offers specific advantages:
+
+    The final published version (the version of record) of the article is accessible and open upon publication within the ACM Digital Library itself; because this is the version that is most often cited or referred to, this will allow more potential readers to access your research.
+    Participating in the open access model developed in collaboration with ACM and three other universities allows your published research to be freely accessible under terms that have the potential to sustainably shift an entire society’s research from closed access to open to the world.
+
+What types of publications are covered by this agreement?
+
+All research articles and review articles published in ACM journals, conference proceedings, and magazines, are covered by this agreement. Other article types (e.g., editorial material, book reviews) are not currently covered by the agreement.
+Which ACM journals and conferences are included in this agreement?
+
+Research and review articles in ACM journals (including journals that are entirely open access) and conference proceedings are included, as well as research articles that appear in magazines.  
+How will the ACM journal or conference notify me of what I’m supposed to do, and what steps do I need to take?
+
+In the process of being informed of the acceptance of your manuscript, you will be provided the option to participate in the “Institutionally Paid Open Access Program” as a result of your UC affiliation: 
+
+    Make a choice regarding the prepaid Open Access Program:  
+
+    To select the prepaid Open Access Program for UC authors, simply retain the default selection, which will be labeled: Institutionally paid Open Access with Author Retaining Copyright and all rights to their work. 
+    To select closed-access publication, select one of the other two options.  You will be provided with one of ACM’s two traditional publication agreements and will follow a standard ACM workflow process to complete one of those agreements.  With this option, your article will be available only for subscribers to the ACM Digital Library.
+
+    Make a choice regarding licensing (see more below)
+
+Which license should I choose under this Program?
+
+If you selected the Open Access Program, you will be presented with ACM’s Permission form for Prepaid Institutional Open Access Program.  As part of the process, you will be asked whether you wish to apply a Creative Commons (CC) license to your article, which is suggested by UC in order to fully enable access, discoverability, computational uses, and other productive reuses of your work.  
+
+If you select to apply a CC license (by choosing “CC license”), you will be given the choice of several CC licenses, and a link to information about each one.  With any of the CC license options, your article will not only be available open access for readers worldwide, it will also be more discoverable and available for the range of productive reuses you select.  The default selection of CC BY opens your article up to the widest range of potential reuses.
+
+If you decide not to apply a CC license (by choosing “No CC license”), your article will be freely readable through the ACM Digital Library, and will appear with the same notice about permitted uses that ACM applies to all articles published under the subscription model.  However, without the machine-readable CC license specifying how the article can be shared, it will not be as discoverable or as accessible for certain types of reuse. 
+
+After you make a choice about the CC license, your article publication process will continue through the standard ACM workflow. 
+What if I don't want to publish open access? Can I still publish with ACM?
+
+Yes. Where and how you publish is your decision. The agreement with ACM does not mandate open access publishing, nor does it dictate your journal or conference selection. Rather, it makes open access publishing with ACM available at no cost to you, and leaves you the choice to opt out. 
+What if I have questions or need help?
+
+Contact your campus library:
+
+    UC Berkeley 
+    UC Davis
+    UC Irvine 
+    UCLA 
+    UC Merced 
+    UC Riverside 
+    UC San Diego 
+    UC San Francisco 
+    UC Santa Barbara 
+    UC Santa Cruz 
+
+Last updated June 25, 2020.
