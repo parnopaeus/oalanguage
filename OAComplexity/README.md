@@ -63,16 +63,16 @@ The information in this spreadsheet contains two tabs:
 *  Definitions - this tab includes the qualitative analysis of definitions completed by Lauren Collister and Melissa Cantrell. The information in this tab contains 32 columns:
 	*  Group - lists source groups
 	*  Definition - text of definition copied from link in Data Sources tab.
-	*  Free Access (Columns C-E) - Column C indicates whether definition includes concept of "Free Access"ù (Yes, No, or Maybe). If Yes, indicative text is listed in Column D. If Maybe, indicative text is listed in Column E.
-	*  Read (Columns F-H) - Column F indicates whether definition includes concept of "Read"ù (Yes, No, or Maybe). If Yes, indicative text is listed in Column G. If Maybe, indicative text is listed in Column H.
-	*  Re-Use (Columns I-K) - Column I indicates whether definition includes concept of "Re-Use"ù (Yes, No, or Maybe). If Yes, indicative text is listed in Column J. If Maybe, indicative text is listed in Column K.
-	*  Redistribute (Columns L-N) - Column L indicates whether definition includes concept of "Redistribute"ù (Yes, No, or Maybe). If Yes, indicative text is listed in Column M. If Maybe, indicative text is listed in Column N.
-	*  Remix (Columns O-Q) - Column O indicates whether definition includes concept of "Remix"ù (Yes, No, or Maybe). If Yes, indicative text is listed in Column P. If Maybe, indicative text is listed in Column Q.
-	*  Immediate (Columns R-T) - Column R indicates whether definition includes concept of "Immediate"ù (Yes, No, or Maybe). If Yes, indicative text is listed in Column S. If Maybe, indicative text is listed in Column T.
-	*  Permanent (Columns U-W) - Column U indicates whether definition includes concept of "Permanent"ù (Yes, No, or Maybe). If Yes, indicative text is listed in Column V. If Maybe, indicative text is listed in Column W.
-	*  Online (Columns X-Z) - Column X indicates whether definition includes concept of "Online"ù (Yes, No, or Maybe). If Yes, indicative text is listed in Column Y. If Maybe, indicative text is listed in Column Z.
-	*  Unrestricted (Columns AA-AC) - Column AA indicates whether definition includes concept of "Unrestricted"ù (Yes, No, or Maybe). If Yes, indicative text is listed in Column AB. If Maybe, indicative text is listed in Column AC.
-	*  Scholarly Literature (Columns AD-AF) - Column AD indicates whether definition includes concept of "Scholarly Literature"ù (Yes, No, or Maybe). If Yes, indicative text is listed in Column AE. If Maybe, indicative text is listed in Column AF.
+	*  Free Access (Columns C-E) - Column C indicates whether definition includes concept of "Free Access" (Yes, No, or Maybe). If Yes, indicative text is listed in Column D. If Maybe, indicative text is listed in Column E.
+	*  Read (Columns F-H) - Column F indicates whether definition includes concept of "Read" (Yes, No, or Maybe). If Yes, indicative text is listed in Column G. If Maybe, indicative text is listed in Column H.
+	*  Re-Use (Columns I-K) - Column I indicates whether definition includes concept of "Re-Use" (Yes, No, or Maybe). If Yes, indicative text is listed in Column J. If Maybe, indicative text is listed in Column K.
+	*  Redistribute (Columns L-N) - Column L indicates whether definition includes concept of "Redistribute" (Yes, No, or Maybe). If Yes, indicative text is listed in Column M. If Maybe, indicative text is listed in Column N.
+	*  Remix (Columns O-Q) - Column O indicates whether definition includes concept of "Remix" (Yes, No, or Maybe). If Yes, indicative text is listed in Column P. If Maybe, indicative text is listed in Column Q.
+	*  Immediate (Columns R-T) - Column R indicates whether definition includes concept of "Immediate" (Yes, No, or Maybe). If Yes, indicative text is listed in Column S. If Maybe, indicative text is listed in Column T.
+	*  Permanent (Columns U-W) - Column U indicates whether definition includes concept of "Permanent" (Yes, No, or Maybe). If Yes, indicative text is listed in Column V. If Maybe, indicative text is listed in Column W.
+	*  Online (Columns X-Z) - Column X indicates whether definition includes concept of "Online" (Yes, No, or Maybe). If Yes, indicative text is listed in Column Y. If Maybe, indicative text is listed in Column Z.
+	*  Unrestricted (Columns AA-AC) - Column AA indicates whether definition includes concept of "Unrestricted" (Yes, No, or Maybe). If Yes, indicative text is listed in Column AB. If Maybe, indicative text is listed in Column AC.
+	*  Scholarly Literature (Columns AD-AF) - Column AD indicates whether definition includes concept of "Scholarly Literature" (Yes, No, or Maybe). If Yes, indicative text is listed in Column AE. If Maybe, indicative text is listed in Column AF.
 
 
 ##  OA Choice Spreadsheet
@@ -85,19 +85,19 @@ The information in the spreadsheet contains five tabs. The first tab contains da
 	*  Group - lists source groups
 	*  Definition - link to web page on which definition used for analysis was found.
 	*  Secondary Page - link to second of three pages used in data sample.
-	*  Tertiary Page - link to third of three pages used in data sample. Tertiary page is only used in data sample if a "Dedicated Page"ù is not present (indicated by Columns E or F) and serves as the default third page.
-	*  Choice OA - Dedicated Page - link to a web page dedicated to topic of Choice (typically related to hybrid Open Access). The Dedicated Page, if present, is used as the third of three web pages in the data sample. "Use Default"ù listed in this column indicates that no Dedicated Page was found, and the Tertiary Page is used instead.
-	*  Cost of OA - Dedicated Page - link to a web page dedicated to topic of Cost. The Dedicated Page, if present, is used as the third of three web pages in the data sample. "Use Default"ù listed in this column indicates that no Dedicated Page was found, and the Tertiary Page is used instead.
+	*  Tertiary Page - link to third of three pages used in data sample. Tertiary page is only used in data sample if a "Dedicated Page" is not present (indicated by Columns E or F) and serves as the default third page.
+	*  Choice OA - Dedicated Page - link to a web page dedicated to topic of Choice (typically related to hybrid Open Access). The Dedicated Page, if present, is used as the third of three web pages in the data sample. "Use Default" listed in this column indicates that no Dedicated Page was found, and the Tertiary Page is used instead.
+	*  Cost of OA - Dedicated Page - link to a web page dedicated to topic of Cost. The Dedicated Page, if present, is used as the third of three web pages in the data sample. "Use Default" listed in this column indicates that no Dedicated Page was found, and the Tertiary Page is used instead.
 *  Choice Language - this tab includes the qualitative analysis of Choice language completed by Lauren Collister and Melissa Cantrell. The information in this tab contains the following columns:
 	*  Group - lists source groups
-	*  Choice Language - language that contains the words "choice,"ù "option,"ù or derivative words is copied from the three source web pages.
-	*  Choice/Option - this column indicated whether or not choice language was found to be present in the source web page sample. "Non-relevant"ù indicates that the words "choice"ù or "option"ù were present in the sample but were not found to be relevant to the analysis.
+	*  Choice Language - language that contains the words "choice," "option," or derivative words is copied from the three source web pages.
+	*  Choice/Option - this column indicated whether or not choice language was found to be present in the source web page sample. "Non-relevant" indicates that the words "choice" or "option"ù were present in the sample but were not found to be relevant to the analysis.
 *  Cost Coding -  this tab includes the qualitative analysis of language about the costs of Open Access completed by Lauren Collister and Melissa Cantrell. The information in this tab contains the following columns:
 	*  Group - lists source groups; each source group is listed four times, divided by page type - Primary, Secondary, Dedicated, and Tertiary.
 	*  Cost of OA - text from each page related to costs of Open Access is copied and listed in this column.
 		*  NoData1 = Page does not exist; i.e. when NoData1 is listed for the Dedicated page, the Tertiary Page is used instead.
 		*  NoData2 = Page exists but has no language relevant to the analysis.
-	*  OA=Pay (Always, Usually, Sometimes, Never) - Analysis of whether text from "Cost of OA"ù column indicates that there are payments associated with Open Access publishing.
+	*  OA=Pay (Always, Usually, Sometimes, Never) - Analysis of whether text from "Cost of OA" column indicates that there are payments associated with Open Access publishing.
 	*  Alternative Pay Models - Text that indicates methods of payment for fees associated with Open Access publishing is copied and listed here.
-*  Alt. Cost Recovery Matrix - Using text from "Alternative Pay Models"ù Column in the "Cost Coding"ù tab, this tab indicates which cost recovery models for payments are indicated by each source group. If a cost recovery model is mentioned, the matrix is marked with an "X"ù in the relevant field. A grey row indicates that no cost recovery model was mentioned by that source group.
+*  Alt. Cost Recovery Matrix - Using text from "Alternative Pay Models" Column in the "Cost Coding" tab, this tab indicates which cost recovery models for payments are indicated by each source group. If a cost recovery model is mentioned, the matrix is marked with an "X" in the relevant field. A grey row indicates that no cost recovery model was mentioned by that source group.
 *  Cost Recovery Chart - Results from the Alt. Cost Recovery Matrix tab are summarized and displayed in chart form in this tab.
