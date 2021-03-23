@@ -2,7 +2,11 @@
 
 ## About the Spreadsheets
 
-The Patchy Endorsements spreadsheet contains data for a forthcoming article by Lauren B. Collister and Melissa Cantrell on the use of language in Open Access websites. The source texts are websites, LibGuides, and interview transcripts hosted on the authors' library websites.
+The Patchy Endorsements spreadsheet contains data for this article:
+
+Collister, Lauren B. and Cantrell, Melissa H. 2021. From “Patchy Endorsements” to Intentional Advocacy: Deconstructing Bias in the Language of Open Access. Journal of Librarianship and Scholarly Communication, 9(1), p.eP2395. DOI:  http://doi.org/10.7710/2162-3309.2395
+
+The source texts are websites, LibGuides, and interview transcripts hosted on the authors' library websites.
 
 - Column 1: Wayback Machine URL - in the event that the websites change
 - Column 2: Original URL
