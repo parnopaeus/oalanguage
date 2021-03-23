@@ -91,7 +91,7 @@ The information in the spreadsheet contains five tabs. The first tab contains da
 *  Choice Language - this tab includes the qualitative analysis of Choice language completed by Lauren Collister and Melissa Cantrell. The information in this tab contains the following columns:
 	*  Group - lists source groups
 	*  Choice Language - language that contains the words "choice," "option," or derivative words is copied from the three source web pages.
-	*  Choice/Option - this column indicated whether or not choice language was found to be present in the source web page sample. "Non-relevant" indicates that the words "choice" or "option"ù were present in the sample but were not found to be relevant to the analysis.
+	*  Choice/Option - this column indicated whether or not choice language was found to be present in the source web page sample. "Non-relevant" indicates that the words "choice" or "option" were present in the sample but were not found to be relevant to the analysis.
 *  Cost Coding -  this tab includes the qualitative analysis of language about the costs of Open Access completed by Lauren Collister and Melissa Cantrell. The information in this tab contains the following columns:
 	*  Group - lists source groups; each source group is listed four times, divided by page type - Primary, Secondary, Dedicated, and Tertiary.
 	*  Cost of OA - text from each page related to costs of Open Access is copied and listed in this column.
