@@ -1,0 +1,119 @@
+﻿ <div class="pane-content">
+    <h1>Copyright, open access, and permission to reuse</h1>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-body" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><a name="top"></a></p>
+<style>
+<!-- TABLE FORMATTING -->
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 10px;
+}
+
+th, td {
+    font-size: 80%;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+}
+
+table td { 
+  display: table-cell;
+  vertical-align: top; 
+}
+</style><h2>Copyright for authors</h2>
+<p>Since January 2000, <em>The BMJ</em> has not asked authors of journal articles to assign us their copyright. Authors (or their employers) retain their copyright in the article. All we require from authors is an exclusive licence (or, from government employees who cannot grant this, a non-exclusive licence) that allows us to publish the article in <em>The BMJ</em> (including any derivative products) and any other BMJ products (such as the <em>Student BMJ</em> or overseas editions), and allows us to sublicence such rights and exploit all subsidiary rights.</p>
+<div class="accordion-group">
+<h2 class="pane-title"><span style="color:#000000;"><strong>Exclusive licences</strong></span></h2>
+<div class="pane-content">
+<p>We ask the corresponding author to grant this exclusive licence (or non-exclusive for government employees) on behalf of all authors by reading <a href="http://www.bmj.com/sites/default/files/BMJ%20Author%20Licence%20March%202013.doc" title="">our licence</a> and inserting in the manuscript on submission the following statement:</p>
+<p><em>“The Corresponding Author has the right to grant on behalf of all authors and does grant on behalf of all authors, <a href="http://www.bmj.com/sites/default/files/BMJ%20Author%20Licence%20March%202013.doc" title="">a worldwide licence</a> to the Publishers and its licensees in perpetuity, in all forms, formats and media (whether known now or created in the future), to i) publish, reproduce, distribute, display and store the Contribution, ii) translate the Contribution into other languages, create adaptations, reprints, include within collections and create summaries, extracts and/or, abstracts of the Contribution, iii) create any other derivative work(s) based on the Contribution, iv) to exploit all subsidiary rights in the Contribution, v) the inclusion of electronic links from the Contribution to third party material where-ever it may be located; and, vi) licence any third party to do any or all of the above.”</em></p>
+<p>This licence allows authors to use their own articles for their own non-commercial purposes without seeking permission from us. Only if the use is commercial do we need to know about it. In addition, we will pay authors a royalty on certain commercial uses that we negotiate.</p>
+</div>
+</div>
+<div class="accordion-group">
+<h2 class="pane-title"><span style="color:#000000;"><strong>NIH Employees</strong></span></h2>
+<div class="pane-content">
+Manuscripts authored or co-authored by one or more NIH employees must be submitted with a <a href="https://oir.nih.gov/sites/default/files/uploads/sourcebook/documents/submitting_publications/pub_form-coversheet-peer_reviewed.pdf">completed and signed NIH Publishing Agreement and Manuscript Cover Sheet</a> according to <a href="http://publicaccess.nih.gov/nih_employee_procedures.htm"> NIH’s Employee Procedures</a>.
+</div>
+</div>
+<h2>Permissions and reuse</h2>
+<div class="accordion-group">
+<h2 class="pane-title"><span style="color:#000000;"><strong>For authors</strong></span></h2>
+<div class="pane-content">
+<p>Authors may use their own articles for the following non-commercial purposes without asking our permission (and subject only to acknowledging first publication in <em>The BMJ</em> and giving a full reference or web link, as appropriate). For more information please see our group <a href="https://www.bmj.com/company/products-services/rights-and-licensing/author-self-archiving-and-permissions/">self-archiving policy</a>. </p>
+<p>• Posting the accepted version of their manuscript on their personal website or institutional repository.<br />
+• Making a reasonable number of copies for personal or non commercial professional use. This includes the contributor’s own teaching purposes.<br />
+• Republishing part or all of the article in a book or other publication edited by the author (except for multiple contributions in the same book or publication, for which <a href="http://www.bmj.com/company/products-services/rights-and-licensing/"> permission needs to be sought</a>.<br />
+• Using individual figures or tables or extracts of text (up to 250 words) in other publications published by a third party.<br />
+• Using the article in a course pack or compilation (whether paper or electronic) in the authors’ institution. This does not apply if a commercial charge is made for the compilation or training programme.</p>
+</div>
+</div>
+<div class="accordion-group">
+<h2 class="pane-title"><span style="color:#000000;"><strong>For third parties</strong></span></h2>
+<div class="pane-content">
+<p>Anyone else (other than the author of a particular paper) who wants to reproduce an article from <em>The BMJ</em> needs to ask our permission. We are usually happy to give permission, though in many cases we will charge a fee.</p>
+<p>Permission should be sought by following the <a href="http://www.bmj.com/company/products-services/rights-and-licensing/">Request permissions</a> link that appears in the right hand panel on every article, or under its entry in a table of contents. This will take you to the Rightslink electronic request system.</p>
+<p>Details about reprints can be obtained <a href="http://www.bmj.com/about-bmj/contact-us/rights-and-reprints-contacts"> here</a>.</p>
+</div>
+</div>
+<h2>Open access</h2>
+<p>All Research articles published by <em>The BMJ</em> are published by default as open access (irrespective of who funded the research). Any other article based on work funded by a funding organisation that requires open access publication—that is, requires its grant recipients to deposit publications arising out of the funded work to be deposited in PubMed Central open access repository - can also be published as such. Authors of non-research articles that require open access are encouraged to contact us at <a href="mailto:papersadmin@bmj.com">papersadmin@bmj.com</a></p>
+<div class="accordion-group">
+<h2 class="pane-title"><span style="color:#000000;"><strong>Open Access licences at The BMJ</strong></span></h2>
+<div class="pane-content">
+<p><strong><a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a></strong></p>
+<p>By default, we publish our Open Access articles under a Creative Commons Attribution Non Commercial (CC BY-NC 4.0). CC BY-NC articles allow the author, and any non-commercial bodies, to reuse the material in any way they choose, without acquiring permission from BMJ. Any reuse must give attribution to the author, usually by including a reference. Commercial users will require permission from BMJ for any reuse.&nbsp;</p>
+<p>CC BY-NC articles can be identified by the following statement that appears at the end of the article:<br />
+<em>“This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: <a href="http://creativecommons.org/licenses/by-nc/4.0">http://creativecommons.org/licenses/by-nc/4.0</a>.”</em></p>
+<p><strong><a href="https://creativecommons.org/licenses/by/4.0/">CC BY</a></strong></p>
+<p>Articles funded by certain organisations (currently RCUK and the Wellcome Trust) that <a href="http://authors.bmj.com/open-access/compliance-with-funders/">mandate publication</a> with a Creative Commons Attribution (CC BY 4.0) licence are published with this licence. CC BY 4.0 permits reuse for commercial purposes subject to the article being fully attributed</p>
+<p>CC BY articles can be identified by the following statement that appears at the end of the article:<br />
+<em>“This is an open access article distributed in accordance with the terms of the Creative Commons Attribution (CC BY 4.0) license, which permits others to distribute, remix, adapt and build upon this work, for commercial use, provided the original work is properly cited. See: <a href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</a>.”</em></p>
+<p><strong>PMC Depositing and Author Archiving</strong></p>
+<p><em>The BMJ</em> also sends these articles, without further intervention from the author, to PubMed Central, the National Library of Medicine’s full text article archive, where they are made fully available in PubMed’s open access subset.<br />
+The PubMed Central open access subset is a subset of the total collection of articles in PubMed Central. These articles “are still protected by copyright, but are made available under a Creative Commons or similar license that generally allows more liberal redistribution and reuse than a traditional copyrighted work.” For all research articles except those funded by an organisation that mandates CC-BY, the BMJ licence allows reuse with attribution of the origin of the article (a full citation) for non-commercial use only. For commercial use our normal permissions policy applies.</p>
+</div>
+</div>
+<div class="accordion-group">
+<h2 class="pane-title"><span style="color:#000000;"><strong>Author charges for research: open access</strong></span></h2>
+<div class="pane-content">
+<p>The full text of every research article published in <em>The BMJ</em> is immediately accessible on thebmj.com through open access, for everyone. <em>The BMJ</em> is committed to keeping research articles open access, with Creative Commons licences, and to depositing the full text content in PubMedCentral as well as full open access on thebmj.com. To support this we now ask all authors to pay an open access fee of £3000 / $4800 on acceptance of their paper. </p>
+<p>We do appreciate that some authors do not have access to funding to cover publication costs, and actively encourage part payment where only limited funds are available. We consider waivers to authors in exceptional circumstances by direct request only, and recommend that all authors discuss open access payment options with their institutions and funders in advance of submission. Discounts and waiver decisions take into consideration any external funding for the research for any contributing authors, and whether authors can contribute from their personal accounts.</p>
+<p>Consideration of research articles is not related to ability to pay the fee, and we ask authors not to discuss with editors any issues concerning payment at any stage of the peer review process. Any communications related to fees are handled by administrative staff not involved in decisions about the publication of manuscripts. </p>
+</div>
+</div>
+<div class="accordion-group">
+<h2 class="pane-title"><span style="color:#000000;"><strong>Open Access Institutional Programme</strong></span></h2>
+<div class="pane-content">
+<p>A number of institutions have joined BMJ’s Open Access Programme, which can either cover the whole cost of Open Access publishing for authors at participating institutions, or can allow authors to receive a discount off the Article Publishing Charge (APC). If you would like to learn more about the programme, please visit our <a href="http://authors.bmj.com/open-access/institutional-programme"> Information for Institutions page</a>.</p>
+<p>If you are a researcher at the following participating institutions, your APC may be reduced or fully covered through the programme. Please contact your librarian to obtain further information on how to receive a discount or publish free of charge.</p>
+</div>
+</div>
+<div class="accordion-group">
+<h2 class="pane-title"><span style="color:#000000;"><strong>Refund policy</strong></span></h2>
+<div class="pane-content">
+<p>We do not offer refunds for Open Access once articles have been published. For further information, contact <a href="mailto: openaccess.bmj@bmj.com">openaccess.bmj@bmj.com</a>.</p>
+<p>For non-research articles published with open access we will ask authors to pay the open access fee, as above. </p>
+</div>
+</div>
+</div></div></div>  </div>

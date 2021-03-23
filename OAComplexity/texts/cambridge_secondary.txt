@@ -1,0 +1,64 @@
+﻿<div class="cms-area-container"><div class="cms-area" id="intro"><div class="cms-block" id="5877603d4b90384814ce5bf8" data-block-key="aop-block-html"><p><strong>1. What is Open Access?</strong>
+</p>
+<p>Open Access is a publication model whereby a manuscript is made freely available in some format, in some cases with liberal permission for reuse and redistribution. There is a common distinction between two models of Open Access: Green and Gold. Green Open Access enables the accepted manuscript to be made freely available via an online repository period following an embargo period (also referred to as self-archiving). Gold Open Access enables the version of record to be made freely available on publication with additional usage rights. All journal articles are published under a Green Open Access model by default, whilst the choice of Gold Open Access is made available to authors upon acceptance, usually in return for the payment of an Article Processing Charge (APC).
+</p>
+<p><strong>2. How do I make my article Open Access?</strong>
+</p>
+<p>Upon acceptance of your article for publication in the journal you will receive an email in which you will be provided with the option to proceed under the default Green Open Access publishing model or to publish your article under the Gold Open Access model, which will require payment of the APC.
+</p>
+<p><strong>3. Can I convert articles that I have already published in the journal under the subscription model to Open Access?</strong>
+</p>
+<p>Yes, this option is available to you. If you would like to make articles that you have already published in the journal Open Access then please contact the Editorial office.
+</p>
+<p><strong>4. Are Open Access articles treated differently from those submitted under the subscription model during the submission process?</strong>
+</p>
+<p>No. All manuscripts will be peer reviewed and processed to the same high standard. Only after acceptance will you be given the option to express your wish to publish Open Access. Publishing your manuscript under Open Access terms will not affect the outcome of the peer review process.
+</p>
+<p><strong>5. How will readers know that articles are available via Open Access?</strong>
+</p>
+<p>Each Open Access article is clearly labelled with an Open Access symbol in the online table of contents for each issue of the journal. On the journal website readers can also navigate to a list of Open Access articles.
+</p>
+<p><strong>6. If I publish under Green Open Access what is the embargo period?</strong>
+</p>
+<p>The embargo period for all CUP STM journals is 6 months. This is the period from the publication of an article until the accepted manuscript may be made available through a public repository. There is no embargo period for HSS STM journals. For further information please see our <a href="https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals">Green open access policy for journals.</a>
+</p>
+<p><strong>7. In which kind of repository am I permitted to deposit my work and which version of the manuscript should I deposit?</strong>
+</p>
+<p>You can find full details of the Press’s Green Open Access policy for journals on our <a href="https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals">Open Access policy pages</a>.
+</p>
+<p><strong>8. What is the Article Processing Charge (APC)?</strong>
+</p>
+<p>The APC is the fee that an author needs to pay in order for their article to be published under the <a href="http://core-cms.prod.aop.cambridge.org/core/services/open-access-policies/open-access-journals/gold-open-access-journals" target="_blank">gold open access model</a> in the journal. This fee covers costs such as copyediting, typesetting and online hosting. <a href="https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2/Cambridge_Journals_APC_price_list.3.5.2.xls" target="_blank">Download our full list of APC charges</a>.</p>
+<p><strong>9. How do I pay the APC?</strong>
+</p>
+<p>Once you have indicated that you would like your article to be published under the gold Open Access model you will be contacted by CCC-RightsLink who are acting on our behalf to collect the APC. Please follow their instructions in order to avoid any delay in the publication of your article.
+</p>
+<p><strong>11. If I pay the APC when will my article become freely available?</strong>
+</p>
+<p>The version of record (the final PDF version of the manuscript) will become freely available as soon as it is published online.
+</p><p><strong>12. Can my APC be refunded?<br></strong></p><p>We do refund APCs if we have not met our promises to you. See our <a href="https://www.cambridge.org/core/services/open-access-policies/open-access-journals/gold-open-access-journals">APC refund policy</a> for more information about this and how to request a refund.
+</p><p><strong>13. If I pay the APC which version of my article will be made freely available?</strong>
+</p>
+<p>The version of record will become freely available.
+</p>
+<p><strong>14. Under which licence will my article be published?</strong>
+</p>
+<p>Cambridge University Press offers the CC Attribution ('CC-BY') licence as the default licence for your Open Access article. However there are options to publish your work under the Attribution – Non-Commercial – Share Alike ('CC-BY-NC-SA) or Attribution – Non-commercial – No derivatives ('CC-BY-NC-ND') licences. Please indicate which licence you would prefer on the Cambridge Open Access form.
+</p>
+<p><strong>15. What does the CC-BY licence allow?</strong>
+</p>
+<p>This licence allows others to share and adapt the original work. The work may be copied, redistributed and built upon for any purpose, including for commercial use. The copyright is retained by the publisher and those wishing to copy, distribute and build upon the original work must give appropriate credit to the original work, provide a link to the license and indicate if changes were made.
+</p>
+<p><strong>16. What is the Cambridge Open Access form and where can I find it?</strong>
+</p>
+<p>This is the form that you must complete should you wish to publish your article under the Gold Open Access model. It can be found attached to the transfer of copyright form which authors will be directed to in their acceptance email. The transfer of copyright form can also be downloaded from the journal website.
+</p>
+<p><strong>17. I have another question regarding Open Access. Who should I ask?</strong></p>
+<p>You can find more general information regarding Open Access on our <a href="https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals">Open Access policies pages</a>, or you can email <a href="mailto:openaccess@cambridge.org">openaccess@cambridge.org</a>.
+</p></div></div></div>
+</div>
+</div>
+<hr />
+</div>
+</div>
+</div>

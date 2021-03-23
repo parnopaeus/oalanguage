@@ -1,0 +1,749 @@
+<div id="s-lg-guide-header-info">
+
+<h1 id="s-lg-guide-name">Open Access Publishing : Where to publish</h1>
+
+<div id="s-lg-guide-desc-container">
+
+<span id="s-lg-guide-description">This guide provides guidance in open access scholarly publishing for researchers in all disciplines.</span>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- END: Guide Info Header -->
+
+<div id="s-lg-tabs-container" class="container s-lib-side-borders pad-top-med">
+
+<div id="s-lg-guide-tabs" class="tabs" role="navigation" aria-label="Guide Page Menu">
+
+<ul class="nav nav-tabs split-button-nav" role="menu">
+
+
+
+<li role="menuitem" >
+
+<a
+
+title=""
+
+class=""
+
+href="//guides.library.cornell.edu/openaccess/home" 
+
+aria-label="Navigate to the page: What is Open Access?"
+
+>
+
+<span>What is Open Access?</span>
+
+
+
+</a>
+
+</li>
+
+<li role="menuitem" class="active">
+
+<a
+
+title=""
+
+class="active"
+
+href="//guides.library.cornell.edu/openaccess/publish" 
+
+aria-label="Navigate to the page: Where to publish"
+
+>
+
+<span>Where to publish</span>
+
+
+
+</a>
+
+</li>
+
+<li role="menuitem" >
+
+<a
+
+title=""
+
+class=""
+
+href="//guides.library.cornell.edu/openaccess/vetting-journals" 
+
+aria-label="Navigate to the page: Vetting OA journals"
+
+>
+
+<span>Vetting OA journals</span>
+
+
+
+</a>
+
+</li>
+
+<li role="menuitem" >
+
+<a
+
+title=""
+
+class=""
+
+href="//guides.library.cornell.edu/openaccess/policies" 
+
+aria-label="Navigate to the page: Policies &amp; perspectives"
+
+>
+
+<span>Policies & perspectives</span>
+
+
+
+</a>
+
+</li>
+
+<li role="menuitem" >
+
+<a
+
+title=""
+
+class=""
+
+href="http://guides.library.cornell.edu/authorrights" 
+
+aria-label="Navigate to the page: Author Rights Resources"
+
+>
+
+<span>Author Rights Resources</span>
+
+
+
+</a>
+
+</li>
+
+<li role="menuitem" >
+
+<a
+
+title=""
+
+class=""
+
+href="//guides.library.cornell.edu/openaccess/help" 
+
+aria-label="Navigate to the page: How the library can help"
+
+>
+
+<span>How the library can help</span>
+
+
+
+</a>
+
+</li> </ul>
+
+</div>
+
+</div>
+
+<div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
+
+<!-- BEGIN: Guide Content -->
+
+<div id="s-lg-guide-main" class="container s-lib-main s-lib-side-borders">
+
+
+
+<div class="row s-lg-row">
+
+<div id="s-lg-col-126" class="col-md-12">
+
+<div class="s-lg-col-boxes">
+
+</div>
+
+</div>
+
+
+
+</div>
+
+<div class="row s-lg-row">
+
+<div id="s-lg-col-1" class="col-md-12">
+
+<div class="s-lg-col-boxes">
+
+<div id="s-lg-box-wrapper-712036" class="s-lg-box-wrapper-712036">
+
+<div id="s-lg-box-629547-container" class="s-lib-box-container">
+
+<div id="s-lg-box-629547" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">Open Access Journals
+
+</h2>
+
+<div id="s-lg-box-collapse-629547" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1170127" class=" clearfix">
+
+<p><img height="318" src="http://lgimages.s3.amazonaws.com/data/imagemanager/66248/oa_word_cloud.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="508" />There are many discipline-specific as well as multi-disciplinary open access journals.&nbsp;Choose journals for publication carefully; see <a href="http://guides.library.cornell.edu/aecontent.php?pid=472614&amp;sid=3900597" target="_self">&quot;Vetting OA Journals&quot;</a> in this guide for more information, or contact your <a href="http://www.library.cornell.edu/services/askalib.html" target="_blank">Cornell librarian</a> for help.</p>
+
+</div><div class="">
+
+<ul id="s-lg-link-list-1290586" class="s-lg-link-list s-lg-link-list-2"><li class="">
+
+
+
+<div id="s-lg-content-1196874" class=""><span><a href="https://www.doaj.org/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196874'});">Directory of Open Access Journals (DOAJ)</a> 
+
+</span><div id="s-lg-link-desc-1196874" class="s-lg-link-desc">This is a searchable directory of open access journals across all disciplines.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196879" class=""><span><a href="http://www.plos.org/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196879'});">Public Library of Science (PLoS)</a> 
+
+</span><div id="s-lg-link-desc-1196879" class="s-lg-link-desc">PLoS publishes several well-established open access, peer-reviewed journals covering an array of disciplines in the sciences including PLOS Biology, PLOS One, and PLOS Pathogens.</div>
+
+</div></li>
+
+
+
+</ul>
+
+</div><div class="">
+
+<ul id="s-lg-link-list-1290600" class="s-lg-link-list s-lg-link-list-10"><li class="">
+
+
+
+<div id="s-lg-content-1199486" class=""><a href="http://resolver.library.cornell.edu/misc/4162265" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '1199486'});">BioMed Central</a> <div id="s-lg-database-desc-1199486" class="s-lg-database-desc">BioMed Central Ltd., an independent publisher in London, England, provides free access to biomedical research publications. These publications include biology and medicine journal articles, current reports, and meeting abstracts. BioMed Central offers information about current controlled trials, as well as topics in modern biology.</div>
+
+</div></li>
+
+
+
+</ul>
+
+</div><div class="">
+
+<ul id="s-lg-link-list-1290588" class="s-lg-link-list s-lg-link-list-2"><li class="">
+
+
+
+<div id="s-lg-content-1196876" class=""><span><a href="https://iamcr.org/open-access-journals" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196876'});">International Association for Media and Communication Research OA journal list</a> 
+
+</span><div id="s-lg-link-desc-1196876" class="s-lg-link-desc">This website lists open access journals in the field of media and communications research.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196880" class=""><span><a href="https://peerj.com/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196880'});">PeerJ</a> 
+
+</span><div id="s-lg-link-desc-1196880" class="s-lg-link-desc">An off-shoot of PLoS, PeerJ is a new open access journal in the biological and medical sciences. PeerJ operates under a unique publishing fee model, which includes lifetime membership options.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196875" class=""><span><a href="http://www.elsevier.com/about/open-access/open-access-journals" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196875'});">Elsevier's OA Journals</a> 
+
+</span><div id="s-lg-link-desc-1196875" class="s-lg-link-desc">Elsevier publishes many journals and scholarly works in various disciplines. This site provides a list of this publisher's open access journals.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1197599" class=""><span><a href="http://www.springeropen.com/journals" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1197599'});">SpringerOpen</a> 
+
+</span><div id="s-lg-link-desc-1197599" class="s-lg-link-desc">This is a list of open access journals published by Springer covering numerous disciplines and subject areas.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196881" class=""><span><a href="http://www.tandfonline.com/openaccess/openjournals" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196881'});">Taylor & Francis OA Journals</a> 
+
+</span><div id="s-lg-link-desc-1196881" class="s-lg-link-desc">Taylor & Francis publishes many journals and scholarly works in various disciplines. This site provides a list of this publisher's open access journals.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196877" class=""><span><a href="http://www.wileyopenaccess.com/view/index.html" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196877'});">Wiley Open Access</a> 
+
+</span><div id="s-lg-link-desc-1196877" class="s-lg-link-desc">Wiley publishes many journals and scholarly works in various disciplines. This site provides a list of this publisher's open access journals.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1198710" class=""><span><a href="http://royalsocietypublishing.org/royal-society-open-science" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1198710'});">Royal Society Open Science</a> 
+
+</span><div id="s-lg-link-desc-1198710" class="s-lg-link-desc">From the Royal Society publishing groups comes this new open access, peer-reviewed journal publishing across the range of science and mathematics.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1199363" class=""><span><a href="http://openhumanitiespress.org" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1199363'});">Open Humanities Press</a> 
+
+</span><div id="s-lg-link-desc-1199363" class="s-lg-link-desc">An "international, scholar-led open access publishing collective whose mission is to make leading works of contemporary critical thought available worldwide." The OHP network includes several openly accessible <a href="http://openhumanitiespress.org/submissions.html">book series</a> published by <a href="http://www.lib.umich.edu/mpublishing">MPublishing</a> at the University of Michigan, as well as a selective list of autonomously-produced open access <a href="http://openhumanitiespress.org/journals.html">journals</a> in critical and cultural theory.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1199364" class=""><span><a href="http://www.knowledgeunlatched.org" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1199364'});">Knowledge Unlatched</a> 
+
+</span><div id="s-lg-link-desc-1199364" class="s-lg-link-desc">Knowledge Unlatched works with libraries and academic publishers to make selected books openly accessible. The model depends on libraries contributing to cover a publisher's costs on a book; when the cost-recovery goal is met, the book becomes open access. Knowledge Unlatched encourages authors to discuss this option with their publishers. See <a href="http://www.knowledgeunlatched.org/good-for/authors/">"How can I get my book published through Knowledge Unlatched?"</a></div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1199365" class=""><span><a href="http://commons.mla.org" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1199365'});">MLA Commons</a> 
+
+</span><div id="s-lg-link-desc-1199365" class="s-lg-link-desc">A network linking members of the Modern Language Association. "MLA Commons, in addition to supporting a wide range of informal blogs and discussion groups, offers a robust platform for more <a href="http://commons.mla.org/publications/">formal publications</a>—both member-generated and those initiated by the association." See also <a href="http://scholcomm.commons.mla.org/developing-new-book-projects-on-mla-commons/">"Developing New Book Projects on MLA Commons."</a></div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1199366" class=""><span><a href="http://mcpress.media-commons.org" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1199366'});">MediaCommons Press</a> 
+
+</span><div id="s-lg-link-desc-1199366" class="s-lg-link-desc">An "in-development feature of <a href="http://mediacommons.futureofthebook.org/">MediaCommons</a> promoting the digital publication of texts in the field of media studies, ranging from article- to monograph-length.”</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1199368" class=""><span><a href="https://www.openlibhums.org/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1199368'});">Open Library of Humanities</a> 
+
+</span><div id="s-lg-link-desc-1199368" class="s-lg-link-desc">A high-profile initiative to establish a non-profit open access publisher for the humanities and social sciences. See this April 2014 <a href="http://chronicle.com/blogs/profhacker/a-public-library-of-the-humanities-an-interview-with-martin-paul-eve">CHE interview</a> with Martin Paul Eve, Lecturer in English at the University of Lincoln, UK and co-founder of the Open Library of Humanities.</div>
+
+</div></li>
+
+
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="s-lg-box-wrapper-712037" class="s-lg-box-wrapper-712037">
+
+<div id="s-lg-box-629507-container" class="s-lib-box-container">
+
+<div id="s-lg-box-629507" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">OA Repostitories
+
+</h2>
+
+<div id="s-lg-box-collapse-629507" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1170098" class=" clearfix">
+
+<p>Depositing your work in an open access repository is another way to share your research.&nbsp; Be careful to comply with copyright and licensing restrictions when uploading your published work (see the <a target="_self" href="http://guides.library.cornell.edu/aecontent.php?pid=472614&amp;sid=3900603">"Know your Copyrights"</a> tab in this guide).&nbsp; Repositories may be institutional, like Cornell's eCommons, or discipline-specific.</p>
+
+</div><div class="">
+
+<ul id="s-lg-link-list-1290515" class="s-lg-link-list s-lg-link-list-10"><li class="">
+
+
+
+<div id="s-lg-content-1199597" class=""><a href="http://resolver.library.cornell.edu/misc/5661178" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '1199597'});">eCommons@Cornell</a> <div id="s-lg-database-desc-1199597" class="s-lg-database-desc">The eCommons Digital Repository is powered by DSpace and is open to anyone affiliated with Cornell University (faculty, staff, students, or groups/organizations) as a place to capture, store, index, preserve and redistribute materials in digital formats that may be useful for educational, scholarly, research or historical purposes.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1199463" class=""><a href="http://resolver.library.cornell.edu/misc/3932532" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '1199463'});">arXiv.org</a> <div id="s-lg-database-desc-1199463" class="s-lg-database-desc">Created by Paul Ginsparg at the Los Alamos National Laboratory, Los Alamos, New Mexico and launched in 1991, arXiv.org (formerly xxx.lanl.gov) is a fully automated electronic archive and distribution server for research papers. Areas covered include physics and related disciplines, mathematics, nonlinear sciences, computational linguistics, and neuroscience.</div>
+
+</div></li>
+
+
+
+</ul>
+
+</div><div class="">
+
+<ul id="s-lg-link-list-1290511" class="s-lg-link-list s-lg-link-list-2"><li class="">
+
+
+
+<div id="s-lg-content-1196858" class=""><span><a href="http://www.ncbi.nlm.nih.gov/pmc/about/intro/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196858'});">PubMed Central</a> 
+
+</span><div id="s-lg-link-desc-1196858" class="s-lg-link-desc">PubMed Central is a full-text, open access database (to be distinguished from PubMed which is a citation database) administered by the National Library of Medicine. Depending on publishers' policies, authors can submit published articles for inclusion and are required to do so in the case of NIH-funded research.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196842" class=""><span><a href="http://www.opendoar.org/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196842'});">OpenDOAR</a> 
+
+</span><div id="s-lg-link-desc-1196842" class="s-lg-link-desc">Directory of Open Access Repositories. This directory provides a searchable database of academic open access repositories. Here you can search either for repositories or for repository content.</div>
+
+</div></li>
+
+
+
+</ul>
+
+</div><div class="">
+
+<ul id="s-lg-link-list-1290516" class="s-lg-link-list s-lg-link-list-10"><li class="">
+
+
+
+<div id="s-lg-content-1649451" class=""><a href="http://resolver.library.cornell.edu/misc/4279441" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '16',_st_content_id: '1649451'});">Social Science Research Network</a> <div id="s-lg-database-desc-1649451" class="s-lg-database-desc">Social Science Research Network (SSRN) is composed of a number of specialized research networks in the social sciences. Topics covered by networks include accounting, economics, financial economics, legal scholarship, and management (including negotiation and marketing). These networks encourage the rapid distribution of research by publishing submitted abstracts and soliciting abstracts of top quality research papers around the world. Journals, publishers, and other cooperating institutions provide working papers for distribution. The SSRN eLibrary consists of an abstract database containing abstracts of scholarly working papers and forthcoming papers and an electronic paper collection of downloadable full text documents in pdf format.</div>
+
+</div></li>
+
+
+
+</ul>
+
+</div><div class="">
+
+<ul id="s-lg-link-list-1290512" class="s-lg-link-list s-lg-link-list-2"><li class="">
+
+
+
+<div id="s-lg-content-1196859" class=""><span><a href="http://cogprints.org/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196859'});">Cogprints</a> 
+
+</span><div id="s-lg-link-desc-1196859" class="s-lg-link-desc">Cogprints is an open access repository for literature in psychology, neuroscience, linguistics, computer science and numerous other scientific disciplines. Authors can submit preprints or other published works.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1197648" class=""><span><a href="http://biorxiv.org/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1197648'});">BioRxiv</a> 
+
+</span><div id="s-lg-link-desc-1197648" class="s-lg-link-desc">Modeled after ArXiv, the well-known physics pre-print repository, this brand new disciplinary repository operated by Cold Spring Harbor Laboratory, is a pre-print archive for the biological sciences. Submissions should be made indirectly via exports from institutional repositories like eCommons.</div>
+
+</div></li>
+
+
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="s-lg-box-wrapper-712034" class="s-lg-box-wrapper-712034">
+
+<div id="s-lg-box-629553-container" class="s-lib-box-container">
+
+<div id="s-lg-box-629553" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">New forms of scholarly publishing
+
+</h2>
+
+<div id="s-lg-box-collapse-629553" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1170132" class=" clearfix">
+
+<p>Increasingly, researchers are sharing their work in non-traditional ways online.&nbsp; Here is a list of some online venues for new forms of scholarly communication.&nbsp;</p>
+
+</div><div class="">
+
+<ul id="s-lg-link-list-1290609" class="s-lg-link-list s-lg-link-list-2"><li class="">
+
+
+
+<div id="s-lg-content-1196885" class="">
+
+<span><a href="http://www.slideshare.net/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196885'});">SlideShare</a> 
+
+</span><div id="s-lg-link-desc-1196885" class="s-lg-link-desc">A free online tool for uploading and sharing slide presentations. The number of downloads of your slides can be tracked and used as an alternative measure of research impact.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196886" class="">
+
+<span><a href="http://figshare.com/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196886'});">Figshare</a> 
+
+</span><div id="s-lg-link-desc-1196886" class="s-lg-link-desc">Provides free, unlimited public space to upload files in any format to be visualized in a browser. Share such research products as figures, datasets, posters and presentations.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196887" class="">
+
+<span><a href="https://twitter.com/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196887'});">Twitter</a> 
+
+</span><div id="s-lg-link-desc-1196887" class="s-lg-link-desc">Twitter can be used to share links and short messages with a large online community. Twitter is increasingly being used as a communication tool within research communities and as a tool to connect with potential collaborators at professional conferences and meetings.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196888" class="">
+
+<span><a href="https://vimeo.com/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196888'});">Vimeo</a> 
+
+</span><div id="s-lg-link-desc-1196888" class="s-lg-link-desc">Vimeo is a free online service for sharing and uploading video content.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196889" class="">
+
+<span><a href="http://vine.co/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196889'});">Vine</a> 
+
+</span><div id="s-lg-link-desc-1196889" class="s-lg-link-desc">Vine is a mobile app that allows users to upload and share short video clips directly from their mobile device.</div>
+
+</div></li>
+
+<li class="">
+
+
+
+<div id="s-lg-content-1196890" class="">
+
+<span><a href="http://wordpress.com/" target="_blank" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '1196890'});">WordPress</a> 
+
+</span><div id="s-lg-link-desc-1196890" class="s-lg-link-desc">A free, easy-to-use web-based software for the creation of websites and blogs.</div>
+
+</div></li>
+
+
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="s-lg-box-wrapper-712035" class="s-lg-box-wrapper-712035">
+
+<div id="s-lg-box-632674-container" class="s-lib-box-container">
+
+<div id="s-lg-box-632674" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">Publisher Copyright Policies
+
+</h2>
+
+<div id="s-lg-box-collapse-632674" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1172752" class=" clearfix">
+
+<p><strong>What happens to my copyrights for my own published work?&nbsp;</strong>Every publisher has different policies in regards to self-archiving and your subsequent use of your published work.&nbsp;<a href="http://www.sherpa.ac.uk/romeo/" target="_blank">The&nbsp;SHERPA/RoMEO database</a> provides a searchable collection of publisher policies--check here when deciding where to publish.</p>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="s-lg-box-wrapper-712038" class="s-lg-box-wrapper-712038">
+
+<div id="s-lg-box-629548-container" class="s-lib-box-container">
+
+<div id="s-lg-box-629548" class="s-lib-box s-lib-box-std">
+
+<h2 class="s-lib-box-title">Where to deposit data for OA
+
+</h2>
+
+<div id="s-lg-box-collapse-629548" >
+
+<div class="s-lib-box-content">
+
+
+
+<div id="s-lg-content-1170128" class=" clearfix">
+
+<p>Data sharing is increasingly important in research and now often mandated by funding agencies.&nbsp; There are many discpline-specific data repositories, many of which are open access.&nbsp; Here are some resources for finding open access repositories in which to deposit your datasets.</p>
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+<p style="text-align: center;"><a href="http://databib.org/index.php" target="_blank">DataBib</a>&nbsp;and <a href="http://www.re3data.org" target="_blank" title="re3data">re3data</a><span>&nbsp;are initiatives aimed at registering data repositories</span>is. In 2015, the sites will merge into a common service. More information as it becomes available!</p>
+
+
+
+<p style="text-align: center;"><a href="http://databib.org/" target="_blank"><img height="80" src="http://lgimages.s3.amazonaws.com/data/imagemanager/66248/databib.png" width="82" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="http://www.re3data.org/" target="_blank"><img height="79" src="http://lgimages.s3.amazonaws.com/data/imagemanager/66248/re3data.jpg" width="119" /></a>&nbsp; &nbsp;&nbsp;</p>
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+<p style="text-align: center;"><a href="http://datadryad.org/" target="_blank">Dryad</a> is a data-sharing intitive that partners with publishers to&nbsp;host research data underlying scientific and medical publications.</p>
+
+
+
+<p style="text-align: left;"><a href="http://datadryad.org/" target="_blank"><img height="87" src="http://lgimages.s3.amazonaws.com/data/imagemanager/66248/dryad.png" style="margin-left: auto; margin-right: auto; display: block;" width="138" /></a></p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p style="text-align: center;">For more information about data sharing, contact Cornell&#39;s <a href="http://data.research.cornell.edu/" target="_blank">Research Data Management Service Group (RDMSG)</a>.</p>
+
+
+
+<p style="text-align: left;"><a href="http://data.research.cornell.edu/" target="_blank"><img height="132" src="http://lgimages.s3.amazonaws.com/data/imagemanager/2076/rdmsglogoblack_7_.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="343" /></a></p>
+
+
+
+</div>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+<div class="row s-lg-row">
+
+<div id="s-lg-col-127" class="col-md-12">
+
+<div class="s-lg-col-boxes">
+
+</div>
+
+</div>
+
+
+
+</div> <ul id="s-lg-page-prevnext" class="pager s-lib-hide"><li class="previous"><a href="//guides.library.cornell.edu/openaccess/home">&lt;&lt; <strong>Previous:</strong> What is Open Access?</a></li><li class="next"><a href="//guides.library.cornell.edu/openaccess/vetting-journals"><strong>Next:</strong> Vetting OA journals &gt;&gt;</a></li></ul></div>

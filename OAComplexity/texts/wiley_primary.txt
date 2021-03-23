@@ -1,0 +1,68 @@
+﻿<h1>Open access options for your article</h1>
+
+<p>Open access articles are freely available to read, download and share. For more information about Wiley's open access options, watch our video and read the gold and green overviews below.</p></br>
+
+<p><div style="width: 70%; position: relative; margin:auto">
+<div style="padding-top: 56.25%;"><iframe style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;" 
+src="//players.brightcove.net/3806881048001/EkxKORGt3e_default/index.html?videoId=4796199523001" 
+allowfullscreen 
+webkitallowfullscreen 
+mozallowfullscreen></iframe></div></div></p>
+
+<br />
+
+<div class="table_wrapper">
+<table style="margin:auto">
+<tr>
+<th class="oaheader goldheader"><a class="divlink" href="/author-resources/Journal-Authors/open-access/onlineopen.html" title="Gold Open Access">Gold Open Access</a></td>
+<th class="oaheader greenheader"><a class="divlink" href="/author-resources/Journal-Authors/licensing/self-archiving.html" title="Green Open Access">Green Open Access</a></td>
+</tr>
+
+<tr>
+<td class="oacontent goldcontent"><b>What is it?</b><br /><br />The author pays an Article Publication Charge and the article is immediately freely available online for all to read, download, and share</td>
+<td class="oacontent greencontent"><b>What is it?</b><br /><br />The author self-archives a version of the subscription article in an online repository or website</td>
+</tr>
+
+<tr>
+<td class="oacontent goldcontent"><b>Options</b><br /><br />
+Wiley offers two ways to publish gold open access, authors may publish in a:<br /><br />
+
+
+<ol type="1"><li><a href="/open-science/open-access/browse-journals.html" title="Wiley Open Access Journal Portfolio">Fully open access journal</a> - journals where every article is published open access</li>
+<li>Subscription journal offering <a href="/author-resources/Journal-Authors/open-access/onlineopen.html" title="OnlineOpen">OnlineOpen<br /></a> - an open access option that most Wiley journals offer</li></ol></td>
+
+<td class="oacontent greencontent"><b>Options</b><br /><br />
+Self-archiving requirements vary depending on the article version being archived. Authors may archive the:<br /><br />
+
+<ol type="1"><li>Submitted version on acceptance</li><li>Accepted version with a 12-24 month embargo - embargo period varies by journal (Use our <a href="/author-resources/Journal-Authors/open-access/author-compliance-tool.html">Author Compliance Tool</a> to check)</li></ol></td>
+</tr>
+
+<tr>
+<td class="oacontent goldcontent"><b>License</b><br /><br /><a href="/author-resources/Journal-Authors/licensing/open-access-agreements.html" title="Open Access Agreement">Open Access Agreement</a> with a Creative Commons license</td>
+<td class="oacontent greencontent"><b>License</b><br /><br /><a href="/author-resources/Journal-Authors/licensing/licensing-info-faqs.html" title="Licensing Info and FAQs">Standard CTA or ELA</a></td>
+</tr>
+
+<tr>
+<td class="oacontent goldcontent"><b>Charge</b><br /><br />Article Publication Charge - amount varies by journal (Visit our <a href="/author-resources/Journal-Authors/open-access/article-publication-charges.html">Article Publication Charge</a> page to learn more</a>)</td>
+<td class="oacontent greencontent"><b>Charge</b><br /><br />No charge</td>
+</tr>
+
+<tr>
+<td class="oacontent goldcontent"><a class="medium" href="/author-resources/Journal-Authors/open-access/onlineopen.html" title="OnlineOpen">Learn more</a></td>
+<td class="oacontent greencontent"><a class="medium" href="/author-resources/Journal-Authors/licensing/self-archiving.html" title="Self-Archiving">Learn more</a></td>
+</tr>
+
+</table>
+</div>
+
+<br /><br />
+
+<p>Your funder or institution may require you to publish gold or green open access. Use our <a href="/author-resources/Journal-Authors/open-access/author-compliance-tool.html" title="Author Compliance Tool">Author Compliance Tool</a> to check the policies of your funder or institution against your journal of choice.</p></br>
+
+<p>Your funder or institution may be willing to pay the Article Publication Charge for you. Visit our <a href="/author-resources/Journal-Authors/open-access/author-compliance-tool.html" title="Author Compliance Tool">Author Compliance Tool</a> and <a href="/author-resources/Journal-Authors/open-access/affiliation-policies-payments/institutional-funder-payments.html" title="Institution and Funder Payments">Institutional and Funder Payment</a> pages to find out more.</p></br>
+
+<p>Need help? Visit our <a href="https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/how-to-order-onlineopen.html">How to Order OnlineOpen</a> page for step-by-step instructions or, if you're publishing in a fully open access journal, view our <a href="/asset/photos/licensing-and-open-access-photos/How to pay the APC for an OA journal article.pdf" title="Article Publication Charge payment guide">Article Publication Charge Payment</a> PDF guide.</p></br>
+
+<p>Visit our <a href="/author-resources/Journal-Authors/open-access/affiliation-policies-payments/funder-agreements.html" title="Funder Agreements">Funder Agreements</a> page to learn about the agreements Wiley has with major funders.</p>
+        </div> 
+   

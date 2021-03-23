@@ -1,0 +1,120 @@
+﻿</style><div class="row row-tight">
+    <div class="large-12 columns">
+    <h1 style="padding: 15px 5px 10px 0px">Spotlight on Open Access</h1>
+    </div>
+</div><div class="row" id="oa_header_area">
+<div class="large-8 columns" id="oa_title_lhs_text_311052">
+<h2>5 surprising facts you may not know about Elsevier and open access</h2><p class="intro">You may be surprised to learn that Elsevier not only publishes open access, but that we are a leading open access publisher.</p><p class="intro">Here we shine a light on the 5 things you may not have known about Elsevier and open access (OA).</p>
+</div>
+
+<div class="large-4 columns" id="oa_title_light_bulb">
+<img src="https://www.elsevier.com/__data/assets/image/0010/311041/header-light-bulb_no_tail.png" alt="THE ANSWERS ARE ILLUMINATING" id="oabulb">
+</div>
+</div>
+<div style="clear:both"></div>
+<section class="hero hero-home-campaign hero-bg" style="background:url('https://www.elsevier.com/__data/assets/image/0016/311038/promos_header.jpg');min-height:auto;">
+<div class="row" style="padding-bottom:0;">
+    <div class="hero-standout-content" style="padding-bottom:0;">
+    <h2>Too busy to read? Then download the infographic version below:</p>
+    <p><a class="cta-primary cta-white" href="https://www.elsevier.com/__data/assets/pdf_file/0003/732279/Infographic-1-Jun18.pdf" target="_blank">Infographic: 5 surprising facts about Elsevier and open access</a></p>
+</div>
+</div>
+</section>
+<div class="row" style="padding:0;">
+<div class="large-12 columns" id="fact1_fullwidth_311086">
+<h2 id="fact1"><span class="elsorange">Fact 1:</span> Elsevier Publishes Open Access</h2><p>We are one of the leading open access publishers, with over 27,000 open access articles published in 2017 and making thousands more available through green open access.</p><p><strong>Our open access options include:</strong></p>
+</div>
+</div><div class="article-content"><div class="row row-tight">
+    <div class="large-6 columns">
+        <h3>Gold open access:</h3><p>After publication, the final article is published open access on ScienceDirect and is immediately free to access for everyone. Authors can choose to publish their article with either a commercial (CC BY) or noncommercial (CC BY NC ND) user license.</p><p>We publish:</p><ul><li>Over <strong>170</strong> <a href="https://www.elsevier.com/about/open-science/open-access/open-access-journals">open access journals</a></li><li>Over <strong>1850</strong> hybrid journals</li></ul>
+    </div>
+    <div class="large-6 columns">
+        <h3>Green Open access:</h3><p>After publication, a draft version of an article can be made publicly available after a time delay (also known as an embargo period). No fee is required to be paid by authors, as green open access is supported by the subscription model.&nbsp;&nbsp;Author manuscripts should display a <a href="https://www.elsevier.com/about/policies/sharing/how-to-attach-a-user-license">CC BY NC ND user license. </a></p><ul><li>All our journals provide an option for authors to self-archive</li><li><strong>110</strong> journals feature an <a href="https://www.elsevier.com/about/open-science/open-access/open-archive">open archive</a></li><li>We support CHORUS partners with <a href="https://www.elsevier.com/about/open-science/open-access/chorus">open manuscripts</a></li></ul>
+    </div>
+</div> </div><div class="row" style="padding-bottom:0;"><hr/>
+<div class="large-12 columns" id="fact1_fullwidth_title_311099">
+<h3 style="padding-bottom:20px;">Uptake of open access across the industry</h3>
+</div>
+</div><div class="row">
+<div class="large-6 columns" id="fact1_lhs_uptake_311103">
+<p>In 2017 there were an estimated <strong>2.2 million subscription</strong> and <strong>0.5 million open access</strong> articles published worldwide.</p><p>Open access now represents an estimated <strong>15% of the total amount of articles</strong> produced each year.</p><p>At Elsevier, we published 430,000 articles in 2017, <strong>over 27,000 of which were open access</strong>.</p>
+</div>
+
+<div class="large-6 columns" id="fact1_rhs_chart_311107">
+<p><img src="https://www.elsevier.com/__data/assets/image/0006/762162/0952-Elsevier-5-facts-Infographic-2-v3.jpg" alt="" width="723" height="694" /></p>
+</div>
+</div>
+<section class="standout" style="padding-top:0;padding-bottom:0;">
+<div class="row" style="padding-bottom:0;">
+<div class="large-12 columns" id="new_content_container_311114_311114">
+<h2 id="fact2"><span class="elsorange">Fact 2:</span><br />Our APC prices are value for money</h2>
+</div>
+</div><div class="row">
+<div class="large-6 columns" id="fact2_lhs_text_311118">
+<p>Elsevier&rsquo;s article publishing charges (APCs) are comparable with other publishers.</p><p>We publish the best quality open access articles (based on field-weighted citation impact) for both open access and hybrid titles, while our APCs remain at or below industry average.</p><p>Our APC price list is publicly available and <a href="https://www.elsevier.com/about/policies/pricing">downloadable here</a>.</p><p>At Elsevier we <a href="https://www.elsevier.com/about/policies/pricing">do not charge subscribers</a> for open access publications and only take into account subscription content when pricing subscription titles.</p>
+</div>
+
+<div class="large-6 columns" id="fact2_rhs_chart_311120">
+<p><img src="https://www.elsevier.com/__data/assets/image/0013/311143/fact2-chart-apc-high-low.png" alt="Chart: APC price list vs field-weighted citation impact" class="fact2-pricing-chart" /></p>
+<h3>
+  Key
+</h3>
+<p><img src="https://www.elsevier.com/__data/assets/image/0014/311144/fact2-chart-apc-high-low-key.png" alt="Chart key: APC price list vs field-weighted citation impact" style="width:200px;">
+</p>
+</div>
+</div>
+</section>
+<div id="oa_fact3_wrapper" class="row">
+    <div id="oa_fact3_lhs_text" class="large-12 columns">
+        <h2><span class="elsorange"><a name="fact3"></a><a href="#fact3">Fact 3:</span><br/>We are making it easier to find and use OA content </a></h2>
+        <p>Articles on ScienceDirect are tagged with "Open Access" and you can search, browse and set up alerts for open access journals.</p>
+        <p>You can also search for open access articles within hybrid titles using the "contains open access" filter.</p>
+        <p>All open access articles on ScienceDirect are also clearly labelled with a <a href="https://www.elsevier.com/about/policies/open-access-licenses/elsevier-user-license">user license</a> to help users understand how the article can be reused. </p>
+        <p>Scopus indexes <strong>over 3,700</strong> open access journals from more than <strong>5,000</strong> publishers.</p>
+        <p>It is now possible to search for open access on an article level within Scopus. </p>
+        <p><a href="http://www.sciencedirect.com/science/jrnlallbooks/all-open-access" class="cta-primary" style="z-index: -1;" target="_blank">Search OA articles</a></p>
+    </div>
+   
+</div>
+<section class="standout" style="padding-top:0;"><div class="row row-tight">
+    <div class="large-12 columns">
+    <h2 id="fact4"><span class="elsorange">Fact 4:</span> Elsevier supports green open access</h2><p>Researchers are increasingly required by funders to make their research open access.</p><p>Across the world different funders require their funded researchers to do this in a variety of different ways, in the majority of cases policies favour green open access:</p>
+    </div>
+</div><div class="row row-tight">
+    <div class="large-12 columns">
+    <h3>There is a clear focus on green open access worldwide</h3><p><img src="https://www.elsevier.com/__data/assets/image/0013/311161/fact4-oa-client-map.png" alt="Map:Green and Gold access worldwide" /></p><h3>Quick links to policies</h3>
+    </div>
+</div><div class="article-content"><div class="row row-tight">
+    <div class="large-6 columns">
+        <ul><li><a href="http://www.arc.gov.au/arc-open-access-policy" target="_blank">Australian Research Council</a></li><li><a href="http://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy" target="_blank">Bill and Melinda Gates Foundation</a></li><li><a href="https://eprints.qut.edu.au/79368/1/79368.pdf">Chinese Academy of Science</a></li><li><a href="http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf" target="_blank">European Commission</a></li><li><a href="https://www.fwf.ac.at/en/research-funding/open-access-policy/" target="_blank">FWF Austria</a></li><li><a href="http://www.hefce.ac.uk/rsrch/oa/Policy/" target="_blank">HEFCE</a></li><li><a href="http://www.hhmi.org/about/policies/open-access" target="_blank">Howard Hughes Medical Institute</a></li><li><a href="https://publicaccess.nih.gov/" target="_blank">National Institutes of health (NIH)</a></li></ul>
+    </div>
+    <div class="large-6 columns">
+        <ul><li><a href="http://or.nsfc.gov.cn/statement" target="_blank">National Natural Science Foundation of China (NSFC)</a></li><li><a href="https://www.nsf.gov/pubs/2015/nsf15052/nsf15052.pdf" target="_blank">National Science Foundation</a></li><li><a href="https://obamawhitehouse.archives.gov/administration/eop/ostp/library/publicaccesspolicy" target="_blank">OSTP</a></li><li><a href="http://www.rcuk.ac.uk/research/openaccess/" target="_blank">RCUK</a></li><li><a href="https://energy.gov/downloads/doe-public-access-plan" target="_blank">US Department of Energy</a></li><li><a href="https://wellcome.ac.uk/funding/managing-grant/open-access-policy" target="_blank">Wellcome Trust</a></li></ul>
+    </div>
+</div> </div><div class="row row-tight">
+    <div class="large-12 columns">
+    <hr /><p>Elsevier is helping to make compliance easier for researchers - we have established a number of <a href="https://www.elsevier.com/about/open-science/open-access/agreements">agreements with funding bodies</a> and we also support <a href="https://www.elsevier.com/about/open-science/open-access/chorus">CHORUS</a> for a number of CHORUS partners.</p><p><strong>We also recognize that a number of open access policies are focused on green open access - to help support this we:</strong></p><ul><li>Enable authors to self-archive in all of our journals</li><li>Make our embargo periods <a href="https://www.elsevier.com/about/open-science/open-access/journal-embargo-finder">publicly available and searchable</a></li><li>Provide 4 ScienceDirect APIs to <a href="https://www.elsevier.com/solutions/sciencedirect/support/institutional-repository">help institutional repository managers to search and populate their repositories</a> with affiliated authors&rsquo; metadata and abstracts.</li><li>Implement&nbsp;<a href="https://www.elsevier.com/about/open-science/open-access/chorus">CHORUS</a> for CHORUS partners and pilots partners</li><li>Make <a href="https://www.elsevier.com/about/open-science/open-access/open-archive">open archive</a> freely available on <a href="http://www.sciencedirect.com/" target="_blank">ScienceDirect</a> in <strong>110 journals</strong></li></ul>
+    </div>
+</div></section>
+
+<div id="oa_fact5_wrapper" class="row">
+    <div id="oa_fact5_rhs_text" class="large-12 columns">
+        <h2><span class="elsorange"><a name="fact5"></a><a href="#fact5">Fact 5:</span> We encourage authors to share their data </a></h2>
+        <p>Elsevier is enabling researchers to store, share, discover and reuse data. We have:</strong></p>
+        <ul>
+            <li>55,000 users each month utilizing open data tools which include Mendeley Data and Hivebench</li>
+            <li>1.6 million links from published articles to datasets stored in 65 external data repositories</li>
+            <li>8.2 million datasets from over 30 repositories indexed and findable on Mendeley Data</li>
+            <li>Help researchers to digitalize their data on Hivebench with 10,000 complete electronic notebooks created with 25,000 experiments recorded.</li>
+        </ul>
+        <p>Although the benefits of open research data are well known, in practice, confusion remains within the researcher community around when and how to share research data. A new <a href="https://www.elsevier.com/about/open-science/research-data/open-data-report">report from Elsevier and CWTS</a> reveals more about the challenges of open data.</p>
+        <p><a href="https://www.elsevier.com/about/open-science/research-data/open-data-report" class="cta-primary">View open data report</a></p>
+        <p>&nbsp;</p>
+    </div>
+</div>              
+               
+              <div class="fixed-side-links side-bottom scroll-down side-fixed"> 
+    <div class="row row-back-to-top"> 
+        <div class="columns large-12"> 
+            <a class="back-to-top right" href="#top" title="Back to top">
+                <!--span class="back-to-top-text">Back to top</span-->

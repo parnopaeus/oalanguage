@@ -1,0 +1,25 @@
+<div class="page" id="blog-page" role="main">
+
+			
+				<h1 class="pagetitle">Definition of Budapest compliant open access</h1>
+
+				<div id="post-64" class="post-64 page type-page status-publish hentry">
+
+					<div class="entry">
+
+						</h3>
+<p>&nbsp;</p>
+<p><strong>Bethesda and Berlin Declarations on Open Access</strong></p>
+<p>In 2003 two other statements were published on open access publishing. The <a href="http://www.earlham.edu/~peters/fos/bethesda.htm">Bethesda Statement</a> and the <a href="http://oa.mpg.de/lang/en-uk/berlin-prozess/berliner-erklarung/">Berlin Declaration</a> are both very similar to the Budapest definition. This the reason that these definitions for open access are  often referred to as <strong>BBB</strong> Open Access. After the original <a href="http://oa.mpg.de/berlin-prozess/berlin-konferenzen/berlin-konferenz/">Berlin Congress in 2003</a>, yearly Berlin conferences have been held in different countries of Europe. The first Berlin Conference outside Europe was Berlin8 in Beijing. <a href="http://www.berlin9.org/">Berlin9</a> took place in Washington DC in november 2011. All the Berlin conferences have been focussing on practical implications and strategies for open access. The <a href="http://berlin4.aei.mpg.de/">Berlin4</a> conference for example focused on open access to raw scientific data in the interest of transparency in scientific research. The material of all Berlin conferences taken together forms a treasure trove for open access related subjects.</p>
+<h3><strong>Creative Commons</strong></h3>
+<p>Many publications are published using the Creative Commons non-commercial variant of licencing (CC-NC) which essentially means that works can be accessed and read freely and nothing more. Reuse and redistribution as mentioned in the BOAI definition are explicitly forbidden. The CC-BY licence is the closest to the BOAI definition. A third variant CC-BY-SA has some more restrictions. The original meaning of Open Access (OA) has become even more clouded by the distinction between Green OA (articles in repositories), Gold OA (articles in journals), gratis OA (reader pays nothing) and libre OA (gratis with one or more barriers lifted). All combinations of these flavours are possible.*</p>
+<h3><strong>Open Data</strong></h3>
+<p>For a definition of Open Data in science we refer to the <a href="https://pantonprinciples.org/">Panton principles for open data in science</a>, a set of rules for the open access publication of data and data sets. The principles contain a STRONG recommendation that data, especially where publicly funded, be explicitly placed in the public domain via the use of the Public Domain Dedication and Licence (PDDL) or Creative Commons Zero Waiver (CC-0).</p>
+<p>*For more information see Michael Nielsen excellent i<a title="open access a short summary" href="http://michaelnielsen.org/blog/open-access-a-short-summary/">ntroduction to OA</a>, orfor a description of different forms of open access see Peter Suber&#8217;s article on  <a title="gratis and libre open access" href="http://www.earlham.edu/~peters/fos/newsletter/08-02-08.htm#gratis-libre">gratis and libre OA</a> and also &#8216;<em><a href="http://www.earlham.edu/~peters/fos/newsletter/06-02-12.htm#libre">The rise of libre open access</a><strong><a href="http://www.earlham.edu/~peters/fos/newsletter/06-02-12.htm#libre">&#8220;</a></strong></em> in a recent SPARC Open Access Newsletter (SOAN). Information on Creative Commons licences can be found on their <a title="Creative Commons" href="http://creativecommons.org/">website</a>.</p>
+<p>**The text on page 1 was partly reproduced from Cameron Neylon&#8217;s  blog on the <a title="10th anniversary of the Budapest Open Access Dclaration" href="http://cameronneylon.net/blog/on-the-10th-anniversary-of-the-budapest-declaration/">10th anniversary of the Budapest Declaration</a></p>
+<p>&nbsp;</p>
+
+						<div class="page-link"><p>Pages:  <a href="../index.html">1</a> 2</p></div>						
+					</div>
+
+				</div>

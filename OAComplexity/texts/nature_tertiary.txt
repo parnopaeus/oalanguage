@@ -1,0 +1,93 @@
+﻿<h1 class="small-space-below title-color strong line-below">Policies (journals)</h1><div><p><a href=#Open_access_licensing>Open access licensing</a><br>
+<a href=#Retrospective_licence_changes>Retrospective licence changes</a><br>
+<a href=#Retrospective_open_access>Retrospective open access</a><br>
+<a href=#Article_processing_charge_APC_waivers>Article processing charge (APC) waivers</a><br>
+<a href=#APC_waivers_for_substantial_critiques_of_articles_published_in_OA_journals>APC waivers for substantial critiques of articles published in OA journals</a><br>
+<a href=#Self-archiving_and_manuscript_deposition_of_papers_published_open_access>Self-archiving and manuscript deposition of papers published open access</a><br>
+<a href=#Self-archiving_and_manuscript_deposition_of_papers_published_via_the_subscription_route>Self-archiving and manuscript deposition of papers published via the subscription route (green open access)</a><br>
+<a href=#Digital_preservation>Digital preservation</a><br>
+<a href=#Compliance_with_funders_open_access_mandates>Compliance with funders' open access mandates</a><br>
+<a href=#CC_BY_requirement>Funders requiring a CC BY licence when paying an APC</a><br>
+<a href=#Institutional_licence_price_adjustments_for_hybrid_journals>Institutional licence price adjustments for hybrid academic journals on nature.com</a><br>
+<a href=#Editorial_process_for_hybrid_journals>Editorial process for hybrid academic journals on nature.com</a><br>
+<a href=#Open_access_for_genome_standards_and_community_papers>Open access for genome, standards, and community papers</a></p>
+<div id=Open_access_licensing><strong>Open access licensing</strong></div>
+<p>Open access articles in Springer Nature journals are published under Creative Commons licences. These provide an industry-standard framework to support easy re-use of open access material. Under Creative Commons, authors retain copyright of their work. Authors publishing via the open access route in journals on the nature.com platform additionally assign Springer Nature a non-exclusive licence to publish (LTP).</p>
+<p>All Springer Nature-owned journals with open access options offer the CC BY licence (<a href=http://creativecommons.org/licenses/by/4.0/>Creative Commons Attribution v4.0 International Licence</a>), and this is the default licence for all Springer Nature-owned fully open access journals and for OA content in all journals in the Palgrave Macmillan hybrid portfolio, and in the majority of hybrid academic titles on the nature.com platform. The CC BY licence is the most open licence available and considered the industry 'gold standard' for open access; it is also preferred by many funders. This licence allows readers to copy and redistribute the material in any medium or format, and to alter, transform, or build upon the material, including for commercial use, providing the original author is credited. Other Creative Commons licences are available for some titles: please see the individual journals for details on other Creative Commons licences offered.</p>
+<p>All Springer Nature-owned journals offer intergovernmental organisation (IGO) versions of Creative Commons licences on request, where required by the author’s employer.</p>
+<p>Where journals offer a range of Creative Commons licences, authors are advised to check their funder's requirements before selecting a licence, to ensure compliance.</p>
+<div id=Retrospective_licence_changes><strong>Retrospective licence changes</strong></div>
+<p>Authors who have published open access in a Palgrave Macmillan journal or a journal published on nature.com may change the Creative Commons licence associated with their article after publication, but may only change from a more to a less restrictive licence. (For example, it is possible to change from  <a href=https://creativecommons.org/licenses/by-nc-nd/4.0/>CC BY-NC-ND</a> to <a href=https://creativecommons.org/licenses/by/4.0/>CC BY</a>, but not vice versa.)</p>
+<p>Authors wishing to change the licence of their article retrospectively should contact the <a href=http://www.nature.com/siteindex/index.html>individual journal editorial office</a>, and will need to sign a new open access licence to publish form (LTP). A small number of hybrid academic titles on nature.com charge different article processing charges according to the licence chosen, and in some cases a top-up fee may apply.</p>
+<p>Authors may change the Creative Commons licence of their article at any time after publication.</p>
+<div id=Retrospective_open_access><strong>Retrospective open access</strong></div>
+<div>Authors who initially opted to publish their paper under the subscription model in a hybrid nature.com or Palgrave Macmillan journal may retrospectively pay to make their paper open access, but only if they do so before the end of March 31st in the year after the publication date. This limitation has been put in place because institutional licence prices for hybrid academic journals reflect the amount of subscription content, and those prices are set soon after the end of Q1. Please see <a href=#Site_license_price_adjustments_for_hybrid_journals>institutional licence price adjustments for hybrid journals</a> for more information about prices and adjustments.</div>
+<p>Authors wishing to publish open access retrospectively should contact the individual journal editorial office, and will need to sign a new open access licence to publish form (LTP) and pay the journal's article processing charge. Contact details for the journal editorial offices may be found on the journal website; links to all nature.com journal websites are available <a href=http://www.nature.com/siteindex/index.html>here</a>, and Palgrave journal websites are available <a href=http://www.palgrave.com/gp/journals#c10065998>here</a>.</p>
+<div id=Article_processing_charge_APC_waivers><strong>Discretionary and country article processing charge (APC) waivers</strong></div>
+<p><a href=http://www.nature.com/openresearch/about-open-access/policies-journals/journals-offering-apc-waivers/>Fully-open access journals</a> published on the nature.com platform and in the Palgrave Macmillan portfolio APC waivers and discounts for papers published in our fully open access journals whose corresponding authors are based in the world’s lowest income countries as defined by the World Bank. See <a href=http://www.nature.com/openresearch/funding/oa-in-developing-countries/>here</a> for further information.</p>
+<p>Requests from other authors for APC waivers and discounts will be considered on a case-by-case basis, and may be granted in cases of financial need.  All applications should be made prior to or at the point of manuscript submission; requests made during the review process or after acceptance will not be considered.</p>
+<p>To request a waiver please <a href=mailto:apcwaivers@springernature.com>contact us</a> stating the journal for which you wish to make an application.</p>
+<p>In order to ensure that a paper's waiver status does not influence the editor's decision about an article, editors are not made aware when a waiver has been granted.</p>
+<p>APC waivers are not offered for open access publication in hybrid academic titles on nature.com, as authors without the funds to publish open access in these journals can publish via the subscription route.</p>
+<div id=APC_waivers_for_substantial_critiques_of_articles_published_in_OA_journals><strong>APC waivers for substantial critiques of articles published in OA journals</strong></div>
+<p>Where authors are submitting a manuscript that represents a substantial critique of an article previously published in the same fully open access journals on the nature.com platform or in the Palgrave Macmillan portfolio, they may apply for a waiver of the article processing charge (APC).</p>
+<p>In order to apply for an APC waiver on these grounds, please contact the journal editorial team at the point of submission. Requests will not be considered until a manuscript has been submitted, and will be awarded at the discretion of the editor.  Contact details for the journal editorial offices may be found on the journal website; links to all nature.com journal websites are available <a href=http://www.nature.com/siteindex/index.html>here</a>, and Palgrave journal websites are available <a href=http://www.palgrave.com/gp/journals#c10065998>here</a>.</p>
+<div id=Self-archiving_and_manuscript_deposition_of_papers_published_open_access><strong>Self-archiving and manuscript deposition of papers published open access</strong></div>
+<div>
+<p>Springer Nature actively encourages the deposition of open access papers in public repositories.</p>
+<p><em>PubMed Central / Europe PMC</em></p>
+<ul>
+<li>Springer Nature deposits open access papers published in all journals on the nature.com platform, and in Palgrave Macmillan journals allied to health subjects, in PubMed Central and Europe PubMed Central on publication. Please note that there may be an interval of a few weeks between publication and the appearance of an article in PMC and Europe PMC, depending on the time required for PMC to process the deposit and for PMC papers to be mirrored to Europe PMC.
+<li>Where a journal publishes content online ahead of publication in a print issue (known as advanced online publication, or AOP), OA articles will be deposited to PubMed Central at the point of issue publication, as PMC requires that articles are deposited in their final format.
+</ul>
+<p><em>Other repositories</em></p>
+<ul>
+<li>Authors publishing via the open access route are encouraged to deposit the final published PDF in their institutional repository or any suitable subject repository on publication.
+<li>Authors should provide a link from the deposited version to the URL of the published article on the journal's website; in all cases, the requirement to link to the journal’s website is designed to protect the integrity and authenticity of the scientific record, with the online published version on nature.com clearly identified as the definitive version of record.
+</ul>
+<p>Authors are advised to check their funders' deposition requirements to ensure compliance.</p>
+</div>
+<div id=Self-archiving_and_manuscript_deposition_of_papers_published_via_the_subscription_route><strong>Self-archiving and manuscript deposition of papers published via the subscription route (green open access)</strong></div>
+<div>
+<p>We offer authors a manuscript deposition service to help authors fulfil funder and institutional mandates. For information about self-archiving of papers published via the subscription route ("green" open access), including embargo periods, and about our manuscript deposition service for authors, please consult our policies at the links below:</p>
+</div>
+<ul>
+<li><a href=http://www.nature.com/authors/policies/license.html#Self_archiving_policy>Journals</a> published on nature.com
+<li><a href=http://www.palgrave-journals.com/pal/authors/rights_and_permissions.html#Self-archiving-policy>Palgrave Macmillan journals</a>
+</ul>
+<div id=Digital_preservation><strong>Digital preservation</strong></div>
+<p>Springer Nature ensures that publications are preserved and available for future scholars, researchers, and students through archiving agreements with <a href=http://www.clockss.org/clockss/Home>CLOCKSS</a> and <a href=http://www.portico.org/digital-preservation/>Portico</a>.</p>
+<div id=Compliance_with_funders_open_access_mandates><strong>Compliance with funders' open access mandates</strong></div>
+<div>
+<p>Authors publishing in open access and hybrid academic journals published on the nature.com platform, and in the Palgrave Macmillan portfolio are able to comply with all funders' open access policies worldwide.</p>
+<p>Authors publishing in Nature Research and Palgrave Macmillan subscription journals are able to comply with the vast majority of funders’ open access and self-archiving policies.  Please see <a href=http://www.nature.com/openresearch/about-open-access/policies-journals/oa-compliance-subscription-journals/>here</a> for exceptions.</p>
+<p>Authors may need to take specific actions to achieve compliance with funder mandates. These may include self-archiving, opting into our manuscript deposition service and/or choosing open access publication if publishing in a hybrid open access journal. Authors are strongly advised to check their funder's open access requirements, particularly regarding manuscript deposition, embargo periods, and licence mandates. To learn more about meeting funder and institutional open access requirements please use the following resources:</p>
+<ul>
+<li><a href=http://www.nature.com/openresearch/funding/funding-for-oa-articles/>Links to funder and institutional open access policies</a>
+<li><a href=http://www.nature.com/openresearch/funding/open-access-policy-faqs/>Open access policy FAQs</a>
+</ul>
+<p>Authors, funders, and institutions with queries about open access compliance are advised to contact the <a href=http://www.nature.com/openresearch/funding/>open access support service</a> at <a href=mailto:openaccess@nature.com>openaccess@nature.com</a>.</p>
+</div>
+<div id=CC_BY_requirement><strong>Funders requiring a CC BY licence when paying an APC</strong></div>
+<p>Certain research funders, including the Research Councils UK (RCUK), the Wellcome Trust, and the Austrian Science Fund (FWF), require that articles are published under a Creative Commons Attribution licence (CC BY) where they have funded the open access article processing charge (APC). For further information and guidance on complying with this requirement, including a list of funders with a CC BY requirement, please see <a href=http://www.nature.com/openresearch/about-open-access/policies-journals/funders-requiring-cc-by/>here</a>.</p>
+<div id=Institutional_licence_price_adjustments_for_hybrid_journals><strong>Institutional licence price adjustments for hybrid academic journals on nature.com</strong></div>
+<div>
+<p>The list prices for institutional licences of Springer Nature hybrid academic journals are based solely on subscription content volume.</p>
+<p>Since 2010, hybrid academic journals on the nature.com platform and Palgrave Macmillan hybrid journals have adjusted their list prices for institutional licences to take into account changes in the volume of subscription content.  Under this policy, journals whose subscription content changed by more than 10% when comparing the previous two years had their institutional licence price adjusted.</p>
+<p>Springer has also been committed to factoring the Open Choice article uptake into journal subscription prices since 2011. Since 2015, Springer journal list prices have solely reflected subscription article publications. This means that only subscription articles have been factored into the list price calculation, with general price increases due to subscription article volume growth also applied.</p>
+<p>For 2018, we are aligning the adjustment methodology to ensure we have a consistent policy across all Springer Nature hybrid academic journals, and hybrid academic journals on the nature.com platform and Palgrave Macmillan hybrid journals will adopt the methodology currently used for Springer hybrid academic journals.  This means that only subscription articles have been factored into the 2018 list price calculations: the OA share of the most recent year (2016) for which we had full data when the 2018 prices were calculated has been applied.  General price increases due to subscription article volume growth have also been applied for 2018, where appropriate.</p>
+<div id=Editorial_process_for_hybrid_journals><strong>Editorial process for hybrid academic journals on nature.com</strong></div>
+<div>
+<p>In order to ensure that an author's decision to pay an APC to make their article open access does not influence editors' or reviewers' decisions about an article, authors publishing in Palgrave Macmillan and nature.com hybrid academic journals are not asked to confirm whether they would like to publish their article open access until after it has been accepted. This means that all submitted articles go through the same rigorous process of editorial consideration and peer review, thereby ensuring that the high standards the scholarly community has come to expect from Springer Nature journals are maintained.</p>
+</div>
+<div></div>
+<div id=Open_access_for_genome_standards_and_community_papers><strong>Open access for genome, standards, and community papers</strong></div>
+<div>
+<p>As a service to the scientific community, some specific paper types may occasionally be published open access under a Creative Commons licence in Nature Research journals which do not otherwise offer a Creative Commons open access option. For more information, please see our full <a href=http://www.nature.com/authors/policies/license.html#Creative_commons_licences>policy</a>.</p>
+</div>
+</div>
+</div></div></section><aside><div class="grid grid-4 single-grid-12 last"><div class="hide-overflow standard-space-below"><nav><h2 class="small-space-below line-below mt6">Quick Links</h2><ul class=clean-list><li class="line-below pt10 pb10"><a href=http://www.nature.com/openresearch/about-open-access/what-is-open-access/>What is open access?</a><li class="line-below pt10 pb10"><a href=http://www.nature.com/openresearch/about-open-access/benefits-for-authors/>Benefits for authors</a><li class="line-below pt10 pb10"><a href=http://www.nature.com/openresearch/publishing-with-npg/>Nature Research open access</a><li class="line-below pt10 pb10"><a href=http://www.nature.com/openresearch/publishing-with-palgrave-macmillan/>Palgrave Macmillan open access</a><li class="line-below pt10 pb10"><a href=http://www.nature.com/openresearch/about-open-access/information-for-institutions/>Institutional support</a><li class="line-below pt10 pb10"><a href=http://www.nature.com/partnerpublishing/>Partner publishing</a></ul></nav></div><div class="hide-overflow standard-space-below"><div data-track-click="email_click" data-track-source="default_page"><h2 class="line-below small-space-below mt6">Contact us</h2><div><p>If you would like more information about publishing open access please email us on:</p>
+<p><strong>For titles on nature.com: </strong><br>
+<a href=mailto:openaccess@nature.com>openaccess@nature.com</a></p>
+<p><strong>For Palgrave Macmillan: </strong><br>
+<a href=mailto:openaccess@palgrave.com>openaccess@palgrave.com</a></p>

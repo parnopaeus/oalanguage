@@ -1,0 +1,295 @@
+﻿ <div id="ContentColumn" class="page-column page-column--center">
+            
+                    <div class="article-browse-top article-browse-mobile-nav">
+                        <div class="article-browse-mobile-nav-inner">
+                            <button class="toggle-left-col toggle-left-col__article btn-as-link">
+                                Open Access navigation
+                            </button>
+                        </div>
+                    </div>
+                <div class="widget widget-SelfServeContent widget-instance-OupSelfServePage">
+        
+<img alt="" src="//oup.silverchair-cdn.com/ImageLibrary/journals/banner-open-access.jpg" />
+<h1>Oxford Open
+</h1>
+<h2>OUP supports Open Access</h2>
+<p>Oxford University Press (OUP) is mission-driven to facilitate the widest possible dissemination of high-quality research. We
+embrace both green and gold open access (OA) publishing to support this mission.</p>
+<h2>A proven track record of success</h2>
+<p>OUP has been publishing OA content since 2004. Since that time, &lsquo;gold&rsquo; OA has grown dramatically and proven effective
+in some disciplines. For example, <a href="https://academic.oup.com/nar">Nucleic Acids Research</a> moved from a subscription
+publication to an OA model in 2005 and has gone from strength to strength, earning its highest impact factor ever in 2013.<br />
+<br />
+We have also successfully launched or taken over high-quality OA titles, including: <a href="https://academic.oup.com/gbe">Genome
+Biology and Evolution</a>, <a href="https://academic.oup.com/jla">Journal of Legal Analysis</a>, <a href="https://academic.oup.com/ptep">Progress of Theoretical and Experimental Physics</a>, and <a href="https://academic.oup.com/database">Database</a>.</p>
+<p>OUP facilitates green OA either by allowing authors to deposit versions of their manuscripts in institutional or subject
+repositories after a specified time period, or depositing the version of record on their behalf.</p>
+<h2>Supporting the evolution of Open Access publishing</h2>
+<p>Sustainable, high-quality OA publishing requires either funding to be available to pay for Article Processing Charges,
+sponsorship, or suitable embargo periods. This limits which journals, disciplines, and fields can shift to OA, a process that
+requires the support of the relevant research community, scholarly societies, and associations.<br />
+<br />
+For the foreseeable future, we expect a mixed business model publishing industry. In some areas, gold OA will be the best option; in
+others it will be the subscription model, with provision for green OA after specified periods. As the academic and professional
+communities evolve and adjust this mix, OUP will continue to drive and support progress in this area.<br />
+<br />
+OUP operates two different open access models:</p>
+<ul class="bullet">
+    <li>An <strong>optional open access </strong>model (<em>Oxford Open</em>) for the majority of our journals. Please see the
+    individual journal home pages to find out whether they offer optional open access.</li>
+    <li>OUP also publish fully open access journals</li>
+</ul>
+<div class="scroller">
+<!--<a href="" class="scrollerPrevious"></a>-->
+<h3>Fully Open Access journals</h3>
+<div class="scrollerItems">
+<div class="scrollerItem">
+<a href="https://academic.oup.com/aobpla"><img alt="AoB PLANTS" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-aobpla.gif" /></a>
+<a href="https://academic.oup.com/aobpla">AoB PLANTS</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/af"><img alt="Animal Frontiers" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-animalfrontiers.jpg" /></a>
+<a href="https://academic.oup.com/af">Animal Frontiers</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/amt"><img alt="Arthropod Management Tests" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-amtest.jpg" /></a>
+<a href="https://academic.oup.com/amt">Arthropod Management Tests</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/abt" target="_blank"><img alt="" src="//oup.silverchair-cdn.com/ImageLibrary/journals/abt.jpg" /></a><a href="https://academic.oup.com/abt">Antibody Therapeutics</a><br />
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/biomethods"><img alt="Biology Methods and Protocols" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-
+biomap.gif" /></a>
+<a href="https://academic.oup.com/biomethods">Biology Methods and Protocols</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/biohorizons"><img alt="Bioscience Horizons" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-biohor.gif" /></a>
+<a href="https://academic.oup.com/biohorizons">Bioscience Horizons</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/ce"><img alt="Clean Energy" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-ce.jpg" /></a>
+<a href="https://academic.oup.com/ce">Clean Energy</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/ckj"><img alt="Clinical Kidney Journal" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-ndtpls.gif" /></a>
+<a href="https://academic.oup.com/ckj">Clinical Kidney Journal</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/conphys"><img alt="Conservation Physiology" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-conphy.gif" /></a>
+<a href="https://academic.oup.com/conphys">Conservation Physiology</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/cdn"><img alt="Current Developments in Nutrition" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-cdn.jpg" /></a>
+<a href="https://academic.oup.com/cdn">Current Developments in Nutrition</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/cz"><img alt="Current Zoology" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-czoolo.jpg" /></a>
+<a href="https://academic.oup.com/cz">Current Zoology</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/database"><img alt="DATABASE" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-databa.gif" /></a>
+<a href="https://academic.oup.com/database">DATABASE</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/dnaresearch"><img alt="DNA Research" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-dnares.gif" /></a>
+<a href="https://academic.oup.com/dnaresearch">DNA Research</a>
+</div>
+<div class="scrollerItem">
+
+<a href="https://academic.oup.com/climatesystem"><img alt="Dynamics and Statistics of the Climate System: An Interdisciplinary Journal" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-dsclij.gif" /></a>
+<a href="https://academic.oup.com/climatesystem">Dynamics and Statistics of the Climate System: An Interdisciplinary Journal</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/eep"><img alt="" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-eepige.gif" /></a>
+<a href="https://academic.oup.com/eep">Environmental Epigenetics</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/ehjcr"><img alt="" src="//oup.silverchair-cdn.com/ImageLibrary/journals/oacarousel-EHJCR.jpg" /></a>
+<a href="https://academic.oup.com/ehjcr">European Heart Journal - Case Reports</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/emph"><img alt="Evolution, Medicine &amp; Public Health" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-emphea.gif" /></a>
+<a href="https://academic.oup.com/emph">Evolution, Medicine &amp; Public Health</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/fqs"><img alt="Food Quality and Safety" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-FQS.jpg" /></a>
+<a href="https://academic.oup.com/fqs">Food Quality and Safety</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/gastro"><img alt="Gastroenterology Report" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-gastro.gif" /></a>
+<a href="https://academic.oup.com/gastro">Gastroenterology Report</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/gbe"><img alt="Genome Biology and Evolution" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-gbevol.gif" /></a>
+<a href="https://academic.oup.com/gbe">Genome Biology and Evolution</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/gigascience"><img alt="GigaScience" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover%20-%20GigaScience.jpg" /></a>
+<a href="https://academic.oup.com/gigascience">GigaScience</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/hropen"><img alt="Human Reproduction Open" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover%20-%20hropen.jpg" /></a>
+<a href="https://academic.oup.com/hropen">Human Reproduction Open</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/innovateage"><img alt="Innovation in Aging " src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover%20-%20innovateage.jpg" /></a>
+<a href="https://academic.oup.com/innovateage">Innovation in Aging</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/iob"><img alt="Integrative Organismal Biology" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover_iob.jpg" /></a>
+<a href="https://academic.oup.com/iob">Integrative Organismal Biology</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/ijlct"><img alt="International Journal of Low-Carbon Technologies" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-ijolct.gif" /></a>
+<a href="https://academic.oup.com/ijlct">International Journal of Low-Carbon Technologies</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/ijnp"><img alt="International Journal of Neuropsychopharmacology" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-ijnppy.jpg" /></a>
+<a href="https://academic.oup.com/ijnp">International Journal of Neuropsychopharmacology</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jamiaopen"><img alt="JAMIA Open" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-jamiaopencarousel.jpg" /></a>
+<a href="https://academic.oup.com/jamiaopen">JAMIA Open</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jcag"><img alt="Journal of the Canadian Association of Gastroenterology" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-jcag.jpg" /></a>
+<a href="https://academic.oup.com/jcag">Journal of the Canadian Association of Gastroenterology</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/integrablesystems"><img alt="Journal of Integrable Systems" src="https://oup.silverchair-cdn.com/ImageLibrary/temp_covers/integrablesystems.gif" /></a>
+<a href="https://academic.oup.com/integrablesystems">Journal of Integrable Systems</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jncics"><img alt="JNCI Cancer Spectrum " src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover%20-%20JNCI_Cancer%20Spectrum.jpg" /></a>
+<a href="https://academic.oup.com/jncics">JNCI Cancer Spectrum </a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/cybersecurity"><img alt="Journal of Cybersecurity" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-cybers.gif" /></a>
+<a href="https://academic.oup.com/cybersecurity">Journal of Cybersecurity</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jhps"><img alt="Journal of Hip Preservation Surgery" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-jhpsur.gif" /></a>
+<a href="https://academic.oup.com/jhps">Journal of Hip Preservation Surgery</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jipm"><img alt="Journal of Integrated Pest Management" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-jipman.jpg" /></a>
+<a href="https://academic.oup.com/jipm">Journal of Integrated Pest Management</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jinsectscience"><img alt="Journal of Insect Science" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-jisesa.jpg" /></a>
+<a href="https://academic.oup.com/jinsectscience">Journal of Insect Science</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jlb"><img alt="Journal of Law and the Biosciences" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-jlbios.gif" /></a>
+<a href="https://academic.oup.com/jlb">Journal of Law and the Biosciences</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jla"><img alt="Journal of Legal Analysis" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-jlaj.gif" /></a>
+<a href="https://academic.oup.com/jla">Journal of Legal Analysis</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jrr"><img alt="Journal of Radiation Research" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-radres.gif" /></a>
+<a href="https://academic.oup.com/jrr">Journal of Radiation Research</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jscr"><img alt="JSCR" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-jscrep.jpg" /></a>
+<a href="https://academic.oup.com/jscr">JSCR</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jes"><img alt="Journal of the Endocrine Society" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover%20-%20JES.jpg" /></a>
+<a href="https://academic.oup.com/jes">Journal of the Endocrine Society</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/jue"><img alt="Journal of Urban Ecology" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-juecol.gif" /></a>
+<a href="https://academic.oup.com/jue">Journal of Urban Ecology</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/nc"><img alt="Neuroscience of Consciousness" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-nconsc.jpg" /></a>
+<a href="https://academic.oup.com/nc">Neuroscience of Consciousness</a>
+</div>
+<div class="scrollerItem"><a>
+</a><a href="https://academic.oup.com/nar"><img alt="Nucleic Acids Research" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-narese.gif" />
+</a><a href="https://academic.oup.com/nar">Nucleic Acids Research</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/ofid"><img alt="Open Forum Infectious Diseases" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-ofidis.gif" /></a>
+<a href="https://academic.oup.com/ofid">Open Forum Infectious Diseases</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/omcr"><img alt="Oxford Medical Case Reports" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-omcrep.gif" /></a>
+<a href="https://academic.oup.com/omcr">Oxford Medical Case Reports</a>
+</div>
+<div class="scrollerItem"><a href="https://academic.oup.com/pcm"><img alt="" src="//oup.silverchair-cdn.com/ImageLibrary/journals/pcm.jpg" /></a><a href="https://academic.oup.com/pcm">Precision Clinical Medicine</a><br />
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/ptep"><img alt="Progress of Theoretical and Experimental Physics" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-ptephy.gif" /></a>
+<a href="https://academic.oup.com/ptep">Progress of Theoretical and Experimental Physics</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/rb"><img alt="Regenerative Biomaterials" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-regbio.jpg" /></a>
+<a href="https://academic.oup.com/rb">Regenerative Biomaterials</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/rheumap"><img alt="Rheumatology Advances in Practice" src="//oup.silverchair-cdn.com/ImageLibrary/temp_covers/rheumap.gif" /></a>
+<a href="https://academic.oup.com/rheumap">Rheumatology Advances in Practice</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/scan"><img alt="Social Cognitive &amp; Affective Neuroscience" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover%20-%20SCAN.jpg" /></a>
+<a href="https://academic.oup.com/scan">Social Cognitive &amp; Affective Neuroscience</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/synbio"><img alt="Synthetic Biology" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-synbio.gif" /></a>
+<a href="https://academic.oup.com/synbio">Synthetic Biology</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/imatrm"><img alt="Transactions of Mathematics and its Applications" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-%20imatrm.jpg" /></a>
+<a href="https://academic.oup.com/imatrm">Transactions of Mathematics and its Applications</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/tas"><img alt="Translational Animal Science" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-tas.jpg" /></a>
+<a href="https://academic.oup.com/tas">Translational Animal Science</a>
+</div>
+<div class="scrollerItem">
+<a href="https://academic.oup.com/ve"><img alt="Virus Evolution" src="//oup.silverchair-cdn.com/ImageLibrary/journals/cover-vevolu.gif" /></a>
+<a href="https://academic.oup.com/ve">Virus Evolution</a>
+</div>
+</div>
+<!--<a href="" class="scrollerNext"></a>-->
+</div>
+<h2>Overview of optional Open Access</h2>
+<p>Through <em>Oxford Open</em>, authors of accepted papers are given the option of paying an open access publication charge to make
+their paper freely available online immediately via the journal website, meaning that readers will not need a journal subscription
+to view open access content. If an author does not choose to pay the open access publication charge, their paper will be published
+in the normal manner, and will not be made freely available online immediately. Therefore there will be a mixture of non-open access
+and open access papers within each journal. Open access articles will be clearly indicated on the journal's online contents
+page.</p>
+<p>In order to view the non-open access content in participating journals, a current subscription to the journal will be required.
+Online, print and combined subscription options will continue to be available to institutions. The amount of open access content in
+each journal is regularly analysed, and this will impact the future online subscription prices - generally speaking, the more open
+access content published in a journal, the lower the future online subscription prices will be.</p>
+<p><strong>The majority of our journals offer the optional open access option. Please visit the individual journal homepages and
+look out for the <em>Oxford Open</em> logo in the sidebar to see whether they are included in the <em>Oxford Open</em> initiative.
+</strong><br />
+<br />
+This optional open access initiative is in addition to our fully open access journals detailed above.<br />
+<br />
+NB Payment of the open access charge will be required from all authors who have selected the open access option <strong>at the time
+when the <em>Oxford Open</em> licence is signed</strong>.</p>
+<h2>Open Access resources</h2>
+<h3>OA at OUP</h3>
+<ul>
+    <li><a href="https://academic.oup.com/journals/pages/open_access/books">Open Access Books</a></li>
+    <li><a href="https://academic.oup.com/journals/pages/open_access/oxford_open_faqs">Frequently Asked Questions</a></li>
+</ul>
+<h3>Licenses, policies &amp; charges</h3>
+<ul>
+    <li><a href="https://academic.oup.com/journals/pages/open_access/licences">Licences</a></li>
+    <li><a href="https://academic.oup.com/journals/pages/open_access/charges">Charges</a></li>
+    <li><a href="https://academic.oup.com/journals/pages/open_access/funder_policies">Complying with Funder Policies</a></li>
+</ul>
+<h3>Communications</h3>
+<ul>
+    <li><a href="https://academic.oup.com/journals/pages/open_access/outreach">Outreach</a></li>
+    <li><a href="https://academic.oup.com/journals/pages/open_access/case_studies">Case Studies</a></li>
+</ul>

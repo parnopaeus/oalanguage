@@ -1,0 +1,88 @@
+﻿ <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2 class="heading-medium margin-top--large"><strong>What is Open Access Publishing?</strong></h2>
+<p>A paper published via an open access (OA) route means that that research literature is free-to-view by anyone in the world via the internet and to reuse with attribution under a <a href="https://creativecommons.org/licenses/">Creative Commons licence</a> or equivalent.</p>
+<p>	There are three distinct types of open access all of which are available at SAGE:</p>
+<blockquote><p><a href="https://us.sagepub.com/en-us/nam/pure-gold-open-access-journals-at-sage"><strong>Pure ‘Gold’ Open Access Publishing</strong></a>: Articles are peer reviewed, selected and formally published and then made available with no subscription pay-walls. The full-text of articles are freely available online immediately upon publication. Authors will have agreed to publish work with one of the <a href="https://us.sagepub.com/en-us/nam/re-use-of-open-access-content#summary">Creative Commons licences</a> which enable them to retain copyright while allowing others to copy, distribute, and make some uses of their work. Most <a href="https://us.sagepub.com/en-us/nam/pure-gold-open-access-journals-at-sage">SAGE pure gold OA journals</a> are supported by the payment of an article processing charge (APC) by the author, institution or research funder of the accepted manuscript. Frequently asked questions are below.</p>
+<p><a href="https://us.sagepub.com/en-us/nam/sage-choice"><strong>SAGE Choice</strong></a><strong> is SAGE's hybrid 'gold' open access</strong> offering. This is the practise of making articles published in traditional subscription journals freely available under a more permissive <a href="https://us.sagepub.com/en-us/nam/re-use-of-open-access-content#summary">Creative Commons licence</a> for an article processing charge.</p>
+<p><a href="https://us.sagepub.com/en-us/nam/journal-author-archiving-policies-and-re-use"><strong>‘Green’ Open Access Archiving</strong></a><strong>:</strong> This relates to the practise of archiving a version of the article somewhere other than the publisher’s website where the final version of the article is hosted. It normally refers to the archiving of the final accepted version of the authors manuscript, with all referees’ comments addressed and revisions made but before it has entered the production process. This is typically archived in an institutional or subject specific repository, on the author’s personal website or on one of the new generation of academic networking sites.</p>
+</blockquote>
+<h2 class="heading-medium margin-top--large"><strong>Pure Gold Open Access Publication: Frequently Asked Questions</strong></h2>
+<ol class="list-branded">
+<li><a href="#whypublish">Why should I publish open access?</a></li>
+<li><a href="#peerreview">What about peer review?</a></li>
+<li><a href="#libsubs">Does my librarian need a subscription?</a></li>
+<li><a href="#print">Is there a printed version?</a></li>
+<li><a href="#copyright">Who retains copyright?</a></li>
+<li><a href="#cite">How do I cite an open access article?</a></li>
+<li><a href="#attribute">How do I attribute when re-using content in an open access article?</a> <a name="whypublish" id="whypublish"></a></li>
+<li><a href="#apc">Why is there an Article Processing Charge (APC)?</a></li>
+<li><a href="#payment">Can an institution pay the article processing charge charge for authors?</a></li>
+<li><a href="#tax">Is tax included? </a></li>
+<li><a href="#discounts">Are discounts available? </a></li>
+<li><a href="#author">What should I do if I cannot pay the OA article processing charge? </a></li>
+</ol>
+<p> </p>
+<p><strong>1. Why should I publish open access?</strong></p>
+<p>Authors choose open access (OA) publication for a number of reasons:</p>
+<ul class="list-branded">
+<li>It means anyone anywhere in the world can read, use and cite your research, which leads to greater visibility and impact, and may encourage collaborations and faster developments in that field</li>
+<li>Authors often retain more control over and rights to distribute and re-use of their intellectual property <strong><a id="peerreview2" name="peerreview"></a></strong></li>
+<li>Funders may require outputs for their funded research to be made open access</li>
+<li>In many countries, much of the research is paid for by the taxpayer, therefore, OA allows the general public to access the research they have contributed towards<strong><a id="print" name="print"></a></strong></li>
+</ul>
+<p><strong><a id="libsubs2" name="libsubs"></a>2. What about peer review?</strong></p>
+<p>SAGE has been publishing quality journals since 1965. We ensure that the same high standards of rigorous peer review are employed on its OA journals as are used on its subscription journals. This is upheld by the journals’ editors. Journals are members of <a href="http://publicationethics.org/about" target="_blank">Committee on Publishing Ethics</a>. Each journal will have a peer review policy clearly outlined in its Submission Guidelines.</p>
+<p><strong>3. Does my librarian need a subscription?</strong><br />
+	OA articles are free to anyone (individuals, libraries and institutions) with internet access. Therefore, a subscription is unnecessary to access and re-use articles. Individuals can register to receive email alerts for all OA journals.<strong><a id="copyright2" name="copyright"></a></strong></p>
+<p><strong>4. Is there a printed version?</strong><br />
+	Generally, pure gold OA journals are entirely online with no printed edition of any published articles. However, reprints are available, if requested.<strong><a id="cite2" name="cite"></a></strong></p>
+<p><strong>5. Who retains copyright?</strong><br />
+	Authors retain copyright under the terms outlined by the <a href="https://us.sagepub.com/en-us/nam/re-use-of-open-access-content#summary">Creative Commons licences</a> while allowing others to copy, distribute, and make some uses of their work – at least non-commercially. Every Creative Commons licence also ensures authors get the credit for their work. The licences work around the world and lasts as long as applicable copyright lasts. Most SAGE pure gold OA journals will offer a selection of these licences, usually, with one default licence. Please check the individual journal licence policy.</p>
+<p><strong>6. How do I cite an open access article?</strong><br />
+	Each OA manuscript is citeable using the date of the manuscript's first online posting and the Digital Object Identifier (DOI). DOIs are assigned to all SAGE content for use on digital networks; and the metadata associated with that content is registered with the <a href="http://www.doi.org" target="_blank">DOI Foundation</a>. DOIs provide a consistent, permanent way to identify manuscripts published in the online environment. Some OA journals will still publish ‘issues’ so information such as volume, issue, and page numbers will still be allocated to articles. With continuous publication, where there is no issue or page number, manuscripts should be cited as follows: <strong><a id="attribute2" name="attribute"></a></strong></p>
+<ul class="list-branded">
+<li>
+<ul class="list-branded">
+<li>David Pauleen, John Campbell, Brian Harmer, Ali Intezari (2015). Making Sense of Mobile Technology: The Integration of Work and Private Life. <i>SAGE Open</i>. DOI: 10.1177/2158244015583859</li>
+</ul>
+</li>
+</ul>
+<p>Each article DOI is registered with <a href="http://www.crossref.org" target="_blank">CrossRef</a>, allowing permanent resolution to each article and giving publishers the ability to link their references to articles whenever they are cited.</p>
+<p><strong>7. How do I attribute when re-using content in an open access article?</strong></p>
+<p>If you are re-using SAGE OA content, it must be accompanied by an attribution that includes the following information about the original work: <strong><a id="apc2" name="apc"></a></strong></p>
+<ul class="list-branded">
+<li>
+<ul class="list-branded">
+<li>Author(s)</li>
+<li>Article Title</li>
+<li>Journal Title</li>
+<li>DOI</li>
+<li>Volume (if applicable)</li>
+<li>Issue (if applicable)</li>
+<li>Page numbers (if applicable)</li>
+<li>Date of publication</li>
+<li>SAGE as the original publisher</li>
+<li>A link to the original article as published on SAGE Journals (where practicable)</li>
+</ul>
+</li>
+</ul>
+<p>For more information, you are advised to visit <a href="https://us.sagepub.com/en-us/nam/re-use-of-open-access-content">SAGE's OA licences page</a></p>
+<p><strong>8. Why is there an Article Processing Charge (APC)?<a id="payment2" name="payment"></a></strong><br />
+	Although the publication is OA, there are costs at every stage of the publication process, including but not limited to running peer-review systems, copyediting and typesetting, hosting the article in perpetuity on dedicated servers and marketing. APCs vary from journal to journal, and discounts may be available. Most SAGE OA journals are supported by APCs.</p>
+<p><strong>9. Can an institution pay the article processing charge for authors?<a id="tax2" name="tax"></a></strong><br />
+	It is ultimately the responsibility of the author(s) to arrange payment of the open access article processing charge. However, a number of institutions and funding organizations (e.g., the Wellcome Trust) have declared their willingness to make additional funds available to cover the costs of open access publication.</p>
+<p>Your institution may have an <a href="https://us.sagepub.com/en-us/nam/can-your-library-help-you-publish-open-access">Open Access Prepaid Account</a> with SAGE, in which case, you should contact your open access coordinator or librarian at your institution to retrieve your Open Access Prepaid Account code.</p>
+<p><strong>10. Is tax included? <a id="discounts2" name="discounts"></a></strong></p>
+<p>No, taxes are not included in the APC. If the <strong>payer</strong> of the APC is in:</p>
+<ul class="list-branded">
+<li>the European Union value added tax (VAT) will be added to the final invoice. Providing a VAT registration number will allow an institution or company to be exempt from paying this tax, except for those in the UK</li>
+<li>Australia goods and services tax (GST) will be added to the final invoice. Providing a valid Australian business number (ABN) will allow an institution or company to be exempt from paying this tax.</li>
+<li>Canada goods and services tax (GST)/harmonized sales tax (HST) will be added to the final invoice dependent on province</li>
+</ul>
+<p>For many journals, the currency of the APC is set by the geographical region of the corresponding author and cannot be changed by the payer.</p>
+<p><strong>11. Are discounts available? <a id="author2" name="author"></a></strong><br />
+	Availability of discounts varies from journal to journal, but may be available to society members, obtained via marketing emails, or there may be an introductory rate offered. Please check the <a href="https://us.sagepub.com/en-us/nam/pure-gold-open-access-journals-at-sage">specific journal’s homepages</a> for details.</p>
+<p><strong>12. What should I do if I cannot pay the OA article processing charge? </strong><br />
+	You could consider publishing in any SAGE subscription journal, then under <a href="https://us.sagepub.com/en-us/nam/funding-bodies-policies-and-compliance">SAGE’s open access archiving policy</a> you can deposit your article in your own institution’s repository immediately at no charge. However, if you wish to publish in a pure gold open access journal, but you genuinely cannot afford the article processing charge (APC) and have no funding from your funder or institution, you should submit a waiver request to the journal when payment is required. Your ability to pay will not affect the editorial peer review outcome. Requests will be assessed on a case-by-case basis and priority for partial and full waivers will be given to authors who reside in the countries described by the Research4Life programme. See which OA journals are included in our <a href="https://us.sagepub.com/en-us/nam/gold-open-access-article-processing-charge-waivers">SAGE waiver scheme</a>. Waiver requests are assessed and granted by SAGE, not the Editor or editorial board, to ensure editorial independence.</p>
+<p>If you have any further open access queries or questions, please do not hesitate to contact the team: <a href="mailto:openaccess@sagepub.com">openaccess@sagepub.com</a></p>
+</div></div></div>

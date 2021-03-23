@@ -1,0 +1,4 @@
+﻿<article>
+							<section class="wordpress__content">
+								<p>Outlined below are the OA options across all Taylor &amp; Francis Group journals. You can use this table to check which journals offer gold OA, current article publishing charges (APCs), green OA embargo periods, and which licenses you can choose to publish under.</p>
+<p>For definitions of &#8216;gold open access&#8217;, &#8216;AM (Accepted Manuscript)&#8217;, &#8216;green open access&#8217;, and everything you need to know to publish OA, see: <a href="https://authorservices.taylorandfrancis.com/publishing-open-access">Publishing your research open access</a>.</p>

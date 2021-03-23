@@ -1,0 +1,349 @@
+<!-- BEGIN: Guide Content -->
+<div id="s-lg-guide-main" class="container s-lib-main s-lib-side-borders">
+        
+				<div class="row s-lg-row">
+    <div id="s-lg-col-126" class="col-md-12">
+        <div class="s-lg-col-boxes">
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-1" class="col-md-4">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-13748311" class="s-lg-box-wrapper-13748311">
+					<div id="s-lg-box-11660560-container" class="s-lib-box-container">
+						<div id="s-lg-box-11660560" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Further Reading on Open Access
+                                </h2>
+							<div id="s-lg-box-collapse-11660560" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-28046256" class="s-lg-link-list s-lg-link-list-2"><li class="">
+                        
+			<div id="s-lg-content-25317439" class=""><span><a href="https://cyber.harvard.edu/~psuber/wiki/Writings_on_open_access" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25317439'});">Complete list of Peter Suber writings</a> 
+				</span><div id="s-lg-link-desc-25317439" class="s-lg-link-desc">Peter Suber's complete bibliography, with most recent writings listed first.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25318283" class=""><span><a href="http://digital-scholarship.org/tsp/transforming.pdf" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25318283'});">Transforming Scholarly Publishing Through Open Access: A Bibliography - Charles Bailey Jr.</a> 
+				</span><div id="s-lg-link-desc-25318283" class="s-lg-link-desc">A bibliography of literature on open access through 2010. Very comprehensive and thorough compilation</div>
+			</div></li>
+                        
+                            </ul>
+                            </div><div class="">
+                        <ul id="s-lg-link-list-28044048" class="s-lg-link-list s-lg-link-list-5"><li class="">
+                        
+			<div id="s-lg-content-25315323" class="s-lg-book clearfix">
+				<div class="s-lg-book-props">
+						<a href="https://mitpress.mit.edu/books/access-principle" target="_blank" 
+						onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '25315323'});">
+					<span id="s-lg-book-cover-25315323" class="s-lg-book-cover">
+				<img 
+					alt="" 
+					src="//syndetics.com/index.aspx?isbn=0262232421/LC.GIF&client=springshare" 
+					class="pull-left s-lg-book-cover-img-0" 
+				/>
+					</span>
+					<span id="s-lg-book-title-25315323" class="s-lg-book-title">The Access Principle
+					</span><span id="s-lg-book-by-25315323" class="s-lg-book-by"> by </span><span id="s-lg-book-author-25315323" class="s-lg-book-author">John Willinsky
+					</span></a> <span class="fa fa-lg fa-info-circle"  data-toggle="popover" data-trigger="hover" data-placement="bottom" data-html="true" data-title="Description" data-content="Questions about access to scholarship go back farther than recent debates over subscription prices, rights, and electronic archives suggest. The great libraries of the past&mdash;from the fabled collection at Alexandria to the early public libraries of nineteenth-century America&mdash;stood as arguments for increasing access. In The Access Principle, John Willinsky describes the latest chapter in this ongoing story&mdash;online open access publishing by scholarly journals&mdash;and makes a case..." ></span><div class="s-lg-book-prop-isbn">ISBN: 0262232421</div><div class="s-lg-book-prop-pubdate">Publication Date: 2005</div></div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25317238" class="s-lg-book clearfix">
+				<div class="s-lg-book-props">
+						<a href="http://www.alastore.ala.org/detail.aspx?ID=3281" target="_blank" 
+						onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '25317238'});">
+					<span id="s-lg-book-cover-25317238" class="s-lg-book-cover">
+				<img 
+					alt="" 
+					src="//syndetics.com/index.aspx?isbn=9780838911068/LC.GIF&client=springshare" 
+					class="pull-left s-lg-book-cover-img-0" 
+				/>
+					</span>
+					<span id="s-lg-book-title-25317238" class="s-lg-book-title">Open Access
+					</span><span id="s-lg-book-by-25317238" class="s-lg-book-by"> by </span><span id="s-lg-book-author-25317238" class="s-lg-book-author">Walt Crawford
+					</span></a> <span class="fa fa-lg fa-info-circle"  data-toggle="popover" data-trigger="hover" data-placement="bottom" data-html="true" data-title="Description" data-content="Academic libraries routinely struggle to afford access to expensive journals, and patrons may not be able to obtain every scholarly paper they need. Is Open Access (OA) the answer? In this ALA Editions Special Report, Crawford helps readers understand what OA is (and isn&#039;t), as he concisely; Analyzes the factors that have brought us to the current state of breakdown, including the skyrocketing costs of science, technology, engineering, and medicine (STEM) journals; consolidation of..." ></span><div class="s-lg-book-prop-isbn">ISBN: 9780838911068</div><div class="s-lg-book-prop-pubdate">Publication Date: 2011</div></div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25317337" class="s-lg-book clearfix">
+				<div class="s-lg-book-props">
+						<a href="http://bit.ly/oa-book" target="_blank" 
+						onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '25317337'});">
+					<span id="s-lg-book-cover-25317337" class="s-lg-book-cover">
+				<img 
+					alt="" 
+					src="//syndetics.com/index.aspx?isbn=9780262517638/LC.GIF&client=springshare" 
+					class="pull-left s-lg-book-cover-img-0" 
+				/>
+					</span>
+					<span id="s-lg-book-title-25317337" class="s-lg-book-title">Open Access
+					</span><span id="s-lg-book-by-25317337" class="s-lg-book-by"> by </span><span id="s-lg-book-author-25317337" class="s-lg-book-author">Peter Suber
+					</span></a> <span class="fa fa-lg fa-info-circle"  data-toggle="popover" data-trigger="hover" data-placement="bottom" data-html="true" data-title="Description" data-content="The Internet lets us share perfect copies of our work with a worldwide audience at virtually no cost. We take advantage of this revolutionary opportunity when we make our work &quot;open access&quot;: digital, online, free of charge, and free of most copyright and licensing restrictions. Open access is made possible by the Internet and copyright-holder consent, and many authors, musicians, filmmakers, and other creators who depend on royalties are understandably unwilling to give their consent...." ></span><div class="s-lg-book-prop-isbn">ISBN: 9780262517638</div><div class="s-lg-book-prop-pubdate">Publication Date: 2012</div></div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25317382" class="s-lg-book clearfix">
+				<div class="s-lg-book-props">
+						<a href="http://bit.ly/ku-book" target="_blank" 
+						onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '3',_st_content_id: '25317382'});">
+					<span id="s-lg-book-cover-25317382" class="s-lg-book-cover">
+				<img 
+					alt="" 
+					src="//syndetics.com/index.aspx?isbn=9780262029902/LC.GIF&client=springshare" 
+					class="pull-left s-lg-book-cover-img-0" 
+				/>
+					</span>
+					<span id="s-lg-book-title-25317382" class="s-lg-book-title">Knowledge Unbound - Selected Writings on Open Access, 2002-2010
+					</span><span id="s-lg-book-by-25317382" class="s-lg-book-by"> by </span><span id="s-lg-book-author-25317382" class="s-lg-book-author">Peter Suber
+					</span></a> <span class="fa fa-lg fa-info-circle"  data-toggle="popover" data-trigger="hover" data-placement="bottom" data-html="true" data-title="Description" data-content="Peter Suber has been a leading advocate for open access since 2001 and has worked full time on issues of open access since 2003. As a professor of philosophy during the early days of the internet, he realized its power and potential as a medium for scholarship. As he writes now, &quot;it was like an asteroid crash, fundamentally changing the environment, challenging dinosaurs to adapt, and challenging all of us to figure out whether we were dinosaurs.&quot; When Suber began putting his writings..." ></span><div class="s-lg-book-prop-isbn">ISBN: 9780262029902</div><div class="s-lg-book-prop-pubdate">Publication Date: 2016</div></div>
+			</div></li>
+                        
+                            </ul>
+                            </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+							<div id="s-lg-box-wrapper-13748316" class="s-lg-box-wrapper-13748316">
+					<div id="s-lg-box-11660565-container" class="s-lib-box-container">
+						<div id="s-lg-box-11660565" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Planning Open Access Week at Your Library
+                                </h2>
+							<div id="s-lg-box-collapse-11660565" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-25339367" class="  clearfix">
+				<p style="text-align: center;"><img alt="open access week logo" src="//s3.amazonaws.com/libapps/accounts/106628/images/OAweeklogo1.jpg" style="width: 400px; height: 111px;" /></p>
+
+<p><a href="http://www.openaccessweek.org/" target="_blank">Open Access Week</a> is an annual scholarly communication event focusing on open access and related topics. Open Access events occur across the global both on- and offline, usually in October. Typical activities include talks, seminars, symposia, or the announcement of open access mandates or other milestones in open access. The following resources are available to assist libraries with their Open Access Week planning:</p>
+
+<ul>
+	<li><a href="https://youtu.be/xaAh4PfPdRs">ACRL Presents: Open Data Repositories: Creating Equitable and Sustainable Data Access</a> (Video, 2018)</li>
+	<li><a href="https://www.youtube.com/watch?v=7erd303P0Mg">ACRL Presents: What We Talk About When We Talk About Open Access</a> (Video, 2017)</li>
+	<li><a href="https://www.youtube.com/watch?v=UUlW5B7BdZU" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=yes,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">ACRL Presents: Celebrate Open Access Week: All 52 Weeks of the Year</a> (Video, 2015)</li>
+	<li><a href="https://www.youtube.com/watch?v=dgINbk5st3Y" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=yes,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">ACRL Presents:&nbsp;Celebrating Open Access Week Scholarly Communication Initiatives at Academic Libraries</a> (Video, 2014)</li>
+	<li><a href="https://www.youtube.com/watch?v=uGt7_9_BYxc" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=yes,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">Right to Research Coalition:&nbsp;Best Actions for Open Access Week</a>&nbsp;(Video, 2015)</li>
+	<li><a href="https://www.youtube.com/watch?v=UeaULYbiFz0" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=yes,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">Right to Research Coalition: Top Tips for Open Access Week</a>&nbsp;(Video, 2014)</li>
+	<li><a href="https://kuscholarworks.ku.edu/handle/1808/13695" style="color: rgb(35, 82, 124); text-decoration-line: underline; outline: 0px;" target="_blank">University of Kansas -&nbsp;Open Access Week: It Takes a Village</a>&nbsp;(PDF Slides, 2014)</li>
+	<li><a href="https://digitalcommons.du.edu/collaborativelibrarianship/vol3/iss4/3/" target="_blank">Collaborative Librarianship: Incorporating Existing Library Partnerships into&nbsp;Open Access Week Events</a>&nbsp;(PDF Article, 2011)</li>
+	<li><a href="http://sparc.arl.org/sites/default/files/presentation_files/tmsv2.pdf" target="_blank">ARL: Open Access Week - Library Strategies for Advancing Change</a> (PDF, 2010)</li>
+</ul>
+
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+							<div id="s-lg-box-wrapper-14193016" class="s-lg-box-wrapper-14193016">
+					<div id="s-lg-box-12030578-container" class="s-lib-box-container">
+						<div id="s-lg-box-12030578" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Open Access Publishing - Studies on Business Models
+                                </h2>
+							<div id="s-lg-box-collapse-12030578" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-25318983" class="  clearfix">
+				<ul style="line-height: 20.8px;">
+	<li><a href="https://osc.hul.harvard.edu/programs/journal-flipping/" style="line-height: 20.8px;" target="_blank">Harvard Journal Flipping Project</a><span style="line-height: 20.8px;">&nbsp;-&nbsp;project to gather options and best practices on converting subscription-based scholarly journals to open access. This is a response to the serials crisis as well as an open access initiative.</span></li>
+	<li><a href="http://icis.ucdavis.edu/?page_id=713" target="_blank">Pay it Forward Project&nbsp;</a>- investigation&nbsp;into a sustainable model of open access article processing charges<br />
+	for large north American research institutions</li>
+</ul>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+    <div id="s-lg-col-2" class="col-md-4">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-13748294" class="s-lg-box-wrapper-13748294">
+					<div id="s-lg-box-11660545-container" class="s-lib-box-container">
+						<div id="s-lg-box-11660545" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Open Access - A Brief History and Explanation
+                                </h2>
+							<div id="s-lg-box-collapse-11660545" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-25314310" class="  clearfix">
+				<p><img alt="" src="//s3.amazonaws.com/libapps/accounts/106628/images/Open_Access_Logo.png" style="border-width: 0px; border-style: solid; float: left; width: 75px; height: 106px; margin: 0px 10px;" />The launch of the internet nearly 30 years ago allowed for the development of the concept of open access. Early open access initiatives included the launch of the&nbsp;online subject repository <a href="https://arxiv.org/" target="_blank">arXiv</a>&nbsp;in 1991, the publication of several free, peer reviewed online journals in the early 1990s,&nbsp;and the development of the National Institute of Health&#39;s repository <a href="https://www.ncbi.nlm.nih.gov/pmc/" target="_blank">PubMedCentral</a> in 2000. Then, in 2002 and 2003, three distinct meetings took place in Budapest, Berlin and Bethesda which gave rise to a formal and still globally accepted definition of &quot;open access.&quot;&nbsp;The widely accepted definition of open access literature is as follows: Open access literature is digital, online free of charge, and free of most copyright and licensing restrictions.<sup>1</sup></p>
+
+<p><span style="line-height: 22.272px;">Although costs for digital publishing can be lower than print publications, open access publishing is not free. Instead of charging the reader for access through purchase or subscription, alternative business models have arisen that provide the publishers with the financial means for providing access to scholarship. One cost recovery model is the implementation of article processing charges (APCs). These charges are paid by the author (who may get assistance from research grants, his university, or his library) prior to publication. Production costs can also be offset by the sale of memberships,&nbsp;add-ons and enhanced services by the publisher. In some cases, journals are fully subsidized by a sponsoring institution, funder or other organization without charging authors or readers.&nbsp;However, while open access publishing has the potential to reduce costs, this is not the only driving force behind open access advocacy. The benefits to individual scholars, related institutions, scholarly communication, and the general researching public are also primary motivating factors.</span></p>
+
+<p>There are two primary routes&nbsp;in which open access literature can be published or otherwise made available. These two routes are frequently described as &quot;gold open access&quot; and &quot;green open access.</p>
+
+<ul>
+	<li><strong>Gold Open Access</strong> is when an author publishes&nbsp;in an Open Access Journal.&nbsp;The article is published in an open access journal that provides immediate open access to all of its articles on the publisher&#39;s website.&nbsp;<span style="line-height: 20.8px;">The term &quot;Hybrid Open&nbsp;</span>Acess<span style="line-height: 20.8px;">&quot; is also sometimes used to describe an open access model where a journal provides gold open access only for those individual articles for which an open access publishing fee has been paid.&nbsp;A common misconception about open access publishing is that it is not peer reviewed. However, many open access journals adhere to the same strict review process as more traditional journals. Peer review is medium-independent, as relevant to online journals as to print journals. It can be carried out in cost effective ways with new supporting software and technologies.</span></li>
+	<li><span style="line-height: 20.8px;"><strong>Green Open Access</strong> is when an author archives a version of their work in an open access repository, irrespective of where it is finally published.&nbsp;After publication, author self-archives a version (peer-reviewed&nbsp;</span>postprint<span style="line-height: 20.8px;">) of the article for free public use in their institutional repository (IR), in a central repository (e.g.,&nbsp;</span>PubMed<span style="line-height: 20.8px;">&nbsp;Central), or on some other open access website.</span></li>
+</ul>
+
+<p><span style="line-height: 22.272px;"></span>There are many ways<sup>2 </sup>that libraries and other institutions&nbsp;can support open access, ranging from simply providing information to enacting open access policies and establishing institutional repositories:</p>
+
+<ul>
+	<li>Preparing guides to open access&nbsp;</li>
+	<li>Encouraging dialog about open access, e.g., through blogs/newsletters</li>
+	<li>Holding&nbsp;Open Access Week&nbsp;events to promote awareness</li>
+	<li>Endorsing statements on open access such as the Berlin Declaration</li>
+	<li>Establishing open access publication funds</li>
+	<li>Establishing institutional repositories</li>
+	<li>Establishing open access databases</li>
+	<li>Issuing open access resolutions and enacting open access policies</li>
+	<li>Purchasing institutional subscriptions that provide discounts on open-access publication fees</li>
+	<li>Negotiating open access agreements with publishers</li>
+	<li>Providing copyright advisory services to researchers</li>
+	<li>Providing assistance in the conversion of institution-based journals to open access journals</li>
+	<li>Forming academic centers devoted to scholarly publishing</li>
+</ul>
+
+<hr />
+<p><span style="font-size:9px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="line-height: 20.8px;"><sup>1</sup> This definition comes from Peter&nbsp;</span>Suber<span style="line-height: 20.8px;">, who is considered the foremost leader and expert on the topic. His&nbsp;</span><a href="http://legacy.earlham.edu/~peters/fos/overview.htm" style="line-height: 20.8px;" target="_blank">Overview of Open Access</a><span style="line-height: 20.8px;">&nbsp;is an excellent brief explanation of what</span><span style="line-height: 20.8px;">&nbsp;open</span><span style="line-height: 20.8px;">&nbsp;access publishing is and why it is an important initiative.</span></span></span></p>
+
+<p><span style="font-size:9px;"><sup>2&nbsp;</sup>This list comes from the <a href="http://cshl.libguides.com/c.php?g=474046&amp;p=3243863" target="_blank">Cold Spring Harbor Laboratory Library Guide to Open Access</a></span></p>
+
+<p>&nbsp;</p>
+		   </div>
+			<div id="s-lg-content-25317627" class="s-lg-widget "><center><iframe width="400" height="275" src="https://www.youtube.com/embed/L5rVH1KGBCY" frameborder="0" allowfullscreen></iframe></center>
+		   </div>
+			<div id="s-lg-content-25317465" class="  clearfix">
+				<p style="line-height: 20.8px;">&nbsp;</p>
+
+<p style="line-height: 20.8px;"><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Further Resources on the History of the Open Access Movement:</strong></span></span></p>
+
+<ul style="line-height: 20.8px;">
+	<li><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;"><a href="http://oad.simmons.edu/oadwiki/Timeline" target="_blank">Open Access Directory Timeline</a>&nbsp;for more details on the history of the open access movement</span></span></li>
+	<li><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;">SciElo&#39;s&nbsp;<a href="http://blog.scielo.org/en/2013/10/21/the-evolution-of-open-access-a-brief-history" target="_blank">Evolution of Open Access: A History</a></span></span></li>
+	<li><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;">Paul&nbsp;Royster&nbsp;(University of Nebraska) - presentation slides on&nbsp;<a href="http://digitalcommons.unl.edu/library_talks/123/" target="_blank">History of Open Access</a>&nbsp;(2016)</span></span></li>
+	<li><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;">&quot;<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020961" target="_blank">Development of Open Access Journal Publishing from 1993-2009</a>&quot; -&nbsp;PLoS&nbsp;ONE article (2011)</span></span></li>
+	<li><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;">Three declarations on Open Access:</span></span>
+	<ul>
+		<li><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;"><a href="http://www.budapestopenaccessinitiative.org/read" target="_blank">Budapest Open Access Initiative</a><span style="line-height: 21px;">&nbsp;(Feb.&nbsp;2002)</span></span></span></li>
+		<li><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="line-height: 21px;"></span><a href="http://www.earlham.edu/~peters/fos/bethesda.htm" target="_blank">Bethesda</a><a href="http://legacy.earlham.edu/~peters/fos/bethesda.htm" target="_blank">&nbsp;Statement on Open Access Publishing</a><span style="line-height: 21px;">&nbsp;(Apr.&nbsp;2003)</span></span></span></li>
+		<li><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="line-height: 21px;"></span><a href="https://openaccess.mpg.de/Berlin-Declaration" target="_blank">Berlin Declaration on Open Access</a><span style="line-height: 21px;">&nbsp;(Oct.&nbsp;2003)</span></span></span></li>
+	</ul>
+	</li>
+</ul>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+    <div id="s-lg-col-3" class="col-md-4">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-13748308" class="s-lg-box-wrapper-13748308">
+					<div id="s-lg-box-11660557-container" class="s-lib-box-container">
+						<div id="s-lg-box-11660557" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Open Access: Tools and Presentations
+                                </h2>
+							<div id="s-lg-box-collapse-11660557" >
+								<div class="s-lib-box-content">
+									<div class="">
+                        <ul id="s-lg-link-list-28046948" class="s-lg-link-list s-lg-link-list-2"><li class="">
+                        
+			<div id="s-lg-content-25318053" class=""><span><a href="http://sparcopen.org/wp-content/uploads/2016/01/SPARC-Open-Access-Factsheet.pdf" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25318053'});">SPARC Open Access Fact Sheet (PDF)</a> 
+				</span><div id="s-lg-link-desc-25318053" class="s-lg-link-desc">Handout from SPARC</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25318083" class=""><span><a href="http://oad.simmons.edu/oadwiki/Main_Page" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25318083'});">Open Access Directory</a> 
+				</span><div id="s-lg-link-desc-25318083" class="s-lg-link-desc">A compendium of simple factual lists about open access  to science and scholarship, maintained by the OA community at large.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25318165" class=""><span><a href="http://www.righttoresearch.org/resources/index.shtml" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25318165'});">Right to Research Coalition Resources</a> 
+				</span><div id="s-lg-link-desc-25318165" class="s-lg-link-desc">Handouts, posters, and presentations from the Right to Research Coalition. Geared toward advocating open access to students.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25318502" class=""><span><a href="https://lj.libraryjournal.com/openaccessinaction/" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25318502'});">Open Access in Action - Video Presentations</a> 
+				</span><div id="s-lg-link-desc-25318502" class="s-lg-link-desc">Videos, along with other resources, that feature interviews with open access thought leaders and presentations on open access initiatives and projects.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25319308" class=""><span><a href="https://library.hud.ac.uk/blogs/oawal/" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25319308'});">Open Access Workflows for Academic Libraries</a> 
+				</span><div id="s-lg-link-desc-25319308" class="s-lg-link-desc">Crowdsourced resource covering six areas in which libraries work on open access promotion, publishing, and other tasks. Intention is to create workflows to allow other libraries to develop messaging and projects at their respective institutions.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339146" class=""><span><a href="https://paywallthemovie.com" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339146'});">Paywall: The Business of Scholarship</a> 
+				</span><div id="s-lg-link-desc-25339146" class="s-lg-link-desc">A documentary which focuses on the need for open access to research and science. It is free to stream and download, for private or public use, and maintains the most open CC BY 4.0 Creative Commons designation. The website provides instructions on how to provide a public screening.</div>
+			</div></li>
+                        <li class="">
+                        
+			<div id="s-lg-content-25339627" class=""><span><a href="http://sparcopen.org/our-work/oa-funds/" target="_blank"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '25339627'});">SPARC Guide to Campus Open Access Funds</a> 
+				</span><div id="s-lg-link-desc-25339627" class="s-lg-link-desc">Resources on this page are intended to provide vital information to institutions contemplating the creation of an open-access fund and institutions that are currently operating funds</div>
+			</div></li>
+                        
+                            </ul>
+                            </div>
+			<div id="s-lg-content-25319621" class="  clearfix">
+				<p><strong>How to Debunk Common Open Access Myths</strong></p>
+
+<ul>
+	<li><a href="http://legacy.earlham.edu/~peters/fos/newsletter/04-02-09.htm" target="_blank">Field Guide to Misunderstandings About Open Access</a> (Peter Suber/SPARC)</li>
+	<li><a href="http://www.bc.edu/libraries/newsletter/2011spring/openaccess/index.html" target="_blank">Open Access Myths: Busted!</a>&nbsp;(Boston College)</li>
+	<li><a href="http://guides.lib.unc.edu/open-access-and-scholarly-communications/myths#4024887" target="_blank">Busting OA Myths</a> (UNC)</li>
+	<li><a href="https://www.theguardian.com/higher-education-network/blog/2013/oct/21/open-access-myths-peter-suber-harvard" target="_blank">6 Open Access Myths to Put to Rest</a> (Peter Suber/Guardian)</li>
+	<li><a href="http://www.biomedcentral.com/oamyths" target="_blank">Common Myths About Open Access</a> (BioMedCentral)</li>
+</ul>
+
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+							<div id="s-lg-box-wrapper-13748301" class="s-lg-box-wrapper-13748301">
+					<div id="s-lg-box-11660551-container" class="s-lib-box-container">
+						<div id="s-lg-box-11660551" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Institutional Open AccessPolicies
+                                </h2>
+							<div id="s-lg-box-collapse-11660551" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-25317535" class="s-lg-widget "><iframe width="350" height="200" src="https://www.youtube.com/embed/UcXpF8bU714" frameborder="0" allowfullscreen></iframe>
+		   </div>
+			<div id="s-lg-content-25319033" class="  clearfix">
+				<p><span style="font-size: 9pt; line-height: 107%; font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Open access policies are increasingly being adopted by individual colleges and universities. These policies often mandate open access publishing and dissemination of scholarly activity by faculty at the respective universities and define guidelines for that dissemination, typically through the campus institutional repository. The following resources are useful for librarians&nbsp;who may be helping to enact an institutional open access policy or support it after its passage:</span></p>
+
+<p><a href="http://bit.ly/goodoa" target="_blank">Good Practices for University Open Access Policies</a>&nbsp;- this guide, developed by Harvard University, sets forth&nbsp;good practices for college and university open-access policies. It&#39;s based on the type of rights-retention OA policy first adopted at Harvard, Stanford, MIT, and the University of Kansas. although&nbsp;the guide includes recommendations that should be useful to institutions taking other approaches.</p>
+
+<p><a href="http://sparcopen.org/coapi/" target="_blank">Coalition of Open Access Policy Institutions (COAPI)</a> - organization whose members have passed or are working to pass open access policies at their institutions. See also the recently released <a href="https://osf.io/vhw6d/" target="_blank">COAPI&nbsp;Toolkit OA Policy Resources</a>. The public facing version of this site includes various resources under &quot;Files&quot; including documents to assist with policy development, promotion, and implementation.</p>
+
+<p><a href="https://www.scienceeurope.org/coalition-s/">cOAlition&nbsp;S </a>-&nbsp;<span style="color: rgb(55, 55, 55); font-family: Helvetica, Arial, sans-serif; font-size: 13px;">an initiative to make full and immediate Open Access to research publications a reality. It is built around Plan S, which consists of the key principle of &quot;After 1 January 2020 scientific publications on the results from research funded by public grants provided by national and European research councils and funding bodies, must be bublished in compliant Open Access Journals or on compliant Open Access Platforms.&quot;</span></p>
+
+<p><a href="http://roarmap.eprints.org/" target="_blank">ROARMAP&nbsp;(Registry of Open Access Repository&nbsp;Mandates and Policies)</a>&nbsp;-&nbsp;searchable international registry charting the growth of open access mandates and policies adopted by universities, research institutions and research funders that require or request their researchers to provide open access to their peer-reviewed research article output by depositing it in an open access repository.</p>
+
+<p><a href="http://www.accesoabierto.net/politicas/" target="_blank">MELIBEA -&nbsp;Open Access Policy Effectiveness Indicator</a>&nbsp;- MELIBEA is a directory and an estimator of institutional open&nbsp;access&nbsp;policies regarding scientific and academic outputs. As a directory, it describes the existing policies. As a estimator, it subjects them to qualitative and quantitative analyses based on fulfillment of a set of indicators that reflect the statements of an institutional policy.</p>
+
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-127" class="col-md-12">
+        <div class="s-lg-col-boxes">
+        </div>
+    </div>
+				
+</div>    <ul id="s-lg-page-prevnext" class="pager s-lib-hide"><li class="previous"><a href="//acrl.libguides.com/scholcomm/toolkit/access">&lt;&lt; <strong>Previous:</strong> Access to Research</a></li><li class="next"><a href="//acrl.libguides.com/c.php?g=539108&p=3694721"><strong>Next:</strong> Public Access & Funder Mandates &gt;&gt;</a></li></ul></div>

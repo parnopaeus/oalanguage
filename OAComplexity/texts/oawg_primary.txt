@@ -1,0 +1,27 @@
+<div class="page" id="blog-page" role="main">
+
+			
+				<h1 class="pagetitle">Definition of Budapest compliant open access</h1>
+
+				<div id="post-64" class="post-64 page type-page status-publish hentry">
+
+					<div class="entry">
+
+						<p>&nbsp;</p>
+<p><a href="../files/2012/02/800px-Budapest_from_Gellert_Hill_MC2.jpg"><img class="aligncenter size-full wp-image-65" src="../files/2012/02/800px-Budapest_from_Gellert_Hill_MC2.jpg" alt="" width="800" height="178" srcset="https://access.okfn.org/files/2012/02/800px-Budapest_from_Gellert_Hill_MC2.jpg 800w, https://access.okfn.org/files/2012/02/800px-Budapest_from_Gellert_Hill_MC2-300x66.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p><em>Budapest: Image from Wikipedia, by Christian Mehlführer</em></p>
+<p>&nbsp;</p>
+<h1>The <a href="http://www.soros.org/openaccess/read">Budapest Declaration</a> by the Budapest Open Access Initiative (BOAI) was published in 2002 and marked the beginning of the Open Access movement. The Declaration takes a strong stand on the role of Open Access to information:</h1>
+<blockquote><p>“An old tradition and a new technology have converged to make possible an unprecedented public good. The old tradition is the willingness of scientists and scholars to publish the fruits of their research in scholarly journals without payment, for the sake of inquiry and knowledge. The new technology is the internet. The public good they make possible is the world-wide electronic distribution of the peer-reviewed journal literature and completely free and unrestricted access to it by all scientists, scholars, teachers, students, and other curious minds. Removing access barriers to this literature will accelerate research, enrich education, share the learning of the rich with the poor and the poor with the rich, make this literature as useful as it can be, and lay the foundation for uniting humanity in a common intellectual conversation and quest for knowledge.”</p></blockquote>
+<p>&nbsp;</p>
+<p>Open Access was defined by the BOAI as follows:</p>
+<blockquote><p>“By ‘open access’ to this literature, we mean its free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose, without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited.”</p></blockquote>
+<p>&nbsp;</p>
+<p>In the past 10 years Open Access has been increasingly used by different publishers with their own definitions. These definitions are in many cases deviating considerably from the original BOAI definition.</p>
+<h3><strong>With the launch of the @ccess Initiative we  want to reclaim the original meaning of Open Access as the one defined by the BOAI.   Because of the erosion of the term Open Access, which now can mean a lot of things,  we want to introduce the use of Budapest compliant Open Access for Immediate , free and unrestricted Open Access as defined by the BOAI.</strong></h3>
+<h3>
+
+						<div class="page-link"><p>Pages:  1 <a href="2/index.html">2</a></p></div>						
+					</div>
+
+				</div>

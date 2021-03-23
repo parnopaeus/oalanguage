@@ -1,0 +1,141 @@
+﻿<div class="single-content__row">
+	<main id="main" class="site-main single-content__col--content" role="main">
+		
+			
+
+<article class="single-content">
+
+
+
+			<div class="single-content__col">
+				<div class="single-content__content">
+
+											<strong class="modified-date">Last Updated November 28, 2017</strong>
+					
+											<h1 class="question-title--curated">Rights and Permissions (R&#038;P) FAQs</h1>
+										
+					<div class="single-content__the-content">
+						<p>These FAQs are intended to give a general overview of IOP Publishing (IOP)’s copyright and permissions policies.  There may be exceptions to the answers for some journals.  For further information, please refer to our main pages on <a href="http://publishingsupport.iopscience.iop.org/copyright-journals/">copyright</a>, <a href="http://publishingsupport.iopscience.iop.org/permissions/">permissions</a>, <a href="http://publishingsupport.iopscience.iop.org/author-rights-policies/">author rights</a> and <a href="http://publishingsupport.iopscience.iop.org/open_access/">open access</a>.</p>
+<p><a href="http://publishingsupport.iopscience.iop.org/copyright-faqs/">Copyright FAQs</a></p>
+<p><a href="http://publishingsupport.iopscience.iop.org/permissions-faqs/">Permissions FAQs</a></p>
+<p><a href="http://publishingsupport.iopscience.iop.org/author-rights-faqs/">Author Rights FAQs</a></p>
+					</div>
+
+
+					
+							
+								
+
+									<div class="step-accordion" id="whatarethedifferentversionsofmyarticlecalled">
+										<div class="step-accordion__item">
+											
+																							<h2 tabindex="0" role="button" aria-expanded="false" aria-controls="whatarethedifferentversionsofmyarticlecalled-content" class="step-accordion__title"><span class="offscreen-hidden">Open </span>
+												What are the different versions of my article called?
+												</h2>
+											<div class="step-accordion__content" id="whatarethedifferentversionsofmyarticlecalled-content">
+
+
+											<p>It is important to understand which version of an article you are reading and what rights you have when you publish with IOP. Is it the un-edited manuscript, the peer-reviewed manuscript, the final version or one that has been corrected post-publication? The following are our current definitions of the different versions of an article and apply to both subscription and gold open access articles.</p>
+
+	<div class="boxout boxout-bg-blue-light">
+				<h2 class="named_box--title">Versions</h2>
+			<dl>
+			
+	<dt><strong>Author's Original/Preprint</strong></dt>
+	<dd>is 'the version of the article before peer review or editing, as submitted by an author to the journal'.</dd>
+	
+	<dt><strong>Accepted Manuscript</strong></dt>
+	<dd>is 'the version of the article accepted for publication including all changes made as a result of the peer review process, and which may also include the addition to the article by IOP Publishing of a header, an article ID, a cover sheet and/or an 'Accepted Manuscript' watermark, but excluding any other editing, typesetting or other changes made by IOP Publishing and/or its licensors'.</dd>
+	
+	<dt><strong>Final Published Version</strong></dt>
+	<dd>is 'the peer reviewed, edited, formatted and typeset version of the article, including any tagging, indexing and other enhancements published by IOP Publishing and/or its licensors'.</dd>
+	
+	<dt><strong>Version of Record</strong></dt>
+	<dd>is 'the Final Published Version, including any post publication corrections or enhancements and any other changes made by IOP Publishing and/or its licensors'.</dd>
+	
+		</dl>
+	</div>
+
+	
+											</div>
+										</div>
+									</div>
+
+								
+							
+
+							
+							
+								
+
+									<div class="step-accordion" id="howcanilearnmoreaboutcopyrightandopenaccesslicensing">
+										<div class="step-accordion__item">
+											
+																							<h2 tabindex="0" role="button" aria-expanded="false" aria-controls="howcanilearnmoreaboutcopyrightandopenaccesslicensing-content" class="step-accordion__title"><span class="offscreen-hidden">Open </span>
+												How can I learn more about copyright and open access licensing?
+												</h2>
+											<div class="step-accordion__content" id="howcanilearnmoreaboutcopyrightandopenaccesslicensing-content">
+
+
+											<p>For more information on copyright and open access licensing, refer to our <a href="http://cms.iopscience.org/c3f526ba-8d66-11e2-bd23-e50acbc9fd86/index.html">introduction to copyright and licensing in an open access environment guide.</a></p>
+											</div>
+										</div>
+									</div>
+
+								
+							
+
+							
+							
+								
+
+									<div class="step-accordion" id="copyrightqueries">
+										<div class="step-accordion__item">
+											
+																							<h2 tabindex="0" role="button" aria-expanded="false" aria-controls="copyrightqueries-content" class="step-accordion__title"><span class="offscreen-hidden">Open </span>
+												Contact us about copyright
+												</h2>
+											<div class="step-accordion__content" id="copyrightqueries-content">
+
+
+											<p>Any questions should be addressed to <a href="mailto:copyright@iop.org">copyright@iop.org</a>.</p>
+<p>An initial response to a query will usually be provided within two working days.</p>
+											</div>
+										</div>
+									</div>
+
+								
+							
+
+							
+							
+								
+
+									<div class="step-accordion" id="permissionsqueries">
+										<div class="step-accordion__item">
+											
+																							<h2 tabindex="0" role="button" aria-expanded="false" aria-controls="permissionsqueries-content" class="step-accordion__title"><span class="offscreen-hidden">Open </span>
+												Contact us about permissions
+												</h2>
+											<div class="step-accordion__content" id="permissionsqueries-content">
+
+
+											<p>Any questions should be addressed to <a href="mailto:permissions@iop.org">permissions@iop.org</a>.</p>
+<p>We aim to provide an initial response to queries within two working days.</p>
+											</div>
+										</div>
+									</div>
+
+								
+							
+
+							
+
+			  </div>
+			</div>
+
+			
+
+
+</article>
+</main>
