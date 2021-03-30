@@ -39,7 +39,7 @@ This folder contains spreadsheets containing the sources and analyses. Please se
 
 ## TA Folder
 
-This folder contains preliminary analyses for an upcoming project. 
+This folder contains preliminary analyses for an upcoming project. Please see the README file in this folder for more information as it is added. 
 
 ## Contact
 
