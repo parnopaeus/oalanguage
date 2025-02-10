@@ -8,11 +8,11 @@ This repository contains data for a forthcoming publication in JLSC.
 
 Using the CRediT Taxonomy (https://credit.niso.org/), we identify the following contributors and roles to this publication: 
 
-Melissa Cantrell: Writing – original draft, Methodology, Project administration, Investigation, Writing - review & editing
-Jennie Mezick: Writing – original draft, Formal Analysis, Visualization, Investigation, Writing - review & editing
-Matthew Estill: Investigation, Writing – original draft, 
-Rachel Caldwell: Investigation, Writing – original draft, 
-Lauren Collister: Methodology, Conceptualization, Writing – original draft, Writing - review & editing
+* Melissa Cantrell: Writing – original draft, Methodology, Project administration, Investigation, Writing - review & editing
+* Jennie Mezick: Writing – original draft, Formal Analysis, Visualization, Investigation, Writing - review & editing
+* Matthew Estill: Investigation, Writing – original draft, 
+* Rachel Caldwell: Investigation, Writing – original draft, 
+* Lauren Collister: Methodology, Conceptualization, Writing – original draft, Writing - review & editing
  
 
 ## License information
