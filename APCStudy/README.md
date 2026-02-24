@@ -2,7 +2,13 @@
 
 ## APC Study Information
 
-This repository contains data for a forthcoming publication in JLSC. 
+This repository contains data for publications related to the APC Trap Study. 
+
+First Publication: 
+Cantrell, M.H., Mezick, J.A., Estill, M., Caldwell, R., & Collister, L.B. (2025). An APC Trap? Privilege and the Perception of Reasonableness in Open Access Publishing. Journal of Librarianship and Scholarly Communication, 13(1), eP18184. https://doi.org/10.31274/jlsc.18184
+
+Second Publication: 
+(Under review)
 
 ### Credit for this study
 
@@ -29,3 +35,10 @@ In this repository, you will find the following files:
 ## Contact
 
 For any questions about these data, please contact Melissa Cantrell: Melissa.Cantrell@colorado.edu 
+
+## Linking and credit
+
+A shortlink to this repository is: https://bit.ly/apctrap
+
+To credit this repository and its data, please use this citation: 
+Melissa Cantrell, Jennie Mezick, Matthew Estill, Rachel Caldwell, and Lauren Collister. (2026). "APC Trap Study Data." Github. https://github.com/parnopaeus/oalanguage/tree/master/APCStudy  
