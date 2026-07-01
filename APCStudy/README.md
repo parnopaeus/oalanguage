@@ -8,18 +8,25 @@ First Publication:
 Cantrell, M.H., Mezick, J.A., Estill, M., Caldwell, R., & Collister, L.B. (2025). An APC Trap? Privilege and the Perception of Reasonableness in Open Access Publishing. Journal of Librarianship and Scholarly Communication, 13(1), eP18184. https://doi.org/10.31274/jlsc.18184
 
 Second Publication: 
-(Under review)
+Cantrell M.H., Caldwell R., Mezick J.A., Estill M., & Collister L.B. (2026) “The system is obviously bonkers”: The APC Trap and the bind of scholarly publishing across four research intensive institutions in the U.S. PLoS One 21(7): e0351430. https://doi.org/10.1371/journal.pone.0351430
 
 ### Credit for this study
 
-Using the CRediT Taxonomy (https://credit.niso.org/), we identify the following contributors and roles to this publication: 
+Using the CRediT Taxonomy (https://credit.niso.org/), we identify the following contributors and roles to these publications: 
 
+Cantrell et al. (2025): 
 * Melissa Cantrell: Writing – original draft, Methodology, Project administration, Investigation, Writing - review & editing
 * Jennifer Mezick: Writing – original draft, Formal Analysis, Visualization, Investigation, Writing - review & editing
-* Matthew Estill: Investigation, Writing – original draft, 
-* Rachel Caldwell: Investigation, Writing – original draft, 
+* Matthew Estill: Investigation, Writing – original draft 
+* Rachel Caldwell: Investigation, Writing – original draft 
 * Lauren Collister: Methodology, Conceptualization, Writing – original draft, Writing - review & editing
  
+Cantrell et al. (2026): 
+* Melissa Cantrell: Conceptualization, Formal analysis, Investigation, Methodology, Project administration, Supervision, Visualization, Writing – original draft, Writing – review & editing
+* Rachel Caldwell: Conceptualization, Formal analysis, Investigation, Methodology, Visualization, Writing – original draft, Writing – review & editing  
+* Jennifer Mezick: Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Visualization, Writing – original draft, Writing – review & editing 
+* Matthew Estill: Conceptualization, Formal analysis, Methodology, Writing – original draft, Writing – review & editing 
+* Lauren Collister: Conceptualization, Data curation, Formal analysis, Methodology, Validation, Writing – original draft, Writing – review & editing 
 
 ## License information
 
